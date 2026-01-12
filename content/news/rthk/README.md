@@ -977,3 +977,11 @@
 
 ### 2026-01-11
 - [宏福苑五級火｜卜國明：採取「易地重建」比較可行](https://news.rthk.hk/rthk/ch/component/k2/1839416-20260111.htm?archive_date=2026-01-11) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839416-20260111.htm?archive_date=2026-01-11){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火卜國明採取易地重建比較可行/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [FTU conveys need for urgency on Wang Fuk to officials](https://news.rthk.hk/rthk/en/component/k2/1839522-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/en/component/k2/1839522-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/ftu-conveys-need-for-urgency-on-wang-fuk-to-officials/){.md-button .hkfd-news-button}
+- [Wang Fuk Court options 'oriented to owners' needs'](https://news.rthk.hk/rthk/en/component/k2/1839504-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/en/component/k2/1839504-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-options-oriented-to-owners-needs/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜黃偉綸：長遠安置方案以情理法處理　照顧居民意願](https://news.rthk.hk/rthk/ch/component/k2/1839539-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839539-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸長遠安置方案以情理法處理-照顧居民意願/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜工聯會稱不少居民冀原區安置　已向政府反映](https://news.rthk.hk/rthk/ch/component/k2/1839521-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839521-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火工聯會稱不少居民冀原區安置-已向政府反映/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜陳克勤稱政府重置方案以人為本　重建選址各有利弊](https://news.rthk.hk/rthk/ch/component/k2/1839477-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839477-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火陳克勤稱政府重置方案以人為本-重建選址各有利弊/){.md-button .hkfd-news-button}

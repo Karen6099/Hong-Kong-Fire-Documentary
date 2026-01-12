@@ -262,3 +262,7 @@
 
 ### 2026-01-11
 - [HKFP Year in Review: What did Hongkongers Google in 2025?](https://hongkongfp.com/?p=550189) [Original](https://hongkongfp.com/?p=550189){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-year-in-review-what-did-hongkongers-google-in-2025/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [Hong Kong gov’t to publish names of 161 Tai Po fire victims](https://hongkongfp.com/?p=550743) [Original](https://hongkongfp.com/?p=550743){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-to-publish-names-of-161-tai-po-fire-victims/){.md-button .hkfd-news-button}

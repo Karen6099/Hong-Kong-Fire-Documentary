@@ -668,3 +668,11 @@
 ### 2026-01-11
 - [卜國明：原址重建重建時間較長　建議以頌雅路熟地易地重建](https://www.881903.com/news/local/2613972/) [Original](https://www.881903.com/news/local/2613972/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卜國明原址重建重建時間較長-建議以頌雅路熟地易地重建/){.md-button .hkfd-news-button}
 - [大埔大王爺廟辦法事超度宏福罹難者　善信冀死者安息](https://www.881903.com/news/local/2613926/) [Original](https://www.881903.com/news/local/2613926/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔大王爺廟辦法事超度宏福罹難者-善信冀死者安息/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [陳健波專注宏福苑獨立委員會工作  暫停3項公職](https://www.881903.com/news/local/2614139/) [Original](https://www.881903.com/news/local/2614139/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳健波專注宏福苑獨立委員會工作-暫停3項公職/){.md-button .hkfd-news-button}
+- [黃偉綸：以情理法處理宏福苑居民長遠安置方案](https://www.881903.com/news/local/2614118/) [Original](https://www.881903.com/news/local/2614118/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸以情理法處理宏福苑居民長遠安置方案/){.md-button .hkfd-news-button}
+- [工聯會晤黃偉綸卓永興等　交代宏福苑居民安置意願](https://www.881903.com/news/local/2614110/) [Original](https://www.881903.com/news/local/2614110/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工聯會晤黃偉綸卓永興等-交代宏福苑居民安置意願/){.md-button .hkfd-news-button}
+- [房屋署擬收緊服務供應商員工利益申報規定](https://www.881903.com/news/local/2614043/) [Original](https://www.881903.com/news/local/2614043/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋署擬收緊服務供應商員工利益申報規定/){.md-button .hkfd-news-button}
+- [政府指宏褔苑原址重建不實際　居民批無聆聽意見](https://www.881903.com/news/local/2614017/) [Original](https://www.881903.com/news/local/2614017/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府指宏褔苑原址重建不實際-居民批無聆聽意見/){.md-button .hkfd-news-button}

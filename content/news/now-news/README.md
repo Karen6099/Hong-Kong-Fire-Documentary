@@ -955,3 +955,10 @@
 - [宏福苑五級火災｜有立法會議員指易地重建是最快方案　有居民指對長遠安置未有決定](https://news.now.com/home/local/player?newsId=632548) [Original](https://news.now.com/home/local/player?newsId=632548){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有立法會議員指易地重建是最快方案-有居民指對長遠安置未有決定/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜有立法會議員指易地重建是最快方案　有居民指對長遠安置未有決定](https://news.now.com/home/local/player?newsId=632539) [Original](https://news.now.com/home/local/player?newsId=632539){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有立法會議員指易地重建是最快方案-有居民指對長遠安置未有決定-1/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜卜國明：易地重建是最快方案　原址可改建為社區設施等　](https://news.now.com/home/local/player?newsId=632518) [Original](https://news.now.com/home/local/player?newsId=632518){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災卜國明易地重建是最快方案-原址可改建為社區設施等/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [宏福苑五級火災｜陳健波停三公職　專注獨立委員會](https://news.now.com/home/local/player?newsId=632693) [Original](https://news.now.com/home/local/player?newsId=632693){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災陳健波停三公職-專注獨立委員會/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜工聯會指居民冀提供樓換樓或原區安置等不同選項](https://news.now.com/home/local/player?newsId=632668) [Original](https://news.now.com/home/local/player?newsId=632668){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災工聯會指居民冀提供樓換樓或原區安置等不同選項/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑重置安排(二)](https://news.now.com/home/local/player?newsId=632607) [Original](https://news.now.com/home/local/player?newsId=632607){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑重置安排二/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑重置安排(一)](https://news.now.com/home/local/player?newsId=632606) [Original](https://news.now.com/home/local/player?newsId=632606){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑重置安排一/){.md-button .hkfd-news-button}

@@ -962,3 +962,9 @@
 - [宏福苑五級火災｜工聯會指居民冀提供樓換樓或原區安置等不同選項](https://news.now.com/home/local/player?newsId=632668) [Original](https://news.now.com/home/local/player?newsId=632668){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災工聯會指居民冀提供樓換樓或原區安置等不同選項/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑重置安排(二)](https://news.now.com/home/local/player?newsId=632607) [Original](https://news.now.com/home/local/player?newsId=632607){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑重置安排二/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑重置安排(一)](https://news.now.com/home/local/player?newsId=632606) [Original](https://news.now.com/home/local/player?newsId=632606){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑重置安排一/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [大埔民政專員陳巧敏與食環署助理署長鍾慧婷互調崗位](https://news.now.com/home/local/player?newsId=632809) [Original](https://news.now.com/home/local/player?newsId=632809){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政專員陳巧敏與食環署助理署長鍾慧婷互調崗位/){.md-button .hkfd-news-button}
+- [鍾慧婷接替陳巧敏出任大埔民政事務專員](https://news.now.com/home/local/player?newsId=632794) [Original](https://news.now.com/home/local/player?newsId=632794){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鍾慧婷接替陳巧敏出任大埔民政事務專員/){.md-button .hkfd-news-button}
+- [財政預算案｜議員促推措施助中產　停削社福界撥款](https://news.now.com/home/local/player?newsId=632740) [Original](https://news.now.com/home/local/player?newsId=632740){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案議員促推措施助中產-停削社福界撥款/){.md-button .hkfd-news-button}

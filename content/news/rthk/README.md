@@ -985,3 +985,7 @@
 - [宏福苑五級火｜黃偉綸：長遠安置方案以情理法處理　照顧居民意願](https://news.rthk.hk/rthk/ch/component/k2/1839539-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839539-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸長遠安置方案以情理法處理-照顧居民意願/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜工聯會稱不少居民冀原區安置　已向政府反映](https://news.rthk.hk/rthk/ch/component/k2/1839521-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839521-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火工聯會稱不少居民冀原區安置-已向政府反映/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜陳克勤稱政府重置方案以人為本　重建選址各有利弊](https://news.rthk.hk/rthk/ch/component/k2/1839477-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839477-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火陳克勤稱政府重置方案以人為本-重建選址各有利弊/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [宏福苑五級火｜警方稱倘召開死因研訊　死者資料由警方向法庭呈交](https://news.rthk.hk/rthk/ch/component/k2/1839619-20260113.htm?archive_date=2026-01-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839619-20260113.htm?archive_date=2026-01-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警方稱倘召開死因研訊-死者資料由警方向法庭呈交/){.md-button .hkfd-news-button}

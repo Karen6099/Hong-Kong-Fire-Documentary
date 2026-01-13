@@ -676,3 +676,9 @@
 - [工聯會晤黃偉綸卓永興等　交代宏福苑居民安置意願](https://www.881903.com/news/local/2614110/) [Original](https://www.881903.com/news/local/2614110/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工聯會晤黃偉綸卓永興等-交代宏福苑居民安置意願/){.md-button .hkfd-news-button}
 - [房屋署擬收緊服務供應商員工利益申報規定](https://www.881903.com/news/local/2614043/) [Original](https://www.881903.com/news/local/2614043/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋署擬收緊服務供應商員工利益申報規定/){.md-button .hkfd-news-button}
 - [政府指宏褔苑原址重建不實際　居民批無聆聽意見](https://www.881903.com/news/local/2614017/) [Original](https://www.881903.com/news/local/2614017/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府指宏褔苑原址重建不實際-居民批無聆聽意見/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [新一屆立法會明日首開大會　李家超將出席發言](https://www.881903.com/news/local/2614230/) [Original](https://www.881903.com/news/local/2614230/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新一屆立法會明日首開大會-李家超將出席發言/){.md-button .hkfd-news-button}
+- [大埔民政事務專員陳巧敏調職　由鍾慧婷接替職務](https://www.881903.com/news/local/2614262/) [Original](https://www.881903.com/news/local/2614262/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政事務專員陳巧敏調職-由鍾慧婷接替職務/){.md-button .hkfd-news-button}
+- [梁文廣倡允宏福苑居民免入息審查入住公屋](https://www.881903.com/news/local/2614210/) [Original](https://www.881903.com/news/local/2614210/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/梁文廣倡允宏福苑居民免入息審查入住公屋/){.md-button .hkfd-news-button}

@@ -337,3 +337,11 @@
 - [宏福苑善後︱黃偉綸：研長遠安置方案　以情理法助重建家園](https://www.dotdotnews.com/a/202601/12/AP6964e7e8e4b0c32d4f65c8ab.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964e7e8e4b0c32d4f65c8ab.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後黃偉綸研長遠安置方案-以情理法助重建家園/){.md-button .hkfd-news-button}
 - [宏福苑善後︱陳健波獲准暫停三項公職　專注做好獨立委員會工作](https://www.dotdotnews.com/a/202601/12/AP6964f307e4b0c32d4f65c9b6.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964f307e4b0c32d4f65c9b6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後陳健波獲准暫停三項公職-專注做好獨立委員會工作/){.md-button .hkfd-news-button}
 - [點直播｜工聯會立法會議員與政府就宏福苑安置方案會面後見記者｜1月12日](https://www.dotdotnews.com/a/202601/12/AP6964a24fe4b0c32d4f65c145.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964a24fe4b0c32d4f65c145.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播工聯會立法會議員與政府就宏福苑安置方案會面後見記者1月12日/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [Fire aftermath | Fire safety issues resurface in commercial buildings: Fire Services to conduct undercover inspections](https://english.dotdotnews.com/a/202601/13/AP6966123de4b0c32d4f65dfe4.html) [Original](https://english.dotdotnews.com/a/202601/13/AP6966123de4b0c32d4f65dfe4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-aftermath-fire-safety-issues-resurface-in-commercial-buildings-fire/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [宏福苑善後｜政府明動議支援及重建議案　陳國基：以情理法處理安置](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html) [Original](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後政府明動議支援及重建議案-陳國基以情理法處理安置/){.md-button .hkfd-news-button}

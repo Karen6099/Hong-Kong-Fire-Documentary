@@ -266,3 +266,11 @@
 
 ### 2026-01-12
 - [Hong Kong gov’t to publish names of 161 Tai Po fire victims](https://hongkongfp.com/?p=550743) [Original](https://hongkongfp.com/?p=550743){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-to-publish-names-of-161-tai-po-fire-victims/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [Hong Kong’s gov’t-funded broadcaster RTHK axes all podcasts](https://hongkongfp.com/?p=550640) [Original](https://hongkongfp.com/?p=550640){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-govt-funded-broadcaster-rthk-axes-all-podcasts/){.md-button .hkfd-news-button}
+
+### 2026-01-13
+- [Tai Po fire: Potential death inquest to probe tragedy that killed 161](https://hongkongfp.com/?p=550853) [Original](https://hongkongfp.com/?p=550853){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-potential-death-inquest-to-probe-tragedy-that-killed-161/){.md-button .hkfd-news-button}
+- [Tai Po fire: Hong Kong politician suspends 3 public roles to focus on independent committee](https://hongkongfp.com/?p=550818) [Original](https://hongkongfp.com/?p=550818){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-politician-suspends-3-public-roles-to-focus-on/){.md-button .hkfd-news-button}

@@ -345,3 +345,12 @@
 
 ### 2026-01-13
 - [宏福苑善後｜政府明動議支援及重建議案　陳國基：以情理法處理安置](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html) [Original](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後政府明動議支援及重建議案-陳國基以情理法處理安置/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [一圖｜宏福苑火災善後　數讀最新情況](https://www.dotdotnews.com/a/202601/14/AP69676f2be4b0c32d4f65fa2c.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69676f2be4b0c32d4f65fa2c.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/一圖宏福苑火災善後-數讀最新情況/){.md-button .hkfd-news-button}
+- [點直播｜第八屆立法會首次會議｜1月14日](https://www.dotdotnews.com/a/202601/14/AP69670642e4b0c32d4f65ee4b.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69670642e4b0c32d4f65ee4b.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播第八屆立法會首次會議1月14日/){.md-button .hkfd-news-button}
+- [宏福苑善後｜大埔浸小遷新校　校方回應：校址變更　教育初心不變](https://www.dotdotnews.com/a/202601/14/AP69676f12e4b0c32d4f65fa28.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69676f12e4b0c32d4f65fa28.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後大埔浸小遷新校-校方回應校址變更-教育初心不變/){.md-button .hkfd-news-button}
+- [宏福苑善後｜陳國基：申請維修資助大廈建議由市建局招標評標](https://www.dotdotnews.com/a/202601/14/AP6967a96ae4b0c32d4f660185.html) [Original](https://www.dotdotnews.com/a/202601/14/AP6967a96ae4b0c32d4f660185.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後陳國基申請維修資助大廈建議由市建局招標評標/){.md-button .hkfd-news-button}
+- [（有片）宏福苑善後｜李慧琼：議案通過非劃句號　是重建工作開始](https://www.dotdotnews.com/a/202601/14/AP6967a5f6e4b0c32d4f66015e.html) [Original](https://www.dotdotnews.com/a/202601/14/AP6967a5f6e4b0c32d4f66015e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後李慧琼議案通過非劃句號-是重建工作開始/){.md-button .hkfd-news-button}
+- [點觀香港｜立法會首次大會特首發言　宏福苑善後重建有哪些選項？](https://www.dotdotnews.com/a/202601/14/AP696776b3e4b0c32d4f65fbbd.html) [Original](https://www.dotdotnews.com/a/202601/14/AP696776b3e4b0c32d4f65fbbd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港立法會首次大會特首發言-宏福苑善後重建有哪些選項/){.md-button .hkfd-news-button}

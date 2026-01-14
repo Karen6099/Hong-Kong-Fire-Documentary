@@ -682,3 +682,13 @@
 - [新一屆立法會明日首開大會　李家超將出席發言](https://www.881903.com/news/local/2614230/) [Original](https://www.881903.com/news/local/2614230/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新一屆立法會明日首開大會-李家超將出席發言/){.md-button .hkfd-news-button}
 - [大埔民政事務專員陳巧敏調職　由鍾慧婷接替職務](https://www.881903.com/news/local/2614262/) [Original](https://www.881903.com/news/local/2614262/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政事務專員陳巧敏調職-由鍾慧婷接替職務/){.md-button .hkfd-news-button}
 - [梁文廣倡允宏福苑居民免入息審查入住公屋](https://www.881903.com/news/local/2614210/) [Original](https://www.881903.com/news/local/2614210/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/梁文廣倡允宏福苑居民免入息審查入住公屋/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [立法會通過宏福苑大火支援及重建議案](https://www.881903.com/news/local/2614499/) [Original](https://www.881903.com/news/local/2614499/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會通過宏福苑大火支援及重建議案/){.md-button .hkfd-news-button}
+- [屋宇署：宏業獲授權簽署人辭任須停工　要另委新承建商](https://www.881903.com/news/local/2614498/) [Original](https://www.881903.com/news/local/2614498/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屋宇署宏業獲授權簽署人辭任須停工-要另委新承建商/){.md-button .hkfd-news-button}
+- [市建局：將盡力配合政府強化「招標妥」服務](https://www.881903.com/news/local/2614497/) [Original](https://www.881903.com/news/local/2614497/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局將盡力配合政府強化招標妥服務/){.md-button .hkfd-news-button}
+- [陳振英倡政府收購業權　料每名納稅人承擔少於1000元](https://www.881903.com/news/local/2614420/) [Original](https://www.881903.com/news/local/2614420/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳振英倡政府收購業權-料每名納稅人承擔少於1000元/){.md-button .hkfd-news-button}
+- [政府就大維修提改善建議　由市建局制定顧問及承建商名單](https://www.881903.com/news/local/2614409/) [Original](https://www.881903.com/news/local/2614409/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府就大維修提改善建議-由市建局制定顧問及承建商名單/){.md-button .hkfd-news-button}
+- [卓永興：宏福苑援助基金達43億元　帳目會呈交予審計署審核](https://www.881903.com/news/local/2614422/) [Original](https://www.881903.com/news/local/2614422/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興宏福苑援助基金達43億元-帳目會呈交予審計署審核/){.md-button .hkfd-news-button}
+- [黃偉綸：宏福苑原址重建挑戰大　何永賢：受災樓宇「內傷嚴重」](https://www.881903.com/news/local/2614401/) [Original](https://www.881903.com/news/local/2614401/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑原址重建挑戰大-何永賢受災樓宇內傷嚴重/){.md-button .hkfd-news-button}

@@ -274,3 +274,9 @@
 ### 2026-01-13
 - [Tai Po fire: Potential death inquest to probe tragedy that killed 161](https://hongkongfp.com/?p=550853) [Original](https://hongkongfp.com/?p=550853){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-potential-death-inquest-to-probe-tragedy-that-killed-161/){.md-button .hkfd-news-button}
 - [Tai Po fire: Hong Kong politician suspends 3 public roles to focus on independent committee](https://hongkongfp.com/?p=550818) [Original](https://hongkongfp.com/?p=550818){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-politician-suspends-3-public-roles-to-focus-on/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [Rebuilding fire-hit Wang Fuk Court ‘huge challenge’ due to ownership, legal issues, Hong Kong official says](https://hongkongfp.com/?p=551083) [Original](https://hongkongfp.com/?p=551083){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/rebuilding-fire-hit-wang-fuk-court-huge-challenge-due-to-ownership-legal-issues/){.md-button .hkfd-news-button}
+- [Tai Po fire: Over 1,100 survivors petition Beijing, Hong Kong legislature for on-site redevelopment](https://hongkongfp.com/?p=551007) [Original](https://hongkongfp.com/?p=551007){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-over-1100-survivors-petition-beijing-hong-kong-legislature-for-on/){.md-button .hkfd-news-button}
+- [Hong Kong gov’t to propose blanket smoking ban at construction sites after deadly Tai Po fire](https://hongkongfp.com/?p=551022) [Original](https://hongkongfp.com/?p=551022){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-to-propose-blanket-smoking-ban-at-construction-sites-after/){.md-button .hkfd-news-button}

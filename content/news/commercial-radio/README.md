@@ -692,3 +692,11 @@
 - [政府就大維修提改善建議　由市建局制定顧問及承建商名單](https://www.881903.com/news/local/2614409/) [Original](https://www.881903.com/news/local/2614409/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府就大維修提改善建議-由市建局制定顧問及承建商名單/){.md-button .hkfd-news-button}
 - [卓永興：宏福苑援助基金達43億元　帳目會呈交予審計署審核](https://www.881903.com/news/local/2614422/) [Original](https://www.881903.com/news/local/2614422/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興宏福苑援助基金達43億元-帳目會呈交予審計署審核/){.md-button .hkfd-news-button}
 - [黃偉綸：宏福苑原址重建挑戰大　何永賢：受災樓宇「內傷嚴重」](https://www.881903.com/news/local/2614401/) [Original](https://www.881903.com/news/local/2614401/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑原址重建挑戰大-何永賢受災樓宇內傷嚴重/){.md-button .hkfd-news-button}
+
+
+### 2026-01-15
+- [鄧炳強：宏福苑火災增至168人罹難　暫不公布死者名單](https://www.881903.com/news/local/2614661/) [Original](https://www.881903.com/news/local/2614661/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強宏福苑火災增至168人罹難-暫不公布死者名單/){.md-button .hkfd-news-button}
+- [「守望．同行」計劃已接觸133位宏福苑罹難者家屬　提供輔導](https://www.881903.com/news/local/2614636/) [Original](https://www.881903.com/news/local/2614636/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/守望同行計劃已接觸133位宏福苑罹難者家屬-提供輔導/){.md-button .hkfd-news-button}
+- [宏福苑大火仍有8名傷者留醫　約1800居民接受醫管局服務](https://www.881903.com/news/local/2614580/) [Original](https://www.881903.com/news/local/2614580/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火仍有8名傷者留醫-約1800居民接受醫管局服務/){.md-button .hkfd-news-button}
+- [宏福苑安置｜議員倡多元方案　頌雅路西項目參考宏福苑設計](https://www.881903.com/news/local/2614577/) [Original](https://www.881903.com/news/local/2614577/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置議員倡多元方案-頌雅路西項目參考宏福苑設計/){.md-button .hkfd-news-button}
+- [政府提改善大維修建議　議員關注將推升成本](https://www.881903.com/news/local/2614550/) [Original](https://www.881903.com/news/local/2614550/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府提改善大維修建議-議員關注將推升成本/){.md-button .hkfd-news-button}

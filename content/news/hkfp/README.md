@@ -280,3 +280,11 @@
 - [Rebuilding fire-hit Wang Fuk Court ‘huge challenge’ due to ownership, legal issues, Hong Kong official says](https://hongkongfp.com/?p=551083) [Original](https://hongkongfp.com/?p=551083){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/rebuilding-fire-hit-wang-fuk-court-huge-challenge-due-to-ownership-legal-issues/){.md-button .hkfd-news-button}
 - [Tai Po fire: Over 1,100 survivors petition Beijing, Hong Kong legislature for on-site redevelopment](https://hongkongfp.com/?p=551007) [Original](https://hongkongfp.com/?p=551007){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-over-1100-survivors-petition-beijing-hong-kong-legislature-for-on/){.md-button .hkfd-news-button}
 - [Hong Kong gov’t to propose blanket smoking ban at construction sites after deadly Tai Po fire](https://hongkongfp.com/?p=551022) [Original](https://hongkongfp.com/?p=551022){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-to-propose-blanket-smoking-ban-at-construction-sites-after/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [Hong Kong to propose greater gov’t oversight of building maintenance work after fatal Tai Po fire](https://hongkongfp.com/?p=551087) [Original](https://hongkongfp.com/?p=551087){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-to-propose-greater-govt-oversight-of-building-maintenance-work-after/){.md-button .hkfd-news-button}
+
+### 2026-01-15
+- [Police shoot knife-wielding man at Hong Kong mall, later dies in hospital](https://hongkongfp.com/?p=551258) [Original](https://hongkongfp.com/?p=551258){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/police-shoot-knife-wielding-man-at-hong-kong-mall-later-dies-in-hospital/){.md-button .hkfd-news-button}
+- [Tai Po fire death toll confirmed at 168 following forensic analysis; victims aged between 6 months and 98 years old](https://hongkongfp.com/?p=551227) [Original](https://hongkongfp.com/?p=551227){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-death-toll-confirmed-at-168-following-forensic-analysis-victims/){.md-button .hkfd-news-button}

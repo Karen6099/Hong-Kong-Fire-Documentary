@@ -284,3 +284,9 @@
 
 ### 2026-01-14
 - [人民网香港1月14日电 （严小晶）香港特区第八届立法会首次会议14日在立法会综合大楼会议厅举行。会议上，行政长官李家超就香港特区政府对新一届立法会的期望、行政立法良性互动关系，以及有关大埔宏福苑火灾的支援和善后事宜向立法会发言。](http://gba.people.cn/n1/2026/0114/c42272-40645369.html) [Original](http://gba.people.cn/n1/2026/0114/c42272-40645369.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/人民网香港1月14日电/){.md-button .hkfd-news-button}
+
+
+### 2026-01-15
+- [香港特区政府将全力推进大埔宏福苑火灾善…](http://gba.people.cn/n1/2026/0115/c42272-40645932.html) [Original](http://gba.people.cn/n1/2026/0115/c42272-40645932.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府将全力推进大埔宏福苑火灾善/){.md-button .hkfd-news-button}
+- [新华社香港1月14日电（肖逸晨、奚天麒）香港特区第八届立法会14日在立法会综合大楼会议厅举行首次会议，讨论大埔宏福苑火灾善后工作。
+会上，特区行政长官李家超表示，当前大家都很关心宏福苑火灾后的重建和复原，因此，特区政府在立法会首次会议即提出动议，就善后和复常工作深入讨论，和议员一起推动尽快落实长远住宿安排和其他善后工作。](http://gba.people.cn/n1/2026/0115/c42272-40645903.html)

@@ -5210,3 +5210,38 @@ task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\H
 2026-01-15 23:19:08 | INFO     | ============================================================
 2026-01-15 23:19:19 | ERROR    | gh CLI is not authenticated!
 2026-01-15 23:19:19 | ERROR    | Please run: gh auth login
+2026-01-15 23:23:35 | INFO     | ============================================================
+2026-01-15 23:23:35 | INFO     | News Scraper Daemon Starting
+2026-01-15 23:23:35 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-01-15 23:23:35 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-01-15 23:23:35 | INFO     | Sync interval: 10 minutes
+2026-01-15 23:23:35 | INFO     | PR interval: 60 minutes
+2026-01-15 23:23:35 | INFO     | ============================================================
+2026-01-15 23:23:36 | INFO     | gh CLI authenticated
+2026-01-15 23:23:36 | INFO     | Setting up git remotes...
+2026-01-15 23:23:36 | INFO     | Configured origin remote
+2026-01-15 23:23:37 | INFO     | gh CLI authenticated
+2026-01-15 23:23:37 | INFO     | ----------------------------------------
+2026-01-15 23:23:37 | INFO     | Running periodic health check...
+2026-01-15 23:23:39 | INFO     | gh CLI authenticated
+2026-01-15 23:23:39 | INFO     | Health check passed
+2026-01-15 23:23:39 | INFO     | ----------------------------------------
+2026-01-15 23:23:39 | INFO     | Starting sync cycle...
+2026-01-15 23:23:39 | INFO     | Syncing with upstream...
+2026-01-15 23:23:41 | INFO     | Already up to date with upstream
+2026-01-15 23:23:41 | INFO     | Running scraper...
+2026-01-15 23:23:41 | INFO     | Found 86 new URLs to scrape
+2026-01-15 23:26:20 | INFO     | Updated cumulative stats: 2923 success, 121 failed across 40 cycles
+2026-01-15 23:26:20 | INFO     | Scraper results: 85 success, 1 failed
+2026-01-15 23:26:20 | INFO     | Committing changes...
+2026-01-15 23:26:23 | INFO     | Committed: chore(scraper): auto-scrape 2026-01-15 23:26
+2026-01-15 23:26:42 | INFO     | Pushed to origin successfully
+2026-01-15 23:26:42 | INFO     | Sync cycle complete
+2026-01-15 23:26:42 | INFO     | ----------------------------------------
+2026-01-15 23:26:42 | INFO     | Starting PR cycle...
+2026-01-15 23:26:45 | INFO     | Pushed to origin successfully
+2026-01-15 23:26:45 | INFO     | Managing PR...
+2026-01-15 23:26:47 | INFO     | PR #31 exists, updating description with fresh stats...
+2026-01-15 23:26:53 | INFO     | Updated PR #31 with fresh stats
+2026-01-15 23:26:53 | INFO     | PR cycle complete
+2026-01-15 23:26:53 | INFO     | Run once mode, exiting...

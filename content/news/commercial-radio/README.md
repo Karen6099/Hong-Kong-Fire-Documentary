@@ -700,3 +700,8 @@
 - [宏福苑大火仍有8名傷者留醫　約1800居民接受醫管局服務](https://www.881903.com/news/local/2614580/) [Original](https://www.881903.com/news/local/2614580/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火仍有8名傷者留醫-約1800居民接受醫管局服務/){.md-button .hkfd-news-button}
 - [宏福苑安置｜議員倡多元方案　頌雅路西項目參考宏福苑設計](https://www.881903.com/news/local/2614577/) [Original](https://www.881903.com/news/local/2614577/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置議員倡多元方案-頌雅路西項目參考宏福苑設計/){.md-button .hkfd-news-button}
 - [政府提改善大維修建議　議員關注將推升成本](https://www.881903.com/news/local/2614550/) [Original](https://www.881903.com/news/local/2614550/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府提改善大維修建議-議員關注將推升成本/){.md-button .hkfd-news-button}
+
+
+### 2026-01-16
+- [鄧炳強：大廈日後須做足額外消防措施才能關閉消防設備](https://www.881903.com/news/local/2614752/) [Original](https://www.881903.com/news/local/2614752/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強大廈日後須做足額外消防措施才能關閉消防設備/){.md-button .hkfd-news-button}
+- [鄧炳強：宏福苑168人罹難屬最終數字　已透過社工向每戶確認](https://www.881903.com/news/local/2614738/) [Original](https://www.881903.com/news/local/2614738/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強宏福苑168人罹難屬最終數字-已透過社工向每戶確認/){.md-button .hkfd-news-button}

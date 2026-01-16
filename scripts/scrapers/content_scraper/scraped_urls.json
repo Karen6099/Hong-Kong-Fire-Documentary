@@ -48335,7 +48335,231 @@
       "source_file": "content/news/mingpao/README.md",
       "scraped_at": "2026-01-15T23:26:20.613253",
       "archive_path": "content\\news\\mingpao\\archive\\大埔浸小兩生棄學位-不想回廣福邨"
+    },
+    "https://hongkongfp.com/?p=551378": {
+      "title": "Hong Kong construction industry body distributes 3,000 flame-retardant scaffold nets",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-01-16T22:35:02.141325",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-construction-industry-body-distributes-3000-flame-retardant-scaffold"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60313331/%E9%A6%AC%E5%B9%B4%E8%B3%80%E6%AD%B2%E7%85%99%E8%8A%B1%E5%8C%AF%E6%BC%94%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C2-18%E7%B6%AD%E6%B8%AF%E8%88%89%E8%A1%8C-%E6%AD%B7%E6%99%8223%E5%88%86%E9%90%98%E9%A0%90%E7%AE%97%E7%B4%841900%E8%90%AC": {
+      "title": "馬年賀歲煙花匯演大年初二2.18維港舉行　歷時23分鐘預算約1900萬",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-16T22:35:02.574184",
+      "archive_path": "content\\news\\hk01\\archive\\馬年賀歲煙花匯演大年初二218維港舉行-歷時23分鐘預算約1900萬"
+    },
+    "https://www.881903.com/news/local/2614752/": {
+      "title": "鄧炳強：大廈日後須做足額外消防措施才能關閉消防設備",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-16T22:35:02.884779",
+      "archive_path": "content\\news\\commercial-radio\\archive\\鄧炳強大廈日後須做足額外消防措施才能關閉消防設備"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4298914/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E5%8D%93%E6%B0%B8%E8%88%88%3A%E7%81%BD%E6%B0%91%E9%95%B7%E5%B1%85%E9%9D%92%E5%B9%B4%E5%AE%BF%E8%88%8D%E9%81%95%E6%94%BF%E7%AD%96%E5%88%9D%E8%A1%B7+%E5%86%80%E6%9C%88%E5%BA%95%E5%89%8D%E6%90%AC%E9%81%B7": {
+      "title": "宏福苑大火丨卓永興:災民長居青年宿舍違政策初衷 冀月底前搬遷",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-16T22:35:02.949525",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨卓永興災民長居青年宿舍違政策初衷-冀月底前搬遷"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4298522/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%AD%BB%E8%80%85%E6%9C%80%E7%B5%82%E5%A2%9E%E8%87%B3168+%E5%90%8D%E5%96%AE%E4%B8%8D%E5%85%AC%E9%96%8B": {
+      "title": "宏福苑死者最終增至168 名單不公開",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-16T22:35:06.207258",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑死者最終增至168-名單不公開"
+    },
+    "https://hongkongfp.com/?p=551312": {
+      "title": "Tuen Mun knife suspect shot dead may have been under drug influence, Hong Kong police say",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-01-16T22:35:08.199973",
+      "archive_path": "content\\news\\hkfp\\archive\\tuen-mun-knife-suspect-shot-dead-may-have-been-under-drug-influence-hong-kong"
+    },
+    "https://www.881903.com/news/local/2614738/": {
+      "title": "鄧炳強：宏福苑168人罹難屬最終數字　已透過社工向每戶確認",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-01-16T22:35:08.379094",
+      "archive_path": "content\\news\\commercial-radio\\archive\\鄧炳強宏福苑168人罹難屬最終數字-已透過社工向每戶確認"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60313312/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E9%84%A7%E7%82%B3%E5%BC%B7%E7%A8%B1%E8%80%83%E6%85%AE%E6%8E%A8%E6%B6%88%E9%98%B2%E5%A4%A7%E4%BD%BF%E8%A8%88%E5%8A%83-%E9%82%80%E4%BD%8F%E6%88%B6%E5%8A%A9%E5%B7%A1%E6%9F%A5%E8%88%89%E5%A0%B1": {
+      "title": "宏福苑火災｜鄧炳強稱考慮推消防大使計劃　邀住戶助巡查舉報",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-16T22:35:08.510519",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災鄧炳強稱考慮推消防大使計劃-邀住戶助巡查舉報"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4298876/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%EF%BD%9C%E9%84%A7%E7%82%B3%E5%BC%B7%3A%E6%B6%88%E9%98%B2%E6%9C%AA%E9%81%94%E6%A8%99%E5%A4%A7%E5%BB%88%E9%A0%88%E5%8D%B3%E6%99%82%E4%BF%AE%E6%AD%A3": {
+      "title": "宏福苑火災｜鄧炳強:消防未達標大廈須即時修正",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-16T22:35:11.174150",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災鄧炳強消防未達標大廈須即時修正"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260116/s00001/1768532603755": {
+      "title": "鄧炳強：「一戶一社工」已聯絡宏福苑全數生還住戶 排除無親無故者罹難",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:12.581188",
+      "archive_path": "content\\news\\mingpao\\archive\\鄧炳強一戶一社工已聯絡宏福苑全數生還住戶-排除無親無故者罹難"
+    },
+    "https://news.now.com/home/local/player?newsId=633133": {
+      "title": "宏福苑五級火災｜鄧炳強：已下令未達消防標準的大廈即時修正",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-01-16T22:35:13.240640",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災鄧炳強已下令未達消防標準的大廈即時修正"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60313302/%E5%8D%93%E6%B0%B8%E8%88%88-%E5%A6%82%E6%8F%80%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA-%E5%BB%B6%E7%A7%9F%E6%B4%A510%E5%B9%B4%E5%B0%87%E8%80%97%E7%9B%A1%E5%9F%BA%E9%87%91-%E5%85%AC%E5%B8%91%E6%94%AF%E6%8F%B4%E9%A0%88%E6%85%8E%E6%80%9D": {
+      "title": "卓永興：如揀原址重建　延租津10年將耗盡基金 　公帑支援須慎思",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-16T22:35:14.877159",
+      "archive_path": "content\\news\\hk01\\archive\\卓永興如揀原址重建-延租津10年將耗盡基金-公帑支援須慎思"
+    },
+    "http://gba.people.cn/n1/2026/0116/c42272-40646677.html": {
+      "title": "香港大埔宏福苑火灾累计71名伤者出院",
+      "source": "peoples-daily-gba",
+      "source_file": "content/news/peoples-daily-gba/README.md",
+      "scraped_at": "2026-01-16T22:35:15.113940",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\香港大埔宏福苑火灾累计71名伤者出院"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4298523/3000%E5%BC%B5%E6%A3%9A%E7%B6%B2%E9%98%BB%E7%87%83%E5%90%88%E6%A0%BC+%E5%88%86%E7%99%BC%E6%89%BF%E5%BB%BA%E5%95%86": {
+      "title": "3000張棚網阻燃合格 分發承建商",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-16T22:35:16.505236",
+      "archive_path": "content\\news\\hkej\\archive\\3000張棚網阻燃合格-分發承建商"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1840207-20260116.htm?archive_date=2026-01-16": {
+      "title": "政府擬延長宏福苑居民租金補助期限　現階段不公布死者名單",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-01-16T22:35:17.222121",
+      "archive_path": "content\\news\\rthk\\archive\\政府擬延長宏福苑居民租金補助期限-現階段不公布死者名單"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260116/s00001/1768500417393": {
+      "title": "新增7人 168亡「最終數字」 鄧：尊重家屬暫不公布名單",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:18.960018",
+      "archive_path": "content\\news\\mingpao\\archive\\新增7人-168亡最終數字-鄧尊重家屬暫不公布名單"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60313260/%E7%94%AF%E6%BC%A2%E8%B1%AA%E7%A8%B1%E6%96%B0-%E6%8B%9B%E6%A8%99%E5%A6%A5-%E9%A0%90%E5%AF%A9%E5%90%8D%E5%96%AE%E5%83%85%E4%BD%9C%E8%A9%95%E6%A8%99-%E7%84%A1%E7%A4%99%E6%89%BF%E5%BB%BA%E5%95%86%E6%89%8B%E4%B8%8A%E5%B7%A5%E7%A8%8B": {
+      "title": "甯漢豪稱新「招標妥」預審名單僅作評標　無礙承建商手上工程",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-16T22:35:20.755571",
+      "archive_path": "content\\news\\hk01\\archive\\甯漢豪稱新招標妥預審名單僅作評標-無礙承建商手上工程"
+    },
+    "https://news.tvb.com/tc/taipofire/6968f37e7f5e58211b088414/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD168%E6%AD%BB%E9%A6%96%E6%89%B9%E9%9B%86%E9%AB%94%E6%8E%A1%E8%B3%BC%E6%A3%9A%E7%B6%B2%E6%8A%B5%E6%B8%AF%E7%89%A9%E7%AE%A1%E6%8A%8A%E9%97%9C%E6%B6%88%E9%98%B2%E5%AE%89%E5%85%A8": {
+      "title": "八分鐘本地新聞重點｜宏福苑火災168死／首批集體採購棚網抵港／物管把關消防安全 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-16T22:35:21.228926",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點宏福苑火災168死首批集體採購棚網抵港物管把關消防安全-宏福苑五級火-1天前-粵"
+    },
+    "http://gba.people.cn/n1/2026/0116/c42272-40646652.html": {
+      "title": "新华社香港1月15日电（奚天麒）香港特区政府保安局局长邓炳强15日表示，大埔宏福苑火灾遇难人数增至168人，目前所有遗体均已完成辨认工作，相关失踪个案也已处理完毕。\n邓炳强说，出于对家属意愿的尊重，暂不会公布遇难者名单。",
+      "source": "peoples-daily-gba",
+      "source_file": "content/news/peoples-daily-gba/README.md",
+      "scraped_at": "2026-01-16T22:35:22.816036",
+      "archive_path": "content\\news\\peoples-daily-gba\\archive\\新华社香港1月15日电奚天麒香港特区政府保安局局长邓炳强15日表示大埔宏福苑火灾遇难人数增至168人目前所有遗体均已完成辨认工作相关失踪个案也已处理完毕"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4298533/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE+%E9%87%8D%E5%BB%BA%E5%AE%B6%E5%9C%92%E7%95%B6%E4%BB%A5%E5%BF%AB%E7%82%BA%E5%85%88": {
+      "title": "宏福苑安置 重建家園當以快為先",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-01-16T22:35:23.735582",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑安置-重建家園當以快為先"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260116/s00001/1768500417762": {
+      "title": "建管例「可討論加辣」 公司違利益申報研引罰則",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:25.112765",
+      "archive_path": "content\\news\\mingpao\\archive\\建管例可討論加辣-公司違利益申報研引罰則"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60313244/%E7%B2%89%E5%B6%BA%E7%BE%8E%E6%99%AF%E6%96%B0%E9%82%A8-%E9%9B%BB%E5%8B%95%E5%96%AE%E8%BB%8A%E9%9B%BB%E6%B1%A0%E8%B5%B7%E7%81%AB%E7%88%86%E7%82%B8-%E4%B8%80%E7%94%B7%E5%AD%90%E7%87%92%E5%82%B7%E6%89%8B%E9%80%81%E9%99%A2": {
+      "title": "粉嶺美景新邨　電動單車電池起火爆炸　一男子燒傷手送院",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-16T22:35:25.780486",
+      "archive_path": "content\\news\\hk01\\archive\\粉嶺美景新邨-電動單車電池起火爆炸-一男子燒傷手送院"
+    },
+    "https://news.tvb.com/tc/pearlnews/6968d95b7f5e58211b077ee7/TVB%20News-Knife-wielding-man-in-Tuen-Mun-Town-Plaza-subdued-and-died-after-police-opened-fire": {
+      "title": "Knife-wielding man in Tuen Mun Town Plaza subdued and died after police opened fire",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-16T22:35:27.047684",
+      "archive_path": "content\\news\\tvb\\archive\\knife-wielding-man-in-tuen-mun-town-plaza-subdued-and-died-after-police-opened"
+    },
+    "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60313236/%E8%8D%B7%E8%98%AD%E7%83%8F%E5%BE%97%E5%8B%92%E6%94%AF%E5%B8%82%E5%BB%BA%E7%AF%89%E7%89%A9%E7%88%86%E7%82%B8%E8%B5%B7%E7%81%AB%E8%87%B3%E5%B0%914%E5%82%B7-%E6%88%96%E6%9C%89%E4%BA%BA%E8%A2%AB%E5%9B%B0%E5%BB%A2%E5%A2%9F%E4%B8%8B": {
+      "title": "荷蘭烏得勒支市建築物爆炸起火至少4傷　或有人被困廢墟下",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-01-16T22:35:31.144791",
+      "archive_path": "content\\news\\hk01\\archive\\荷蘭烏得勒支市建築物爆炸起火至少4傷-或有人被困廢墟下"
+    },
+    "https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260116/s00001/1768500954278": {
+      "title": "棚網白名單 邀國家認可廠商入列 建造業議會昨起派網掛RFID標籤 將推採購指引",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:31.717937",
+      "archive_path": "content\\news\\mingpao\\archive\\棚網白名單-邀國家認可廠商入列-建造業議會昨起派網掛rfid標籤-將推採購指引"
+    },
+    "https://news.tvb.com/tc/pearlnews/696a37357f5e58211b1332fc/TVB-News-Chinese-New-Year-fireworks-over-Victoria-Harbour-to-feature-horse-elements": {
+      "title": "Chinese New Year fireworks over Victoria Harbour to feature horse elements",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-16T22:35:33.159981",
+      "archive_path": "content\\news\\tvb\\archive\\chinese-new-year-fireworks-over-victoria-harbour-to-feature-horse-elements"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260116/s00002/1768496567984": {
+      "title": "【Emily】宏福苑再搵到貓貓 愛協尋主人",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:37.569215",
+      "archive_path": "content\\news\\mingpao\\archive\\emily宏福苑再搵到貓貓-愛協尋主人"
+    },
+    "https://news.tvb.com/tc/pearlnews/696a32667f5e58211b1300ce/TVB-News-Government-defends-polices-open-fire-decision-in-Tuen-Mun-knife-attack-incident-": {
+      "title": "Government defends police's open fire decision in Tuen Mun knife attack incident",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-16T22:35:39.445583",
+      "archive_path": "content\\news\\tvb\\archive\\government-defends-polices-open-fire-decision-in-tuen-mun-knife-attack-incident"
+    },
+    "https://news.mingpao.com/pns/%e7%a4%be%e8%a9%95/article/20260116/s00003/1768500426723": {
+      "title": "社評：推動業主參與大廈管理 政府介入須更積極主動",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:43.528483",
+      "archive_path": "content\\news\\mingpao\\archive\\社評推動業主參與大廈管理-政府介入須更積極主動"
+    },
+    "https://news.tvb.com/tc/pearlnews/6969baf97f5e58211b0ed968/TVB%20News-Chris-Tang-said-Police-fired-at-knife-wielding-man-to-save-a-life": {
+      "title": "Chris Tang said Police fired at knife-wielding man to save a life",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-01-16T22:35:45.615496",
+      "archive_path": "content\\news\\tvb\\archive\\chris-tang-said-police-fired-at-knife-wielding-man-to-save-a-life"
+    },
+    "https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260116/s00012/1768496568986": {
+      "title": "聞風筆動：政府要求大維修「孭重飛」 巿建局「硬食」 ／文：李先知",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:49.765474",
+      "archive_path": "content\\news\\mingpao\\archive\\聞風筆動政府要求大維修孭重飛-巿建局硬食-文李先知"
+    },
+    "https://news.mingpao.com/pns/%e8%8b%b1%e6%96%87/article/20260116/s00017/1768494429528": {
+      "title": "Editorial ： URA Shoulders Bid-Rigging Load, Criminalisation Urged",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-01-16T22:35:56.198151",
+      "archive_path": "content\\news\\mingpao\\archive\\editorial-ura-shoulders-bid-rigging-load-criminalisation-urged"
     }
   },
-  "last_updated": "2026-01-15T23:26:20.613311"
+  "last_updated": "2026-01-16T22:35:56.198199"
 }

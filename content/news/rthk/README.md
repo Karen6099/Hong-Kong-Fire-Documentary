@@ -1020,3 +1020,7 @@
 - [警方完成宏福苑火災遺體身份辨識及科學鑑證工作](https://news.rthk.hk/rthk/ch/component/k2/1840042-20260115.htm?archive_date=2026-01-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840042-20260115.htm?archive_date=2026-01-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警方完成宏福苑火災遺體身份辨識及科學鑑證工作/){.md-button .hkfd-news-button}
 - [鄧炳強：宏福苑火災死亡人數增至168人　暫不公布死者名單](https://news.rthk.hk/rthk/ch/component/k2/1840037-20260115.htm?archive_date=2026-01-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840037-20260115.htm?archive_date=2026-01-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強宏福苑火災死亡人數增至168人-暫不公布死者名單/){.md-button .hkfd-news-button}
 - [宏福苑火災8名傷者留醫情況穩定　1800居民接受醫管局服務](https://news.rthk.hk/rthk/ch/component/k2/1839961-20260115.htm?archive_date=2026-01-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839961-20260115.htm?archive_date=2026-01-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災8名傷者留醫情況穩定-1800居民接受醫管局服務/){.md-button .hkfd-news-button}
+
+
+### 2026-01-16
+- [政府擬延長宏福苑居民租金補助期限　現階段不公布死者名單](https://news.rthk.hk/rthk/ch/component/k2/1840207-20260116.htm?archive_date=2026-01-16) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840207-20260116.htm?archive_date=2026-01-16){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬延長宏福苑居民租金補助期限-現階段不公布死者名單/){.md-button .hkfd-news-button}

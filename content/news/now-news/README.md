@@ -1013,3 +1013,7 @@
 - [政府擬加強市建局「招標妥」功能角色　有宏福苑居民贊成](https://news.now.com/home/local/player?newsId=633007) [Original](https://news.now.com/home/local/player?newsId=633007){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬加強市建局招標妥功能角色-有宏福苑居民贊成/){.md-button .hkfd-news-button}
 - [宏福苑安置方案｜鄧家彪倡提供多項選項分流居民　林筱魯關注市建局角色](https://news.now.com/home/local/player?newsId=632994) [Original](https://news.now.com/home/local/player?newsId=632994){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置方案鄧家彪倡提供多項選項分流居民-林筱魯關注市建局角色/){.md-button .hkfd-news-button}
 - [宏福苑安置方案　鄧家彪倡提供多項選項分流居民](https://news.now.com/home/local/player?newsId=632989) [Original](https://news.now.com/home/local/player?newsId=632989){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置方案-鄧家彪倡提供多項選項分流居民/){.md-button .hkfd-news-button}
+
+
+### 2026-01-16
+- [宏福苑五級火災｜鄧炳強：已下令未達消防標準的大廈即時修正](https://news.now.com/home/local/player?newsId=633133) [Original](https://news.now.com/home/local/player?newsId=633133){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災鄧炳強已下令未達消防標準的大廈即時修正/){.md-button .hkfd-news-button}

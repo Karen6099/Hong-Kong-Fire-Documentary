@@ -290,3 +290,9 @@
 - [香港特区政府将全力推进大埔宏福苑火灾善…](http://gba.people.cn/n1/2026/0115/c42272-40645932.html) [Original](http://gba.people.cn/n1/2026/0115/c42272-40645932.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府将全力推进大埔宏福苑火灾善/){.md-button .hkfd-news-button}
 - [新华社香港1月14日电（肖逸晨、奚天麒）香港特区第八届立法会14日在立法会综合大楼会议厅举行首次会议，讨论大埔宏福苑火灾善后工作。
 会上，特区行政长官李家超表示，当前大家都很关心宏福苑火灾后的重建和复原，因此，特区政府在立法会首次会议即提出动议，就善后和复常工作深入讨论，和议员一起推动尽快落实长远住宿安排和其他善后工作。](http://gba.people.cn/n1/2026/0115/c42272-40645903.html)
+
+
+### 2026-01-16
+- [香港大埔宏福苑火灾累计71名伤者出院](http://gba.people.cn/n1/2026/0116/c42272-40646677.html) [Original](http://gba.people.cn/n1/2026/0116/c42272-40646677.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾累计71名伤者出院/){.md-button .hkfd-news-button}
+- [新华社香港1月15日电（奚天麒）香港特区政府保安局局长邓炳强15日表示，大埔宏福苑火灾遇难人数增至168人，目前所有遗体均已完成辨认工作，相关失踪个案也已处理完毕。
+邓炳强说，出于对家属意愿的尊重，暂不会公布遇难者名单。](http://gba.people.cn/n1/2026/0116/c42272-40646652.html)

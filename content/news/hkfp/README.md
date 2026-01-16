@@ -288,3 +288,8 @@
 ### 2026-01-15
 - [Police shoot knife-wielding man at Hong Kong mall, later dies in hospital](https://hongkongfp.com/?p=551258) [Original](https://hongkongfp.com/?p=551258){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/police-shoot-knife-wielding-man-at-hong-kong-mall-later-dies-in-hospital/){.md-button .hkfd-news-button}
 - [Tai Po fire death toll confirmed at 168 following forensic analysis; victims aged between 6 months and 98 years old](https://hongkongfp.com/?p=551227) [Original](https://hongkongfp.com/?p=551227){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-death-toll-confirmed-at-168-following-forensic-analysis-victims/){.md-button .hkfd-news-button}
+
+
+### 2026-01-16
+- [Hong Kong construction industry body distributes 3,000 flame-retardant scaffold nets](https://hongkongfp.com/?p=551378) [Original](https://hongkongfp.com/?p=551378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-construction-industry-body-distributes-3000-flame-retardant-scaffold/){.md-button .hkfd-news-button}
+- [Tuen Mun knife suspect shot dead may have been under drug influence, Hong Kong police say](https://hongkongfp.com/?p=551312) [Original](https://hongkongfp.com/?p=551312){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tuen-mun-knife-suspect-shot-dead-may-have-been-under-drug-influence-hong-kong/){.md-button .hkfd-news-button}

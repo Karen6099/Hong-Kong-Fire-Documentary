@@ -293,3 +293,9 @@
 ### 2026-01-16
 - [Hong Kong construction industry body distributes 3,000 flame-retardant scaffold nets](https://hongkongfp.com/?p=551378) [Original](https://hongkongfp.com/?p=551378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-construction-industry-body-distributes-3000-flame-retardant-scaffold/){.md-button .hkfd-news-button}
 - [Tuen Mun knife suspect shot dead may have been under drug influence, Hong Kong police say](https://hongkongfp.com/?p=551312) [Original](https://hongkongfp.com/?p=551312){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tuen-mun-knife-suspect-shot-dead-may-have-been-under-drug-influence-hong-kong/){.md-button .hkfd-news-button}
+
+
+### 2026-01-17
+- [Explainer: Hong Kong’s national security crackdown – month 66](https://hongkongfp.com/?p=550650) [Original](https://hongkongfp.com/?p=550650){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-hong-kongs-national-security-crackdown-month-66/){.md-button .hkfd-news-button}
+- [HKFP Monitor Jan 17, 2026: Jimmy Lai trial ignites courtroom queue rivalry](https://hongkongfp.com/?p=551423) [Original](https://hongkongfp.com/?p=551423){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-17-2026-jimmy-lai-trial-ignites-courtroom-queue-rivalry/){.md-button .hkfd-news-button}
+- [HKFP Lens: Portuguese photojournalist Gonçalo Lobo Pinheiro’s sequel on Macau’s past and present](https://hongkongfp.com/?p=550288) [Original](https://hongkongfp.com/?p=550288){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-lens-portuguese-photojournalist-goncalo-lobo-pinheiros-sequel-on-macaus/){.md-button .hkfd-news-button}

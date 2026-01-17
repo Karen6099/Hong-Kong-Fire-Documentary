@@ -1024,3 +1024,7 @@
 
 ### 2026-01-16
 - [政府擬延長宏福苑居民租金補助期限　現階段不公布死者名單](https://news.rthk.hk/rthk/ch/component/k2/1840207-20260116.htm?archive_date=2026-01-16) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840207-20260116.htm?archive_date=2026-01-16){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬延長宏福苑居民租金補助期限-現階段不公布死者名單/){.md-button .hkfd-news-button}
+
+
+### 2026-01-17
+- [孫玉菡稱一戶一社工已接觸宏福苑受影響住戶　擬修例所有地盤禁煙](https://news.rthk.hk/rthk/ch/component/k2/1840267-20260117.htm?archive_date=2026-01-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840267-20260117.htm?archive_date=2026-01-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡稱一戶一社工已接觸宏福苑受影響住戶-擬修例所有地盤禁煙/){.md-button .hkfd-news-button}

@@ -705,3 +705,7 @@
 ### 2026-01-16
 - [鄧炳強：大廈日後須做足額外消防措施才能關閉消防設備](https://www.881903.com/news/local/2614752/) [Original](https://www.881903.com/news/local/2614752/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強大廈日後須做足額外消防措施才能關閉消防設備/){.md-button .hkfd-news-button}
 - [鄧炳強：宏福苑168人罹難屬最終數字　已透過社工向每戶確認](https://www.881903.com/news/local/2614738/) [Original](https://www.881903.com/news/local/2614738/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強宏福苑168人罹難屬最終數字-已透過社工向每戶確認/){.md-button .hkfd-news-button}
+
+
+### 2026-01-17
+- [陳國基：將優化招標妥防圍標　會向市建局提供資源](https://www.881903.com/news/local/2614935/) [Original](https://www.881903.com/news/local/2614935/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳國基將優化招標妥防圍標-會向市建局提供資源/){.md-button .hkfd-news-button}

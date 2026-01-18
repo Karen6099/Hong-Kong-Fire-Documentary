@@ -299,3 +299,7 @@
 - [Explainer: Hong Kong’s national security crackdown – month 66](https://hongkongfp.com/?p=550650) [Original](https://hongkongfp.com/?p=550650){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-hong-kongs-national-security-crackdown-month-66/){.md-button .hkfd-news-button}
 - [HKFP Monitor Jan 17, 2026: Jimmy Lai trial ignites courtroom queue rivalry](https://hongkongfp.com/?p=551423) [Original](https://hongkongfp.com/?p=551423){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-17-2026-jimmy-lai-trial-ignites-courtroom-queue-rivalry/){.md-button .hkfd-news-button}
 - [HKFP Lens: Portuguese photojournalist Gonçalo Lobo Pinheiro’s sequel on Macau’s past and present](https://hongkongfp.com/?p=550288) [Original](https://hongkongfp.com/?p=550288){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-lens-portuguese-photojournalist-goncalo-lobo-pinheiros-sequel-on-macaus/){.md-button .hkfd-news-button}
+
+
+### 2026-01-18
+- [Tai Po fire: For migrant workers in crisis, best support often comes from those with fewest resources](https://hongkongfp.com/?p=550303) [Original](https://hongkongfp.com/?p=550303){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-for-migrant-workers-in-crisis-best-support-often-comes-from-those/){.md-button .hkfd-news-button}

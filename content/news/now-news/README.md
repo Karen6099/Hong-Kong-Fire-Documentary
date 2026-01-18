@@ -1027,3 +1027,11 @@
 - [大鳴大放｜改良大廈管理(一)](https://news.now.com/home/local/player?newsId=633258) [Original](https://news.now.com/home/local/player?newsId=633258){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放改良大廈管理一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜一戶一社工已接觸1982戶災民　孫玉菡指2000名社工近乎全民皆兵](https://news.now.com/home/local/player?newsId=633265) [Original](https://news.now.com/home/local/player?newsId=633265){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災一戶一社工已接觸1982戶災民-孫玉菡指2000名社工近乎全民皆兵/){.md-button .hkfd-news-button}
 - [大鳴大放｜麥美娟：考慮以樓宇單位數目設授權票比例上限　表決門檻將按每戶夾錢維修金額釐訂](https://news.now.com/home/local/player?newsId=633246) [Original](https://news.now.com/home/local/player?newsId=633246){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放麥美娟考慮以樓宇單位數目設授權票比例上限-表決門檻將按每戶夾錢維修金額釐訂/){.md-button .hkfd-news-button}
+
+
+### 2026-01-17
+- [即日焦點｜樂華南邨情殺案　死者非裔男友內地落網移交香港／日本前首相菅義偉退出政壇](https://news.now.com/home/local/player?newsId=633308) [Original](https://news.now.com/home/local/player?newsId=633308){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點樂華南邨情殺案-死者非裔男友內地落網移交香港日本前首相菅義偉退出政壇/){.md-button .hkfd-news-button}
+
+### 2026-01-18
+- [香港馬拉松｜半馬賽第三組開始前　大會為原先報名參賽的宏福苑大火殉職消防員何偉豪默哀](https://news.now.com/home/local/player?newsId=633350) [Original](https://news.now.com/home/local/player?newsId=633350){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港馬拉松半馬賽第三組開始前-大會為原先報名參賽的宏福苑大火殉職消防員何偉豪默哀/){.md-button .hkfd-news-button}
+- [香港馬拉松｜半馬賽第三組開始前　為宏福苑大火殉職消防員何偉豪默哀](https://news.now.com/home/local/player?newsId=633343) [Original](https://news.now.com/home/local/player?newsId=633343){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港馬拉松半馬賽第三組開始前-為宏福苑大火殉職消防員何偉豪默哀/){.md-button .hkfd-news-button}

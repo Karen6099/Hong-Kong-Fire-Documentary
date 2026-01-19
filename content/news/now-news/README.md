@@ -1035,3 +1035,10 @@
 ### 2026-01-18
 - [香港馬拉松｜半馬賽第三組開始前　大會為原先報名參賽的宏福苑大火殉職消防員何偉豪默哀](https://news.now.com/home/local/player?newsId=633350) [Original](https://news.now.com/home/local/player?newsId=633350){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港馬拉松半馬賽第三組開始前-大會為原先報名參賽的宏福苑大火殉職消防員何偉豪默哀/){.md-button .hkfd-news-button}
 - [香港馬拉松｜半馬賽第三組開始前　為宏福苑大火殉職消防員何偉豪默哀](https://news.now.com/home/local/player?newsId=633343) [Original](https://news.now.com/home/local/player?newsId=633343){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港馬拉松半馬賽第三組開始前-為宏福苑大火殉職消防員何偉豪默哀/){.md-button .hkfd-news-button}
+
+
+### 2026-01-19
+- [宏福苑五級火災｜張舉能稱深感哀痛　高院首席法官監督處理有關案件](https://news.now.com/home/local/player?newsId=633521) [Original](https://news.now.com/home/local/player?newsId=633521){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災張舉能稱深感哀痛-高院首席法官監督處理有關案件/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜張舉能深感哀痛　高院首席法官監督各級法院處理有關案件](https://news.now.com/home/local/player?newsId=633501) [Original](https://news.now.com/home/local/player?newsId=633501){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災張舉能深感哀痛-高院首席法官監督各級法院處理有關案件/){.md-button .hkfd-news-button}
+- [何永賢：未來公營房屋供應　足夠讓宏福苑災民及置業需要市民選擇](https://news.now.com/home/local/player?newsId=633484) [Original](https://news.now.com/home/local/player?newsId=633484){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢未來公營房屋供應-足夠讓宏福苑災民及置業需要市民選擇/){.md-button .hkfd-news-button}
+- [簡樸房規管｜義華大廈劏房轉簡樸房　150租戶受影響　最快過年後須遷走](https://news.now.com/home/local/player?newsId=633450) [Original](https://news.now.com/home/local/player?newsId=633450){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管義華大廈劏房轉簡樸房-150租戶受影響-最快過年後須遷走/){.md-button .hkfd-news-button}

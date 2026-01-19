@@ -303,3 +303,8 @@
 
 ### 2026-01-18
 - [Tai Po fire: For migrant workers in crisis, best support often comes from those with fewest resources](https://hongkongfp.com/?p=550303) [Original](https://hongkongfp.com/?p=550303){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-for-migrant-workers-in-crisis-best-support-often-comes-from-those/){.md-button .hkfd-news-button}
+
+
+### 2026-01-19
+- [Calls to free pro-democracy tycoon Jimmy Lai go against rule of law, says Hong Kong’s top judge](https://hongkongfp.com/?p=551604) [Original](https://hongkongfp.com/?p=551604){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/calls-to-free-pro-democracy-tycoon-jimmy-lai-go-against-rule-of-law-says-hong/){.md-button .hkfd-news-button}
+- [Colleagues of firefighter who died in Tai Po blaze run half-marathon in his honour](https://hongkongfp.com/?p=551569) [Original](https://hongkongfp.com/?p=551569){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/colleagues-of-firefighter-who-died-in-tai-po-blaze-run-half-marathon-in-his/){.md-button .hkfd-news-button}

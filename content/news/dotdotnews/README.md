@@ -331,3 +331,32 @@
 
 ### 2026-01-11
 - [宏福苑善後｜消息：警考慮公布罹難者名單　會逐一詢問死者家屬](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html) [Original](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後消息警考慮公布罹難者名單-會逐一詢問死者家屬/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [宏福苑善後︱黃偉綸：研長遠安置方案　以情理法助重建家園](https://www.dotdotnews.com/a/202601/12/AP6964e7e8e4b0c32d4f65c8ab.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964e7e8e4b0c32d4f65c8ab.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後黃偉綸研長遠安置方案-以情理法助重建家園/){.md-button .hkfd-news-button}
+- [宏福苑善後︱陳健波獲准暫停三項公職　專注做好獨立委員會工作](https://www.dotdotnews.com/a/202601/12/AP6964f307e4b0c32d4f65c9b6.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964f307e4b0c32d4f65c9b6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後陳健波獲准暫停三項公職-專注做好獨立委員會工作/){.md-button .hkfd-news-button}
+- [點直播｜工聯會立法會議員與政府就宏福苑安置方案會面後見記者｜1月12日](https://www.dotdotnews.com/a/202601/12/AP6964a24fe4b0c32d4f65c145.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964a24fe4b0c32d4f65c145.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播工聯會立法會議員與政府就宏福苑安置方案會面後見記者1月12日/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [Fire aftermath | Fire safety issues resurface in commercial buildings: Fire Services to conduct undercover inspections](https://english.dotdotnews.com/a/202601/13/AP6966123de4b0c32d4f65dfe4.html) [Original](https://english.dotdotnews.com/a/202601/13/AP6966123de4b0c32d4f65dfe4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-aftermath-fire-safety-issues-resurface-in-commercial-buildings-fire/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [宏福苑善後｜政府明動議支援及重建議案　陳國基：以情理法處理安置](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html) [Original](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後政府明動議支援及重建議案-陳國基以情理法處理安置/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [一圖｜宏福苑火災善後　數讀最新情況](https://www.dotdotnews.com/a/202601/14/AP69676f2be4b0c32d4f65fa2c.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69676f2be4b0c32d4f65fa2c.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/一圖宏福苑火災善後-數讀最新情況/){.md-button .hkfd-news-button}
+- [點直播｜第八屆立法會首次會議｜1月14日](https://www.dotdotnews.com/a/202601/14/AP69670642e4b0c32d4f65ee4b.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69670642e4b0c32d4f65ee4b.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播第八屆立法會首次會議1月14日/){.md-button .hkfd-news-button}
+- [宏福苑善後｜大埔浸小遷新校　校方回應：校址變更　教育初心不變](https://www.dotdotnews.com/a/202601/14/AP69676f12e4b0c32d4f65fa28.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69676f12e4b0c32d4f65fa28.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後大埔浸小遷新校-校方回應校址變更-教育初心不變/){.md-button .hkfd-news-button}
+- [宏福苑善後｜陳國基：申請維修資助大廈建議由市建局招標評標](https://www.dotdotnews.com/a/202601/14/AP6967a96ae4b0c32d4f660185.html) [Original](https://www.dotdotnews.com/a/202601/14/AP6967a96ae4b0c32d4f660185.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後陳國基申請維修資助大廈建議由市建局招標評標/){.md-button .hkfd-news-button}
+- [（有片）宏福苑善後｜李慧琼：議案通過非劃句號　是重建工作開始](https://www.dotdotnews.com/a/202601/14/AP6967a5f6e4b0c32d4f66015e.html) [Original](https://www.dotdotnews.com/a/202601/14/AP6967a5f6e4b0c32d4f66015e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後李慧琼議案通過非劃句號-是重建工作開始/){.md-button .hkfd-news-button}
+- [點觀香港｜立法會首次大會特首發言　宏福苑善後重建有哪些選項？](https://www.dotdotnews.com/a/202601/14/AP696776b3e4b0c32d4f65fbbd.html) [Original](https://www.dotdotnews.com/a/202601/14/AP696776b3e4b0c32d4f65fbbd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港立法會首次大會特首發言-宏福苑善後重建有哪些選項/){.md-button .hkfd-news-button}
+
+
+### 2026-01-15
+- [點直播｜立法會大會續會｜1月15日](https://www.dotdotnews.com/a/202601/15/AP69683bb7e4b0c32d4f660761.html) [Original](https://www.dotdotnews.com/a/202601/15/AP69683bb7e4b0c32d4f660761.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播立法會大會續會1月15日/){.md-button .hkfd-news-button}
+- [（有片）視頻論點｜宏福苑善後措施彰改革決心　長遠安置情理法兼備](https://www.dotdotnews.com/a/202601/15/AP6968bbfde4b0c32d4f661340.html) [Original](https://www.dotdotnews.com/a/202601/15/AP6968bbfde4b0c32d4f661340.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片視頻論點宏福苑善後措施彰改革決心-長遠安置情理法兼備/){.md-button .hkfd-news-button}
+- [點觀香港｜馬年換新鈔最快1·27網上預約　宏福苑善後議員有這些建議](https://www.dotdotnews.com/a/202601/15/AP6968cfd6e4b0c32d4f66158d.html) [Original](https://www.dotdotnews.com/a/202601/15/AP6968cfd6e4b0c32d4f66158d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港馬年換新鈔最快127網上預約-宏福苑善後議員有這些建議/){.md-button .hkfd-news-button}

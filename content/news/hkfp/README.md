@@ -262,3 +262,44 @@
 
 ### 2026-01-11
 - [HKFP Year in Review: What did Hongkongers Google in 2025?](https://hongkongfp.com/?p=550189) [Original](https://hongkongfp.com/?p=550189){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-year-in-review-what-did-hongkongers-google-in-2025/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [Hong Kong gov’t to publish names of 161 Tai Po fire victims](https://hongkongfp.com/?p=550743) [Original](https://hongkongfp.com/?p=550743){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-to-publish-names-of-161-tai-po-fire-victims/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [Hong Kong’s gov’t-funded broadcaster RTHK axes all podcasts](https://hongkongfp.com/?p=550640) [Original](https://hongkongfp.com/?p=550640){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-govt-funded-broadcaster-rthk-axes-all-podcasts/){.md-button .hkfd-news-button}
+
+### 2026-01-13
+- [Tai Po fire: Potential death inquest to probe tragedy that killed 161](https://hongkongfp.com/?p=550853) [Original](https://hongkongfp.com/?p=550853){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-potential-death-inquest-to-probe-tragedy-that-killed-161/){.md-button .hkfd-news-button}
+- [Tai Po fire: Hong Kong politician suspends 3 public roles to focus on independent committee](https://hongkongfp.com/?p=550818) [Original](https://hongkongfp.com/?p=550818){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-politician-suspends-3-public-roles-to-focus-on/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [Rebuilding fire-hit Wang Fuk Court ‘huge challenge’ due to ownership, legal issues, Hong Kong official says](https://hongkongfp.com/?p=551083) [Original](https://hongkongfp.com/?p=551083){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/rebuilding-fire-hit-wang-fuk-court-huge-challenge-due-to-ownership-legal-issues/){.md-button .hkfd-news-button}
+- [Tai Po fire: Over 1,100 survivors petition Beijing, Hong Kong legislature for on-site redevelopment](https://hongkongfp.com/?p=551007) [Original](https://hongkongfp.com/?p=551007){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-over-1100-survivors-petition-beijing-hong-kong-legislature-for-on/){.md-button .hkfd-news-button}
+- [Hong Kong gov’t to propose blanket smoking ban at construction sites after deadly Tai Po fire](https://hongkongfp.com/?p=551022) [Original](https://hongkongfp.com/?p=551022){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-to-propose-blanket-smoking-ban-at-construction-sites-after/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [Hong Kong to propose greater gov’t oversight of building maintenance work after fatal Tai Po fire](https://hongkongfp.com/?p=551087) [Original](https://hongkongfp.com/?p=551087){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-to-propose-greater-govt-oversight-of-building-maintenance-work-after/){.md-button .hkfd-news-button}
+
+### 2026-01-15
+- [Police shoot knife-wielding man at Hong Kong mall, later dies in hospital](https://hongkongfp.com/?p=551258) [Original](https://hongkongfp.com/?p=551258){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/police-shoot-knife-wielding-man-at-hong-kong-mall-later-dies-in-hospital/){.md-button .hkfd-news-button}
+- [Tai Po fire death toll confirmed at 168 following forensic analysis; victims aged between 6 months and 98 years old](https://hongkongfp.com/?p=551227) [Original](https://hongkongfp.com/?p=551227){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-death-toll-confirmed-at-168-following-forensic-analysis-victims/){.md-button .hkfd-news-button}
+
+
+### 2026-01-16
+- [Hong Kong construction industry body distributes 3,000 flame-retardant scaffold nets](https://hongkongfp.com/?p=551378) [Original](https://hongkongfp.com/?p=551378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-construction-industry-body-distributes-3000-flame-retardant-scaffold/){.md-button .hkfd-news-button}
+- [Tuen Mun knife suspect shot dead may have been under drug influence, Hong Kong police say](https://hongkongfp.com/?p=551312) [Original](https://hongkongfp.com/?p=551312){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tuen-mun-knife-suspect-shot-dead-may-have-been-under-drug-influence-hong-kong/){.md-button .hkfd-news-button}
+
+
+### 2026-01-17
+- [Explainer: Hong Kong’s national security crackdown – month 66](https://hongkongfp.com/?p=550650) [Original](https://hongkongfp.com/?p=550650){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-hong-kongs-national-security-crackdown-month-66/){.md-button .hkfd-news-button}
+- [HKFP Monitor Jan 17, 2026: Jimmy Lai trial ignites courtroom queue rivalry](https://hongkongfp.com/?p=551423) [Original](https://hongkongfp.com/?p=551423){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-17-2026-jimmy-lai-trial-ignites-courtroom-queue-rivalry/){.md-button .hkfd-news-button}
+- [HKFP Lens: Portuguese photojournalist Gonçalo Lobo Pinheiro’s sequel on Macau’s past and present](https://hongkongfp.com/?p=550288) [Original](https://hongkongfp.com/?p=550288){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-lens-portuguese-photojournalist-goncalo-lobo-pinheiros-sequel-on-macaus/){.md-button .hkfd-news-button}
+
+
+### 2026-01-18
+- [Tai Po fire: For migrant workers in crisis, best support often comes from those with fewest resources](https://hongkongfp.com/?p=550303) [Original](https://hongkongfp.com/?p=550303){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-for-migrant-workers-in-crisis-best-support-often-comes-from-those/){.md-button .hkfd-news-button}

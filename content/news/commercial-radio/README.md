@@ -668,3 +668,44 @@
 ### 2026-01-11
 - [卜國明：原址重建重建時間較長　建議以頌雅路熟地易地重建](https://www.881903.com/news/local/2613972/) [Original](https://www.881903.com/news/local/2613972/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卜國明原址重建重建時間較長-建議以頌雅路熟地易地重建/){.md-button .hkfd-news-button}
 - [大埔大王爺廟辦法事超度宏福罹難者　善信冀死者安息](https://www.881903.com/news/local/2613926/) [Original](https://www.881903.com/news/local/2613926/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔大王爺廟辦法事超度宏福罹難者-善信冀死者安息/){.md-button .hkfd-news-button}
+
+
+### 2026-01-12
+- [陳健波專注宏福苑獨立委員會工作  暫停3項公職](https://www.881903.com/news/local/2614139/) [Original](https://www.881903.com/news/local/2614139/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳健波專注宏福苑獨立委員會工作-暫停3項公職/){.md-button .hkfd-news-button}
+- [黃偉綸：以情理法處理宏福苑居民長遠安置方案](https://www.881903.com/news/local/2614118/) [Original](https://www.881903.com/news/local/2614118/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸以情理法處理宏福苑居民長遠安置方案/){.md-button .hkfd-news-button}
+- [工聯會晤黃偉綸卓永興等　交代宏福苑居民安置意願](https://www.881903.com/news/local/2614110/) [Original](https://www.881903.com/news/local/2614110/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工聯會晤黃偉綸卓永興等-交代宏福苑居民安置意願/){.md-button .hkfd-news-button}
+- [房屋署擬收緊服務供應商員工利益申報規定](https://www.881903.com/news/local/2614043/) [Original](https://www.881903.com/news/local/2614043/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋署擬收緊服務供應商員工利益申報規定/){.md-button .hkfd-news-button}
+- [政府指宏褔苑原址重建不實際　居民批無聆聽意見](https://www.881903.com/news/local/2614017/) [Original](https://www.881903.com/news/local/2614017/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府指宏褔苑原址重建不實際-居民批無聆聽意見/){.md-button .hkfd-news-button}
+
+
+### 2026-01-13
+- [新一屆立法會明日首開大會　李家超將出席發言](https://www.881903.com/news/local/2614230/) [Original](https://www.881903.com/news/local/2614230/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新一屆立法會明日首開大會-李家超將出席發言/){.md-button .hkfd-news-button}
+- [大埔民政事務專員陳巧敏調職　由鍾慧婷接替職務](https://www.881903.com/news/local/2614262/) [Original](https://www.881903.com/news/local/2614262/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政事務專員陳巧敏調職-由鍾慧婷接替職務/){.md-button .hkfd-news-button}
+- [梁文廣倡允宏福苑居民免入息審查入住公屋](https://www.881903.com/news/local/2614210/) [Original](https://www.881903.com/news/local/2614210/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/梁文廣倡允宏福苑居民免入息審查入住公屋/){.md-button .hkfd-news-button}
+
+
+### 2026-01-14
+- [立法會通過宏福苑大火支援及重建議案](https://www.881903.com/news/local/2614499/) [Original](https://www.881903.com/news/local/2614499/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會通過宏福苑大火支援及重建議案/){.md-button .hkfd-news-button}
+- [屋宇署：宏業獲授權簽署人辭任須停工　要另委新承建商](https://www.881903.com/news/local/2614498/) [Original](https://www.881903.com/news/local/2614498/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屋宇署宏業獲授權簽署人辭任須停工-要另委新承建商/){.md-button .hkfd-news-button}
+- [市建局：將盡力配合政府強化「招標妥」服務](https://www.881903.com/news/local/2614497/) [Original](https://www.881903.com/news/local/2614497/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局將盡力配合政府強化招標妥服務/){.md-button .hkfd-news-button}
+- [陳振英倡政府收購業權　料每名納稅人承擔少於1000元](https://www.881903.com/news/local/2614420/) [Original](https://www.881903.com/news/local/2614420/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳振英倡政府收購業權-料每名納稅人承擔少於1000元/){.md-button .hkfd-news-button}
+- [政府就大維修提改善建議　由市建局制定顧問及承建商名單](https://www.881903.com/news/local/2614409/) [Original](https://www.881903.com/news/local/2614409/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府就大維修提改善建議-由市建局制定顧問及承建商名單/){.md-button .hkfd-news-button}
+- [卓永興：宏福苑援助基金達43億元　帳目會呈交予審計署審核](https://www.881903.com/news/local/2614422/) [Original](https://www.881903.com/news/local/2614422/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興宏福苑援助基金達43億元-帳目會呈交予審計署審核/){.md-button .hkfd-news-button}
+- [黃偉綸：宏福苑原址重建挑戰大　何永賢：受災樓宇「內傷嚴重」](https://www.881903.com/news/local/2614401/) [Original](https://www.881903.com/news/local/2614401/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑原址重建挑戰大-何永賢受災樓宇內傷嚴重/){.md-button .hkfd-news-button}
+
+
+### 2026-01-15
+- [鄧炳強：宏福苑火災增至168人罹難　暫不公布死者名單](https://www.881903.com/news/local/2614661/) [Original](https://www.881903.com/news/local/2614661/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強宏福苑火災增至168人罹難-暫不公布死者名單/){.md-button .hkfd-news-button}
+- [「守望．同行」計劃已接觸133位宏福苑罹難者家屬　提供輔導](https://www.881903.com/news/local/2614636/) [Original](https://www.881903.com/news/local/2614636/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/守望同行計劃已接觸133位宏福苑罹難者家屬-提供輔導/){.md-button .hkfd-news-button}
+- [宏福苑大火仍有8名傷者留醫　約1800居民接受醫管局服務](https://www.881903.com/news/local/2614580/) [Original](https://www.881903.com/news/local/2614580/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火仍有8名傷者留醫-約1800居民接受醫管局服務/){.md-button .hkfd-news-button}
+- [宏福苑安置｜議員倡多元方案　頌雅路西項目參考宏福苑設計](https://www.881903.com/news/local/2614577/) [Original](https://www.881903.com/news/local/2614577/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置議員倡多元方案-頌雅路西項目參考宏福苑設計/){.md-button .hkfd-news-button}
+- [政府提改善大維修建議　議員關注將推升成本](https://www.881903.com/news/local/2614550/) [Original](https://www.881903.com/news/local/2614550/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府提改善大維修建議-議員關注將推升成本/){.md-button .hkfd-news-button}
+
+
+### 2026-01-16
+- [鄧炳強：大廈日後須做足額外消防措施才能關閉消防設備](https://www.881903.com/news/local/2614752/) [Original](https://www.881903.com/news/local/2614752/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強大廈日後須做足額外消防措施才能關閉消防設備/){.md-button .hkfd-news-button}
+- [鄧炳強：宏福苑168人罹難屬最終數字　已透過社工向每戶確認](https://www.881903.com/news/local/2614738/) [Original](https://www.881903.com/news/local/2614738/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強宏福苑168人罹難屬最終數字-已透過社工向每戶確認/){.md-button .hkfd-news-button}
+
+
+### 2026-01-17
+- [陳國基：將優化招標妥防圍標　會向市建局提供資源](https://www.881903.com/news/local/2614935/) [Original](https://www.881903.com/news/local/2614935/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳國基將優化招標妥防圍標-會向市建局提供資源/){.md-button .hkfd-news-button}

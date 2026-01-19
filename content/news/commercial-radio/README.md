@@ -709,3 +709,8 @@
 
 ### 2026-01-17
 - [陳國基：將優化招標妥防圍標　會向市建局提供資源](https://www.881903.com/news/local/2614935/) [Original](https://www.881903.com/news/local/2614935/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳國基將優化招標妥防圍標-會向市建局提供資源/){.md-button .hkfd-news-button}
+
+
+### 2026-01-19
+- [何永賢：頌雅路西土地安置宏福苑居民為好選擇](https://www.881903.com/news/local/2615220/) [Original](https://www.881903.com/news/local/2615220/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢頌雅路西土地安置宏福苑居民為好選擇/){.md-button .hkfd-news-button}
+- [九巴71K明起恢復廣福街市　及廣福商場外中途站](https://www.881903.com/news/local/2615226/) [Original](https://www.881903.com/news/local/2615226/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/九巴71k明起恢復廣福街市-及廣福商場外中途站/){.md-button .hkfd-news-button}

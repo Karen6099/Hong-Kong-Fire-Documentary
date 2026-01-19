@@ -360,3 +360,8 @@
 - [點直播｜立法會大會續會｜1月15日](https://www.dotdotnews.com/a/202601/15/AP69683bb7e4b0c32d4f660761.html) [Original](https://www.dotdotnews.com/a/202601/15/AP69683bb7e4b0c32d4f660761.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播立法會大會續會1月15日/){.md-button .hkfd-news-button}
 - [（有片）視頻論點｜宏福苑善後措施彰改革決心　長遠安置情理法兼備](https://www.dotdotnews.com/a/202601/15/AP6968bbfde4b0c32d4f661340.html) [Original](https://www.dotdotnews.com/a/202601/15/AP6968bbfde4b0c32d4f661340.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片視頻論點宏福苑善後措施彰改革決心-長遠安置情理法兼備/){.md-button .hkfd-news-button}
 - [點觀香港｜馬年換新鈔最快1·27網上預約　宏福苑善後議員有這些建議](https://www.dotdotnews.com/a/202601/15/AP6968cfd6e4b0c32d4f66158d.html) [Original](https://www.dotdotnews.com/a/202601/15/AP6968cfd6e4b0c32d4f66158d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港馬年換新鈔最快127網上預約-宏福苑善後議員有這些建議/){.md-button .hkfd-news-button}
+
+
+### 2026-01-19
+- [來論｜建立「以人為本」的維修與監管機制](https://www.dotdotnews.com/a/202601/19/AP696e031fe4b0c32d4f667623.html) [Original](https://www.dotdotnews.com/a/202601/19/AP696e031fe4b0c32d4f667623.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論建立以人為本的維修與監管機制/){.md-button .hkfd-news-button}
+- [張舉能強調行政措施不能凌駕法律　外部輿論未影響司法工作](https://www.dotdotnews.com/a/202601/19/AP696e264ce4b0c32d4f667940.html) [Original](https://www.dotdotnews.com/a/202601/19/AP696e264ce4b0c32d4f667940.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/張舉能強調行政措施不能凌駕法律-外部輿論未影響司法工作/){.md-button .hkfd-news-button}

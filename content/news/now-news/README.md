@@ -1042,3 +1042,10 @@
 - [宏福苑五級火災｜張舉能深感哀痛　高院首席法官監督各級法院處理有關案件](https://news.now.com/home/local/player?newsId=633501) [Original](https://news.now.com/home/local/player?newsId=633501){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災張舉能深感哀痛-高院首席法官監督各級法院處理有關案件/){.md-button .hkfd-news-button}
 - [何永賢：未來公營房屋供應　足夠讓宏福苑災民及置業需要市民選擇](https://news.now.com/home/local/player?newsId=633484) [Original](https://news.now.com/home/local/player?newsId=633484){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢未來公營房屋供應-足夠讓宏福苑災民及置業需要市民選擇/){.md-button .hkfd-news-button}
 - [簡樸房規管｜義華大廈劏房轉簡樸房　150租戶受影響　最快過年後須遷走](https://news.now.com/home/local/player?newsId=633450) [Original](https://news.now.com/home/local/player?newsId=633450){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管義華大廈劏房轉簡樸房-150租戶受影響-最快過年後須遷走/){.md-button .hkfd-news-button}
+
+
+### 2026-01-20
+- [簡樸房規管｜樂善堂：有足夠過渡屋單位容納義華大廈居民　劏房戶稱新界過渡屋不便市區上班](https://news.now.com/home/local/player?newsId=633639) [Original](https://news.now.com/home/local/player?newsId=633639){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管樂善堂有足夠過渡屋單位容納義華大廈居民-劏房戶稱新界過渡屋不便市區上班/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會2月5日舉行指示會議](https://news.now.com/home/local/player?newsId=633614) [Original](https://news.now.com/home/local/player?newsId=633614){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會2月5日舉行指示會議/){.md-button .hkfd-news-button}
+- [簡樸房規管｜義華大廈配合簡樸房條例改裝單位要求劏房戶遷出　房屋局指有寬限期籲業主毋須急改裝](https://news.now.com/home/local/player?newsId=633581) [Original](https://news.now.com/home/local/player?newsId=633581){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管義華大廈配合簡樸房條例改裝單位要求劏房戶遷出-房屋局指有寬限期籲業主毋須急改裝/){.md-button .hkfd-news-button}
+- [九巴71K線即日起恢復停廣福邨內中途站](https://news.now.com/home/local/player?newsId=633565) [Original](https://news.now.com/home/local/player?newsId=633565){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/九巴71k線即日起恢復停廣福邨內中途站/){.md-button .hkfd-news-button}

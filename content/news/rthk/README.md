@@ -1033,3 +1033,7 @@
 ### 2026-01-19
 - [張舉能稱司法機構對宏福苑大火深感哀痛　優先處理相關法律程序](https://news.rthk.hk/rthk/ch/component/k2/1840513-20260119.htm?archive_date=2026-01-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840513-20260119.htm?archive_date=2026-01-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/張舉能稱司法機構對宏福苑大火深感哀痛-優先處理相關法律程序/){.md-button .hkfd-news-button}
 - [多名房委會委員關注宏福苑居民居住安排](https://news.rthk.hk/rthk/ch/component/k2/1840502-20260119.htm?archive_date=2026-01-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840502-20260119.htm?archive_date=2026-01-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/多名房委會委員關注宏福苑居民居住安排/){.md-button .hkfd-news-button}
+
+
+### 2026-01-20
+- [宏福苑火災獨立委員會2月5日指示會議　設400個公眾旁聽名額](https://news.rthk.hk/rthk/ch/component/k2/1840642-20260120.htm?archive_date=2026-01-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840642-20260120.htm?archive_date=2026-01-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會2月5日指示會議-設400個公眾旁聽名額/){.md-button .hkfd-news-button}

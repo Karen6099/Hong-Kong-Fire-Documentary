@@ -308,3 +308,7 @@
 ### 2026-01-19
 - [Calls to free pro-democracy tycoon Jimmy Lai go against rule of law, says Hong Kong’s top judge](https://hongkongfp.com/?p=551604) [Original](https://hongkongfp.com/?p=551604){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/calls-to-free-pro-democracy-tycoon-jimmy-lai-go-against-rule-of-law-says-hong/){.md-button .hkfd-news-button}
 - [Colleagues of firefighter who died in Tai Po blaze run half-marathon in his honour](https://hongkongfp.com/?p=551569) [Original](https://hongkongfp.com/?p=551569){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/colleagues-of-firefighter-who-died-in-tai-po-blaze-run-half-marathon-in-his/){.md-button .hkfd-news-button}
+
+
+### 2026-01-20
+- [Hong Kong visitor numbers up 12% in 2025, but lag pre-pandemic levels](https://hongkongfp.com/?p=551649) [Original](https://hongkongfp.com/?p=551649){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-visitor-numbers-up-12-in-2025-but-lag-pre-pandemic-levels/){.md-button .hkfd-news-button}

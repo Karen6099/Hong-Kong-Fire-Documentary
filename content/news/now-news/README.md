@@ -1049,3 +1049,8 @@
 - [宏福苑火災獨立委員會2月5日舉行指示會議](https://news.now.com/home/local/player?newsId=633614) [Original](https://news.now.com/home/local/player?newsId=633614){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會2月5日舉行指示會議/){.md-button .hkfd-news-button}
 - [簡樸房規管｜義華大廈配合簡樸房條例改裝單位要求劏房戶遷出　房屋局指有寬限期籲業主毋須急改裝](https://news.now.com/home/local/player?newsId=633581) [Original](https://news.now.com/home/local/player?newsId=633581){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管義華大廈配合簡樸房條例改裝單位要求劏房戶遷出-房屋局指有寬限期籲業主毋須急改裝/){.md-button .hkfd-news-button}
 - [九巴71K線即日起恢復停廣福邨內中途站](https://news.now.com/home/local/player?newsId=633565) [Original](https://news.now.com/home/local/player?newsId=633565){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/九巴71k線即日起恢復停廣福邨內中途站/){.md-button .hkfd-news-button}
+
+
+### 2026-01-21
+- [南丫海難｜39名遇難者裁定屬非法被殺　造船廠董事是可靠證人　圖則要裝水密門是畫錯](https://news.now.com/home/local/player?newsId=633776) [Original](https://news.now.com/home/local/player?newsId=633776){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難39名遇難者裁定屬非法被殺-造船廠董事是可靠證人-圖則要裝水密門是畫錯/){.md-button .hkfd-news-button}
+- [南丫海難｜死因庭裁定39名遇難者屬非法被殺　家屬：暫未見更多人受罰](https://news.now.com/home/local/player?newsId=633743) [Original](https://news.now.com/home/local/player?newsId=633743){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難死因庭裁定39名遇難者屬非法被殺-家屬暫未見更多人受罰/){.md-button .hkfd-news-button}

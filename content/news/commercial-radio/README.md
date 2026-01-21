@@ -719,3 +719,8 @@
 ### 2026-01-20
 - [新地將單車節150萬元善款撥捐公益金大埔火災援助基金](https://www.881903.com/news/local/2615396/) [Original](https://www.881903.com/news/local/2615396/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新地將單車節150萬元善款撥捐公益金大埔火災援助基金/){.md-button .hkfd-news-button}
 - [宏福苑5級火丨獨立委員會下月5日舉行指示會議](https://www.881903.com/news/local/2615380/) [Original](https://www.881903.com/news/local/2615380/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨獨立委員會下月5日舉行指示會議/){.md-button .hkfd-news-button}
+
+
+### 2026-01-21
+- [政府今年擬提32項草案　包括因應宏福苑火災修訂建築物條例](https://www.881903.com/news/local/2615576/) [Original](https://www.881903.com/news/local/2615576/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府今年擬提32項草案-包括因應宏福苑火災修訂建築物條例/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會下月指示會議　公眾明早10時起可預約旁聽](https://www.881903.com/news/local/2615533/) [Original](https://www.881903.com/news/local/2615533/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月指示會議-公眾明早10時起可預約旁聽/){.md-button .hkfd-news-button}

@@ -312,3 +312,7 @@
 
 ### 2026-01-20
 - [Hong Kong visitor numbers up 12% in 2025, but lag pre-pandemic levels](https://hongkongfp.com/?p=551649) [Original](https://hongkongfp.com/?p=551649){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-visitor-numbers-up-12-in-2025-but-lag-pre-pandemic-levels/){.md-button .hkfd-news-button}
+
+
+### 2026-01-20
+- [Tai Po fire: Judge to outline investigation protocol during public session on Feb 5](https://hongkongfp.com/?p=551716) [Original](https://hongkongfp.com/?p=551716){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-judge-to-outline-investigation-protocol-during-public-session-on/){.md-button .hkfd-news-button}

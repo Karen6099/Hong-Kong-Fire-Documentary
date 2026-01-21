@@ -365,3 +365,7 @@
 ### 2026-01-19
 - [來論｜建立「以人為本」的維修與監管機制](https://www.dotdotnews.com/a/202601/19/AP696e031fe4b0c32d4f667623.html) [Original](https://www.dotdotnews.com/a/202601/19/AP696e031fe4b0c32d4f667623.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論建立以人為本的維修與監管機制/){.md-button .hkfd-news-button}
 - [張舉能強調行政措施不能凌駕法律　外部輿論未影響司法工作](https://www.dotdotnews.com/a/202601/19/AP696e264ce4b0c32d4f667940.html) [Original](https://www.dotdotnews.com/a/202601/19/AP696e264ce4b0c32d4f667940.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/張舉能強調行政措施不能凌駕法律-外部輿論未影響司法工作/){.md-button .hkfd-news-button}
+
+
+### 2026-01-21
+- [政府本年度擬提交32項草案　包括因應宏福苑火災修訂《建築物條例》](https://www.dotdotnews.com/a/202601/21/AP6970d3f3e4b0c32d4f66a7cc.html) [Original](https://www.dotdotnews.com/a/202601/21/AP6970d3f3e4b0c32d4f66a7cc.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府本年度擬提交32項草案-包括因應宏福苑火災修訂建築物條例/){.md-button .hkfd-news-button}

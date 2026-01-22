@@ -316,3 +316,7 @@
 
 ### 2026-01-20
 - [Tai Po fire: Judge to outline investigation protocol during public session on Feb 5](https://hongkongfp.com/?p=551716) [Original](https://hongkongfp.com/?p=551716){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-judge-to-outline-investigation-protocol-during-public-session-on/){.md-button .hkfd-news-button}
+
+
+### 2026-01-22
+- [Hong Kong’s Tianjin office chief fired after showing off free travel upgrades on social media](https://hongkongfp.com/?p=551824) [Original](https://hongkongfp.com/?p=551824){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-tianjin-office-chief-fired-after-showing-off-free-travel-upgrades-on/){.md-button .hkfd-news-button}

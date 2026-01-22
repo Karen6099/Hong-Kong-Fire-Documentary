@@ -1054,3 +1054,11 @@
 ### 2026-01-21
 - [南丫海難｜39名遇難者裁定屬非法被殺　造船廠董事是可靠證人　圖則要裝水密門是畫錯](https://news.now.com/home/local/player?newsId=633776) [Original](https://news.now.com/home/local/player?newsId=633776){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難39名遇難者裁定屬非法被殺-造船廠董事是可靠證人-圖則要裝水密門是畫錯/){.md-button .hkfd-news-button}
 - [南丫海難｜死因庭裁定39名遇難者屬非法被殺　家屬：暫未見更多人受罰](https://news.now.com/home/local/player?newsId=633743) [Original](https://news.now.com/home/local/player?newsId=633743){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難死因庭裁定39名遇難者屬非法被殺-家屬暫未見更多人受罰/){.md-button .hkfd-news-button}
+
+
+### 2026-01-22
+- [毛樂禮連任大律師公會主席　冀大眾不要用政治判斷法治](https://news.now.com/home/local/player?newsId=633954) [Original](https://news.now.com/home/local/player?newsId=633954){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮連任大律師公會主席-冀大眾不要用政治判斷法治/){.md-button .hkfd-news-button}
+- [毛樂禮連任大律師公會主席　希望大眾不要政治判斷法治](https://news.now.com/home/local/player?newsId=633949) [Original](https://news.now.com/home/local/player?newsId=633949){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮連任大律師公會主席-希望大眾不要政治判斷法治/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜醫管局指仍有8名傷者留醫　情況穩定](https://news.now.com/home/local/player?newsId=633867) [Original](https://news.now.com/home/local/player?newsId=633867){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災醫管局指仍有8名傷者留醫-情況穩定/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會指示會議　約400個公眾旁聽名額開放申請](https://news.now.com/home/local/player?newsId=633861) [Original](https://news.now.com/home/local/player?newsId=633861){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會指示會議-約400個公眾旁聽名額開放申請/){.md-button .hkfd-news-button}
+- [政府擬本立法年度提32條條例草案　涵蓋工程安全及北都發展等](https://news.now.com/home/local/player?newsId=633855)

@@ -724,3 +724,7 @@
 ### 2026-01-21
 - [政府今年擬提32項草案　包括因應宏福苑火災修訂建築物條例](https://www.881903.com/news/local/2615576/) [Original](https://www.881903.com/news/local/2615576/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府今年擬提32項草案-包括因應宏福苑火災修訂建築物條例/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會下月指示會議　公眾明早10時起可預約旁聽](https://www.881903.com/news/local/2615533/) [Original](https://www.881903.com/news/local/2615533/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月指示會議-公眾明早10時起可預約旁聽/){.md-button .hkfd-news-button}
+
+
+### 2026-01-22
+- [宏福苑大火8傷者仍留院　情況穩定](https://www.881903.com/news/local/2615641/) [Original](https://www.881903.com/news/local/2615641/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火8傷者仍留院-情況穩定/){.md-button .hkfd-news-button}

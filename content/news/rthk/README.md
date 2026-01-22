@@ -1028,3 +1028,18 @@
 
 ### 2026-01-17
 - [孫玉菡稱一戶一社工已接觸宏福苑受影響住戶　擬修例所有地盤禁煙](https://news.rthk.hk/rthk/ch/component/k2/1840267-20260117.htm?archive_date=2026-01-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840267-20260117.htm?archive_date=2026-01-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡稱一戶一社工已接觸宏福苑受影響住戶-擬修例所有地盤禁煙/){.md-button .hkfd-news-button}
+
+
+### 2026-01-19
+- [張舉能稱司法機構對宏福苑大火深感哀痛　優先處理相關法律程序](https://news.rthk.hk/rthk/ch/component/k2/1840513-20260119.htm?archive_date=2026-01-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840513-20260119.htm?archive_date=2026-01-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/張舉能稱司法機構對宏福苑大火深感哀痛-優先處理相關法律程序/){.md-button .hkfd-news-button}
+- [多名房委會委員關注宏福苑居民居住安排](https://news.rthk.hk/rthk/ch/component/k2/1840502-20260119.htm?archive_date=2026-01-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840502-20260119.htm?archive_date=2026-01-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/多名房委會委員關注宏福苑居民居住安排/){.md-button .hkfd-news-button}
+
+
+### 2026-01-20
+- [宏福苑火災獨立委員會2月5日指示會議　設400個公眾旁聽名額](https://news.rthk.hk/rthk/ch/component/k2/1840642-20260120.htm?archive_date=2026-01-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840642-20260120.htm?archive_date=2026-01-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會2月5日指示會議-設400個公眾旁聽名額/){.md-button .hkfd-news-button}
+
+
+### 2026-01-21
+- [政府擬提交32項條例草案包括因應宏福苑火災提出修訂建築物條例](https://news.rthk.hk/rthk/ch/component/k2/1840848-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840848-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬提交32項條例草案包括因應宏福苑火災提出修訂建築物條例/){.md-button .hkfd-news-button}
+- [銀行公會：業界會以體恤和靈活原則處理每宗宏福苑按揭個案](https://news.rthk.hk/rthk/ch/component/k2/1840812-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840812-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行公會業界會以體恤和靈活原則處理每宗宏福苑按揭個案/){.md-button .hkfd-news-button}
+- [大埔宏福苑火災獨立委員會　明起可網上預約出席旁聽指示會議](https://news.rthk.hk/rthk/ch/component/k2/1840803-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840803-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑火災獨立委員會-明起可網上預約出席旁聽指示會議/){.md-button .hkfd-news-button}

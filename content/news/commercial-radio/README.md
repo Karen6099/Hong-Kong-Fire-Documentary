@@ -709,3 +709,18 @@
 
 ### 2026-01-17
 - [陳國基：將優化招標妥防圍標　會向市建局提供資源](https://www.881903.com/news/local/2614935/) [Original](https://www.881903.com/news/local/2614935/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳國基將優化招標妥防圍標-會向市建局提供資源/){.md-button .hkfd-news-button}
+
+
+### 2026-01-19
+- [何永賢：頌雅路西土地安置宏福苑居民為好選擇](https://www.881903.com/news/local/2615220/) [Original](https://www.881903.com/news/local/2615220/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢頌雅路西土地安置宏福苑居民為好選擇/){.md-button .hkfd-news-button}
+- [九巴71K明起恢復廣福街市　及廣福商場外中途站](https://www.881903.com/news/local/2615226/) [Original](https://www.881903.com/news/local/2615226/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/九巴71k明起恢復廣福街市-及廣福商場外中途站/){.md-button .hkfd-news-button}
+
+
+### 2026-01-20
+- [新地將單車節150萬元善款撥捐公益金大埔火災援助基金](https://www.881903.com/news/local/2615396/) [Original](https://www.881903.com/news/local/2615396/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新地將單車節150萬元善款撥捐公益金大埔火災援助基金/){.md-button .hkfd-news-button}
+- [宏福苑5級火丨獨立委員會下月5日舉行指示會議](https://www.881903.com/news/local/2615380/) [Original](https://www.881903.com/news/local/2615380/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨獨立委員會下月5日舉行指示會議/){.md-button .hkfd-news-button}
+
+
+### 2026-01-21
+- [政府今年擬提32項草案　包括因應宏福苑火災修訂建築物條例](https://www.881903.com/news/local/2615576/) [Original](https://www.881903.com/news/local/2615576/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府今年擬提32項草案-包括因應宏福苑火災修訂建築物條例/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會下月指示會議　公眾明早10時起可預約旁聽](https://www.881903.com/news/local/2615533/) [Original](https://www.881903.com/news/local/2615533/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月指示會議-公眾明早10時起可預約旁聽/){.md-button .hkfd-news-button}

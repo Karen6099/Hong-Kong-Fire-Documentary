@@ -320,3 +320,7 @@
 
 ### 2026-01-22
 - [Hong Kong’s Tianjin office chief fired after showing off free travel upgrades on social media](https://hongkongfp.com/?p=551824) [Original](https://hongkongfp.com/?p=551824){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kongs-tianjin-office-chief-fired-after-showing-off-free-travel-upgrades-on/){.md-button .hkfd-news-button}
+
+
+### 2026-01-22
+- [Ex-Wall Street Journal reporter denies ‘deliberately’ hiding HK$3M settlement demand in unlawful termination suit](https://hongkongfp.com/?p=551941) [Original](https://hongkongfp.com/?p=551941){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/ex-wall-street-journal-reporter-denies-deliberately-hiding-hk3m-settlement/){.md-button .hkfd-news-button}

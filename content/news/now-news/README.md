@@ -1061,4 +1061,9 @@
 - [毛樂禮連任大律師公會主席　希望大眾不要政治判斷法治](https://news.now.com/home/local/player?newsId=633949) [Original](https://news.now.com/home/local/player?newsId=633949){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮連任大律師公會主席-希望大眾不要政治判斷法治/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜醫管局指仍有8名傷者留醫　情況穩定](https://news.now.com/home/local/player?newsId=633867) [Original](https://news.now.com/home/local/player?newsId=633867){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災醫管局指仍有8名傷者留醫-情況穩定/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會指示會議　約400個公眾旁聽名額開放申請](https://news.now.com/home/local/player?newsId=633861) [Original](https://news.now.com/home/local/player?newsId=633861){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會指示會議-約400個公眾旁聽名額開放申請/){.md-button .hkfd-news-button}
-- [政府擬本立法年度提32條條例草案　涵蓋工程安全及北都發展等](https://news.now.com/home/local/player?newsId=633855)
+- [政府擬本立法年度提32條條例草案　涵蓋工程安全及北都發展等](https://news.now.com/home/local/player?newsId=633855) [Original](https://news.now.com/home/local/player?newsId=633855){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬本立法年度提32條條例草案-涵蓋工程安全及北都發展等/){.md-button .hkfd-news-button}
+
+
+### 2026-01-23
+- [立法會18個事務委員會首次會議討論未來議程　議員倡談大廈法團支援及關愛隊表現](https://news.now.com/home/local/player?newsId=634025) [Original](https://news.now.com/home/local/player?newsId=634025){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會首次會議討論未來議程-議員倡談大廈法團支援及關愛隊表現/){.md-button .hkfd-news-button}
+- [立法會18個事務委員會先後舉行首次會議](https://news.now.com/home/local/player?newsId=634005) [Original](https://news.now.com/home/local/player?newsId=634005){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會先後舉行首次會議/){.md-button .hkfd-news-button}

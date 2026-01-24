@@ -1067,3 +1067,8 @@
 ### 2026-01-23
 - [立法會18個事務委員會首次會議討論未來議程　議員倡談大廈法團支援及關愛隊表現](https://news.now.com/home/local/player?newsId=634025) [Original](https://news.now.com/home/local/player?newsId=634025){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會首次會議討論未來議程-議員倡談大廈法團支援及關愛隊表現/){.md-button .hkfd-news-button}
 - [立法會18個事務委員會先後舉行首次會議](https://news.now.com/home/local/player?newsId=634005) [Original](https://news.now.com/home/local/player?newsId=634005){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會先後舉行首次會議/){.md-button .hkfd-news-button}
+
+
+### 2026-01-24
+- [宏福苑安置　鄧家彪倡於廣福足球場及寵物公園小型重建](https://news.now.com/home/local/player?newsId=634133) [Original](https://news.now.com/home/local/player?newsId=634133){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置-鄧家彪倡於廣福足球場及寵物公園小型重建/){.md-button .hkfd-news-button}
+- [468生效工友被縮鐘　孫玉菡：僱主很短視](https://news.now.com/home/local/player?newsId=634105) [Original](https://news.now.com/home/local/player?newsId=634105){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/468生效工友被縮鐘-孫玉菡僱主很短視/){.md-button .hkfd-news-button}

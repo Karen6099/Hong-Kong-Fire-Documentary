@@ -1763,3 +1763,8 @@
 ### 20260123
 - [疑被冒充嫁禍恐嚇 聯署倡重建業主報案](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260123/s00002/1769104237209) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260123/s00002/1769104237209){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/疑被冒充嫁禍恐嚇-聯署倡重建業主報案/){.md-button .hkfd-news-button}
 - [借用教大上課 埔浸小學生立志做校長 校長感恩災後各方支援 復常不易但「路由人行出來」](https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20260123/s00011/1769104246165) [Original](https://news.mingpao.com/pns/%e6%95%99%e8%82%b2/article/20260123/s00011/1769104246165){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/借用教大上課-埔浸小學生立志做校長-校長感恩災後各方支援-復常不易但路由人行出來/){.md-button .hkfd-news-button}
+
+### 20260124
+- [大埔富善邨新業主法團當選   倡政府修例後始按新規範推進大維修](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260124/s00001/1769252447437) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260124/s00001/1769252447437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔富善邨新業主法團當選-倡政府修例後始按新規範推進大維修/){.md-button .hkfd-news-button}
+- [甯漢豪：「招標妥」預審名單涵檢控記錄、執法部門非公開調查 冀下半年推出](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260124/s00001/1769234078718) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260124/s00001/1769234078718){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪招標妥預審名單涵檢控記錄執法部門非公開調查-冀下半年推出/){.md-button .hkfd-news-button}
+- [永明大廈承辦商切喉 消防稱獲通知](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260124/s00002/1769189772130) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260124/s00002/1769189772130){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/永明大廈承辦商切喉-消防稱獲通知/){.md-button .hkfd-news-button}

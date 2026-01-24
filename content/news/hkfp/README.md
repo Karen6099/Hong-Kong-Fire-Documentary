@@ -324,3 +324,8 @@
 
 ### 2026-01-22
 - [Ex-Wall Street Journal reporter denies ‘deliberately’ hiding HK$3M settlement demand in unlawful termination suit](https://hongkongfp.com/?p=551941) [Original](https://hongkongfp.com/?p=551941){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/ex-wall-street-journal-reporter-denies-deliberately-hiding-hk3m-settlement/){.md-button .hkfd-news-button}
+
+
+### 2026-01-24
+- [Wall Street Journal only willing to meet for mediation talks under ‘conditions,’ court hears in wrongful dismissal suit](https://hongkongfp.com/?p=552139) [Original](https://hongkongfp.com/?p=552139){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wall-street-journal-only-willing-to-meet-for-mediation-talks-under-conditions/){.md-button .hkfd-news-button}
+- [HKFP Monitor Jan 24, 2026: Annual Tiananmen vigils – from remembrance to forbidden](https://hongkongfp.com/?p=552207) [Original](https://hongkongfp.com/?p=552207){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-24-2026-annual-tiananmen-vigils-from-remembrance-to-forbidden/){.md-button .hkfd-news-button}

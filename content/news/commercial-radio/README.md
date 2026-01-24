@@ -728,3 +728,8 @@
 
 ### 2026-01-22
 - [宏福苑大火8傷者仍留院　情況穩定](https://www.881903.com/news/local/2615641/) [Original](https://www.881903.com/news/local/2615641/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火8傷者仍留院-情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2026-01-24
+- [民青局：合安接管宏福苑管理　將設網上溝通平台](https://www.881903.com/news/local/2615968/) [Original](https://www.881903.com/news/local/2615968/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民青局合安接管宏福苑管理-將設網上溝通平台/){.md-button .hkfd-news-button}
+- [鄧家彪：有可疑大廈法團在修例前加快招標](https://www.881903.com/news/local/2615937/) [Original](https://www.881903.com/news/local/2615937/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧家彪有可疑大廈法團在修例前加快招標/){.md-button .hkfd-news-button}

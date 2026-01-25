@@ -733,3 +733,8 @@
 ### 2026-01-24
 - [民青局：合安接管宏福苑管理　將設網上溝通平台](https://www.881903.com/news/local/2615968/) [Original](https://www.881903.com/news/local/2615968/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民青局合安接管宏福苑管理-將設網上溝通平台/){.md-button .hkfd-news-button}
 - [鄧家彪：有可疑大廈法團在修例前加快招標](https://www.881903.com/news/local/2615937/) [Original](https://www.881903.com/news/local/2615937/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧家彪有可疑大廈法團在修例前加快招標/){.md-button .hkfd-news-button}
+
+
+### 2026-01-25
+- [消防便衣巡查36幢商廈　檢控37宗阻逃生情況](https://www.881903.com/news/local/2616047/) [Original](https://www.881903.com/news/local/2616047/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防便衣巡查36幢商廈-檢控37宗阻逃生情況/){.md-button .hkfd-news-button}
+- [羅淑佩：今年體育盛事接踵而來　帶來更多正能量](https://www.881903.com/news/local/2616018/) [Original](https://www.881903.com/news/local/2616018/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩今年體育盛事接踵而來-帶來更多正能量/){.md-button .hkfd-news-button}

@@ -1078,3 +1078,7 @@
 - [即日焦點｜巴士安全帶新例即日起生效／高市早苗民望首次跌至不足六成](https://news.now.com/home/local/player?newsId=634266) [Original](https://news.now.com/home/local/player?newsId=634266){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點巴士安全帶新例即日起生效高市早苗民望首次跌至不足六成/){.md-button .hkfd-news-button}
 - [博愛中環辦慈善跑　為安老院舍及宏福苑火災重建項目籌款](https://news.now.com/home/local/player?newsId=634229) [Original](https://news.now.com/home/local/player?newsId=634229){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛中環辦慈善跑-為安老院舍及宏福苑火災重建項目籌款/){.md-button .hkfd-news-button}
 - [博愛中環辦慈善跑　為安老院舍及大埔火災重建項目籌款](https://news.now.com/home/local/player?newsId=634200) [Original](https://news.now.com/home/local/player?newsId=634200){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛中環辦慈善跑-為安老院舍及大埔火災重建項目籌款/){.md-button .hkfd-news-button}
+
+
+### 2026-01-26
+- [宏福苑大火後一戶一社工　社署稱會協調社工工作量](https://news.now.com/home/local/player?newsId=634389) [Original](https://news.now.com/home/local/player?newsId=634389){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火後一戶一社工-社署稱會協調社工工作量/){.md-button .hkfd-news-button}

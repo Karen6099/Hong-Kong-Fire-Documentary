@@ -738,3 +738,9 @@
 ### 2026-01-25
 - [消防便衣巡查36幢商廈　檢控37宗阻逃生情況](https://www.881903.com/news/local/2616047/) [Original](https://www.881903.com/news/local/2616047/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防便衣巡查36幢商廈-檢控37宗阻逃生情況/){.md-button .hkfd-news-button}
 - [羅淑佩：今年體育盛事接踵而來　帶來更多正能量](https://www.881903.com/news/local/2616018/) [Original](https://www.881903.com/news/local/2616018/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩今年體育盛事接踵而來-帶來更多正能量/){.md-button .hkfd-news-button}
+
+
+### 2026-01-26
+- [鄧炳強：紀律部隊獲高度評價　證社會主流站在正義一方](https://www.881903.com/news/local/2616199/) [Original](https://www.881903.com/news/local/2616199/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強紀律部隊獲高度評價-證社會主流站在正義一方/){.md-button .hkfd-news-button}
+- [社署：透過行政措施協調　支援「一戶一社工」工作](https://www.881903.com/news/local/2616186/) [Original](https://www.881903.com/news/local/2616186/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/社署透過行政措施協調-支援一戶一社工工作/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會　邀請公眾及團體提供資料](https://www.881903.com/news/local/2616169/) [Original](https://www.881903.com/news/local/2616169/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會-邀請公眾及團體提供資料/){.md-button .hkfd-news-button}

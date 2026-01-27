@@ -1082,3 +1082,19 @@
 
 ### 2026-01-26
 - [宏福苑大火後一戶一社工　社署稱會協調社工工作量](https://news.now.com/home/local/player?newsId=634389) [Original](https://news.now.com/home/local/player?newsId=634389){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火後一戶一社工-社署稱會協調社工工作量/){.md-button .hkfd-news-button}
+
+
+### 2026-01-26
+- [宏福苑火災獨立委員會邀請公眾提供資料](https://news.now.com/home/local/player?newsId=634405) [Original](https://news.now.com/home/local/player?newsId=634405){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會邀請公眾提供資料/){.md-button .hkfd-news-button}
+
+### 2026-01-27
+- [胡健民署任政制局長　稱局方上下一定盡心盡力做好工作](https://news.now.com/home/local/player?newsId=634526) [Original](https://news.now.com/home/local/player?newsId=634526){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/胡健民署任政制局長-稱局方上下一定盡心盡力做好工作/){.md-button .hkfd-news-button}
+- [曾國衞紀律部隊出身　2020年起任局長處理多場選舉](https://news.now.com/home/local/player?newsId=634517) [Original](https://news.now.com/home/local/player?newsId=634517){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞紀律部隊出身-2020年起任局長處理多場選舉/){.md-button .hkfd-news-button}
+- [宏福苑安置方案問卷獲9成回覆　李家超：以情理法研長遠安排](https://news.now.com/home/local/player?newsId=634455) [Original](https://news.now.com/home/local/player?newsId=634455){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置方案問卷獲9成回覆-李家超以情理法研長遠安排/){.md-button .hkfd-news-button}
+- [曾國衞稱前列腺癌指數持續升服藥無改善請辭　李家超：沒計劃再變動司局長人事](https://news.now.com/home/local/player?newsId=634451) [Original](https://news.now.com/home/local/player?newsId=634451){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞稱前列腺癌指數持續升服藥無改善請辭-李家超沒計劃再變動司局長人事/){.md-button .hkfd-news-button}
+- [李家超：傳有其他司局長離任揣測都不正確　沒計劃再變動司局長人事](https://news.now.com/home/local/player?newsId=634446) [Original](https://news.now.com/home/local/player?newsId=634446){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超傳有其他司局長離任揣測都不正確-沒計劃再變動司局長人事/){.md-button .hkfd-news-button}
+- [曾國衞紀律部隊出身　2020年起任局長處理多場選舉](https://news.now.com/home/local/player?newsId=634445) [Original](https://news.now.com/home/local/player?newsId=634445){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞紀律部隊出身-2020年起任局長處理多場選舉-1/){.md-button .hkfd-news-button}
+- [曾國衞稱前列腺癌指數一直上升　服藥無改善請辭](https://news.now.com/home/local/player?newsId=634444) [Original](https://news.now.com/home/local/player?newsId=634444){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞稱前列腺癌指數一直上升-服藥無改善請辭/){.md-button .hkfd-news-button}
+- [原片．李家超行會前見記者(三)｜強調涉及多名司局長離任的揣測不正確　回應宏福苑善後工作等](https://news.now.com/home/local/player?newsId=634443) [Original](https://news.now.com/home/local/player?newsId=634443){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者三強調涉及多名司局長離任的揣測不正確-回應宏福苑善後工作等/){.md-button .hkfd-news-button}
+- [原片．李家超行會前見記者(二)｜領會夏寶龍主任講話　總結四個深刻體會](https://news.now.com/home/local/player?newsId=634438) [Original](https://news.now.com/home/local/player?newsId=634438){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者二領會夏寶龍主任講話-總結四個深刻體會/){.md-button .hkfd-news-button}
+- [原片．李家超行會前見記者(一)｜攜曾國衞出席解釋對方請辭政制及內地事務局局長](https://news.now.com/home/local/player?newsId=634437) [Original](https://news.now.com/home/local/player?newsId=634437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者一攜曾國衞出席解釋對方請辭政制及內地事務局局長/){.md-button .hkfd-news-button}

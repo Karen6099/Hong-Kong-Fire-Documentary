@@ -1047,3 +1047,9 @@
 
 ### 2026-01-26
 - [大埔宏福苑火災獨立委員會邀請公眾和團體提供資料](https://news.rthk.hk/rthk/ch/component/k2/1841408-20260126.htm?archive_date=2026-01-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841408-20260126.htm?archive_date=2026-01-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑火災獨立委員會邀請公眾和團體提供資料/){.md-button .hkfd-news-button}
+
+
+### 2026-01-27
+- [Almost all Wang Fuk residents answered survey: CE](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/almost-all-wang-fuk-residents-answered-survey-ce/){.md-button .hkfd-news-button}
+- [李家超指約9成宏福苑業主回覆住宿意願](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超指約9成宏福苑業主回覆住宿意願/){.md-button .hkfd-news-button}
+- [李家超：重視宏福苑居民長遠居住安排　約九成業主已覆正分析內容](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超重視宏福苑居民長遠居住安排-約九成業主已覆正分析內容/){.md-button .hkfd-news-button}

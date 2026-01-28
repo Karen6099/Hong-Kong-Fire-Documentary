@@ -1787,3 +1787,8 @@
 ### 20260127
 - [當局已收集九成宏福苑業主對長遠安置意見 正歸納和分析](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260127/s00001/1769482654910) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260127/s00001/1769482654910){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/當局已收集九成宏福苑業主對長遠安置意見-正歸納和分析/){.md-button .hkfd-news-button}
 - [查宏福火邀公眾報料 個人資料或轉交政府](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260127/s00002/1769449766344) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260127/s00002/1769449766344){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/查宏福火邀公眾報料-個人資料或轉交政府/){.md-button .hkfd-news-button}
+
+### 20260128
+- [嘉道理農場籌款活動逾2200人參與 包括宏福苑災民](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260128/s00001/1769586242152) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260128/s00001/1769586242152){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/嘉道理農場籌款活動逾2200人參與-包括宏福苑災民/){.md-button .hkfd-news-button}
+- [宏福苑援助基金總額達45億 財政承擔額約12億](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260128/s00001/1769582431594) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260128/s00001/1769582431594){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑援助基金總額達45億-財政承擔額約12億/){.md-button .hkfd-news-button}
+- [宏福災民安置問卷收九成回覆 李家超：每方案持「公開態度」](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260128/s00002/1769536304881) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260128/s00002/1769536304881){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福災民安置問卷收九成回覆-李家超每方案持公開態度/){.md-button .hkfd-news-button}

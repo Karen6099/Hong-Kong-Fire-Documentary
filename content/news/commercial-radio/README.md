@@ -744,3 +744,14 @@
 - [鄧炳強：紀律部隊獲高度評價　證社會主流站在正義一方](https://www.881903.com/news/local/2616199/) [Original](https://www.881903.com/news/local/2616199/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強紀律部隊獲高度評價-證社會主流站在正義一方/){.md-button .hkfd-news-button}
 - [社署：透過行政措施協調　支援「一戶一社工」工作](https://www.881903.com/news/local/2616186/) [Original](https://www.881903.com/news/local/2616186/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/社署透過行政措施協調-支援一戶一社工工作/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會　邀請公眾及團體提供資料](https://www.881903.com/news/local/2616169/) [Original](https://www.881903.com/news/local/2616169/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會-邀請公眾及團體提供資料/){.md-button .hkfd-news-button}
+
+
+### 2026-01-27
+- [李家超：宏福苑90%業主已回覆長遠住宿安排意願](https://www.881903.com/news/local/2616284/) [Original](https://www.881903.com/news/local/2616284/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超宏福苑90業主已回覆長遠住宿安排意願/){.md-button .hkfd-news-button}
+- [麥美娟︰將修訂《建管條例》　相信可獲社會支持](https://www.881903.com/news/local/2616250/) [Original](https://www.881903.com/news/local/2616250/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟將修訂建管條例-相信可獲社會支持/){.md-button .hkfd-news-button}
+
+### 2026-01-28
+- [消防處提升裝備引入新型機械人　研滅火無人機技術](https://www.881903.com/news/local/2616515/) [Original](https://www.881903.com/news/local/2616515/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處提升裝備引入新型機械人-研滅火無人機技術/){.md-button .hkfd-news-button}
+- [議員關注會否只進口阻燃帆布及棚網　甯漢豪：不宜一刀切](https://www.881903.com/news/local/2616500/) [Original](https://www.881903.com/news/local/2616500/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/議員關注會否只進口阻燃帆布及棚網-甯漢豪不宜一刀切/){.md-button .hkfd-news-button}
+- [約15名宏業建築工人到碧瑤灣地盤追欠薪　2工人爬上棚架抗議](https://www.881903.com/news/local/2616456/) [Original](https://www.881903.com/news/local/2616456/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/約15名宏業建築工人到碧瑤灣地盤追欠薪-2工人爬上棚架抗議/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜援助基金總額已達45億元](https://www.881903.com/news/local/2616471/) [Original](https://www.881903.com/news/local/2616471/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火援助基金總額已達45億元/){.md-button .hkfd-news-button}

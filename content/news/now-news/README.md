@@ -1098,3 +1098,9 @@
 - [原片．李家超行會前見記者(三)｜強調涉及多名司局長離任的揣測不正確　回應宏福苑善後工作等](https://news.now.com/home/local/player?newsId=634443) [Original](https://news.now.com/home/local/player?newsId=634443){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者三強調涉及多名司局長離任的揣測不正確-回應宏福苑善後工作等/){.md-button .hkfd-news-button}
 - [原片．李家超行會前見記者(二)｜領會夏寶龍主任講話　總結四個深刻體會](https://news.now.com/home/local/player?newsId=634438) [Original](https://news.now.com/home/local/player?newsId=634438){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者二領會夏寶龍主任講話-總結四個深刻體會/){.md-button .hkfd-news-button}
 - [原片．李家超行會前見記者(一)｜攜曾國衞出席解釋對方請辭政制及內地事務局局長](https://news.now.com/home/local/player?newsId=634437) [Original](https://news.now.com/home/local/player?newsId=634437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者一攜曾國衞出席解釋對方請辭政制及內地事務局局長/){.md-button .hkfd-news-button}
+
+
+### 2026-01-28
+- [宏業建築承辦碧瑤灣維修　工人危坐棚架追薪　勞工處：已派員到場協助](https://news.now.com/home/local/player?newsId=634665) [Original](https://news.now.com/home/local/player?newsId=634665){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業建築承辦碧瑤灣維修-工人危坐棚架追薪-勞工處已派員到場協助/){.md-button .hkfd-news-button}
+- [宏業建築承辦碧瑤灣維修　工人危坐棚架追薪　工會：涉法律程序法團難直接付款](https://news.now.com/home/local/player?newsId=634601) [Original](https://news.now.com/home/local/player?newsId=634601){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業建築承辦碧瑤灣維修-工人危坐棚架追薪-工會涉法律程序法團難直接付款/){.md-button .hkfd-news-button}
+- [薄扶林碧瑤灣大維修由宏業承辦　再有工人追討欠薪](https://news.now.com/home/local/player?newsId=634596) [Original](https://news.now.com/home/local/player?newsId=634596){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/薄扶林碧瑤灣大維修由宏業承辦-再有工人追討欠薪/){.md-button .hkfd-news-button}

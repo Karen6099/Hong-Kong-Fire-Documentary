@@ -296,3 +296,7 @@
 - [香港大埔宏福苑火灾累计71名伤者出院](http://gba.people.cn/n1/2026/0116/c42272-40646677.html) [Original](http://gba.people.cn/n1/2026/0116/c42272-40646677.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾累计71名伤者出院/){.md-button .hkfd-news-button}
 - [新华社香港1月15日电（奚天麒）香港特区政府保安局局长邓炳强15日表示，大埔宏福苑火灾遇难人数增至168人，目前所有遗体均已完成辨认工作，相关失踪个案也已处理完毕。
 邓炳强说，出于对家属意愿的尊重，暂不会公布遇难者名单。](http://gba.people.cn/n1/2026/0116/c42272-40646652.html)
+
+
+### 2026-01-26
+- [香港大埔火灾善后全景扫描](http://gba.people.cn/n1/2026/0126/c42272-40652743.html) [Original](http://gba.people.cn/n1/2026/0126/c42272-40652743.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔火灾善后全景扫描/){.md-button .hkfd-news-button}

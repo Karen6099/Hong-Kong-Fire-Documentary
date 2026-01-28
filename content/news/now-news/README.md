@@ -1054,3 +1054,47 @@
 ### 2026-01-21
 - [南丫海難｜39名遇難者裁定屬非法被殺　造船廠董事是可靠證人　圖則要裝水密門是畫錯](https://news.now.com/home/local/player?newsId=633776) [Original](https://news.now.com/home/local/player?newsId=633776){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難39名遇難者裁定屬非法被殺-造船廠董事是可靠證人-圖則要裝水密門是畫錯/){.md-button .hkfd-news-button}
 - [南丫海難｜死因庭裁定39名遇難者屬非法被殺　家屬：暫未見更多人受罰](https://news.now.com/home/local/player?newsId=633743) [Original](https://news.now.com/home/local/player?newsId=633743){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難死因庭裁定39名遇難者屬非法被殺-家屬暫未見更多人受罰/){.md-button .hkfd-news-button}
+
+
+### 2026-01-22
+- [毛樂禮連任大律師公會主席　冀大眾不要用政治判斷法治](https://news.now.com/home/local/player?newsId=633954) [Original](https://news.now.com/home/local/player?newsId=633954){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮連任大律師公會主席-冀大眾不要用政治判斷法治/){.md-button .hkfd-news-button}
+- [毛樂禮連任大律師公會主席　希望大眾不要政治判斷法治](https://news.now.com/home/local/player?newsId=633949) [Original](https://news.now.com/home/local/player?newsId=633949){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮連任大律師公會主席-希望大眾不要政治判斷法治/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜醫管局指仍有8名傷者留醫　情況穩定](https://news.now.com/home/local/player?newsId=633867) [Original](https://news.now.com/home/local/player?newsId=633867){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災醫管局指仍有8名傷者留醫-情況穩定/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會指示會議　約400個公眾旁聽名額開放申請](https://news.now.com/home/local/player?newsId=633861) [Original](https://news.now.com/home/local/player?newsId=633861){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會指示會議-約400個公眾旁聽名額開放申請/){.md-button .hkfd-news-button}
+- [政府擬本立法年度提32條條例草案　涵蓋工程安全及北都發展等](https://news.now.com/home/local/player?newsId=633855) [Original](https://news.now.com/home/local/player?newsId=633855){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬本立法年度提32條條例草案-涵蓋工程安全及北都發展等/){.md-button .hkfd-news-button}
+
+
+### 2026-01-23
+- [立法會18個事務委員會首次會議討論未來議程　議員倡談大廈法團支援及關愛隊表現](https://news.now.com/home/local/player?newsId=634025) [Original](https://news.now.com/home/local/player?newsId=634025){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會首次會議討論未來議程-議員倡談大廈法團支援及關愛隊表現/){.md-button .hkfd-news-button}
+- [立法會18個事務委員會先後舉行首次會議](https://news.now.com/home/local/player?newsId=634005) [Original](https://news.now.com/home/local/player?newsId=634005){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會先後舉行首次會議/){.md-button .hkfd-news-button}
+
+
+### 2026-01-24
+- [宏福苑安置　鄧家彪倡於廣福足球場及寵物公園小型重建](https://news.now.com/home/local/player?newsId=634133) [Original](https://news.now.com/home/local/player?newsId=634133){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置-鄧家彪倡於廣福足球場及寵物公園小型重建/){.md-button .hkfd-news-button}
+- [468生效工友被縮鐘　孫玉菡：僱主很短視](https://news.now.com/home/local/player?newsId=634105) [Original](https://news.now.com/home/local/player?newsId=634105){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/468生效工友被縮鐘-孫玉菡僱主很短視/){.md-button .hkfd-news-button}
+
+
+### 2026-01-25
+- [即日焦點｜巴士安全帶新例即日起生效／高市早苗民望首次跌至不足六成](https://news.now.com/home/local/player?newsId=634266) [Original](https://news.now.com/home/local/player?newsId=634266){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點巴士安全帶新例即日起生效高市早苗民望首次跌至不足六成/){.md-button .hkfd-news-button}
+- [博愛中環辦慈善跑　為安老院舍及宏福苑火災重建項目籌款](https://news.now.com/home/local/player?newsId=634229) [Original](https://news.now.com/home/local/player?newsId=634229){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛中環辦慈善跑-為安老院舍及宏福苑火災重建項目籌款/){.md-button .hkfd-news-button}
+- [博愛中環辦慈善跑　為安老院舍及大埔火災重建項目籌款](https://news.now.com/home/local/player?newsId=634200) [Original](https://news.now.com/home/local/player?newsId=634200){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛中環辦慈善跑-為安老院舍及大埔火災重建項目籌款/){.md-button .hkfd-news-button}
+
+
+### 2026-01-26
+- [宏福苑大火後一戶一社工　社署稱會協調社工工作量](https://news.now.com/home/local/player?newsId=634389) [Original](https://news.now.com/home/local/player?newsId=634389){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火後一戶一社工-社署稱會協調社工工作量/){.md-button .hkfd-news-button}
+
+
+### 2026-01-26
+- [宏福苑火災獨立委員會邀請公眾提供資料](https://news.now.com/home/local/player?newsId=634405) [Original](https://news.now.com/home/local/player?newsId=634405){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會邀請公眾提供資料/){.md-button .hkfd-news-button}
+
+### 2026-01-27
+- [胡健民署任政制局長　稱局方上下一定盡心盡力做好工作](https://news.now.com/home/local/player?newsId=634526) [Original](https://news.now.com/home/local/player?newsId=634526){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/胡健民署任政制局長-稱局方上下一定盡心盡力做好工作/){.md-button .hkfd-news-button}
+- [曾國衞紀律部隊出身　2020年起任局長處理多場選舉](https://news.now.com/home/local/player?newsId=634517) [Original](https://news.now.com/home/local/player?newsId=634517){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞紀律部隊出身-2020年起任局長處理多場選舉/){.md-button .hkfd-news-button}
+- [宏福苑安置方案問卷獲9成回覆　李家超：以情理法研長遠安排](https://news.now.com/home/local/player?newsId=634455) [Original](https://news.now.com/home/local/player?newsId=634455){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置方案問卷獲9成回覆-李家超以情理法研長遠安排/){.md-button .hkfd-news-button}
+- [曾國衞稱前列腺癌指數持續升服藥無改善請辭　李家超：沒計劃再變動司局長人事](https://news.now.com/home/local/player?newsId=634451) [Original](https://news.now.com/home/local/player?newsId=634451){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞稱前列腺癌指數持續升服藥無改善請辭-李家超沒計劃再變動司局長人事/){.md-button .hkfd-news-button}
+- [李家超：傳有其他司局長離任揣測都不正確　沒計劃再變動司局長人事](https://news.now.com/home/local/player?newsId=634446) [Original](https://news.now.com/home/local/player?newsId=634446){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超傳有其他司局長離任揣測都不正確-沒計劃再變動司局長人事/){.md-button .hkfd-news-button}
+- [曾國衞紀律部隊出身　2020年起任局長處理多場選舉](https://news.now.com/home/local/player?newsId=634445) [Original](https://news.now.com/home/local/player?newsId=634445){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞紀律部隊出身-2020年起任局長處理多場選舉-1/){.md-button .hkfd-news-button}
+- [曾國衞稱前列腺癌指數一直上升　服藥無改善請辭](https://news.now.com/home/local/player?newsId=634444) [Original](https://news.now.com/home/local/player?newsId=634444){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞稱前列腺癌指數一直上升-服藥無改善請辭/){.md-button .hkfd-news-button}
+- [原片．李家超行會前見記者(三)｜強調涉及多名司局長離任的揣測不正確　回應宏福苑善後工作等](https://news.now.com/home/local/player?newsId=634443) [Original](https://news.now.com/home/local/player?newsId=634443){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者三強調涉及多名司局長離任的揣測不正確-回應宏福苑善後工作等/){.md-button .hkfd-news-button}
+- [原片．李家超行會前見記者(二)｜領會夏寶龍主任講話　總結四個深刻體會](https://news.now.com/home/local/player?newsId=634438) [Original](https://news.now.com/home/local/player?newsId=634438){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者二領會夏寶龍主任講話-總結四個深刻體會/){.md-button .hkfd-news-button}
+- [原片．李家超行會前見記者(一)｜攜曾國衞出席解釋對方請辭政制及內地事務局局長](https://news.now.com/home/local/player?newsId=634437) [Original](https://news.now.com/home/local/player?newsId=634437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者一攜曾國衞出席解釋對方請辭政制及內地事務局局長/){.md-button .hkfd-news-button}

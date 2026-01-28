@@ -369,3 +369,7 @@
 
 ### 2026-01-21
 - [政府本年度擬提交32項草案　包括因應宏福苑火災修訂《建築物條例》](https://www.dotdotnews.com/a/202601/21/AP6970d3f3e4b0c32d4f66a7cc.html) [Original](https://www.dotdotnews.com/a/202601/21/AP6970d3f3e4b0c32d4f66a7cc.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府本年度擬提交32項草案-包括因應宏福苑火災修訂建築物條例/){.md-button .hkfd-news-button}
+
+
+### 2026-01-23
+- [來論｜災後重建理性安置　優先於情感與執念](https://www.dotdotnews.com/a/202601/23/AP69732959e4b0c32d4f66cdcc.html) [Original](https://www.dotdotnews.com/a/202601/23/AP69732959e4b0c32d4f66cdcc.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論災後重建理性安置-優先於情感與執念/){.md-button .hkfd-news-button}

@@ -1043,3 +1043,13 @@
 - [政府擬提交32項條例草案包括因應宏福苑火災提出修訂建築物條例](https://news.rthk.hk/rthk/ch/component/k2/1840848-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840848-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬提交32項條例草案包括因應宏福苑火災提出修訂建築物條例/){.md-button .hkfd-news-button}
 - [銀行公會：業界會以體恤和靈活原則處理每宗宏福苑按揭個案](https://news.rthk.hk/rthk/ch/component/k2/1840812-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840812-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行公會業界會以體恤和靈活原則處理每宗宏福苑按揭個案/){.md-button .hkfd-news-button}
 - [大埔宏福苑火災獨立委員會　明起可網上預約出席旁聽指示會議](https://news.rthk.hk/rthk/ch/component/k2/1840803-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840803-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑火災獨立委員會-明起可網上預約出席旁聽指示會議/){.md-button .hkfd-news-button}
+
+
+### 2026-01-26
+- [大埔宏福苑火災獨立委員會邀請公眾和團體提供資料](https://news.rthk.hk/rthk/ch/component/k2/1841408-20260126.htm?archive_date=2026-01-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841408-20260126.htm?archive_date=2026-01-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑火災獨立委員會邀請公眾和團體提供資料/){.md-button .hkfd-news-button}
+
+
+### 2026-01-27
+- [Almost all Wang Fuk residents answered survey: CE](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/almost-all-wang-fuk-residents-answered-survey-ce/){.md-button .hkfd-news-button}
+- [李家超指約9成宏福苑業主回覆住宿意願](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超指約9成宏福苑業主回覆住宿意願/){.md-button .hkfd-news-button}
+- [李家超：重視宏福苑居民長遠居住安排　約九成業主已覆正分析內容](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超重視宏福苑居民長遠居住安排-約九成業主已覆正分析內容/){.md-button .hkfd-news-button}

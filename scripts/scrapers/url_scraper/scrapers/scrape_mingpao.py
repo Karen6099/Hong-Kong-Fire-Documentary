@@ -2,15 +2,20 @@
 mingpao scraper
 """
 
-max_pages: int = 10
+#max_pages: int = 10                          #30 <-- temp solution for errors raise in 2026/1/22
+max_pages: int = 30
 
 
 def parse_response(data: dict):
-    title = [i["TITLE"].replace("\u3000", " ").replace("|", " ") for i in data["data_Result"]]
-    links = [i["SUMMARY"]["sharelink"] for i in data["data_Result"]]
-    dates = [i["ATTRIBUTES"]["DOCISSUE"] for i in data["data_Result"]]
+    result = []
+    try:
+        title = [i["TITLE"].replace("\u3000", " ").replace("|", " ") for i in data["data_Result"]]
+        links = [i["SUMMARY"]["sharelink"] for i in data["data_Result"]]
+        dates = [i["ATTRIBUTES"]["DOCISSUE"] for i in data["data_Result"]]
 
-    result = [(dates[i], title[i], links[i]) for i in range(len(data["data_Result"]))]
+        result = [(dates[i], title[i], links[i]) for i in range(len(data["data_Result"]))]
+    except:
+        pass
     return result
 
 
@@ -35,7 +40,9 @@ def scrape():
         "periodend": datetime.date.today().strftime("%Y%m%d"),
         "subsectionkeywords": "",
         "sort": "d",
-        "pagesize": "100",
+        #"pagesize": "100",                   #1 <-- temp solution for errors raise in 2026/1/22
+        "pagesize": "1",
+
         "page": "1",
         "searchtype": "a",
     }

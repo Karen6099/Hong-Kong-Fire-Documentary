@@ -724,3 +724,23 @@
 ### 2026-01-21
 - [政府今年擬提32項草案　包括因應宏福苑火災修訂建築物條例](https://www.881903.com/news/local/2615576/) [Original](https://www.881903.com/news/local/2615576/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府今年擬提32項草案-包括因應宏福苑火災修訂建築物條例/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會下月指示會議　公眾明早10時起可預約旁聽](https://www.881903.com/news/local/2615533/) [Original](https://www.881903.com/news/local/2615533/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月指示會議-公眾明早10時起可預約旁聽/){.md-button .hkfd-news-button}
+
+
+### 2026-01-22
+- [宏福苑大火8傷者仍留院　情況穩定](https://www.881903.com/news/local/2615641/) [Original](https://www.881903.com/news/local/2615641/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火8傷者仍留院-情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2026-01-24
+- [民青局：合安接管宏福苑管理　將設網上溝通平台](https://www.881903.com/news/local/2615968/) [Original](https://www.881903.com/news/local/2615968/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民青局合安接管宏福苑管理-將設網上溝通平台/){.md-button .hkfd-news-button}
+- [鄧家彪：有可疑大廈法團在修例前加快招標](https://www.881903.com/news/local/2615937/) [Original](https://www.881903.com/news/local/2615937/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧家彪有可疑大廈法團在修例前加快招標/){.md-button .hkfd-news-button}
+
+
+### 2026-01-25
+- [消防便衣巡查36幢商廈　檢控37宗阻逃生情況](https://www.881903.com/news/local/2616047/) [Original](https://www.881903.com/news/local/2616047/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防便衣巡查36幢商廈-檢控37宗阻逃生情況/){.md-button .hkfd-news-button}
+- [羅淑佩：今年體育盛事接踵而來　帶來更多正能量](https://www.881903.com/news/local/2616018/) [Original](https://www.881903.com/news/local/2616018/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩今年體育盛事接踵而來-帶來更多正能量/){.md-button .hkfd-news-button}
+
+
+### 2026-01-26
+- [鄧炳強：紀律部隊獲高度評價　證社會主流站在正義一方](https://www.881903.com/news/local/2616199/) [Original](https://www.881903.com/news/local/2616199/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強紀律部隊獲高度評價-證社會主流站在正義一方/){.md-button .hkfd-news-button}
+- [社署：透過行政措施協調　支援「一戶一社工」工作](https://www.881903.com/news/local/2616186/) [Original](https://www.881903.com/news/local/2616186/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/社署透過行政措施協調-支援一戶一社工工作/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會　邀請公眾及團體提供資料](https://www.881903.com/news/local/2616169/) [Original](https://www.881903.com/news/local/2616169/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會-邀請公眾及團體提供資料/){.md-button .hkfd-news-button}

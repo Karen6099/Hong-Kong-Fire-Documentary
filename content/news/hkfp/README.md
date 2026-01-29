@@ -337,3 +337,7 @@
 ### 2026-01-28
 - [Pok Fu Lam construction workers scale scaffolding in protest over unpaid wages from firm linked to Tai Po fire](https://hongkongfp.com/?p=552470) [Original](https://hongkongfp.com/?p=552470){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/pok-fu-lam-construction-workers-scale-scaffolding-in-protest-over-unpaid-wages/){.md-button .hkfd-news-button}
 - [Hong Kong political heavyweights trade barbs after lawmaker filmed driving against flow of traffic](https://hongkongfp.com/?p=552478) [Original](https://hongkongfp.com/?p=552478){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-political-heavyweights-trade-barbs-after-lawmaker-filmed-driving/){.md-button .hkfd-news-button}
+
+
+### 2026-01-29
+- [HK$4.5 billion raised in public fund for Tai Po fire victims, gov’t says](https://hongkongfp.com/?p=552550) [Original](https://hongkongfp.com/?p=552550){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hk45-billion-raised-in-public-fund-for-tai-po-fire-victims-govt-says/){.md-button .hkfd-news-button}

@@ -1104,3 +1104,8 @@
 - [宏業建築承辦碧瑤灣維修　工人危坐棚架追薪　勞工處：已派員到場協助](https://news.now.com/home/local/player?newsId=634665) [Original](https://news.now.com/home/local/player?newsId=634665){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業建築承辦碧瑤灣維修-工人危坐棚架追薪-勞工處已派員到場協助/){.md-button .hkfd-news-button}
 - [宏業建築承辦碧瑤灣維修　工人危坐棚架追薪　工會：涉法律程序法團難直接付款](https://news.now.com/home/local/player?newsId=634601) [Original](https://news.now.com/home/local/player?newsId=634601){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業建築承辦碧瑤灣維修-工人危坐棚架追薪-工會涉法律程序法團難直接付款/){.md-button .hkfd-news-button}
 - [薄扶林碧瑤灣大維修由宏業承辦　再有工人追討欠薪](https://news.now.com/home/local/player?newsId=634596) [Original](https://news.now.com/home/local/player?newsId=634596){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/薄扶林碧瑤灣大維修由宏業承辦-再有工人追討欠薪/){.md-button .hkfd-news-button}
+
+
+### 2026-01-29
+- [政府施政十件大事評選　立法會選舉居首](https://news.now.com/home/local/player?newsId=634791) [Original](https://news.now.com/home/local/player?newsId=634791){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府施政十件大事評選-立法會選舉居首/){.md-button .hkfd-news-button}
+- [碧瑤灣地盤工人追宏業欠薪　工會冀政府介入協助](https://news.now.com/home/local/player?newsId=634749) [Original](https://news.now.com/home/local/player?newsId=634749){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/碧瑤灣地盤工人追宏業欠薪-工會冀政府介入協助/){.md-button .hkfd-news-button}

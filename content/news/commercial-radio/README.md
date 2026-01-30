@@ -755,3 +755,13 @@
 - [議員關注會否只進口阻燃帆布及棚網　甯漢豪：不宜一刀切](https://www.881903.com/news/local/2616500/) [Original](https://www.881903.com/news/local/2616500/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/議員關注會否只進口阻燃帆布及棚網-甯漢豪不宜一刀切/){.md-button .hkfd-news-button}
 - [約15名宏業建築工人到碧瑤灣地盤追欠薪　2工人爬上棚架抗議](https://www.881903.com/news/local/2616456/) [Original](https://www.881903.com/news/local/2616456/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/約15名宏業建築工人到碧瑤灣地盤追欠薪-2工人爬上棚架抗議/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜援助基金總額已達45億元](https://www.881903.com/news/local/2616471/) [Original](https://www.881903.com/news/local/2616471/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火援助基金總額已達45億元/){.md-button .hkfd-news-button}
+
+
+### 2026-01-29
+- [李家超：過去一年香港邁由治及興  穩步前行](https://www.881903.com/news/local/2616699/)
+- [宏福苑大火4人仍留醫情況穩定　累計75人康復出院](https://www.881903.com/news/local/2616735/)
+
+### 2026-01-30
+- [去年首11月罪案數目按年減5.8%　兇殺及毒品案錄得升幅](https://www.881903.com/news/local/2616874/)
+- [司法機構：法庭會優先處理大埔宏福苑的法律程序](https://www.881903.com/news/local/2616817/)
+- [鄧炳強：社會仍存在「軟對抗」　不能掉以輕心](https://www.881903.com/news/local/2616799/)

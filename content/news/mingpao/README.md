@@ -1797,3 +1797,10 @@
 - [政府擬地盤全面禁煙 建造業總工會調查指近7成受訪工人質疑最高罰款15萬元不合理 倡地盤外設吸煙區](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260129/s00001/1769670105960) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260129/s00001/1769670105960){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬地盤全面禁煙-建造業總工會調查指近7成受訪工人質疑最高罰款15萬元不合理-倡地盤外設吸煙區/){.md-button .hkfd-news-button}
 - [再多4名大埔宏福苑火災傷者出院 餘下4名留院傷者情况穩定](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260129/s00001/1769653405596) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260129/s00001/1769653405596){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/再多4名大埔宏福苑火災傷者出院-餘下4名留院傷者情况穩定/){.md-button .hkfd-news-button}
 - [宏業碧瑤灣停工 工人危坐棚架追欠薪](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260129/s00002/1769623015229) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260129/s00002/1769623015229){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業碧瑤灣停工-工人危坐棚架追欠薪/){.md-button .hkfd-news-button}
+
+### 20260130
+- [本港去年首11個月兇殺案170宗 鄧炳強解釋指數字包括宏福苑火災死者](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769767711981)
+- [男子謊稱向宏福苑基金捐款2.5萬元申請扣稅 涉行駛虛假文書被捕](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769762420020)
+- [14承辦商顧問涉17宗圍標 合約7億 競委：操控投標營造競爭假象 大部分工程未批](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260130/s00001/1769708156729)
+- [逾半工友撐地盤禁煙 七成指15萬罰款欠妥](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561016)
+- [大火多4傷者出院 已辦115死亡證](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561210)

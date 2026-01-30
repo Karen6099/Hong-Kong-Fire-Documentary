@@ -1109,3 +1109,11 @@
 ### 2026-01-29
 - [政府施政十件大事評選　立法會選舉居首](https://news.now.com/home/local/player?newsId=634791) [Original](https://news.now.com/home/local/player?newsId=634791){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府施政十件大事評選-立法會選舉居首/){.md-button .hkfd-news-button}
 - [碧瑤灣地盤工人追宏業欠薪　工會冀政府介入協助](https://news.now.com/home/local/player?newsId=634749) [Original](https://news.now.com/home/local/player?newsId=634749){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/碧瑤灣地盤工人追宏業欠薪-工會冀政府介入協助/){.md-button .hkfd-news-button}
+
+
+### 2026-01-30
+- [警拘39歲男子涉交虛假捐款紀錄申請扣稅　據悉涉訛稱捐款予宏福苑援助基金](https://news.now.com/home/local/player?newsId=634962)
+- [本港去年首11個月錄逾8.1萬宗罪案　按年減少約6%](https://news.now.com/home/local/player?newsId=634943)
+- [時事全方位｜支援受宏福苑火災影響師生(二)](https://news.now.com/home/local/player?newsId=634868)
+- [時事全方位｜支援受宏福苑火災影響師生(一)](https://news.now.com/home/local/player?newsId=634867)
+- [宏福苑五級火災｜死因庭完成115宗死亡證申請個案](https://news.now.com/home/local/player?newsId=634890)

@@ -341,3 +341,7 @@
 
 ### 2026-01-29
 - [HK$4.5 billion raised in public fund for Tai Po fire victims, gov’t says](https://hongkongfp.com/?p=552550) [Original](https://hongkongfp.com/?p=552550){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hk45-billion-raised-in-public-fund-for-tai-po-fire-victims-govt-says/){.md-button .hkfd-news-button}
+
+
+### 2026-01-30
+- [16 firefighters, 4 medics, 3 fire trucks, ambulance respond to man unable to take off bus seatbelt](https://hongkongfp.com/?p=552702)

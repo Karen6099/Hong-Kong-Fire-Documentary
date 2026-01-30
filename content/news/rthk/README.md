@@ -1053,3 +1053,13 @@
 - [Almost all Wang Fuk residents answered survey: CE](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/almost-all-wang-fuk-residents-answered-survey-ce/){.md-button .hkfd-news-button}
 - [李家超指約9成宏福苑業主回覆住宿意願](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超指約9成宏福苑業主回覆住宿意願/){.md-button .hkfd-news-button}
 - [李家超：重視宏福苑居民長遠居住安排　約九成業主已覆正分析內容](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超重視宏福苑居民長遠居住安排-約九成業主已覆正分析內容/){.md-button .hkfd-news-button}
+
+
+### 2026-01-28
+- [Wang Fuk Court blaze fund reaches HK$4.5bn](https://news.rthk.hk/rthk/en/component/k2/1841714-20260128.htm?archive_date=2026-01-28) [Original](https://news.rthk.hk/rthk/en/component/k2/1841714-20260128.htm?archive_date=2026-01-28){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-blaze-fund-reaches-hk45bn/){.md-button .hkfd-news-button}
+- [麥美娟：截至前日「大埔宏福苑援助基金」總額已達45億元](https://news.rthk.hk/rthk/ch/component/k2/1841710-20260128.htm?archive_date=2026-01-28) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841710-20260128.htm?archive_date=2026-01-28){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟截至前日大埔宏福苑援助基金總額已達45億元/){.md-button .hkfd-news-button}
+- [蔡若蓮：教育局於宏福苑火災後已成立危機處理小組支援區內學校](https://news.rthk.hk/rthk/ch/component/k2/1841708-20260128.htm?archive_date=2026-01-28) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841708-20260128.htm?archive_date=2026-01-28){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/蔡若蓮教育局於宏福苑火災後已成立危機處理小組支援區內學校/){.md-button .hkfd-news-button}
+
+
+### 2026-01-29
+- [截至前日已有75名宏福苑火災傷者康復出院　餘下4人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/截至前日已有75名宏福苑火災傷者康復出院-餘下4人情況穩定/){.md-button .hkfd-news-button}

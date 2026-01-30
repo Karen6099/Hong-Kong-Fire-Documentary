@@ -70,3 +70,7 @@
 
 ### 2025-12-30
 - [<![CDATA[關稅戰再起、九三閱兵、「大罷免」、宏福苑大火——回顧2025年的兩岸三地]]>](https://www.bbc.com/zhongwen/articles/cy5gdp4nx2vo/trad)
+
+
+### 2026-01-29
+- [<![CDATA[宏福苑大火兩個月：重覓家園路在何方？災後重建難題待解]]>](https://www.bbc.com/zhongwen/articles/cz7y258r79no/trad)

@@ -344,4 +344,4 @@
 
 
 ### 2026-01-30
-- [16 firefighters, 4 medics, 3 fire trucks, ambulance respond to man unable to take off bus seatbelt](https://hongkongfp.com/?p=552702)
+- [16 firefighters, 4 medics, 3 fire trucks, ambulance respond to man unable to take off bus seatbelt](https://hongkongfp.com/?p=552702) [Original](https://hongkongfp.com/?p=552702){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/16-firefighters-4-medics-3-fire-trucks-ambulance-respond-to-man-unable-to-take/){.md-button .hkfd-news-button}

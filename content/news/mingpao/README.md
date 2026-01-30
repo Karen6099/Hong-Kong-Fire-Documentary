@@ -1799,8 +1799,8 @@
 - [宏業碧瑤灣停工 工人危坐棚架追欠薪](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260129/s00002/1769623015229) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260129/s00002/1769623015229){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業碧瑤灣停工-工人危坐棚架追欠薪/){.md-button .hkfd-news-button}
 
 ### 20260130
-- [本港去年首11個月兇殺案170宗 鄧炳強解釋指數字包括宏福苑火災死者](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769767711981)
-- [男子謊稱向宏福苑基金捐款2.5萬元申請扣稅 涉行駛虛假文書被捕](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769762420020)
-- [14承辦商顧問涉17宗圍標 合約7億 競委：操控投標營造競爭假象 大部分工程未批](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260130/s00001/1769708156729)
-- [逾半工友撐地盤禁煙 七成指15萬罰款欠妥](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561016)
-- [大火多4傷者出院 已辦115死亡證](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561210)
+- [本港去年首11個月兇殺案170宗 鄧炳強解釋指數字包括宏福苑火災死者](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769767711981) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769767711981){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本港去年首11個月兇殺案170宗-鄧炳強解釋指數字包括宏福苑火災死者/){.md-button .hkfd-news-button}
+- [男子謊稱向宏福苑基金捐款2.5萬元申請扣稅 涉行駛虛假文書被捕](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769762420020) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260130/s00001/1769762420020){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/男子謊稱向宏福苑基金捐款25萬元申請扣稅-涉行駛虛假文書被捕/){.md-button .hkfd-news-button}
+- [14承辦商顧問涉17宗圍標 合約7億 競委：操控投標營造競爭假象 大部分工程未批](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260130/s00001/1769708156729) [Original](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260130/s00001/1769708156729){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/14承辦商顧問涉17宗圍標-合約7億-競委操控投標營造競爭假象-大部分工程未批/){.md-button .hkfd-news-button}
+- [逾半工友撐地盤禁煙 七成指15萬罰款欠妥](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561016) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561016){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾半工友撐地盤禁煙-七成指15萬罰款欠妥/){.md-button .hkfd-news-button}
+- [大火多4傷者出院 已辦115死亡證](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561210) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561210){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大火多4傷者出院-已辦115死亡證/){.md-button .hkfd-news-button}

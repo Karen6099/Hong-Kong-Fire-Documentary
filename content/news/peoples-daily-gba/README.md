@@ -307,4 +307,4 @@
 
 
 ### 2026-01-30
-- [香港继续为受大埔火灾影响居民提供医疗支援](http://gba.people.cn/n1/2026/0130/c42272-40655732.html)
+- [香港继续为受大埔火灾影响居民提供医疗支援](http://gba.people.cn/n1/2026/0130/c42272-40655732.html) [Original](http://gba.people.cn/n1/2026/0130/c42272-40655732.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港继续为受大埔火灾影响居民提供医疗支援/){.md-button .hkfd-news-button}

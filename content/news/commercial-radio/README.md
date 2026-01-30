@@ -758,10 +758,10 @@
 
 
 ### 2026-01-29
-- [李家超：過去一年香港邁由治及興  穩步前行](https://www.881903.com/news/local/2616699/)
-- [宏福苑大火4人仍留醫情況穩定　累計75人康復出院](https://www.881903.com/news/local/2616735/)
+- [李家超：過去一年香港邁由治及興  穩步前行](https://www.881903.com/news/local/2616699/) [Original](https://www.881903.com/news/local/2616699/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超過去一年香港邁由治及興-穩步前行/){.md-button .hkfd-news-button}
+- [宏福苑大火4人仍留醫情況穩定　累計75人康復出院](https://www.881903.com/news/local/2616735/) [Original](https://www.881903.com/news/local/2616735/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火4人仍留醫情況穩定-累計75人康復出院/){.md-button .hkfd-news-button}
 
 ### 2026-01-30
-- [去年首11月罪案數目按年減5.8%　兇殺及毒品案錄得升幅](https://www.881903.com/news/local/2616874/)
-- [司法機構：法庭會優先處理大埔宏福苑的法律程序](https://www.881903.com/news/local/2616817/)
-- [鄧炳強：社會仍存在「軟對抗」　不能掉以輕心](https://www.881903.com/news/local/2616799/)
+- [去年首11月罪案數目按年減5.8%　兇殺及毒品案錄得升幅](https://www.881903.com/news/local/2616874/) [Original](https://www.881903.com/news/local/2616874/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年首11月罪案數目按年減58-兇殺及毒品案錄得升幅/){.md-button .hkfd-news-button}
+- [司法機構：法庭會優先處理大埔宏福苑的法律程序](https://www.881903.com/news/local/2616817/) [Original](https://www.881903.com/news/local/2616817/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/司法機構法庭會優先處理大埔宏福苑的法律程序/){.md-button .hkfd-news-button}
+- [鄧炳強：社會仍存在「軟對抗」　不能掉以輕心](https://www.881903.com/news/local/2616799/) [Original](https://www.881903.com/news/local/2616799/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強社會仍存在軟對抗-不能掉以輕心/){.md-button .hkfd-news-button}

@@ -1112,8 +1112,8 @@
 
 
 ### 2026-01-30
-- [警拘39歲男子涉交虛假捐款紀錄申請扣稅　據悉涉訛稱捐款予宏福苑援助基金](https://news.now.com/home/local/player?newsId=634962)
-- [本港去年首11個月錄逾8.1萬宗罪案　按年減少約6%](https://news.now.com/home/local/player?newsId=634943)
-- [時事全方位｜支援受宏福苑火災影響師生(二)](https://news.now.com/home/local/player?newsId=634868)
-- [時事全方位｜支援受宏福苑火災影響師生(一)](https://news.now.com/home/local/player?newsId=634867)
-- [宏福苑五級火災｜死因庭完成115宗死亡證申請個案](https://news.now.com/home/local/player?newsId=634890)
+- [警拘39歲男子涉交虛假捐款紀錄申請扣稅　據悉涉訛稱捐款予宏福苑援助基金](https://news.now.com/home/local/player?newsId=634962) [Original](https://news.now.com/home/local/player?newsId=634962){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警拘39歲男子涉交虛假捐款紀錄申請扣稅-據悉涉訛稱捐款予宏福苑援助基金/){.md-button .hkfd-news-button}
+- [本港去年首11個月錄逾8.1萬宗罪案　按年減少約6%](https://news.now.com/home/local/player?newsId=634943) [Original](https://news.now.com/home/local/player?newsId=634943){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本港去年首11個月錄逾81萬宗罪案-按年減少約6/){.md-button .hkfd-news-button}
+- [時事全方位｜支援受宏福苑火災影響師生(二)](https://news.now.com/home/local/player?newsId=634868) [Original](https://news.now.com/home/local/player?newsId=634868){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位支援受宏福苑火災影響師生二/){.md-button .hkfd-news-button}
+- [時事全方位｜支援受宏福苑火災影響師生(一)](https://news.now.com/home/local/player?newsId=634867) [Original](https://news.now.com/home/local/player?newsId=634867){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位支援受宏福苑火災影響師生一/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜死因庭完成115宗死亡證申請個案](https://news.now.com/home/local/player?newsId=634890) [Original](https://news.now.com/home/local/player?newsId=634890){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災死因庭完成115宗死亡證申請個案/){.md-button .hkfd-news-button}

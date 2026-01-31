@@ -345,3 +345,7 @@
 
 ### 2026-01-30
 - [16 firefighters, 4 medics, 3 fire trucks, ambulance respond to man unable to take off bus seatbelt](https://hongkongfp.com/?p=552702) [Original](https://hongkongfp.com/?p=552702){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/16-firefighters-4-medics-3-fire-trucks-ambulance-respond-to-man-unable-to-take/){.md-button .hkfd-news-button}
+
+
+### 2026-01-31
+- [HKFP Monitor Jan 31, 2026: Democrats outside bars; lawmaker in hot water](https://hongkongfp.com/?p=552842) [Original](https://hongkongfp.com/?p=552842){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-31-2026-democrats-outside-bars-lawmaker-in-hot-water/){.md-button .hkfd-news-button}

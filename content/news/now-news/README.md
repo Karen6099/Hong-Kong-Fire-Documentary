@@ -1117,3 +1117,8 @@
 - [時事全方位｜支援受宏福苑火災影響師生(二)](https://news.now.com/home/local/player?newsId=634868) [Original](https://news.now.com/home/local/player?newsId=634868){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位支援受宏福苑火災影響師生二/){.md-button .hkfd-news-button}
 - [時事全方位｜支援受宏福苑火災影響師生(一)](https://news.now.com/home/local/player?newsId=634867) [Original](https://news.now.com/home/local/player?newsId=634867){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位支援受宏福苑火災影響師生一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜死因庭完成115宗死亡證申請個案](https://news.now.com/home/local/player?newsId=634890) [Original](https://news.now.com/home/local/player?newsId=634890){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災死因庭完成115宗死亡證申請個案/){.md-button .hkfd-news-button}
+
+
+### 2026-01-31
+- [足本全片｜警務處處長周一鳴見記者](https://news.now.com/home/local/player?newsId=635043) [Original](https://news.now.com/home/local/player?newsId=635043){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/足本全片警務處處長周一鳴見記者/){.md-button .hkfd-news-button}
+- [警察學院舉行結業會操　鄧炳強寄語警員要有以民為本的仁心](https://news.now.com/home/local/player?newsId=635028) [Original](https://news.now.com/home/local/player?newsId=635028){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警察學院舉行結業會操-鄧炳強寄語警員要有以民為本的仁心/){.md-button .hkfd-news-button}

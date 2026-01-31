@@ -380,3 +380,7 @@
 
 ### 2026-01-29
 - [點深度｜電商平台仍售低價棚網「包郵到港」　180元可購假「質檢報告」](https://www.dotdotnews.com/a/202601/29/AP6979f97ce4b0c32d4f674b14.html) [Original](https://www.dotdotnews.com/a/202601/29/AP6979f97ce4b0c32d4f674b14.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點深度電商平台仍售低價棚網包郵到港-180元可購假質檢報告/){.md-button .hkfd-news-button}
+
+
+### 2026-01-31
+- [（有片）鄧炳強哽咽談宏福苑火災：徒手挖掘力保遺體完整　讓家人可以好好道別](https://www.dotdotnews.com/a/202601/31/AP697d7147e4b0c32d4f678a4d.html) [Original](https://www.dotdotnews.com/a/202601/31/AP697d7147e4b0c32d4f678a4d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片鄧炳強哽咽談宏福苑火災徒手挖掘力保遺體完整-讓家人可以好好道別/){.md-button .hkfd-news-button}

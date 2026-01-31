@@ -765,3 +765,7 @@
 - [去年首11月罪案數目按年減5.8%　兇殺及毒品案錄得升幅](https://www.881903.com/news/local/2616874/) [Original](https://www.881903.com/news/local/2616874/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年首11月罪案數目按年減58-兇殺及毒品案錄得升幅/){.md-button .hkfd-news-button}
 - [司法機構：法庭會優先處理大埔宏福苑的法律程序](https://www.881903.com/news/local/2616817/) [Original](https://www.881903.com/news/local/2616817/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/司法機構法庭會優先處理大埔宏福苑的法律程序/){.md-button .hkfd-news-button}
 - [鄧炳強：社會仍存在「軟對抗」　不能掉以輕心](https://www.881903.com/news/local/2616799/) [Original](https://www.881903.com/news/local/2616799/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強社會仍存在軟對抗-不能掉以輕心/){.md-button .hkfd-news-button}
+
+
+### 2026-01-31
+- [周一鳴：冀未來兩三個月内加快拆卸宏福苑棚架](https://www.881903.com/news/local/2617001/) [Original](https://www.881903.com/news/local/2617001/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周一鳴冀未來兩三個月内加快拆卸宏福苑棚架/){.md-button .hkfd-news-button}

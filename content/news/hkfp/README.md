@@ -349,3 +349,7 @@
 
 ### 2026-01-31
 - [HKFP Monitor Jan 31, 2026: Democrats outside bars; lawmaker in hot water](https://hongkongfp.com/?p=552842) [Original](https://hongkongfp.com/?p=552842){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-jan-31-2026-democrats-outside-bars-lawmaker-in-hot-water/){.md-button .hkfd-news-button}
+
+
+### 2026-02-01
+- [‘Is there a choice or no choice?’: Gov’t handling of long-term housing frustrates Tai Po fire survivors](https://hongkongfp.com/?p=552554) [Original](https://hongkongfp.com/?p=552554){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/is-there-a-choice-or-no-choice-govt-handling-of-long-term-housing-frustrates/){.md-button .hkfd-news-button}

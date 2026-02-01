@@ -769,3 +769,8 @@
 
 ### 2026-01-31
 - [周一鳴：冀未來兩三個月内加快拆卸宏福苑棚架](https://www.881903.com/news/local/2617001/) [Original](https://www.881903.com/news/local/2617001/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周一鳴冀未來兩三個月内加快拆卸宏福苑棚架/){.md-button .hkfd-news-button}
+
+
+### 2026-02-01
+- [葉劉淑儀：宏福苑大火調查需時　届時政府任期餘下不多問責有何意義](https://www.881903.com/news/local/2617149/) [Original](https://www.881903.com/news/local/2617149/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/葉劉淑儀宏福苑大火調查需時-届時政府任期餘下不多問責有何意義/){.md-button .hkfd-news-button}
+- [周守仁出席慈善賽跑　籲跑手傳遞愛與支持](https://www.881903.com/news/local/2617088/) [Original](https://www.881903.com/news/local/2617088/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周守仁出席慈善賽跑-籲跑手傳遞愛與支持/){.md-button .hkfd-news-button}

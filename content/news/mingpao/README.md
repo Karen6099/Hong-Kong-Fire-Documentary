@@ -1805,25 +1805,5 @@
 - [逾半工友撐地盤禁煙 七成指15萬罰款欠妥](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561016) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561016){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾半工友撐地盤禁煙-七成指15萬罰款欠妥/){.md-button .hkfd-news-button}
 - [大火多4傷者出院 已辦115死亡證](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561210) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706561210){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大火多4傷者出院-已辦115死亡證/){.md-button .hkfd-news-button}
 
-
-### 20260127
-- [李家超：無計劃再換司局長](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260127/s00001/1769479708648) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260127/s00001/1769479708648){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超無計劃再換司局長/){.md-button .hkfd-news-button}
-- [張炳良：公務員舉止作為 乃市民看到的政府](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260127/s00012/1769445617066) [Original](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260127/s00012/1769445617066){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/張炳良公務員舉止作為-乃市民看到的政府/){.md-button .hkfd-news-button}
-- [林緻茵：冒牌水風波將如何影響部門首長責任制](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260127/s00012/1769445617175) [Original](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260127/s00012/1769445617175){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林緻茵冒牌水風波將如何影響部門首長責任制/){.md-button .hkfd-news-button}
-
-### 20260128
-- [利嘉閣陳海潮：去年下半年樓價升幅6年半最勁 料後市升幅逐步擴大](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20260128/s00003/1769573581194) [Original](https://news.mingpao.com/ins/%e5%9c%b0%e7%94%a2/article/20260128/s00003/1769573581194){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/利嘉閣陳海潮去年下半年樓價升幅6年半最勁-料後市升幅逐步擴大/){.md-button .hkfd-news-button}
-- [工人碧瑤灣拉橫額追薪 兩人攀棚危坐](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260128/s00001/1769567815111) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260128/s00001/1769567815111){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工人碧瑤灣拉橫額追薪-兩人攀棚危坐/){.md-button .hkfd-news-button}
-- [曾國衞請辭 李稱司局長未擬再換 前列腺癌指數高企 副局署任待覓接班](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260128/s00001/1769536302636) [Original](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260128/s00001/1769536302636){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞請辭-李稱司局長未擬再換-前列腺癌指數高企-副局署任待覓接班/){.md-button .hkfd-news-button}
-
-### 20260129
-- [【Emily】薪俸退稅上限 會計師公會倡增至5000](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260129/s00002/1769623021980) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260129/s00002/1769623021980){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/emily薪俸退稅上限-會計師公會倡增至5000/){.md-button .hkfd-news-button}
-- [管浩鳴：老齡化浪潮下削社福開支  非解決之道](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260129/s00012/1769618977891) [Original](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260129/s00012/1769618977891){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/管浩鳴老齡化浪潮下削社福開支-非解決之道/){.md-button .hkfd-news-button}
-
-### 20260130
-- [去年施政大事評選 立選成功排首位](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706563059) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260130/s00002/1769706563059){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年施政大事評選-立選成功排首位/){.md-button .hkfd-news-button}
-- [193缺席ViuTV親子跑活動 ERROR三缺一 粉絲不滿嗌退款](https://news.mingpao.com/pns/%e5%a8%9b%e6%a8%82/article/20260130/s00016/1769705384910) [Original](https://news.mingpao.com/pns/%e5%a8%9b%e6%a8%82/article/20260130/s00016/1769705384910){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/193缺席viutv親子跑活動-error三缺一-粉絲不滿嗌退款/){.md-button .hkfd-news-button}
-
 ### 20260131
-- [鄧炳強：兩人赴烏參戰犧牲 圖受軍訓返港抗爭](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260131/s00002/1769796649029) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260131/s00002/1769796649029){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強兩人赴烏參戰犧牲-圖受軍訓返港抗爭/){.md-button .hkfd-news-button}
 - [灣區跨境救援 冀盡快涵蓋火災](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260131/s00002/1769796649424) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260131/s00002/1769796649424){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/灣區跨境救援-冀盡快涵蓋火災/){.md-button .hkfd-news-button}

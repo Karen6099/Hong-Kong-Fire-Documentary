@@ -384,3 +384,7 @@
 
 ### 2026-01-31
 - [（有片）鄧炳強哽咽談宏福苑火災：徒手挖掘力保遺體完整　讓家人可以好好道別](https://www.dotdotnews.com/a/202601/31/AP697d7147e4b0c32d4f678a4d.html) [Original](https://www.dotdotnews.com/a/202601/31/AP697d7147e4b0c32d4f678a4d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片鄧炳強哽咽談宏福苑火災徒手挖掘力保遺體完整-讓家人可以好好道別/){.md-button .hkfd-news-button}
+
+
+### 2026-02-01
+- [Chris Tang: Domestic terrorism persists, over 1.1 mn reports received to date](https://english.dotdotnews.com/a/202602/01/AP697ee6d8e4b0c32d4f67a133.html) [Original](https://english.dotdotnews.com/a/202602/01/AP697ee6d8e4b0c32d4f67a133.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/chris-tang-domestic-terrorism-persists-over-11-mn-reports-received-to-date/){.md-button .hkfd-news-button}

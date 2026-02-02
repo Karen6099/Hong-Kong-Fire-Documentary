@@ -51254,7 +51254,105 @@
       "source_file": "content/news/hk01/README.md",
       "scraped_at": "2026-02-01T22:21:14.988793",
       "archive_path": "content\\news\\hk01\\archive\\新油麻地公眾貨物裝卸區躉船起火-強烈燶味疑飄到對面岸上環一帶"
+    },
+    "https://hongkongfp.com/?p=552980": {
+      "title": "Hong Kong seat belt law to be made ‘more convenient,’ security chief says",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-02T22:38:17.031411",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-seat-belt-law-to-be-made-more-convenient-security-chief-says"
+    },
+    "https://hongkongfp.com/?p=553046": {
+      "title": "Hong Kong security chief warns of ‘soft resistance’ over Wang Fuk Court fire",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-02T22:38:23.002784",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-security-chief-warns-of-soft-resistance-over-wang-fuk-court-fire"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60318415/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%94%BF%E5%BA%9C%E5%A7%94%E4%BB%BB%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8%E6%9C%AA%E6%8E%A5%E8%A7%B8%E5%B1%85%E6%B0%91-%E7%96%91%E7%84%A1%E6%B3%95%E5%BE%8B%E4%BB%A3%E8%A1%A8%E5%87%BA%E5%B8%AD%E8%81%BD%E8%AD%89%E6%9C%83": {
+      "title": "宏福苑｜政府委任管理公司未接觸居民　疑無法律代表出席聽證會",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-02T22:38:24.482213",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑政府委任管理公司未接觸居民-疑無法律代表出席聽證會"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4309548/%E8%91%89%E5%8A%89%E8%B3%AA%E7%96%91%E7%81%AB%E7%81%BD%E5%95%8F%E8%B2%AC%E7%AD%899%E5%80%8B%E6%9C%88%E7%84%A1%E6%84%8F%E7%BE%A9": {
+      "title": "葉劉質疑火災問責等9個月無意義",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-02T22:38:25.493289",
+      "archive_path": "content\\news\\hkej\\archive\\葉劉質疑火災問責等9個月無意義"
+    },
+    "https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260202/s00001/1770022879632": {
+      "title": "宏福苑火災獨立委員會指示會議場內禁拍攝或錄音 禁破壞秩序",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-02-02T22:38:29.195158",
+      "archive_path": "content\\news\\mingpao\\archive\\宏福苑火災獨立委員會指示會議場內禁拍攝或錄音-禁破壞秩序"
+    },
+    "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60318455/%E5%8C%97%E4%BA%AC%E9%95%B7%E5%B3%B0%E9%86%AB%E9%99%A2%E5%A4%A7%E7%81%AB29%E6%AD%BB42%E5%82%B7-%E8%A2%AB%E5%91%8A%E6%B1%AA%E6%96%87%E6%9D%B0%E7%AD%8919%E4%BA%BA%E7%8D%B2%E5%88%91": {
+      "title": "北京長峰醫院大火29死42傷　被告汪文杰等19人獲刑",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-02T22:38:31.166895",
+      "archive_path": "content\\news\\hk01\\archive\\北京長峰醫院大火29死42傷-被告汪文杰等19人獲刑"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260202/s00002/1769967692464": {
+      "title": "宏福法團未有法律代表 恐缺席聽證 有業主指合安「零接觸」 民署：可向獨委會報料",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-02-02T22:38:36.494038",
+      "archive_path": "content\\news\\mingpao\\archive\\宏福法團未有法律代表-恐缺席聽證-有業主指合安零接觸-民署可向獨委會報料"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60318341/%E5%9C%B0%E7%9B%A4%E5%90%B8%E7%85%99%E7%BD%B015%E8%90%AC-%E9%81%8E%E5%8D%8A%E5%B7%A5%E5%8F%8B%E6%92%90%E7%A6%81%E7%85%99%E6%83%9F%E7%BD%B0%E6%AC%BE%E6%A5%B5%E7%AB%AF-%E5%B7%A5%E6%9C%83%E5%80%A1%E5%AE%9A%E9%A1%8D%E7%BD%B03%E8%87%B35%E5%8D%83": {
+      "title": "地盤吸煙罰15萬？過半工友撐禁煙惟罰款極端　工會倡定額罰3至5千",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-02T22:38:38.896711",
+      "archive_path": "content\\news\\hk01\\archive\\地盤吸煙罰15萬過半工友撐禁煙惟罰款極端-工會倡定額罰3至5千"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260202/s00002/1769967692806": {
+      "title": "指調查完成已近政府「屆尾」 葉劉：問責有何意義",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-02-02T22:38:42.708977",
+      "archive_path": "content\\news\\mingpao\\archive\\指調查完成已近政府屆尾-葉劉問責有何意義"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60318355/%E5%85%83%E6%9C%97%E8%89%B7%E8%99%B9%E6%A8%93%E8%B5%B7%E7%81%AB%E5%86%92%E7%85%99-%E4%B8%80%E7%94%B7%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A2": {
+      "title": "元朗艷虹樓起火冒煙　一男不適送院",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-02T22:38:46.499013",
+      "archive_path": "content\\news\\hk01\\archive\\元朗艷虹樓起火冒煙-一男不適送院"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260202/s00002/1769967693173": {
+      "title": "安基苑通過鴻毅辭任 鄧家彪稱新標書將度身訂做",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-02-02T22:38:50.000758",
+      "archive_path": "content\\news\\mingpao\\archive\\安基苑通過鴻毅辭任-鄧家彪稱新標書將度身訂做"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60318320/%E6%A3%9A%E7%B6%B2%E9%81%95%E8%A6%8F%E4%B8%8A%E6%9E%B6%E9%A0%88%E6%80%A5%E4%B8%8B%E6%9E%B6-%E6%A5%AD%E7%95%8C%E6%96%99%E5%9B%A0%E5%B9%B4%E5%B0%BE%E8%B6%95%E5%B7%A5-%E6%96%A5%E9%AD%AF%E8%8E%BD-%E5%BF%85%E5%AE%9A%E6%9C%89%E8%99%95%E5%88%86": {
+      "title": "棚網違規上架須急下架　業界料因年尾趕工　斥魯莽：必定有處分",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-02T22:38:52.947528",
+      "archive_path": "content\\news\\hk01\\archive\\棚網違規上架須急下架-業界料因年尾趕工-斥魯莽必定有處分"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60318308/%E7%81%A3%E4%BB%94%E5%91%8A%E5%A3%AB%E6%89%93%E9%81%93%E8%8A%B1%E6%A7%BD%E5%86%92%E7%85%99-%E7%96%91%E7%85%99%E9%A0%AD%E5%BC%95%E8%B5%B7-%E8%BF%91%E8%8F%B2%E6%9E%97%E6%98%8E%E9%81%93%E8%A1%8C%E8%BB%8A%E4%B8%80%E5%BA%A6%E6%93%A0%E5%A1%9E": {
+      "title": "灣仔告士打道花槽冒煙　疑煙頭引起　近菲林明道行車一度擠塞",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-02T22:39:00.859023",
+      "archive_path": "content\\news\\hk01\\archive\\灣仔告士打道花槽冒煙-疑煙頭引起-近菲林明道行車一度擠塞"
+    },
+    "https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20260202/s00012/1769962816084": {
+      "title": "邱勇：莫讓大廈法團成為必要的惡及失能的牙",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2026-02-02T22:39:01.564869",
+      "archive_path": "content\\news\\mingpao\\archive\\邱勇莫讓大廈法團成為必要的惡及失能的牙"
     }
   },
-  "last_updated": "2026-02-01T22:21:14.988877"
+  "last_updated": "2026-02-02T22:39:01.564934"
 }

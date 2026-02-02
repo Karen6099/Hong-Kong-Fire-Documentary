@@ -353,3 +353,10 @@
 
 ### 2026-02-01
 - [‘Is there a choice or no choice?’: Gov’t handling of long-term housing frustrates Tai Po fire survivors](https://hongkongfp.com/?p=552554) [Original](https://hongkongfp.com/?p=552554){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/is-there-a-choice-or-no-choice-govt-handling-of-long-term-housing-frustrates/){.md-button .hkfd-news-button}
+
+
+### 2026-02-01
+- [Hong Kong seat belt law to be made ‘more convenient,’ security chief says](https://hongkongfp.com/?p=552980) [Original](https://hongkongfp.com/?p=552980){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-seat-belt-law-to-be-made-more-convenient-security-chief-says/){.md-button .hkfd-news-button}
+
+### 2026-02-02
+- [Hong Kong security chief warns of ‘soft resistance’ over Wang Fuk Court fire](https://hongkongfp.com/?p=553046) [Original](https://hongkongfp.com/?p=553046){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-security-chief-warns-of-soft-resistance-over-wang-fuk-court-fire/){.md-button .hkfd-news-button}

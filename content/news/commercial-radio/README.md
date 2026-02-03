@@ -774,3 +774,10 @@
 ### 2026-02-01
 - [葉劉淑儀：宏福苑大火調查需時　届時政府任期餘下不多問責有何意義](https://www.881903.com/news/local/2617149/) [Original](https://www.881903.com/news/local/2617149/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/葉劉淑儀宏福苑大火調查需時-届時政府任期餘下不多問責有何意義/){.md-button .hkfd-news-button}
 - [周守仁出席慈善賽跑　籲跑手傳遞愛與支持](https://www.881903.com/news/local/2617088/) [Original](https://www.881903.com/news/local/2617088/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周守仁出席慈善賽跑-籲跑手傳遞愛與支持/){.md-button .hkfd-news-button}
+
+
+### 2026-02-03
+- [宏福苑「一戶一社工」暈倒不治　孫玉菡：工作繁重惟非單打獨鬥](https://www.881903.com/news/local/2617463/) [Original](https://www.881903.com/news/local/2617463/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑一戶一社工暈倒不治-孫玉菡工作繁重惟非單打獨鬥/){.md-button .hkfd-news-button}
+- [市建局直接向宏福苑業主　發放樓宇更新大行動100%資助](https://www.881903.com/news/local/2617441/) [Original](https://www.881903.com/news/local/2617441/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局直接向宏福苑業主-發放樓宇更新大行動100資助/){.md-button .hkfd-news-button}
+- [保監局已處理八成半宏福苑大火理賠個案　涉款約5.1億元](https://www.881903.com/news/local/2617429/) [Original](https://www.881903.com/news/local/2617429/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/保監局已處理八成半宏福苑大火理賠個案-涉款約51億元/){.md-button .hkfd-news-button}
+- [社署社工暈倒不治　孫玉菡與楊何蓓茵表示哀痛](https://www.881903.com/news/local/2617332/) [Original](https://www.881903.com/news/local/2617332/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/社署社工暈倒不治-孫玉菡與楊何蓓茵表示哀痛/){.md-button .hkfd-news-button}

@@ -1127,3 +1127,11 @@
 ### 2026-02-01
 - [八號花園大維修｜區議員建議市建局向業主解說標書內容　邀競委會或廉署列席](https://news.now.com/home/local/player?newsId=635096) [Original](https://news.now.com/home/local/player?newsId=635096){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/八號花園大維修區議員建議市建局向業主解說標書內容-邀競委會或廉署列席/){.md-button .hkfd-news-button}
 - [大鳴大放｜葉劉淑儀：撤回勳章對陳嘉信是懲罰　若要問責局長是太遠](https://news.now.com/home/local/player?newsId=635083) [Original](https://news.now.com/home/local/player?newsId=635083){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放葉劉淑儀撤回勳章對陳嘉信是懲罰-若要問責局長是太遠/){.md-button .hkfd-news-button}
+
+
+### 2026-02-03
+- [宏福苑五級火災｜孫玉菡︰地盤全面禁煙修例擬改定額罰款三千元](https://news.now.com/home/local/player?newsId=635421) [Original](https://news.now.com/home/local/player?newsId=635421){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災孫玉菡地盤全面禁煙修例擬改定額罰款三千元/){.md-button .hkfd-news-button}
+- [孫玉菡︰離世社署社工家屬冀保持低調　不想公共空間有太多討論 ](https://news.now.com/home/local/player?newsId=635409) [Original](https://news.now.com/home/local/player?newsId=635409){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡離世社署社工家屬冀保持低調-不想公共空間有太多討論/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜孫玉菡︰地盤全面禁煙修例擬改定額罰款3000元　惟須修訂吸煙公眾衞生條例](https://news.now.com/home/local/player?newsId=635406) [Original](https://news.now.com/home/local/player?newsId=635406){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災孫玉菡地盤全面禁煙修例擬改定額罰款3000元-惟須修訂吸煙公眾衞生條例/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜市建局改以支票由合安向宏福苑業主發放樓宇更新大行動全額資助](https://news.now.com/home/local/player?newsId=635387) [Original](https://news.now.com/home/local/player?newsId=635387){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災市建局改以支票由合安向宏福苑業主發放樓宇更新大行動全額資助/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜保監局：已完成處理近八成半宏福苑火災理賠個案](https://news.now.com/home/local/player?newsId=635376) [Original](https://news.now.com/home/local/player?newsId=635376){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災保監局已完成處理近八成半宏福苑火災理賠個案/){.md-button .hkfd-news-button}

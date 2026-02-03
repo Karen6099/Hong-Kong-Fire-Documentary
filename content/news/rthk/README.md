@@ -1063,3 +1063,8 @@
 
 ### 2026-01-29
 - [截至前日已有75名宏福苑火災傷者康復出院　餘下4人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/截至前日已有75名宏福苑火災傷者康復出院-餘下4人情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2026-02-03
+- [市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主/){.md-button .hkfd-news-button}
+- [保監局：宏福苑相關理賠個案約85%已處理　涉近5.1億元](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/保監局宏福苑相關理賠個案約85已處理-涉近51億元/){.md-button .hkfd-news-button}

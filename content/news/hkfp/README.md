@@ -367,3 +367,7 @@
 
 ### 2026-02-03
 - [Hong Kong officials express condolences over death of social worker aiding Wang Fuk Court residents](https://hongkongfp.com/?p=553204) [Original](https://hongkongfp.com/?p=553204){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-officials-express-condolences-over-death-of-social-worker-aiding-wang/){.md-button .hkfd-news-button}
+
+
+### 2026-02-04
+- [New administrator for fire-hit estate launches enquiry website as resident questions lack of owners’ meeting](https://hongkongfp.com/?p=553316) [Original](https://hongkongfp.com/?p=553316){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/new-administrator-for-fire-hit-estate-launches-enquiry-website-as-resident/){.md-button .hkfd-news-button}

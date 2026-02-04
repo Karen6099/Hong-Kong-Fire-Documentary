@@ -1135,3 +1135,13 @@
 - [宏福苑五級火災｜孫玉菡︰地盤全面禁煙修例擬改定額罰款3000元　惟須修訂吸煙公眾衞生條例](https://news.now.com/home/local/player?newsId=635406) [Original](https://news.now.com/home/local/player?newsId=635406){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災孫玉菡地盤全面禁煙修例擬改定額罰款3000元-惟須修訂吸煙公眾衞生條例/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜市建局改以支票由合安向宏福苑業主發放樓宇更新大行動全額資助](https://news.now.com/home/local/player?newsId=635387) [Original](https://news.now.com/home/local/player?newsId=635387){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災市建局改以支票由合安向宏福苑業主發放樓宇更新大行動全額資助/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜保監局：已完成處理近八成半宏福苑火災理賠個案](https://news.now.com/home/local/player?newsId=635376) [Original](https://news.now.com/home/local/player?newsId=635376){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災保監局已完成處理近八成半宏福苑火災理賠個案/){.md-button .hkfd-news-button}
+
+
+### 2026-02-03
+- [即日焦點｜政府料年中批出食肆牌容許狗隻進入／地盤吸煙罰則擬改定額罰款三千元](https://news.now.com/home/local/player?newsId=635430) [Original](https://news.now.com/home/local/player?newsId=635430){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點政府料年中批出食肆牌容許狗隻進入地盤吸煙罰則擬改定額罰款三千元/){.md-button .hkfd-news-button}
+
+### 2026-02-04
+- [宏福苑五級火災｜麥美娟：建築物管理條例修訂將聽取法團及業主等意見](https://news.now.com/home/local/player?newsId=635523) [Original](https://news.now.com/home/local/player?newsId=635523){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災麥美娟建築物管理條例修訂將聽取法團及業主等意見/){.md-button .hkfd-news-button}
+- [宏福苑每戶居民獲發$5000春節心意金　死者家屬獲$10萬慰問金](https://news.now.com/home/local/player?newsId=635518) [Original](https://news.now.com/home/local/player?newsId=635518){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑每戶居民獲發5000春節心意金-死者家屬獲10萬慰問金/){.md-button .hkfd-news-button}
+- [商經局：緊急警示系統屬全港性警報　不適用於宏福苑大火](https://news.now.com/home/local/player?newsId=635517) [Original](https://news.now.com/home/local/player?newsId=635517){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/商經局緊急警示系統屬全港性警報-不適用於宏福苑大火/){.md-button .hkfd-news-button}
+- [謝邱安儀：12月消費氣氛漸回復　逾九成會員料農曆新年市道持平及上升](https://news.now.com/home/local/player?newsId=635471) [Original](https://news.now.com/home/local/player?newsId=635471){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/謝邱安儀12月消費氣氛漸回復-逾九成會員料農曆新年市道持平及上升/){.md-button .hkfd-news-button}

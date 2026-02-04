@@ -1068,3 +1068,7 @@
 ### 2026-02-03
 - [市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主/){.md-button .hkfd-news-button}
 - [保監局：宏福苑相關理賠個案約85%已處理　涉近5.1億元](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/保監局宏福苑相關理賠個案約85已處理-涉近51億元/){.md-button .hkfd-news-button}
+
+
+### 2026-02-04
+- [韓紅基金會向宏福苑每戶發5千元心意金](https://news.rthk.hk/rthk/ch/component/k2/1842632-20260204.htm?archive_date=2026-02-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842632-20260204.htm?archive_date=2026-02-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/韓紅基金會向宏福苑每戶發5千元心意金/){.md-button .hkfd-news-button}

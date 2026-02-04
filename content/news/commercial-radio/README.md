@@ -781,3 +781,9 @@
 - [市建局直接向宏福苑業主　發放樓宇更新大行動100%資助](https://www.881903.com/news/local/2617441/) [Original](https://www.881903.com/news/local/2617441/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局直接向宏福苑業主-發放樓宇更新大行動100資助/){.md-button .hkfd-news-button}
 - [保監局已處理八成半宏福苑大火理賠個案　涉款約5.1億元](https://www.881903.com/news/local/2617429/) [Original](https://www.881903.com/news/local/2617429/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/保監局已處理八成半宏福苑大火理賠個案-涉款約51億元/){.md-button .hkfd-news-button}
 - [社署社工暈倒不治　孫玉菡與楊何蓓茵表示哀痛](https://www.881903.com/news/local/2617332/) [Original](https://www.881903.com/news/local/2617332/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/社署社工暈倒不治-孫玉菡與楊何蓓茵表示哀痛/){.md-button .hkfd-news-button}
+
+
+### 2026-02-04
+- [宏福苑每戶春節前獲發5千元心意金　罹難者家屬10萬慰問金](https://www.881903.com/news/local/2617589/) [Original](https://www.881903.com/news/local/2617589/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑每戶春節前獲發5千元心意金-罹難者家屬10萬慰問金/){.md-button .hkfd-news-button}
+- [麥美娟：建築物管理條例修訂廣泛和複雜　將聽取法團等意見](https://www.881903.com/news/local/2617580/) [Original](https://www.881903.com/news/local/2617580/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟建築物管理條例修訂廣泛和複雜-將聽取法團等意見/){.md-button .hkfd-news-button}
+- [宏福苑大火未有啟動緊急警示系統　丘應樺：屬地區性事故](https://www.881903.com/news/local/2617572/) [Original](https://www.881903.com/news/local/2617572/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火未有啟動緊急警示系統-丘應樺屬地區性事故/){.md-button .hkfd-news-button}

@@ -371,3 +371,7 @@
 
 ### 2026-02-04
 - [New administrator for fire-hit estate launches enquiry website as resident questions lack of owners’ meeting](https://hongkongfp.com/?p=553316) [Original](https://hongkongfp.com/?p=553316){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/new-administrator-for-fire-hit-estate-launches-enquiry-website-as-resident/){.md-button .hkfd-news-button}
+
+
+### 2026-02-05
+- [Residents of fire-hit estate urge accountability, compensation as review committee holds first public meeting](https://hongkongfp.com/?p=553498) [Original](https://hongkongfp.com/?p=553498){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/residents-of-fire-hit-estate-urge-accountability-compensation-as-review/){.md-button .hkfd-news-button}

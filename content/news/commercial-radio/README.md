@@ -787,3 +787,10 @@
 - [宏福苑每戶春節前獲發5千元心意金　罹難者家屬10萬慰問金](https://www.881903.com/news/local/2617589/) [Original](https://www.881903.com/news/local/2617589/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑每戶春節前獲發5千元心意金-罹難者家屬10萬慰問金/){.md-button .hkfd-news-button}
 - [麥美娟：建築物管理條例修訂廣泛和複雜　將聽取法團等意見](https://www.881903.com/news/local/2617580/) [Original](https://www.881903.com/news/local/2617580/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟建築物管理條例修訂廣泛和複雜-將聽取法團等意見/){.md-button .hkfd-news-button}
 - [宏福苑大火未有啟動緊急警示系統　丘應樺：屬地區性事故](https://www.881903.com/news/local/2617572/) [Original](https://www.881903.com/news/local/2617572/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火未有啟動緊急警示系統-丘應樺屬地區性事故/){.md-button .hkfd-news-button}
+
+
+### 2026-02-05
+- [法援署收到359宗宏福苑居民法援申請　大部分涉及物業保險索償](https://www.881903.com/news/local/2617801/) [Original](https://www.881903.com/news/local/2617801/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署收到359宗宏福苑居民法援申請-大部分涉及物業保險索償/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜居民出席指示會議　冀取回公道](https://www.881903.com/news/local/2617747/) [Original](https://www.881903.com/news/local/2617747/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火居民出席指示會議-冀取回公道/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜獨立委員會下月19月辦首場聽證會](https://www.881903.com/news/local/2617708/) [Original](https://www.881903.com/news/local/2617708/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火獨立委員會下月19月辦首場聽證會/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜77名傷者已出院　2人仍留院情況穩定](https://www.881903.com/news/local/2617737/) [Original](https://www.881903.com/news/local/2617737/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火77名傷者已出院-2人仍留院情況穩定/){.md-button .hkfd-news-button}

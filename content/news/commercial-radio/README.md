@@ -794,3 +794,9 @@
 - [宏福苑5級火｜居民出席指示會議　冀取回公道](https://www.881903.com/news/local/2617747/) [Original](https://www.881903.com/news/local/2617747/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火居民出席指示會議-冀取回公道/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜獨立委員會下月19月辦首場聽證會](https://www.881903.com/news/local/2617708/) [Original](https://www.881903.com/news/local/2617708/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火獨立委員會下月19月辦首場聽證會/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜77名傷者已出院　2人仍留院情況穩定](https://www.881903.com/news/local/2617737/) [Original](https://www.881903.com/news/local/2617737/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火77名傷者已出院-2人仍留院情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2026-02-06
+- [大埔宏福苑限制飛行區再度延長  直至本月22日](https://www.881903.com/news/local/2618020/) [Original](https://www.881903.com/news/local/2618020/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑限制飛行區再度延長-直至本月22日/){.md-button .hkfd-news-button}
+- [民青局舉行今年首次區議員培訓班　涵蓋宏福苑大火支援工作](https://www.881903.com/news/local/2618006/) [Original](https://www.881903.com/news/local/2618006/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民青局舉行今年首次區議員培訓班-涵蓋宏福苑大火支援工作/){.md-button .hkfd-news-button}
+- [江玉歡關注宏福苑居民無法律代表　公聽會或有勢力不對等情況](https://www.881903.com/news/local/2617913/) [Original](https://www.881903.com/news/local/2617913/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/江玉歡關注宏福苑居民無法律代表-公聽會或有勢力不對等情況/){.md-button .hkfd-news-button}

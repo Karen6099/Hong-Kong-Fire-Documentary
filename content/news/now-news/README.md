@@ -1154,3 +1154,13 @@
 - [宏福苑大火獨立委員會下月19日舉行首場公開聽證會　已掌握火災成因關鍵證據](https://news.now.com/home/local/player?newsId=635612) [Original](https://news.now.com/home/local/player?newsId=635612){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火獨立委員會下月19日舉行首場公開聽證會-已掌握火災成因關鍵證據/){.md-button .hkfd-news-button}
 - [宏福苑大火獨立委員會舉行指示會議　下月19日舉行首場公開聽證會](https://news.now.com/home/local/player?newsId=635603) [Original](https://news.now.com/home/local/player?newsId=635603){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火獨立委員會舉行指示會議-下月19日舉行首場公開聽證會/){.md-button .hkfd-news-button}
 - [採訪日誌｜宏福苑火災獨立委員會舉行指示會議／申訴專員公布主動調查行動結果](https://news.now.com/home/local/player?newsId=635579) [Original](https://news.now.com/home/local/player?newsId=635579){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌宏福苑火災獨立委員會舉行指示會議申訴專員公布主動調查行動結果/){.md-button .hkfd-news-button}
+
+
+### 2026-02-05
+- [即日焦點｜龍蝦灣謀殺案疑犯潛逃37年落網遞解返港／申訴專員指醫委會處理投訴出現系統性問題](https://news.now.com/home/local/player?newsId=635696) [Original](https://news.now.com/home/local/player?newsId=635696){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點龍蝦灣謀殺案疑犯潛逃37年落網遞解返港申訴專員指醫委會處理投訴出現系統性問題/){.md-button .hkfd-news-button}
+
+### 2026-02-06
+- [財政預算案｜C15+建議增子女免稅額](https://news.now.com/home/local/player?newsId=635828) [Original](https://news.now.com/home/local/player?newsId=635828){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案c15建議增子女免稅額/){.md-button .hkfd-news-button}
+- [建築物管理條例｜政府擬修例堵漏洞　每人取授權票設不得超過業主人數2%或20份](https://news.now.com/home/local/player?newsId=635802) [Original](https://news.now.com/home/local/player?newsId=635802){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/建築物管理條例政府擬修例堵漏洞-每人取授權票設不得超過業主人數2或20份/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠安置(二)](https://news.now.com/home/local/player?newsId=635735) [Original](https://news.now.com/home/local/player?newsId=635735){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置二/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠安置(一)](https://news.now.com/home/local/player?newsId=635734) [Original](https://news.now.com/home/local/player?newsId=635734){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置一/){.md-button .hkfd-news-button}

@@ -375,3 +375,7 @@
 
 ### 2026-02-05
 - [Residents of fire-hit estate urge accountability, compensation as review committee holds first public meeting](https://hongkongfp.com/?p=553498) [Original](https://hongkongfp.com/?p=553498){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/residents-of-fire-hit-estate-urge-accountability-compensation-as-review/){.md-button .hkfd-news-button}
+
+
+### 2026-02-06
+- [400 MTR passengers evacuated after power bank catches fire on train](https://hongkongfp.com/?p=553606) [Original](https://hongkongfp.com/?p=553606){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/400-mtr-passengers-evacuated-after-power-bank-catches-fire-on-train/){.md-button .hkfd-news-button}

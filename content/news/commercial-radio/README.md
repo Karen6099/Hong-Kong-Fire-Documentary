@@ -800,3 +800,7 @@
 - [大埔宏福苑限制飛行區再度延長  直至本月22日](https://www.881903.com/news/local/2618020/) [Original](https://www.881903.com/news/local/2618020/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑限制飛行區再度延長-直至本月22日/){.md-button .hkfd-news-button}
 - [民青局舉行今年首次區議員培訓班　涵蓋宏福苑大火支援工作](https://www.881903.com/news/local/2618006/) [Original](https://www.881903.com/news/local/2618006/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民青局舉行今年首次區議員培訓班-涵蓋宏福苑大火支援工作/){.md-button .hkfd-news-button}
 - [江玉歡關注宏福苑居民無法律代表　公聽會或有勢力不對等情況](https://www.881903.com/news/local/2617913/) [Original](https://www.881903.com/news/local/2617913/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/江玉歡關注宏福苑居民無法律代表-公聽會或有勢力不對等情況/){.md-button .hkfd-news-button}
+
+
+### 2026-02-07
+- [麥美娟：已成功聯絡300多名宏福苑業主　發放「樓宇更新」資助](https://www.881903.com/news/local/2618084/) [Original](https://www.881903.com/news/local/2618084/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟已成功聯絡300多名宏福苑業主-發放樓宇更新資助/){.md-button .hkfd-news-button}

@@ -1164,3 +1164,8 @@
 - [建築物管理條例｜政府擬修例堵漏洞　每人取授權票設不得超過業主人數2%或20份](https://news.now.com/home/local/player?newsId=635802) [Original](https://news.now.com/home/local/player?newsId=635802){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/建築物管理條例政府擬修例堵漏洞-每人取授權票設不得超過業主人數2或20份/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑長遠安置(二)](https://news.now.com/home/local/player?newsId=635735) [Original](https://news.now.com/home/local/player?newsId=635735){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置二/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑長遠安置(一)](https://news.now.com/home/local/player?newsId=635734) [Original](https://news.now.com/home/local/player?newsId=635734){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置一/){.md-button .hkfd-news-button}
+
+
+### 2026-02-07
+- [區議員周潔莹違例泊車　麥美娟：議員要謹言慎行　符合公眾期望](https://news.now.com/home/local/player?newsId=635889) [Original](https://news.now.com/home/local/player?newsId=635889){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/區議員周潔莹違例泊車-麥美娟議員要謹言慎行-符合公眾期望/){.md-button .hkfd-news-button}
+- [簡樸房規管｜何永賢：已派六隊社區服務隊協助義華大廈近百個劏房戶](https://news.now.com/home/local/player?newsId=635844) [Original](https://news.now.com/home/local/player?newsId=635844){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管何永賢已派六隊社區服務隊協助義華大廈近百個劏房戶/){.md-button .hkfd-news-button}

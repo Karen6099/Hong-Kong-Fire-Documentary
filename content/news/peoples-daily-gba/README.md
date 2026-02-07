@@ -321,3 +321,7 @@
 
 ### 2026-02-06
 - [香港大埔火灾独立委员会将于3月19日举…](http://gba.people.cn/n1/2026/0206/c42272-40660925.html) [Original](http://gba.people.cn/n1/2026/0206/c42272-40660925.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔火灾独立委员会将于3月19日举/){.md-button .hkfd-news-button}
+
+
+### 2026-02-07
+- [澳门2025年火警850宗 同比减少3…](http://gba.people.cn/n1/2026/0207/c42272-40661544.html) [Original](http://gba.people.cn/n1/2026/0207/c42272-40661544.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/澳门2025年火警850宗-同比减少3/){.md-button .hkfd-news-button}

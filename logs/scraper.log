@@ -6105,3 +6105,38 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2026-02-05 22:01:34 | INFO     | Updated PR #36 with fresh stats
 2026-02-05 22:01:34 | INFO     | PR cycle complete
 2026-02-05 22:01:34 | INFO     | Run once mode, exiting...
+2026-02-06 22:21:03 | INFO     | ============================================================
+2026-02-06 22:21:03 | INFO     | News Scraper Daemon Starting
+2026-02-06 22:21:03 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-02-06 22:21:03 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-02-06 22:21:03 | INFO     | Sync interval: 10 minutes
+2026-02-06 22:21:03 | INFO     | PR interval: 60 minutes
+2026-02-06 22:21:03 | INFO     | ============================================================
+2026-02-06 22:21:04 | INFO     | gh CLI authenticated
+2026-02-06 22:21:04 | INFO     | Setting up git remotes...
+2026-02-06 22:21:04 | INFO     | Configured origin remote
+2026-02-06 22:21:05 | INFO     | gh CLI authenticated
+2026-02-06 22:21:06 | INFO     | ----------------------------------------
+2026-02-06 22:21:06 | INFO     | Running periodic health check...
+2026-02-06 22:21:06 | INFO     | gh CLI authenticated
+2026-02-06 22:21:06 | INFO     | Health check passed
+2026-02-06 22:21:06 | INFO     | ----------------------------------------
+2026-02-06 22:21:06 | INFO     | Starting sync cycle...
+2026-02-06 22:21:07 | INFO     | Syncing with upstream...
+2026-02-06 22:21:08 | INFO     | Already up to date with upstream
+2026-02-06 22:21:08 | INFO     | Running scraper...
+2026-02-06 22:21:09 | INFO     | Found 21 new URLs to scrape
+2026-02-06 22:22:19 | INFO     | Updated cumulative stats: 3472 success, 147 failed across 62 cycles
+2026-02-06 22:22:19 | INFO     | Scraper results: 20 success, 1 failed
+2026-02-06 22:22:19 | INFO     | Committing changes...
+2026-02-06 22:22:20 | INFO     | Committed: chore(scraper): auto-scrape 2026-02-06 22:22
+2026-02-06 22:22:24 | INFO     | Pushed to origin successfully
+2026-02-06 22:22:24 | INFO     | Sync cycle complete
+2026-02-06 22:22:24 | INFO     | ----------------------------------------
+2026-02-06 22:22:24 | INFO     | Starting PR cycle...
+2026-02-06 22:22:25 | INFO     | Pushed to origin successfully
+2026-02-06 22:22:25 | INFO     | Managing PR...
+2026-02-06 22:22:26 | INFO     | PR #36 exists, updating description with fresh stats...
+2026-02-06 22:22:30 | INFO     | Updated PR #36 with fresh stats
+2026-02-06 22:22:30 | INFO     | PR cycle complete
+2026-02-06 22:22:30 | INFO     | Run once mode, exiting...

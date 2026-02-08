@@ -379,3 +379,7 @@
 
 ### 2026-02-06
 - [400 MTR passengers evacuated after power bank catches fire on train](https://hongkongfp.com/?p=553606) [Original](https://hongkongfp.com/?p=553606){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/400-mtr-passengers-evacuated-after-power-bank-catches-fire-on-train/){.md-button .hkfd-news-button}
+
+
+### 2026-02-08
+- [Explainer: Hong Kong’s national security crackdown – month 67](https://hongkongfp.com/?p=552701) [Original](https://hongkongfp.com/?p=552701){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-hong-kongs-national-security-crackdown-month-67/){.md-button .hkfd-news-button}

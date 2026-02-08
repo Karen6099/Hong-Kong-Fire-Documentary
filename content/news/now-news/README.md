@@ -1169,3 +1169,10 @@
 ### 2026-02-07
 - [區議員周潔莹違例泊車　麥美娟：議員要謹言慎行　符合公眾期望](https://news.now.com/home/local/player?newsId=635889) [Original](https://news.now.com/home/local/player?newsId=635889){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/區議員周潔莹違例泊車-麥美娟議員要謹言慎行-符合公眾期望/){.md-button .hkfd-news-button}
 - [簡樸房規管｜何永賢：已派六隊社區服務隊協助義華大廈近百個劏房戶](https://news.now.com/home/local/player?newsId=635844) [Original](https://news.now.com/home/local/player?newsId=635844){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管何永賢已派六隊社區服務隊協助義華大廈近百個劏房戶/){.md-button .hkfd-news-button}
+
+
+### 2026-02-07
+- [即日焦點｜2018年大埔車禍獨立委員會專家稱企位市區巴士不宜強制戴安全帶／31歲男子聲稱年初一金鐘站放炸彈被捕](https://news.now.com/home/local/player?newsId=635917) [Original](https://news.now.com/home/local/player?newsId=635917){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點2018年大埔車禍獨立委員會專家稱企位市區巴士不宜強制戴安全帶31歲男子聲稱年初一金鐘站放炸彈被捕/){.md-button .hkfd-news-button}
+
+### 2026-02-08
+- [宏福苑五級火災｜麥美娟：合安管理公司正與前管理公司交接　料需時較長](https://news.now.com/home/local/player?newsId=635952) [Original](https://news.now.com/home/local/player?newsId=635952){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災麥美娟合安管理公司正與前管理公司交接-料需時較長/){.md-button .hkfd-news-button}

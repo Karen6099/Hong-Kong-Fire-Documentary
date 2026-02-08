@@ -401,3 +401,7 @@
 ### 2026-02-05
 - [點觀香港｜宏福苑火災獨立委員會下月首場聽證會　善後有這些新進展](https://www.dotdotnews.com/a/202602/05/AP69847c78e4b0c32d4f68082a.html) [Original](https://www.dotdotnews.com/a/202602/05/AP69847c78e4b0c32d4f68082a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑火災獨立委員會下月首場聽證會-善後有這些新進展/){.md-button .hkfd-news-button}
 - [宏福苑善後｜法援署：已成立專責小組處理災民求助申請　將簡化審查程序](https://www.dotdotnews.com/a/202602/05/AP69848346e4b0c32d4f6808a6.html) [Original](https://www.dotdotnews.com/a/202602/05/AP69848346e4b0c32d4f6808a6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後法援署已成立專責小組處理災民求助申請-將簡化審查程序/){.md-button .hkfd-news-button}
+
+
+### 2026-02-08
+- [Fire aftermath | Winnie Ho: Ten-year subsidy burden difficult to bear, will provide compensation options as much as possible](https://english.dotdotnews.com/a/202602/08/AP6988265be4b0c32d4f6844f1.html) [Original](https://english.dotdotnews.com/a/202602/08/AP6988265be4b0c32d4f6844f1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-aftermath-winnie-ho-ten-year-subsidy-burden-difficult-to-bear-will-provide/){.md-button .hkfd-news-button}

@@ -809,3 +809,7 @@
 ### 2026-02-08
 - [何永賢：需時分析宏福苑長遠安置　要平衡各方利益](https://www.881903.com/news/local/2618202/) [Original](https://www.881903.com/news/local/2618202/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢需時分析宏福苑長遠安置-要平衡各方利益/){.md-button .hkfd-news-button}
 - [兒童街舞團參與馬年花車巡遊表演　盼舞出希望](https://www.881903.com/news/local/2618136/) [Original](https://www.881903.com/news/local/2618136/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/兒童街舞團參與馬年花車巡遊表演-盼舞出希望/){.md-button .hkfd-news-button}
+
+
+### 2026-02-09
+- [市建局就發放樓宇更新資助　為宏福苑業主設查詢專線](https://www.881903.com/news/local/2618329/) [Original](https://www.881903.com/news/local/2618329/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局就發放樓宇更新資助-為宏福苑業主設查詢專線/){.md-button .hkfd-news-button}

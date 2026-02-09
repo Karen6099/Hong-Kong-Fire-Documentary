@@ -383,3 +383,7 @@
 
 ### 2026-02-08
 - [Explainer: Hong Kong’s national security crackdown – month 67](https://hongkongfp.com/?p=552701) [Original](https://hongkongfp.com/?p=552701){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-hong-kongs-national-security-crackdown-month-67/){.md-button .hkfd-news-button}
+
+
+### 2026-02-09
+- [Hong Kong press groups silent on jailing of media tycoon Jimmy Lai](https://hongkongfp.com/?p=554051) [Original](https://hongkongfp.com/?p=554051){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-press-groups-silent-on-jailing-of-media-tycoon-jimmy-lai/){.md-button .hkfd-news-button}

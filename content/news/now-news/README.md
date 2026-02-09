@@ -1176,3 +1176,11 @@
 
 ### 2026-02-08
 - [宏福苑五級火災｜麥美娟：合安管理公司正與前管理公司交接　料需時較長](https://news.now.com/home/local/player?newsId=635952) [Original](https://news.now.com/home/local/player?newsId=635952){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災麥美娟合安管理公司正與前管理公司交接-料需時較長/){.md-button .hkfd-news-button}
+
+
+### 2026-02-08
+- [即日焦點｜再多五人疑吃生蠔後食物中毒／日本眾議院選舉　自民黨議席單獨過半](https://news.now.com/home/local/player?newsId=635989) [Original](https://news.now.com/home/local/player?newsId=635989){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點再多五人疑吃生蠔後食物中毒日本眾議院選舉-自民黨議席單獨過半/){.md-button .hkfd-news-button}
+
+### 2026-02-09
+- [當局擬修例授權票設上限　議員關注授權對象及真偽　麥美娟：續聽意見平衡可行性 ](https://news.now.com/home/local/player?newsId=636122) [Original](https://news.now.com/home/local/player?newsId=636122){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/當局擬修例授權票設上限-議員關注授權對象及真偽-麥美娟續聽意見平衡可行性/){.md-button .hkfd-news-button}
+- [市建局為宏福苑業主設電話專線　解答發放樓宇更新資助安排](https://news.now.com/home/local/player?newsId=636118) [Original](https://news.now.com/home/local/player?newsId=636118){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局為宏福苑業主設電話專線-解答發放樓宇更新資助安排/){.md-button .hkfd-news-button}

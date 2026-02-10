@@ -813,3 +813,7 @@
 
 ### 2026-02-09
 - [市建局就發放樓宇更新資助　為宏福苑業主設查詢專線](https://www.881903.com/news/local/2618329/) [Original](https://www.881903.com/news/local/2618329/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局就發放樓宇更新資助-為宏福苑業主設查詢專線/){.md-button .hkfd-news-button}
+
+
+### 2026-02-10
+- [李家超：宏福苑大部分業主表示會考慮接受政府收購業權](https://www.881903.com/news/local/2618456/) [Original](https://www.881903.com/news/local/2618456/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超宏福苑大部分業主表示會考慮接受政府收購業權/){.md-button .hkfd-news-button}

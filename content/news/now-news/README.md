@@ -1184,3 +1184,13 @@
 ### 2026-02-09
 - [當局擬修例授權票設上限　議員關注授權對象及真偽　麥美娟：續聽意見平衡可行性 ](https://news.now.com/home/local/player?newsId=636122) [Original](https://news.now.com/home/local/player?newsId=636122){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/當局擬修例授權票設上限-議員關注授權對象及真偽-麥美娟續聽意見平衡可行性/){.md-button .hkfd-news-button}
 - [市建局為宏福苑業主設電話專線　解答發放樓宇更新資助安排](https://news.now.com/home/local/player?newsId=636118) [Original](https://news.now.com/home/local/player?newsId=636118){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局為宏福苑業主設電話專線-解答發放樓宇更新資助安排/){.md-button .hkfd-news-button}
+
+
+### 2026-02-10
+- [去年全港錄得逾8.9萬宗罪案　按年跌5.9%](https://news.now.com/home/local/player?newsId=636278) [Original](https://news.now.com/home/local/player?newsId=636278){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年全港錄得逾89萬宗罪案-按年跌59/){.md-button .hkfd-news-button}
+- [時事全方位重點提要｜2月11日](https://news.now.com/home/local/player?newsId=636271) [Original](https://news.now.com/home/local/player?newsId=636271){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位重點提要2月11日/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜測量師學會：難集齊百分百業權作原址重建　政府收購業權方案較可取](https://news.now.com/home/local/player?newsId=636265) [Original](https://news.now.com/home/local/player?newsId=636265){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災測量師學會難集齊百分百業權作原址重建-政府收購業權方案較可取/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜李家超：安置須兼顧公帑投入　會盡快敲定最終方案](https://news.now.com/home/local/player?newsId=636255) [Original](https://news.now.com/home/local/player?newsId=636255){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超安置須兼顧公帑投入-會盡快敲定最終方案/){.md-button .hkfd-news-button}
+- [政府擬就法團授權票數量設上限　有議員促不同房屋類型設不同門檻](https://news.now.com/home/local/player?newsId=636214) [Original](https://news.now.com/home/local/player?newsId=636214){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬就法團授權票數量設上限-有議員促不同房屋類型設不同門檻/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜李家超：相當高比例業主傾向政府收購業權　亦有業主指要考慮收購價](https://news.now.com/home/local/player?newsId=636181) [Original](https://news.now.com/home/local/player?newsId=636181){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超相當高比例業主傾向政府收購業權-亦有業主指要考慮收購價/){.md-button .hkfd-news-button}
+- [政府擬修訂建築物管理條例　議員倡不同房屋類型設不同授權票上限門檻](https://news.now.com/home/local/player?newsId=636163) [Original](https://news.now.com/home/local/player?newsId=636163){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬修訂建築物管理條例-議員倡不同房屋類型設不同授權票上限門檻/){.md-button .hkfd-news-button}

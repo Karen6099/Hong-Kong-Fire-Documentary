@@ -1087,3 +1087,7 @@
 ### 2026-02-08
 - [宏福苑居民長遠住宿安排　何永賢表示需平衡各方需求](https://news.rthk.hk/rthk/ch/component/k2/1843100-20260208.htm?archive_date=2026-02-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843100-20260208.htm?archive_date=2026-02-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民長遠住宿安排-何永賢表示需平衡各方需求/){.md-button .hkfd-news-button}
 - [麥美娟指合安正與前宏福苑管理公司交接　過程複雜需時處理](https://news.rthk.hk/rthk/ch/component/k2/1843089-20260208.htm?archive_date=2026-02-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843089-20260208.htm?archive_date=2026-02-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟指合安正與前宏福苑管理公司交接-過程複雜需時處理/){.md-button .hkfd-news-button}
+
+
+### 2026-02-10
+- [李家超稱政府馬不停蹄為宏福苑居住安排敲定方案　供居民選擇](https://news.rthk.hk/rthk/ch/component/k2/1843311-20260210.htm?archive_date=2026-02-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843311-20260210.htm?archive_date=2026-02-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超稱政府馬不停蹄為宏福苑居住安排敲定方案-供居民選擇/){.md-button .hkfd-news-button}

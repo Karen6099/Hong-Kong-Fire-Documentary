@@ -1063,3 +1063,31 @@
 
 ### 2026-01-29
 - [截至前日已有75名宏福苑火災傷者康復出院　餘下4人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/截至前日已有75名宏福苑火災傷者康復出院-餘下4人情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2026-02-03
+- [市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主/){.md-button .hkfd-news-button}
+- [保監局：宏福苑相關理賠個案約85%已處理　涉近5.1億元](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/保監局宏福苑相關理賠個案約85已處理-涉近51億元/){.md-button .hkfd-news-button}
+
+
+### 2026-02-04
+- [韓紅基金會向宏福苑每戶發5千元心意金](https://news.rthk.hk/rthk/ch/component/k2/1842632-20260204.htm?archive_date=2026-02-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842632-20260204.htm?archive_date=2026-02-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/韓紅基金會向宏福苑每戶發5千元心意金/){.md-button .hkfd-news-button}
+
+
+### 2026-02-05
+- [宏福苑火災獨立委員會下月19日舉行首場聽證會](https://news.rthk.hk/rthk/ch/component/k2/1842823-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842823-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月19日舉行首場聽證會/){.md-button .hkfd-news-button}
+- [法援署截至上月底接359宗宏福苑災民申請　六成涉物業損毀索償](https://news.rthk.hk/rthk/ch/component/k2/1842812-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842812-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署截至上月底接359宗宏福苑災民申請-六成涉物業損毀索償/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會指示會議　陸啟康稱9個月內完成報告是挑戰](https://news.rthk.hk/rthk/ch/component/k2/1842776-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842776-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會指示會議-陸啟康稱9個月內完成報告是挑戰/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會指示會議　有參與居民冀有平台表達意見](https://news.rthk.hk/rthk/ch/component/k2/1842769-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842769-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會指示會議-有參與居民冀有平台表達意見/){.md-button .hkfd-news-button}
+- [宏福苑火災77名傷者已康復出院　餘下2人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1842761-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842761-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災77名傷者已康復出院-餘下2人情況穩定/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會下月19日舉行聽證會](https://news.rthk.hk/rthk/ch/component/k2/1842757-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842757-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月19日舉行聽證會/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會今舉行指示會議　就日後聽證會安排給予指示](https://news.rthk.hk/rthk/ch/component/k2/1842746-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842746-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會今舉行指示會議-就日後聽證會安排給予指示/){.md-button .hkfd-news-button}
+
+
+### 2026-02-08
+- [宏福苑居民長遠住宿安排　何永賢表示需平衡各方需求](https://news.rthk.hk/rthk/ch/component/k2/1843100-20260208.htm?archive_date=2026-02-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843100-20260208.htm?archive_date=2026-02-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民長遠住宿安排-何永賢表示需平衡各方需求/){.md-button .hkfd-news-button}
+- [麥美娟指合安正與前宏福苑管理公司交接　過程複雜需時處理](https://news.rthk.hk/rthk/ch/component/k2/1843089-20260208.htm?archive_date=2026-02-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843089-20260208.htm?archive_date=2026-02-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟指合安正與前宏福苑管理公司交接-過程複雜需時處理/){.md-button .hkfd-news-button}
+
+
+### 2026-02-10
+- [李家超稱政府馬不停蹄為宏福苑居住安排敲定方案　供居民選擇](https://news.rthk.hk/rthk/ch/component/k2/1843311-20260210.htm?archive_date=2026-02-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843311-20260210.htm?archive_date=2026-02-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超稱政府馬不停蹄為宏福苑居住安排敲定方案-供居民選擇/){.md-button .hkfd-news-button}

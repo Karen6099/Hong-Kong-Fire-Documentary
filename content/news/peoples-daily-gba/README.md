@@ -304,3 +304,24 @@
 
 ### 2026-01-29
 - [新华社香港1月29日电（记者曹霁阳）香港大埔宏福苑火灾发生后，特区政府以全港十八区地区康健中心为枢纽，为受影响居民统筹及协调基层医疗服务。香港特区政府医务卫生局29日公布最新情况，表示会继续为受火灾影响居民提供全面基层医疗支援，并从居民的角度设计相关服务流程，让他们只需通过康健中心便可获得便捷及到位的医疗支援。](http://gba.people.cn/n1/2026/0129/c42272-40655604.html) [Original](http://gba.people.cn/n1/2026/0129/c42272-40655604.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新华社香港1月29日电记者曹霁阳香港大埔宏福苑火灾发生后特区政府以全港十八区地区康健中心为枢纽为受影响居民统筹及协调基层医疗服务香港特区政府医务卫生局29日公布/){.md-button .hkfd-news-button}
+
+
+### 2026-01-30
+- [香港继续为受大埔火灾影响居民提供医疗支援](http://gba.people.cn/n1/2026/0130/c42272-40655732.html) [Original](http://gba.people.cn/n1/2026/0130/c42272-40655732.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港继续为受大埔火灾影响居民提供医疗支援/){.md-button .hkfd-news-button}
+
+
+### 2026-02-03
+- [香港继续为受大埔火灾影响居民提供医疗…](http://world.people.com.cn/n1/2026/0203/c1002-40658539.html) [Original](http://world.people.com.cn/n1/2026/0203/c1002-40658539.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港继续为受大埔火灾影响居民提供医疗/){.md-button .hkfd-news-button}
+
+
+### 2026-02-05
+- [新华社香港2月4日电 香港特区政府4日宣布，在“大埔宏福苑援助基金”下推出两项特别援助，分别是向遇难者家属提供10万港元慰问金，以及向屋苑每户发放5000港元春节心意金，即日起陆续通过“一户一社工”机制发放。
+大埔宏福苑火灾168名遇难者，包括身故的住户、外佣、访客以及大火期间在屋苑内工作的人士，其家属可获10万港元慰问金，用以帮助他们度过困难时期，重建生活信心。](http://gba.people.cn/n1/2026/0205/c42272-40660089.html)
+
+
+### 2026-02-06
+- [香港大埔火灾独立委员会将于3月19日举…](http://gba.people.cn/n1/2026/0206/c42272-40660925.html) [Original](http://gba.people.cn/n1/2026/0206/c42272-40660925.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔火灾独立委员会将于3月19日举/){.md-button .hkfd-news-button}
+
+
+### 2026-02-07
+- [澳门2025年火警850宗 同比减少3…](http://gba.people.cn/n1/2026/0207/c42272-40661544.html) [Original](http://gba.people.cn/n1/2026/0207/c42272-40661544.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/澳门2025年火警850宗-同比减少3/){.md-button .hkfd-news-button}

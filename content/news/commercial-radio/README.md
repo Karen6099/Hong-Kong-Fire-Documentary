@@ -817,3 +817,8 @@
 
 ### 2026-02-10
 - [李家超：宏福苑大部分業主表示會考慮接受政府收購業權](https://www.881903.com/news/local/2618456/) [Original](https://www.881903.com/news/local/2618456/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超宏福苑大部分業主表示會考慮接受政府收購業權/){.md-button .hkfd-news-button}
+
+
+### 2026-02-11
+- [蔡若蓮：受宏福苑火災影響3所幼稚園　重回正軌](https://www.881903.com/news/local/2618782/) [Original](https://www.881903.com/news/local/2618782/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/蔡若蓮受宏福苑火災影響3所幼稚園-重回正軌/){.md-button .hkfd-news-button}
+- [周一鳴：本土恐怖主義仍存暗湧　執法維護國安不手軟](https://www.881903.com/news/local/2618738/) [Original](https://www.881903.com/news/local/2618738/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周一鳴本土恐怖主義仍存暗湧-執法維護國安不手軟/){.md-button .hkfd-news-button}

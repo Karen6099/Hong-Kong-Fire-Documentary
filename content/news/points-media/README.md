@@ -70,3 +70,7 @@
 
 ### 2025年12月31日
 - [2025 大事回顧｜大埔火災揭制度漏洞  國安法衝擊司法惹不滿 BN(O)承諾動搖](https://points-media.com/%e6%9c%80%e6%96%b0/2025-%e5%a4%a7%e4%ba%8b%e5%9b%9e%e9%a1%a7%ef%bd%9c%e5%a4%a7%e5%9f%94%e7%81%ab%e7%81%bd%e6%8f%ad%e5%88%b6%e5%ba%a6%e6%bc%8f%e6%b4%9e-%e5%9c%8b%e5%ae%89%e6%b3%95%e8%a1%9d%e6%93%8a%e5%8f%b8%e6%b3%95/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/2025-%e5%a4%a7%e4%ba%8b%e5%9b%9e%e9%a1%a7%ef%bd%9c%e5%a4%a7%e5%9f%94%e7%81%ab%e7%81%bd%e6%8f%ad%e5%88%b6%e5%ba%a6%e6%bc%8f%e6%b4%9e-%e5%9c%8b%e5%ae%89%e6%b3%95%e8%a1%9d%e6%93%8a%e5%8f%b8%e6%b3%95/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2025-大事回顧大埔火災揭制度漏洞-國安法衝擊司法惹不滿-bno承諾動搖/){.md-button .hkfd-news-button}
+
+
+### 2026年02月12日
+- [香港世紀大火｜多人涉違國安被捕 3 人涉「煽動意圖」及「發布煽動刊物」被起訴](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%a4%9a%e4%ba%ba%e6%b6%89%e9%81%95%e5%9c%8b%e5%ae%89%e8%a2%ab%e6%8d%95-3-%e4%ba%ba%e6%b6%89%e3%80%8c%e7%85%bd%e5%8b%95%e6%84%8f/) [Original](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%a4%9a%e4%ba%ba%e6%b6%89%e9%81%95%e5%9c%8b%e5%ae%89%e8%a2%ab%e6%8d%95-3-%e4%ba%ba%e6%b6%89%e3%80%8c%e7%85%bd%e5%8b%95%e6%84%8f/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火多人涉違國安被捕-3-人涉煽動意圖及發布煽動刊物被起訴/){.md-button .hkfd-news-button}

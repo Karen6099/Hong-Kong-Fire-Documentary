@@ -398,3 +398,7 @@
 
 ### 2026-02-11
 - [Li Ka Shing Foundation, Hong Kong Disneyland to give free park tickets to 5,000 domestic workers](https://hongkongfp.com/?p=554397) [Original](https://hongkongfp.com/?p=554397){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/li-ka-shing-foundation-hong-kong-disneyland-to-give-free-park-tickets-to-5000/){.md-button .hkfd-news-button}
+
+
+### 2026-02-12
+- [Police decline to disclose number of sedition arrests over comments about fatal Tai Po blaze](https://hongkongfp.com/?p=554526) [Original](https://hongkongfp.com/?p=554526){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/police-decline-to-disclose-number-of-sedition-arrests-over-comments-about-fatal/){.md-button .hkfd-news-button}

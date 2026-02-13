@@ -1204,3 +1204,11 @@
 - [時事全方位｜宏福苑長遠安置方案(二)](https://news.now.com/home/local/player?newsId=636339) [Original](https://news.now.com/home/local/player?newsId=636339){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置方案二/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑長遠安置方案(一)](https://news.now.com/home/local/player?newsId=636338) [Original](https://news.now.com/home/local/player?newsId=636338){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置方案一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜羅曉楓冀當局思考重置方案時　別遺留宏志閣居民](https://news.now.com/home/local/player?newsId=636384) [Original](https://news.now.com/home/local/player?newsId=636384){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災羅曉楓冀當局思考重置方案時-別遺留宏志閣居民/){.md-button .hkfd-news-button}
+
+
+### 2026-02-13
+- [宏福苑五級火災｜李家超：短期內公布長遠住宿方案　要求工作組過年不停工](https://news.now.com/home/local/player?newsId=636690) [Original](https://news.now.com/home/local/player?newsId=636690){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超短期內公布長遠住宿方案-要求工作組過年不停工/){.md-button .hkfd-news-button}
+- [去年逾3.3億人次出入香港　是有紀錄以來新高](https://news.now.com/home/local/player?newsId=636661) [Original](https://news.now.com/home/local/player?newsId=636661){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年逾33億人次出入香港-是有紀錄以來新高/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜麥美娟：會設計不同長遠安置方案　讓宏福苑居民有選擇](https://news.now.com/home/local/player?newsId=636657) [Original](https://news.now.com/home/local/player?newsId=636657){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火麥美娟會設計不同長遠安置方案-讓宏福苑居民有選擇/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜李家超：短期內公布宏福苑長遠住宿方案　要求工作組過年期間都不能停頓工作](https://news.now.com/home/local/player?newsId=636647) [Original](https://news.now.com/home/local/player?newsId=636647){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超短期內公布宏福苑長遠住宿方案-要求工作組過年期間都不能停頓工作/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜李家超早上到啟德探訪宏福苑災民　指示工作組過年繼續工作](https://news.now.com/home/local/player?newsId=636631) [Original](https://news.now.com/home/local/player?newsId=636631){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超早上到啟德探訪宏福苑災民-指示工作組過年繼續工作/){.md-button .hkfd-news-button}

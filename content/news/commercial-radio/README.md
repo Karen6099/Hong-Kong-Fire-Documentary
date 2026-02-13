@@ -822,3 +822,11 @@
 ### 2026-02-11
 - [蔡若蓮：受宏福苑火災影響3所幼稚園　重回正軌](https://www.881903.com/news/local/2618782/) [Original](https://www.881903.com/news/local/2618782/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/蔡若蓮受宏福苑火災影響3所幼稚園-重回正軌/){.md-button .hkfd-news-button}
 - [周一鳴：本土恐怖主義仍存暗湧　執法維護國安不手軟](https://www.881903.com/news/local/2618738/) [Original](https://www.881903.com/news/local/2618738/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周一鳴本土恐怖主義仍存暗湧-執法維護國安不手軟/){.md-button .hkfd-news-button}
+
+
+### 2026-02-13
+- [學生發起宏福苑大火聯署被革學籍　中大不評論](https://www.881903.com/news/local/2619026/) [Original](https://www.881903.com/news/local/2619026/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/學生發起宏福苑大火聯署被革學籍-中大不評論/){.md-button .hkfd-news-button}
+- [合安首交代宏福苑管理工作　派逾1100張市建局資助支票](https://www.881903.com/news/local/2619140/) [Original](https://www.881903.com/news/local/2619140/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/合安首交代宏福苑管理工作-派逾1100張市建局資助支票/){.md-button .hkfd-news-button}
+- [再有區議員涉違泊　麥美娟：將再三提醒區議員謹言慎行](https://www.881903.com/news/local/2619068/) [Original](https://www.881903.com/news/local/2619068/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/再有區議員涉違泊-麥美娟將再三提醒區議員謹言慎行/){.md-button .hkfd-news-button}
+- [李家超探訪宏福苑災民　指住宿安排工作組新年不可停頓工作](https://www.881903.com/news/local/2619062/) [Original](https://www.881903.com/news/local/2619062/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超探訪宏福苑災民-指住宿安排工作組新年不可停頓工作/){.md-button .hkfd-news-button}
+- [多一名宏福苑傷者出院　仍有一人留院](https://www.881903.com/news/local/2619022/) [Original](https://www.881903.com/news/local/2619022/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/多一名宏福苑傷者出院-仍有一人留院/){.md-button .hkfd-news-button}

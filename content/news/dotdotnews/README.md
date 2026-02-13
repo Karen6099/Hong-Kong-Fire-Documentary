@@ -409,3 +409,14 @@
 
 ### 2026-02-10
 - [點觀香港｜特首回應黎智英案及宏福苑長遠安排　香港新春有這些重點活動](https://www.dotdotnews.com/a/202602/10/AP698b133ee4b0c32d4f688235.html) [Original](https://www.dotdotnews.com/a/202602/10/AP698b133ee4b0c32d4f688235.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港特首回應黎智英案及宏福苑長遠安排-香港新春有這些重點活動/){.md-button .hkfd-news-button}
+
+
+### 2026-02-13
+- [Fire Aftermath | CE urges task force to continue holiday work on resettlement plan](https://english.dotdotnews.com/a/202602/13/AP698edb3ce4b0c32d4f68c4f7.html) [Original](https://english.dotdotnews.com/a/202602/13/AP698edb3ce4b0c32d4f68c4f7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-aftermath-ce-urges-task-force-to-continue-holiday-work-on-resettlement-plan/){.md-button .hkfd-news-button}
+
+
+### 2026-02-13
+- [（有片）宏福苑善後｜年前探望居民　李家超要求工作組過年不停工續擬定安置方案](https://www.dotdotnews.com/a/202602/13/AP698eb630e4b0c32d4f68c1ac.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698eb630e4b0c32d4f68c1ac.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後年前探望居民-李家超要求工作組過年不停工續擬定安置方案/){.md-button .hkfd-news-button}
+- [中華煤氣攜水務署親製愛心蘿蔔糕　赴漁映樓為宏福苑居民送暖](https://www.dotdotnews.com/a/202602/13/AP698ecedce4b0c32d4f68c3b9.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698ecedce4b0c32d4f68c3b9.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中華煤氣攜水務署親製愛心蘿蔔糕-赴漁映樓為宏福苑居民送暖/){.md-button .hkfd-news-button}
+- [三思十五談｜宏福苑火災引建管反思　林筱魯籲以科技賦能破解難題](https://www.dotdotnews.com/a/202602/13/AP698e92e7e4b0c32d4f68be13.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698e92e7e4b0c32d4f68be13.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/三思十五談宏福苑火災引建管反思-林筱魯籲以科技賦能破解難題/){.md-button .hkfd-news-button}
+- [點觀香港｜特首落區探訪居民　談宏福苑善後方案「短期內公布」](https://www.dotdotnews.com/a/202602/13/AP698f04b0e4b0c32d4f68c883.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698f04b0e4b0c32d4f68c883.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港特首落區探訪居民-談宏福苑善後方案短期內公布/){.md-button .hkfd-news-button}

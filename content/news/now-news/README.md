@@ -1212,3 +1212,7 @@
 - [宏福苑五級火｜麥美娟：會設計不同長遠安置方案　讓宏福苑居民有選擇](https://news.now.com/home/local/player?newsId=636657) [Original](https://news.now.com/home/local/player?newsId=636657){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火麥美娟會設計不同長遠安置方案-讓宏福苑居民有選擇/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜李家超：短期內公布宏福苑長遠住宿方案　要求工作組過年期間都不能停頓工作](https://news.now.com/home/local/player?newsId=636647) [Original](https://news.now.com/home/local/player?newsId=636647){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超短期內公布宏福苑長遠住宿方案-要求工作組過年期間都不能停頓工作/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜李家超早上到啟德探訪宏福苑災民　指示工作組過年繼續工作](https://news.now.com/home/local/player?newsId=636631) [Original](https://news.now.com/home/local/player?newsId=636631){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超早上到啟德探訪宏福苑災民-指示工作組過年繼續工作/){.md-button .hkfd-news-button}
+
+
+### 2026-02-14
+- [中大生發起宏福苑聯署被捕　稱遭開除學籍校方不評論](https://news.now.com/home/local/player?newsId=636762) [Original](https://news.now.com/home/local/player?newsId=636762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中大生發起宏福苑聯署被捕-稱遭開除學籍校方不評論/){.md-button .hkfd-news-button}

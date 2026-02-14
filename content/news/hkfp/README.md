@@ -410,3 +410,7 @@
 ### 2026-02-13
 - [Student who launched petition urging probe into deadly Tai Po fire says CUHK expelled him weeks before graduation](https://hongkongfp.com/?p=554686) [Original](https://hongkongfp.com/?p=554686){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/student-who-launched-petition-urging-probe-into-deadly-tai-po-fire-says-cuhk/){.md-button .hkfd-news-button}
 - [Rehousing plan for Tai Po fire victims coming in ‘near term,’ says leader John Lee as another patient discharged](https://hongkongfp.com/?p=554645) [Original](https://hongkongfp.com/?p=554645){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/rehousing-plan-for-tai-po-fire-victims-coming-in-near-term-says-leader-john-lee/){.md-button .hkfd-news-button}
+
+
+### 2026-02-14
+- [Hong Kong journalists face ‘precarious’ future after Jimmy Lai jailed](https://hongkongfp.com/?p=554647) [Original](https://hongkongfp.com/?p=554647){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-journalists-face-precarious-future-after-jimmy-lai-jailed/){.md-button .hkfd-news-button}

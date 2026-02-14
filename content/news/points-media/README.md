@@ -74,3 +74,7 @@
 
 ### 2026年02月12日
 - [香港世紀大火｜多人涉違國安被捕 3 人涉「煽動意圖」及「發布煽動刊物」被起訴](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%a4%9a%e4%ba%ba%e6%b6%89%e9%81%95%e5%9c%8b%e5%ae%89%e8%a2%ab%e6%8d%95-3-%e4%ba%ba%e6%b6%89%e3%80%8c%e7%85%bd%e5%8b%95%e6%84%8f/) [Original](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%a4%9a%e4%ba%ba%e6%b6%89%e9%81%95%e5%9c%8b%e5%ae%89%e8%a2%ab%e6%8d%95-3-%e4%ba%ba%e6%b6%89%e3%80%8c%e7%85%bd%e5%8b%95%e6%84%8f/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火多人涉違國安被捕-3-人涉煽動意圖及發布煽動刊物被起訴/){.md-button .hkfd-news-button}
+
+
+### 2026年02月13日
+- [香港世紀大火｜曾提「四大訴求」被捕  中大學生關靖豐遭踢出校 中大回應：按紀律程序處理](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e6%9b%be%e6%8f%90%e3%80%8c%e5%9b%9b%e5%a4%a7%e8%a8%b4%e6%b1%82%e3%80%8d%e8%a2%ab%e6%8d%95-%e4%b8%ad%e5%a4%a7%e5%ad%b8%e7%94%9f%e9%97%9c/) [Original](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e6%9b%be%e6%8f%90%e3%80%8c%e5%9b%9b%e5%a4%a7%e8%a8%b4%e6%b1%82%e3%80%8d%e8%a2%ab%e6%8d%95-%e4%b8%ad%e5%a4%a7%e5%ad%b8%e7%94%9f%e9%97%9c/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火曾提四大訴求被捕-中大學生關靖豐遭踢出校-中大回應按紀律程序處理/){.md-button .hkfd-news-button}

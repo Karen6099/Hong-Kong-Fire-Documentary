@@ -53361,7 +53361,77 @@
       "source_file": "content/news/rthk/README.md",
       "scraped_at": "2026-02-13T23:07:29.833667",
       "archive_path": "content\\news\\rthk\\archive\\再有一名大埔宏福苑火災傷者康復出院-餘下一名留院傷者情況穩定"
+    },
+    "https://hongkongfp.com/?p=554647": {
+      "title": "Hong Kong journalists face ‘precarious’ future after Jimmy Lai jailed",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-14T22:59:13.911850",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-journalists-face-precarious-future-after-jimmy-lai-jailed"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4321446/22%E4%BA%BA%E7%96%91%E5%9C%8D%E6%A8%99%E8%A2%AB%E6%8D%95": {
+      "title": "22人疑圍標被捕",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-14T22:59:16.159707",
+      "archive_path": "content\\news\\hkej\\archive\\22人疑圍標被捕"
+    },
+    "https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e6%9b%be%e6%8f%90%e3%80%8c%e5%9b%9b%e5%a4%a7%e8%a8%b4%e6%b1%82%e3%80%8d%e8%a2%ab%e6%8d%95-%e4%b8%ad%e5%a4%a7%e5%ad%b8%e7%94%9f%e9%97%9c/": {
+      "title": "香港世紀大火｜曾提「四大訴求」被捕  中大學生關靖豐遭踢出校 中大回應：按紀律程序處理",
+      "source": "points-media",
+      "source_file": "content/news/points-media/README.md",
+      "scraped_at": "2026-02-14T22:59:16.357947",
+      "archive_path": "content\\news\\points-media\\archive\\香港世紀大火曾提四大訴求被捕-中大學生關靖豐遭踢出校-中大回應按紀律程序處理"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60322378/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E5%91%A8%E4%B8%80%E9%B3%B4-%E9%8C%84%E5%8F%A3%E4%BE%9B%E6%8E%A5%E8%BF%91%E5%AE%8C%E6%88%90-%E9%A0%88%E7%A2%BA%E8%AA%8D%E5%AE%89%E5%85%A8%E6%89%8D%E8%AE%93%E5%B1%85%E6%B0%91%E5%9B%9E%E5%96%AE%E4%BD%8D": {
+      "title": "宏福苑火災｜周一鳴：錄口供接近完成　須確認安全才讓居民回單位",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-14T22:59:16.468177",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災周一鳴錄口供接近完成-須確認安全才讓居民回單位"
+    },
+    "https://www.theguardian.com/world/2026/feb/13/university-expels-student-who-called-for-accountability-over-hong-kong-fire-miles-kwan": {
+      "title": "University expels student who called for accountability over Hong Kong fire",
+      "source": "the-guardian",
+      "source_file": "content/news/the-guardian/README.md",
+      "scraped_at": "2026-02-14T22:59:17.080945",
+      "archive_path": "content\\news\\the-guardian\\archive\\university-expels-student-who-called-for-accountability-over-hong-kong-fire"
+    },
+    "https://news.now.com/home/local/player?newsId=636762": {
+      "title": "中大生發起宏福苑聯署被捕　稱遭開除學籍校方不評論",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-14T22:59:17.301615",
+      "archive_path": "content\\news\\now-news\\archive\\中大生發起宏福苑聯署被捕-稱遭開除學籍校方不評論"
+    },
+    "https://news.tvb.com/tc/pearlnews/698f1384bade8eb62cfff0c8/TVB%20News-CE-John-Lee-rehousing-plans-for-Wang-Fuk-Court-to-be-announced-soon": {
+      "title": "CE John Lee: rehousing plans for Wang Fuk Court to be announced soon",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-14T22:59:19.290833",
+      "archive_path": "content\\news\\tvb\\archive\\ce-john-lee-rehousing-plans-for-wang-fuk-court-to-be-announced-soon"
+    },
+    "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/60322039/%E8%BE%B2%E6%9B%86%E6%96%B0%E5%B9%B4-%E7%85%A4%E6%B0%A3%E8%88%87%E6%B0%B4%E5%8B%99%E7%BD%B2%E7%BE%A9%E5%B7%A5%E9%9A%8A%E8%A3%BD%E8%98%BF%E8%94%94%E7%B3%95%E9%80%81%E5%B1%85%E6%BC%81%E6%98%A0%E6%A8%93%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91": {
+      "title": "農曆新年｜煤氣與水務署義工隊製蘿蔔糕送居漁映樓宏福苑居民",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-14T22:59:21.699949",
+      "archive_path": "content\\news\\hk01\\archive\\農曆新年煤氣與水務署義工隊製蘿蔔糕送居漁映樓宏福苑居民"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4321433/%E7%89%B9%E9%A6%96%EF%BC%9A%E7%9F%AD%E6%9C%9F%E5%85%A7%E6%8E%A8%E5%AE%8F%E7%A6%8F%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88": {
+      "title": "特首：短期內推宏福安置方案 要求工作組過年「馬不停蹄」處理",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-14T22:59:22.058879",
+      "archive_path": "content\\news\\hkej\\archive\\特首短期內推宏福安置方案-要求工作組過年馬不停蹄處理"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4321434/%E5%86%8D%E6%9C%89%E7%81%AB%E7%81%BD%E5%82%B7%E8%80%85%E5%87%BA%E9%99%A2+%E9%A4%98%E4%B8%80%E4%BA%BA%E7%95%99%E9%86%AB": {
+      "title": "再有火災傷者出院 餘一人留醫",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-14T22:59:28.088462",
+      "archive_path": "content\\news\\hkej\\archive\\再有火災傷者出院-餘一人留醫"
     }
   },
-  "last_updated": "2026-02-13T23:07:29.833746"
+  "last_updated": "2026-02-14T22:59:28.088542"
 }

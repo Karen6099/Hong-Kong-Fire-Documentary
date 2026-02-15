@@ -1194,3 +1194,25 @@
 - [政府擬就法團授權票數量設上限　有議員促不同房屋類型設不同門檻](https://news.now.com/home/local/player?newsId=636214) [Original](https://news.now.com/home/local/player?newsId=636214){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬就法團授權票數量設上限-有議員促不同房屋類型設不同門檻/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜李家超：相當高比例業主傾向政府收購業權　亦有業主指要考慮收購價](https://news.now.com/home/local/player?newsId=636181) [Original](https://news.now.com/home/local/player?newsId=636181){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超相當高比例業主傾向政府收購業權-亦有業主指要考慮收購價/){.md-button .hkfd-news-button}
 - [政府擬修訂建築物管理條例　議員倡不同房屋類型設不同授權票上限門檻](https://news.now.com/home/local/player?newsId=636163) [Original](https://news.now.com/home/local/player?newsId=636163){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬修訂建築物管理條例-議員倡不同房屋類型設不同授權票上限門檻/){.md-button .hkfd-news-button}
+
+
+### 2026-02-11
+- [即日焦點｜港島綫早上延誤約一小時／北大嶼山致命車禍　的士男乘客被拋出車外送院不治](https://news.now.com/home/local/player?newsId=636431) [Original](https://news.now.com/home/local/player?newsId=636431){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點港島綫早上延誤約一小時北大嶼山致命車禍-的士男乘客被拋出車外送院不治/){.md-button .hkfd-news-button}
+- [網上有人聲稱因不可抗力理由而不再發聲　警方指相關言論抹黑](https://news.now.com/home/local/player?newsId=636419) [Original](https://news.now.com/home/local/player?newsId=636419){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/網上有人聲稱因不可抗力理由而不再發聲-警方指相關言論抹黑/){.md-button .hkfd-news-button}
+- [去年逾8.9萬宗罪案　按年跌5.9%　警方斥有人稱因不可抗力而不再發聲是抹黑](https://news.now.com/home/local/player?newsId=636405) [Original](https://news.now.com/home/local/player?newsId=636405){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年逾89萬宗罪案-按年跌59-警方斥有人稱因不可抗力而不再發聲是抹黑/){.md-button .hkfd-news-button}
+- [去年逾8.9萬宗罪案　按年下跌5.9%](https://news.now.com/home/local/player?newsId=636393) [Original](https://news.now.com/home/local/player?newsId=636393){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年逾89萬宗罪案-按年下跌59/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠安置方案(二)](https://news.now.com/home/local/player?newsId=636339) [Original](https://news.now.com/home/local/player?newsId=636339){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置方案二/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠安置方案(一)](https://news.now.com/home/local/player?newsId=636338) [Original](https://news.now.com/home/local/player?newsId=636338){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置方案一/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜羅曉楓冀當局思考重置方案時　別遺留宏志閣居民](https://news.now.com/home/local/player?newsId=636384) [Original](https://news.now.com/home/local/player?newsId=636384){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災羅曉楓冀當局思考重置方案時-別遺留宏志閣居民/){.md-button .hkfd-news-button}
+
+
+### 2026-02-13
+- [宏福苑五級火災｜李家超：短期內公布長遠住宿方案　要求工作組過年不停工](https://news.now.com/home/local/player?newsId=636690) [Original](https://news.now.com/home/local/player?newsId=636690){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超短期內公布長遠住宿方案-要求工作組過年不停工/){.md-button .hkfd-news-button}
+- [去年逾3.3億人次出入香港　是有紀錄以來新高](https://news.now.com/home/local/player?newsId=636661) [Original](https://news.now.com/home/local/player?newsId=636661){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年逾33億人次出入香港-是有紀錄以來新高/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜麥美娟：會設計不同長遠安置方案　讓宏福苑居民有選擇](https://news.now.com/home/local/player?newsId=636657) [Original](https://news.now.com/home/local/player?newsId=636657){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火麥美娟會設計不同長遠安置方案-讓宏福苑居民有選擇/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜李家超：短期內公布宏福苑長遠住宿方案　要求工作組過年期間都不能停頓工作](https://news.now.com/home/local/player?newsId=636647) [Original](https://news.now.com/home/local/player?newsId=636647){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超短期內公布宏福苑長遠住宿方案-要求工作組過年期間都不能停頓工作/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜李家超早上到啟德探訪宏福苑災民　指示工作組過年繼續工作](https://news.now.com/home/local/player?newsId=636631) [Original](https://news.now.com/home/local/player?newsId=636631){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超早上到啟德探訪宏福苑災民-指示工作組過年繼續工作/){.md-button .hkfd-news-button}
+
+
+### 2026-02-14
+- [中大生發起宏福苑聯署被捕　稱遭開除學籍校方不評論](https://news.now.com/home/local/player?newsId=636762) [Original](https://news.now.com/home/local/player?newsId=636762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中大生發起宏福苑聯署被捕-稱遭開除學籍校方不評論/){.md-button .hkfd-news-button}

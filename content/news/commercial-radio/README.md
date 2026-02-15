@@ -830,3 +830,7 @@
 - [再有區議員涉違泊　麥美娟：將再三提醒區議員謹言慎行](https://www.881903.com/news/local/2619068/) [Original](https://www.881903.com/news/local/2619068/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/再有區議員涉違泊-麥美娟將再三提醒區議員謹言慎行/){.md-button .hkfd-news-button}
 - [李家超探訪宏福苑災民　指住宿安排工作組新年不可停頓工作](https://www.881903.com/news/local/2619062/) [Original](https://www.881903.com/news/local/2619062/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超探訪宏福苑災民-指住宿安排工作組新年不可停頓工作/){.md-button .hkfd-news-button}
 - [多一名宏福苑傷者出院　仍有一人留院](https://www.881903.com/news/local/2619022/) [Original](https://www.881903.com/news/local/2619022/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/多一名宏福苑傷者出院-仍有一人留院/){.md-button .hkfd-news-button}
+
+
+### 2026-02-16
+- [林智遠：所有涉宏福苑火災部門都可能受審計](https://www.881903.com/news/local/2619380/) [Original](https://www.881903.com/news/local/2619380/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林智遠所有涉宏福苑火災部門都可能受審計/){.md-button .hkfd-news-button}

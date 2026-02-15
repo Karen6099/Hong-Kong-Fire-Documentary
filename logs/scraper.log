@@ -6399,3 +6399,90 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2026-02-13 23:07:41 | INFO     | Run once mode, exiting...
 2026-02-13 23:07:41 | INFO     | ensuring close
 2026-02-13 23:07:41 | INFO     | ensuring close
+2026-02-14 22:59:03 | INFO     | ============================================================
+2026-02-14 22:59:03 | INFO     | News Scraper Daemon Starting
+2026-02-14 22:59:03 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-02-14 22:59:03 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-02-14 22:59:03 | INFO     | Sync interval: 10 minutes
+2026-02-14 22:59:03 | INFO     | PR interval: 60 minutes
+2026-02-14 22:59:03 | INFO     | ============================================================
+2026-02-14 22:59:04 | INFO     | gh CLI authenticated
+2026-02-14 22:59:04 | INFO     | Setting up git remotes...
+2026-02-14 22:59:05 | INFO     | Configured origin remote
+2026-02-14 22:59:05 | INFO     | gh CLI authenticated
+2026-02-14 22:59:05 | INFO     | ----------------------------------------
+2026-02-14 22:59:05 | INFO     | Running periodic health check...
+2026-02-14 22:59:06 | INFO     | gh CLI authenticated
+2026-02-14 22:59:07 | INFO     | Health check passed
+2026-02-14 22:59:07 | INFO     | ----------------------------------------
+2026-02-14 22:59:07 | INFO     | Starting sync cycle...
+2026-02-14 22:59:07 | INFO     | Syncing with upstream...
+2026-02-14 22:59:07 | INFO     | Already up to date with upstream
+2026-02-14 22:59:07 | INFO     | Running scraper...
+2026-02-14 22:59:08 | INFO     | Found 11 new URLs to scrape
+2026-02-14 22:59:28 | INFO     | Updated cumulative stats: 3636 success, 155 failed across 70 cycles
+2026-02-14 22:59:28 | INFO     | Scraper results: 10 success, 1 failed
+2026-02-14 22:59:28 | INFO     | Committing changes...
+2026-02-14 22:59:29 | INFO     | Committed: chore(scraper): auto-scrape 2026-02-14 22:59
+2026-02-14 22:59:32 | INFO     | Pushed to origin successfully
+2026-02-14 22:59:32 | INFO     | Sync cycle complete
+2026-02-14 22:59:32 | INFO     | ----------------------------------------
+2026-02-14 22:59:32 | INFO     | Starting PR cycle...
+2026-02-14 22:59:33 | INFO     | Pushed to origin successfully
+2026-02-14 22:59:33 | INFO     | Managing PR...
+2026-02-14 22:59:34 | INFO     | PR #37 exists, updating description with fresh stats...
+2026-02-14 22:59:37 | INFO     | Updated PR #37 with fresh stats
+2026-02-14 22:59:37 | INFO     | PR cycle complete
+2026-02-14 22:59:37 | INFO     | Run once mode, exiting...
+2026-02-16 01:24:50 | INFO     | ============================================================
+2026-02-16 01:24:50 | INFO     | News Scraper Daemon Starting
+2026-02-16 01:24:50 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-02-16 01:24:50 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-02-16 01:24:50 | INFO     | Sync interval: 10 minutes
+2026-02-16 01:24:50 | INFO     | PR interval: 60 minutes
+2026-02-16 01:24:50 | INFO     | ============================================================
+2026-02-16 01:24:51 | INFO     | gh CLI authenticated
+2026-02-16 01:24:51 | INFO     | Setting up git remotes...
+2026-02-16 01:24:51 | INFO     | Configured origin remote
+2026-02-16 01:24:52 | INFO     | gh CLI authenticated
+2026-02-16 01:24:52 | INFO     | ----------------------------------------
+2026-02-16 01:24:52 | INFO     | Running periodic health check...
+2026-02-16 01:24:53 | INFO     | gh CLI authenticated
+2026-02-16 01:24:53 | INFO     | Health check passed
+2026-02-16 01:24:53 | INFO     | ----------------------------------------
+2026-02-16 01:24:53 | INFO     | Starting sync cycle...
+2026-02-16 01:24:53 | INFO     | Syncing with upstream...
+2026-02-16 01:24:54 | INFO     | Already up to date with upstream
+2026-02-16 01:24:54 | INFO     | Running scraper...
+2026-02-16 01:24:54 | INFO     | Found 8 new URLs to scrape
+2026-02-16 01:24:59 | INFO     | Daemon stopped by user
+2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.881903.com/news/local/2619380/", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.881903.com/news/local/2619380/", waiting until "domcontentloaded"
+
+2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322703/%E5%85%83%E6%9C%97-%E5%B0%9A%E6%9F%8F-%E5%B0%8D%E9%96%8B%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB-%E5%9A%B4%E9%87%8D%E7%84%9A%E6%AF%80-%E9%A4%98%E7%87%BC%E9%81%8D%E5%9C%B0", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.hk01.com/%E7%AA%81%E7%99%BC/60322703/%E5%85%83%E6%9C%97-%E5%B0%9A%E6%9F%8F-%E5%B0%8D%E9%96%8B%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB-%E5%9A%B4%E9%87%8D%E7%84%9A%E6%AF%80-%E9%A4%98%E7%87%BC%E9%81%8D%E5%9C%B0", waiting until "domcontentloaded"
+
+2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://www1.hkej.com/dailynews/culture/article/4317616/%E9%96%8B%E6%94%BE%E8%8A%B1%E6%B5%B7%E8%BF%8E%E9%A6%AC%E5%B9%B4+%E6%9C%AC%E5%9C%B0%E8%BE%B2%E5%A4%AB%E6%A2%81%E6%97%A5%E4%BF%A1%EF%BC%9A%E8%B7%AF%E9%9B%A3%E8%A1%8C%E6%9B%B4%E4%BF%BE%E5%BF%83%E6%A9%9F%E8%A1%8C\nCall log:\n  - navigating to "https://www1.hkej.com/dailynews/culture/article/4317616/%E9%96%8B%E6%94%BE%E8%8A%B1%E6%B5%B7%E8%BF%8E%E9%A6%AC%E5%B9%B4+%E6%9C%AC%E5%9C%B0%E8%BE%B2%E5%A4%AB%E6%A2%81%E6%97%A5%E4%BF%A1%EF%BC%9A%E8%B7%AF%E9%9B%A3%E8%A1%8C%E6%9B%B4%E4%BF%BE%E5%BF%83%E6%A9%9F%E8%A1%8C", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://www1.hkej.com/dailynews/culture/article/4317616/%E9%96%8B%E6%94%BE%E8%8A%B1%E6%B5%B7%E8%BF%8E%E9%A6%AC%E5%B9%B4+%E6%9C%AC%E5%9C%B0%E8%BE%B2%E5%A4%AB%E6%A2%81%E6%97%A5%E4%BF%A1%EF%BC%9A%E8%B7%AF%E9%9B%A3%E8%A1%8C%E6%9B%B4%E4%BF%BE%E5%BF%83%E6%A9%9F%E8%A1%8C
+Call log:
+  - navigating to "https://www1.hkej.com/dailynews/culture/article/4317616/%E9%96%8B%E6%94%BE%E8%8A%B1%E6%B5%B7%E8%BF%8E%E9%A6%AC%E5%B9%B4+%E6%9C%AC%E5%9C%B0%E8%BE%B2%E5%A4%AB%E6%A2%81%E6%97%A5%E4%BF%A1%EF%BC%9A%E8%B7%AF%E9%9B%A3%E8%A1%8C%E6%9B%B4%E4%BF%BE%E5%BF%83%E6%A9%9F%E8%A1%8C", waiting until "domcontentloaded"
+
+2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed

@@ -1216,3 +1216,10 @@
 
 ### 2026-02-14
 - [中大生發起宏福苑聯署被捕　稱遭開除學籍校方不評論](https://news.now.com/home/local/player?newsId=636762) [Original](https://news.now.com/home/local/player?newsId=636762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中大生發起宏福苑聯署被捕-稱遭開除學籍校方不評論/){.md-button .hkfd-news-button}
+
+
+### 2026-02-16
+- [大埔浸信會公立學校新學年用前基正小學校舍　將還原原有校舍設計](https://news.now.com/home/local/player?newsId=636939) [Original](https://news.now.com/home/local/player?newsId=636939){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔浸信會公立學校新學年用前基正小學校舍-將還原原有校舍設計/){.md-button .hkfd-news-button}
+- [廣福街市商戶料新年無助生意增長　豬肉檔賣鳳爪幫補收入](https://news.now.com/home/local/player?newsId=636901) [Original](https://news.now.com/home/local/player?newsId=636901){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/廣福街市商戶料新年無助生意增長-豬肉檔賣鳳爪幫補收入/){.md-button .hkfd-news-button}
+- [歲晚宏福苑居民聚舊　新年願望：當局盡快公布安置方案並解封單位](https://news.now.com/home/local/player?newsId=636898) [Original](https://news.now.com/home/local/player?newsId=636898){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/歲晚宏福苑居民聚舊-新年願望當局盡快公布安置方案並解封單位/){.md-button .hkfd-news-button}
+- [晨早新聞重點｜葵涌邨夏葵樓凌晨恢復供電／廣福街市商戶冀商場再酌情減租](https://news.now.com/home/local/player?newsId=636896) [Original](https://news.now.com/home/local/player?newsId=636896){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點葵涌邨夏葵樓凌晨恢復供電廣福街市商戶冀商場再酌情減租/){.md-button .hkfd-news-button}

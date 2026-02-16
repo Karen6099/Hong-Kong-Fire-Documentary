@@ -6486,3 +6486,78 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2026-02-16 01:24:59 | ERROR    | Future exception was never retrieved
 future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
 playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 01:25:25 | INFO     | ============================================================
+2026-02-16 01:25:25 | INFO     | News Scraper Daemon Starting
+2026-02-16 01:25:25 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-02-16 01:25:25 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-02-16 01:25:25 | INFO     | Sync interval: 10 minutes
+2026-02-16 01:25:25 | INFO     | PR interval: 60 minutes
+2026-02-16 01:25:25 | INFO     | ============================================================
+2026-02-16 01:25:26 | INFO     | gh CLI authenticated
+2026-02-16 01:25:26 | INFO     | Setting up git remotes...
+2026-02-16 01:25:26 | INFO     | Configured origin remote
+2026-02-16 01:25:26 | INFO     | gh CLI authenticated
+2026-02-16 01:25:26 | INFO     | ----------------------------------------
+2026-02-16 01:25:26 | INFO     | Running periodic health check...
+2026-02-16 01:25:27 | INFO     | gh CLI authenticated
+2026-02-16 01:25:28 | INFO     | Health check passed
+2026-02-16 01:25:28 | INFO     | ----------------------------------------
+2026-02-16 01:25:28 | INFO     | Starting sync cycle...
+2026-02-16 01:25:28 | INFO     | Syncing with upstream...
+2026-02-16 01:25:29 | INFO     | Already up to date with upstream
+2026-02-16 01:25:29 | INFO     | Running scraper...
+2026-02-16 01:25:29 | INFO     | Found 5 new URLs to scrape
+2026-02-16 01:25:48 | INFO     | Updated cumulative stats: 3640 success, 156 failed across 71 cycles
+2026-02-16 01:25:48 | INFO     | Scraper results: 4 success, 1 failed
+2026-02-16 01:25:48 | INFO     | Committing changes...
+2026-02-16 01:25:49 | INFO     | Committed: chore(scraper): auto-scrape 2026-02-16 01:25
+2026-02-16 01:25:52 | INFO     | Pushed to origin successfully
+2026-02-16 01:25:52 | INFO     | Sync cycle complete
+2026-02-16 01:25:52 | INFO     | ----------------------------------------
+2026-02-16 01:25:52 | INFO     | Starting PR cycle...
+2026-02-16 01:25:53 | INFO     | Pushed to origin successfully
+2026-02-16 01:25:53 | INFO     | Managing PR...
+2026-02-16 01:25:57 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2026-02-16 01:25:57 | INFO     | PR cycle complete
+2026-02-16 01:25:57 | INFO     | Run once mode, exiting...
+2026-02-16 21:29:31 | INFO     | ============================================================
+2026-02-16 21:29:31 | INFO     | News Scraper Daemon Starting
+2026-02-16 21:29:31 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-02-16 21:29:31 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-02-16 21:29:31 | INFO     | Sync interval: 10 minutes
+2026-02-16 21:29:31 | INFO     | PR interval: 60 minutes
+2026-02-16 21:29:31 | INFO     | ============================================================
+2026-02-16 21:29:32 | INFO     | gh CLI authenticated
+2026-02-16 21:29:32 | INFO     | Setting up git remotes...
+2026-02-16 21:29:33 | INFO     | Configured origin remote
+2026-02-16 21:29:33 | INFO     | gh CLI authenticated
+2026-02-16 21:29:33 | INFO     | ----------------------------------------
+2026-02-16 21:29:33 | INFO     | Running periodic health check...
+2026-02-16 21:29:34 | INFO     | gh CLI authenticated
+2026-02-16 21:29:34 | INFO     | Health check passed
+2026-02-16 21:29:34 | INFO     | ----------------------------------------
+2026-02-16 21:29:34 | INFO     | Starting sync cycle...
+2026-02-16 21:29:34 | INFO     | Syncing with upstream...
+2026-02-16 21:29:35 | INFO     | Already up to date with upstream
+2026-02-16 21:29:35 | INFO     | Running scraper...
+2026-02-16 21:29:35 | INFO     | Found 17 new URLs to scrape
+2026-02-16 21:29:39 | INFO     | Daemon stopped by user
+2026-02-16 21:29:39 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 21:29:39 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 21:29:39 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 21:29:39 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 21:29:39 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 21:29:39 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed

@@ -834,3 +834,7 @@
 
 ### 2026-02-16
 - [林智遠：所有涉宏福苑火災部門都可能受審計](https://www.881903.com/news/local/2619380/) [Original](https://www.881903.com/news/local/2619380/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林智遠所有涉宏福苑火災部門都可能受審計/){.md-button .hkfd-news-button}
+
+
+### 2026-02-16
+- [宏福苑火災獨立委員會委任2名專家  提交報告及意見](https://www.881903.com/news/local/2619515/) [Original](https://www.881903.com/news/local/2619515/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會委任2名專家-提交報告及意見/){.md-button .hkfd-news-button}

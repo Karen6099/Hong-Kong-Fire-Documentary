@@ -53543,7 +53543,35 @@
       "source_file": "content/news/twreporter/README.md",
       "scraped_at": "2026-02-16T21:31:56.827959",
       "archive_path": "content\\news\\twreporter\\archive\\心願未圓的團年飯香港宏福苑大火災民惦記回不了的家"
+    },
+    "https://hongkongfp.com/?p=552085": {
+      "title": "Hong Kong Free Press Annual Report 2025-6: Our achievements, best coverage, & accounts from the past year",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-18T00:57:36.562590",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-free-press-annual-report-2025-6-our-achievements-best-coverage"
+    },
+    "https://news.tvb.com/tc/taipofire/6993186c060723efc06fea32/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E5%A7%94%E4%BB%BB%E5%85%A9%E5%90%8D%E7%90%86%E5%A4%A7%E5%B0%88%E5%AE%B6%E5%8D%94%E5%8A%A9-%E5%AF%A9%E8%A6%96%E8%B5%B7%E7%81%AB%E5%8E%9F%E5%9B%A0%E7%AD%89": {
+      "title": "宏福苑五級火｜獨立委員會委任兩名理大專家協助 審視起火原因等 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-18T00:57:48.696794",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火獨立委員會委任兩名理大專家協助-審視起火原因等-宏福苑五級火-1天前-粵"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%b6%b2%e4%b8%8a%e8%81%af%e7%bd%b2%e4%bf%83%e6%81%a2%e5%be%a9%e9%97%9c%e9%9d%96%e8%b1%90%e5%ad%b8%e7%b1%8d-%e7%99%bc%e8%b5%b7%e4%ba%ba/": {
+      "title": "香港世紀大火｜網上聯署促恢復關靖豐學籍 發起人批中大「政治凌駕教育」",
+      "source": "points-media",
+      "source_file": "content/news/points-media/README.md",
+      "scraped_at": "2026-02-18T00:57:57.841090",
+      "archive_path": "content\\news\\points-media\\archive\\香港世紀大火網上聯署促恢復關靖豐學籍-發起人批中大政治凌駕教育"
+    },
+    "https://news.tvb.com/tc/pearlnews/6994808a060723efc07bbced/TVB-News-Guangzhous-fireworks-light-up-Pearl-River-for-Lunar-New-Year": {
+      "title": "Guangzhou's fireworks light up Pearl River for Lunar New Year",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-18T00:57:58.188982",
+      "archive_path": "content\\news\\tvb\\archive\\guangzhous-fireworks-light-up-pearl-river-for-lunar-new-year"
     }
   },
-  "last_updated": "2026-02-16T21:31:56.828044"
+  "last_updated": "2026-02-18T00:57:58.189128"
 }

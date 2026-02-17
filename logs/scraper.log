@@ -6561,3 +6561,38 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2026-02-16 21:29:39 | ERROR    | Future exception was never retrieved
 future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
 playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-16 21:30:05 | INFO     | ============================================================
+2026-02-16 21:30:05 | INFO     | News Scraper Daemon Starting
+2026-02-16 21:30:05 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-02-16 21:30:05 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-02-16 21:30:05 | INFO     | Sync interval: 10 minutes
+2026-02-16 21:30:05 | INFO     | PR interval: 60 minutes
+2026-02-16 21:30:05 | INFO     | ============================================================
+2026-02-16 21:30:05 | INFO     | gh CLI authenticated
+2026-02-16 21:30:05 | INFO     | Setting up git remotes...
+2026-02-16 21:30:05 | INFO     | Configured origin remote
+2026-02-16 21:30:06 | INFO     | gh CLI authenticated
+2026-02-16 21:30:06 | INFO     | ----------------------------------------
+2026-02-16 21:30:06 | INFO     | Running periodic health check...
+2026-02-16 21:30:07 | INFO     | gh CLI authenticated
+2026-02-16 21:30:07 | INFO     | Health check passed
+2026-02-16 21:30:07 | INFO     | ----------------------------------------
+2026-02-16 21:30:07 | INFO     | Starting sync cycle...
+2026-02-16 21:30:07 | INFO     | Syncing with upstream...
+2026-02-16 21:30:08 | INFO     | Already up to date with upstream
+2026-02-16 21:30:08 | INFO     | Running scraper...
+2026-02-16 21:30:08 | INFO     | Found 11 new URLs to scrape
+2026-02-16 21:31:56 | INFO     | Updated cumulative stats: 3650 success, 157 failed across 72 cycles
+2026-02-16 21:31:56 | INFO     | Scraper results: 10 success, 1 failed
+2026-02-16 21:31:57 | INFO     | Committing changes...
+2026-02-16 21:31:58 | INFO     | Committed: chore(scraper): auto-scrape 2026-02-16 21:31
+2026-02-16 21:32:01 | INFO     | Pushed to origin successfully
+2026-02-16 21:32:01 | INFO     | Sync cycle complete
+2026-02-16 21:32:01 | INFO     | ----------------------------------------
+2026-02-16 21:32:01 | INFO     | Starting PR cycle...
+2026-02-16 21:32:02 | INFO     | Pushed to origin successfully
+2026-02-16 21:32:02 | INFO     | Managing PR...
+2026-02-16 21:32:06 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2026-02-16 21:32:06 | INFO     | PR cycle complete
+2026-02-16 21:32:06 | INFO     | Run once mode, exiting...

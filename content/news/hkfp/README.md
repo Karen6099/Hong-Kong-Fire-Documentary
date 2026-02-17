@@ -414,3 +414,7 @@
 
 ### 2026-02-14
 - [Hong Kong journalists face ‘precarious’ future after Jimmy Lai jailed](https://hongkongfp.com/?p=554647) [Original](https://hongkongfp.com/?p=554647){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-journalists-face-precarious-future-after-jimmy-lai-jailed/){.md-button .hkfd-news-button}
+
+
+### 2026-02-17
+- [Hong Kong Free Press Annual Report 2025-6: Our achievements, best coverage, & accounts from the past year](https://hongkongfp.com/?p=552085) [Original](https://hongkongfp.com/?p=552085){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-free-press-annual-report-2025-6-our-achievements-best-coverage/){.md-button .hkfd-news-button}

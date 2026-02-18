@@ -53571,7 +53571,49 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2026-02-18T00:57:58.188982",
       "archive_path": "content\\news\\tvb\\archive\\guangzhous-fireworks-light-up-pearl-river-for-lunar-new-year"
+    },
+    "https://hongkongfp.com/?p=551974": {
+      "title": "Hong Kong Free Press Transparency Report 2025: See our income and spending from the past year",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-19T03:50:09.612467",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-free-press-transparency-report-2025-see-our-income-and-spending-from"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60323138/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB%E6%8E%80%E7%83%88%E7%84%B0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F-%E6%B6%88%E9%98%B2%E8%BF%85%E5%8D%B3%E6%95%91%E7%86%84-%E6%9C%89%E7%89%87": {
+      "title": "土瓜灣電單車起火掀烈焰　鐵騎士及時逃生　消防迅即救熄│有片",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-19T03:50:10.765176",
+      "archive_path": "content\\news\\hk01\\archive\\土瓜灣電單車起火掀烈焰-鐵騎士及時逃生-消防迅即救熄有片"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%b6%b2%e4%b8%8a%e8%81%af%e7%bd%b2%e9%80%be1700%e4%ba%ba%e4%bf%83%e4%b8%ad%e5%a4%a7%e6%81%a2%e5%be%a9%e9%97%9c%e9%9d%96%e8%b1%90/": {
+      "title": "香港世紀大火｜網上聯署逾1,700人促中大恢復關靖豐學籍 關靖豐：過年心情未受影響",
+      "source": "points-media",
+      "source_file": "content/news/points-media/README.md",
+      "scraped_at": "2026-02-19T03:50:11.483719",
+      "archive_path": "content\\news\\points-media\\archive\\香港世紀大火網上聯署逾1700人促中大恢復關靖豐學籍-關靖豐過年心情未受影響"
+    },
+    "https://news.tvb.com/tc/pearlnews/6994808a060723efc07bbced/TVB%20News-Guangzhous-fireworks-light-up-Pearl-River-for-Lunar-New-Year": {
+      "title": "Guangzhou's fireworks light up Pearl River for Lunar New Year",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-19T03:50:12.837874",
+      "archive_path": "content\\news\\tvb\\archive\\guangzhous-fireworks-light-up-pearl-river-for-lunar-new-year-1"
+    },
+    "https://news.tvb.com/tc/pearlnews/6995941b060723efc08472b5/TVB%20News-TST%2C-East-TST-and-West-Kowloon-Stations-close-several-exits-as-fireworks-display-set-to-kick-off-at-8pm": {
+      "title": "TST, East TST and West Kowloon Stations close several exits as fireworks display set to kick off at 8pm",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-19T03:50:18.207363",
+      "archive_path": "content\\news\\tvb\\archive\\tst-east-tst-and-west-kowloon-stations-close-several-exits-as-fireworks-display"
+    },
+    "https://news.tvb.com/tc/pearlnews/6995929e060723efc0846c55/TVB%20News-Fireworks-shop-explosion-kills-12-in-Hubei-of-central-China": {
+      "title": "Fireworks shop explosion kills 12 in Hubei of central China",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-19T03:50:23.348103",
+      "archive_path": "content\\news\\tvb\\archive\\fireworks-shop-explosion-kills-12-in-hubei-of-central-china"
     }
   },
-  "last_updated": "2026-02-18T00:57:58.189128"
+  "last_updated": "2026-02-19T03:50:23.348160"
 }

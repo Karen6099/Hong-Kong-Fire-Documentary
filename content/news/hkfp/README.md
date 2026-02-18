@@ -418,3 +418,7 @@
 
 ### 2026-02-17
 - [Hong Kong Free Press Annual Report 2025-6: Our achievements, best coverage, & accounts from the past year](https://hongkongfp.com/?p=552085) [Original](https://hongkongfp.com/?p=552085){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-free-press-annual-report-2025-6-our-achievements-best-coverage/){.md-button .hkfd-news-button}
+
+
+### 2026-02-18
+- [Hong Kong Free Press Transparency Report 2025: See our income and spending from the past year](https://hongkongfp.com/?p=551974) [Original](https://hongkongfp.com/?p=551974){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-free-press-transparency-report-2025-see-our-income-and-spending-from/){.md-button .hkfd-news-button}

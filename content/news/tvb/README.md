@@ -1585,3 +1585,11 @@
 
 ### 2026-02-18
 - [Guangzhou's fireworks light up Pearl River for Lunar New Year](https://news.tvb.com/tc/pearlnews/6994808a060723efc07bbced/TVB-News-Guangzhous-fireworks-light-up-Pearl-River-for-Lunar-New-Year) [Original](https://news.tvb.com/tc/pearlnews/6994808a060723efc07bbced/TVB-News-Guangzhous-fireworks-light-up-Pearl-River-for-Lunar-New-Year){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/guangzhous-fireworks-light-up-pearl-river-for-lunar-new-year/){.md-button .hkfd-news-button}
+
+
+### 2026-02-18
+- [Guangzhou's fireworks light up Pearl River for Lunar New Year](https://news.tvb.com/tc/pearlnews/6994808a060723efc07bbced/TVB%20News-Guangzhous-fireworks-light-up-Pearl-River-for-Lunar-New-Year) [Original](https://news.tvb.com/tc/pearlnews/6994808a060723efc07bbced/TVB%20News-Guangzhous-fireworks-light-up-Pearl-River-for-Lunar-New-Year){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/guangzhous-fireworks-light-up-pearl-river-for-lunar-new-year-1/){.md-button .hkfd-news-button}
+
+### 2026-02-19
+- [TST, East TST and West Kowloon Stations close several exits as fireworks display set to kick off at 8pm](https://news.tvb.com/tc/pearlnews/6995941b060723efc08472b5/TVB%20News-TST%2C-East-TST-and-West-Kowloon-Stations-close-several-exits-as-fireworks-display-set-to-kick-off-at-8pm) [Original](https://news.tvb.com/tc/pearlnews/6995941b060723efc08472b5/TVB%20News-TST%2C-East-TST-and-West-Kowloon-Stations-close-several-exits-as-fireworks-display-set-to-kick-off-at-8pm){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tst-east-tst-and-west-kowloon-stations-close-several-exits-as-fireworks-display/){.md-button .hkfd-news-button}
+- [Fireworks shop explosion kills 12 in Hubei of central China](https://news.tvb.com/tc/pearlnews/6995929e060723efc0846c55/TVB%20News-Fireworks-shop-explosion-kills-12-in-Hubei-of-central-China) [Original](https://news.tvb.com/tc/pearlnews/6995929e060723efc0846c55/TVB%20News-Fireworks-shop-explosion-kills-12-in-Hubei-of-central-China){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fireworks-shop-explosion-kills-12-in-hubei-of-central-china/){.md-button .hkfd-news-button}

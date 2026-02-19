@@ -746,3 +746,7 @@ HK01設立了專題頁面追蹤所有相關報導：
 
 ### 2026-02-18
 - [土瓜灣電單車起火掀烈焰　鐵騎士及時逃生　消防迅即救熄│有片](https://www.hk01.com/%E7%AA%81%E7%99%BC/60323138/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB%E6%8E%80%E7%83%88%E7%84%B0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F-%E6%B6%88%E9%98%B2%E8%BF%85%E5%8D%B3%E6%95%91%E7%86%84-%E6%9C%89%E7%89%87) [Original](https://www.hk01.com/%E7%AA%81%E7%99%BC/60323138/%E5%9C%9F%E7%93%9C%E7%81%A3%E9%9B%BB%E5%96%AE%E8%BB%8A%E8%B5%B7%E7%81%AB%E6%8E%80%E7%83%88%E7%84%B0-%E9%90%B5%E9%A8%8E%E5%A3%AB%E5%8F%8A%E6%99%82%E9%80%83%E7%94%9F-%E6%B6%88%E9%98%B2%E8%BF%85%E5%8D%B3%E6%95%91%E7%86%84-%E6%9C%89%E7%89%87){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/土瓜灣電單車起火掀烈焰-鐵騎士及時逃生-消防迅即救熄有片/){.md-button .hkfd-news-button}
+
+
+### 2026-02-20
+- [加州陸龜火海死裏逃生！監視器揭靠「運動模式」驚險自救｜有片](https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60323354/%E5%8A%A0%E5%B7%9E%E9%99%B8%E9%BE%9C%E7%81%AB%E6%B5%B7%E6%AD%BB%E8%A3%8F%E9%80%83%E7%94%9F-%E7%9B%A3%E8%A6%96%E5%99%A8%E6%8F%AD%E9%9D%A0-%E9%81%8B%E5%8B%95%E6%A8%A1%E5%BC%8F-%E9%A9%9A%E9%9A%AA%E8%87%AA%E6%95%91-%E6%9C%89%E7%89%87) [Original](https://www.hk01.com/%E7%92%B0%E7%90%83%E8%B6%A3%E8%81%9E/60323354/%E5%8A%A0%E5%B7%9E%E9%99%B8%E9%BE%9C%E7%81%AB%E6%B5%B7%E6%AD%BB%E8%A3%8F%E9%80%83%E7%94%9F-%E7%9B%A3%E8%A6%96%E5%99%A8%E6%8F%AD%E9%9D%A0-%E9%81%8B%E5%8B%95%E6%A8%A1%E5%BC%8F-%E9%A9%9A%E9%9A%AA%E8%87%AA%E6%95%91-%E6%9C%89%E7%89%87){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/加州陸龜火海死裏逃生監視器揭靠運動模式驚險自救有片/){.md-button .hkfd-news-button}

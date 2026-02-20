@@ -838,3 +838,9 @@
 
 ### 2026-02-16
 - [宏福苑火災獨立委員會委任2名專家  提交報告及意見](https://www.881903.com/news/local/2619515/) [Original](https://www.881903.com/news/local/2619515/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會委任2名專家-提交報告及意見/){.md-button .hkfd-news-button}
+
+
+### 2026-02-20
+- [宏福苑長遠安置方案最快周六公布　政府收購價或高於市價](https://www.881903.com/news/local/2619855/) [Original](https://www.881903.com/news/local/2619855/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置方案最快周六公布-政府收購價或高於市價/){.md-button .hkfd-news-button}
+- [宏福苑維修承建商宏業棄任註册承建商　屋宇署：不減法律責任](https://www.881903.com/news/local/2619870/) [Original](https://www.881903.com/news/local/2619870/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑維修承建商宏業棄任註册承建商-屋宇署不減法律責任/){.md-button .hkfd-news-button}
+- [甯漢豪專訪｜加強版招標妥更著重資歷和質素　冀中小型承建商列預審名單](https://www.881903.com/news/local/2619769/) [Original](https://www.881903.com/news/local/2619769/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪專訪加強版招標妥更著重資歷和質素-冀中小型承建商列預審名單/){.md-button .hkfd-news-button}

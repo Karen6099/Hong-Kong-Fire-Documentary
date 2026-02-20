@@ -422,3 +422,9 @@
 
 ### 2026-02-18
 - [Hong Kong Free Press Transparency Report 2025: See our income and spending from the past year](https://hongkongfp.com/?p=551974) [Original](https://hongkongfp.com/?p=551974){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-free-press-transparency-report-2025-see-our-income-and-spending-from/){.md-button .hkfd-news-button}
+
+
+### 2026-02-20
+- [Funding Q&A: HKFP shrinks, enacts cutbacks to ensure the future of our newsroom](https://hongkongfp.com/?p=555314) [Original](https://hongkongfp.com/?p=555314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/funding-qa-hkfp-shrinks-enacts-cutbacks-to-ensure-the-future-of-our-newsroom/){.md-button .hkfd-news-button}
+- [Gov’t expected to unveil resettlement plan for fire-hit estate Saturday, buyout ‘highly likely’ – reports](https://hongkongfp.com/?p=555247) [Original](https://hongkongfp.com/?p=555247){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-expected-to-unveil-resettlement-plan-for-fire-hit-estate-saturday-buyout/){.md-button .hkfd-news-button}
+- [500 tents at Sai Kung campsites over Lunar New Year exceed gov’t capacity, Greenpeace says](https://hongkongfp.com/?p=555234) [Original](https://hongkongfp.com/?p=555234){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/500-tents-at-sai-kung-campsites-over-lunar-new-year-exceed-govt-capacity/){.md-button .hkfd-news-button}

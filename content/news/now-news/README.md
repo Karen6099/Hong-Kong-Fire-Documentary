@@ -1223,3 +1223,9 @@
 - [廣福街市商戶料新年無助生意增長　豬肉檔賣鳳爪幫補收入](https://news.now.com/home/local/player?newsId=636901) [Original](https://news.now.com/home/local/player?newsId=636901){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/廣福街市商戶料新年無助生意增長-豬肉檔賣鳳爪幫補收入/){.md-button .hkfd-news-button}
 - [歲晚宏福苑居民聚舊　新年願望：當局盡快公布安置方案並解封單位](https://news.now.com/home/local/player?newsId=636898) [Original](https://news.now.com/home/local/player?newsId=636898){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/歲晚宏福苑居民聚舊-新年願望當局盡快公布安置方案並解封單位/){.md-button .hkfd-news-button}
 - [晨早新聞重點｜葵涌邨夏葵樓凌晨恢復供電／廣福街市商戶冀商場再酌情減租](https://news.now.com/home/local/player?newsId=636896) [Original](https://news.now.com/home/local/player?newsId=636896){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點葵涌邨夏葵樓凌晨恢復供電廣福街市商戶冀商場再酌情減租/){.md-button .hkfd-news-button}
+
+
+### 2026-02-20
+- [宏福苑五級火災｜據悉政府周六公布長遠安置方案　收購呎價增至八千至逾一萬元](https://news.now.com/home/local/player?newsId=637314) [Original](https://news.now.com/home/local/player?newsId=637314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災據悉政府周六公布長遠安置方案-收購呎價增至八千至逾一萬元/){.md-button .hkfd-news-button}
+- [即日焦點｜據悉政府周六公布宏福苑長遠安置方案／兩億新春金多寶周六晚攪珠](https://news.now.com/home/local/player?newsId=637378) [Original](https://news.now.com/home/local/player?newsId=637378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點據悉政府周六公布宏福苑長遠安置方案兩億新春金多寶周六晚攪珠/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜宏業建築承建商名冊除名　屋宇署：不能免除任何法律責任](https://news.now.com/home/local/player?newsId=637351) [Original](https://news.now.com/home/local/player?newsId=637351){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏業建築承建商名冊除名-屋宇署不能免除任何法律責任/){.md-button .hkfd-news-button}

@@ -428,3 +428,8 @@
 - [Funding Q&A: HKFP shrinks, enacts cutbacks to ensure the future of our newsroom](https://hongkongfp.com/?p=555314) [Original](https://hongkongfp.com/?p=555314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/funding-qa-hkfp-shrinks-enacts-cutbacks-to-ensure-the-future-of-our-newsroom/){.md-button .hkfd-news-button}
 - [Gov’t expected to unveil resettlement plan for fire-hit estate Saturday, buyout ‘highly likely’ – reports](https://hongkongfp.com/?p=555247) [Original](https://hongkongfp.com/?p=555247){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-expected-to-unveil-resettlement-plan-for-fire-hit-estate-saturday-buyout/){.md-button .hkfd-news-button}
 - [500 tents at Sai Kung campsites over Lunar New Year exceed gov’t capacity, Greenpeace says](https://hongkongfp.com/?p=555234) [Original](https://hongkongfp.com/?p=555234){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/500-tents-at-sai-kung-campsites-over-lunar-new-year-exceed-govt-capacity/){.md-button .hkfd-news-button}
+
+
+### 2026-02-21
+- [Tai Po fire: Hong Kong gov’t to offer buy-outs for Wang Fuk Court flats](https://hongkongfp.com/?p=555454) [Original](https://hongkongfp.com/?p=555454){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-govt-to-offer-buy-outs-for-wang-fuk-court-flats/){.md-button .hkfd-news-button}
+- [In Pictures: As eviction looms, Hong Kong farmer battles erratic weather for perfect Lunar New Year blooms](https://hongkongfp.com/?p=554830) [Original](https://hongkongfp.com/?p=554830){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/in-pictures-as-eviction-looms-hong-kong-farmer-battles-erratic-weather-for/){.md-button .hkfd-news-button}

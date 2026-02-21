@@ -844,3 +844,13 @@
 - [宏福苑長遠安置方案最快周六公布　政府收購價或高於市價](https://www.881903.com/news/local/2619855/) [Original](https://www.881903.com/news/local/2619855/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置方案最快周六公布-政府收購價或高於市價/){.md-button .hkfd-news-button}
 - [宏福苑維修承建商宏業棄任註册承建商　屋宇署：不減法律責任](https://www.881903.com/news/local/2619870/) [Original](https://www.881903.com/news/local/2619870/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑維修承建商宏業棄任註册承建商-屋宇署不減法律責任/){.md-button .hkfd-news-button}
 - [甯漢豪專訪｜加強版招標妥更著重資歷和質素　冀中小型承建商列預審名單](https://www.881903.com/news/local/2619769/) [Original](https://www.881903.com/news/local/2619769/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪專訪加強版招標妥更著重資歷和質素-冀中小型承建商列預審名單/){.md-button .hkfd-news-button}
+
+
+### 2026-02-21
+- [宏福苑大火｜74%業主考慮接受收購業權　收購呎價8000或10500元](https://www.881903.com/news/local/2619952/) [Original](https://www.881903.com/news/local/2619952/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火74業主考慮接受收購業權-收購呎價8000或10500元/){.md-button .hkfd-news-button}
+- [宏福苑大火｜梁文廣促政府盡快尋求宏志閣居民共識](https://www.881903.com/news/local/2619981/) [Original](https://www.881903.com/news/local/2619981/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火梁文廣促政府盡快尋求宏志閣居民共識/){.md-button .hkfd-news-button}
+- [宏福苑大火丨麥美娟：料宏志閣居民最快3至4個月後才能重返單位](https://www.881903.com/news/local/2619979/) [Original](https://www.881903.com/news/local/2619979/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火丨麥美娟料宏志閣居民最快3至4個月後才能重返單位/){.md-button .hkfd-news-button}
+- [宏福苑大火丨甯漢豪：收購業權是以恩恤方式協助業主](https://www.881903.com/news/local/2619970/) [Original](https://www.881903.com/news/local/2619970/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火丨甯漢豪收購業權是以恩恤方式協助業主/){.md-button .hkfd-news-button}
+- [宏福苑大火｜受災單位需拆卸不原址重建　收購業權不包括宏志閣](https://www.881903.com/news/local/2619955/) [Original](https://www.881903.com/news/local/2619955/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火受災單位需拆卸不原址重建-收購業權不包括宏志閣/){.md-button .hkfd-news-button}
+- [政府下午3時召開記者會　公布宏福苑安置方案](https://www.881903.com/news/local/2619946/) [Original](https://www.881903.com/news/local/2619946/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府下午3時召開記者會-公布宏福苑安置方案/){.md-button .hkfd-news-button}
+- [孫玉菡專訪｜「一戶一社工」服務不設時限　料服務頻率隨需要自然調整](https://www.881903.com/news/local/2619768/) [Original](https://www.881903.com/news/local/2619768/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡專訪一戶一社工服務不設時限-料服務頻率隨需要自然調整/){.md-button .hkfd-news-button}

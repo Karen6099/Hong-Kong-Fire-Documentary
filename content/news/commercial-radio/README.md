@@ -854,3 +854,10 @@
 - [宏福苑大火｜受災單位需拆卸不原址重建　收購業權不包括宏志閣](https://www.881903.com/news/local/2619955/) [Original](https://www.881903.com/news/local/2619955/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火受災單位需拆卸不原址重建-收購業權不包括宏志閣/){.md-button .hkfd-news-button}
 - [政府下午3時召開記者會　公布宏福苑安置方案](https://www.881903.com/news/local/2619946/) [Original](https://www.881903.com/news/local/2619946/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府下午3時召開記者會-公布宏福苑安置方案/){.md-button .hkfd-news-button}
 - [孫玉菡專訪｜「一戶一社工」服務不設時限　料服務頻率隨需要自然調整](https://www.881903.com/news/local/2619768/) [Original](https://www.881903.com/news/local/2619768/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡專訪一戶一社工服務不設時限-料服務頻率隨需要自然調整/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [宏福苑安置丨黃偉綸：重建1幢或7幢耗時沒分別](https://www.881903.com/news/local/2620024/) [Original](https://www.881903.com/news/local/2620024/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置丨黃偉綸重建1幢或7幢耗時沒分別/){.md-button .hkfd-news-button}
+- [田北辰：若宏福苑居民堅持原址重建   政府應盡力做](https://www.881903.com/news/local/2620022/) [Original](https://www.881903.com/news/local/2620022/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/田北辰若宏福苑居民堅持原址重建-政府應盡力做/){.md-button .hkfd-news-button}
+- [宏福苑大火｜測量師學會︰收購價已有恩恤補貼　料原址重建須27億](https://www.881903.com/news/local/2620004/) [Original](https://www.881903.com/news/local/2620004/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火測量師學會收購價已有恩恤補貼-料原址重建須27億/){.md-button .hkfd-news-button}
+- [宏褔苑大火｜黃偉綸：增收購價屬人性化　否認以公帑填補責任](https://www.881903.com/news/local/2620001/) [Original](https://www.881903.com/news/local/2620001/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏褔苑大火黃偉綸增收購價屬人性化-否認以公帑填補責任/){.md-button .hkfd-news-button}

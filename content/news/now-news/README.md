@@ -1243,3 +1243,11 @@
 - [宏福苑長遠居住安排｜黃偉綸：9%業主只接受原址重建　政府傾向原址改建成公園或社區設施](https://news.now.com/home/local/player?newsId=637435) [Original](https://news.now.com/home/local/player?newsId=637435){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排黃偉綸9業主只接受原址重建-政府傾向原址改建成公園或社區設施/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排｜政府收購七座大廈不包宏志閣　呎價8000及10500元　料涉40億元公帑](https://news.now.com/home/local/player?newsId=637434) [Original](https://news.now.com/home/local/player?newsId=637434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排政府收購七座大廈不包宏志閣-呎價8000及10500元-料涉40億元公帑/){.md-button .hkfd-news-button}
 - [政府下午舉行記者會　公布宏福苑長遠居住方案](https://news.now.com/home/local/player?newsId=637431) [Original](https://news.now.com/home/local/player?newsId=637431){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府下午舉行記者會-公布宏福苑長遠居住方案/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [大鳴大放｜宏福苑長遠居住安排方案(二)](https://news.now.com/home/local/player?newsId=637485) [Original](https://news.now.com/home/local/player?newsId=637485){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放宏福苑長遠居住安排方案二/){.md-button .hkfd-news-button}
+- [大鳴大放｜宏福苑長遠居住安排方案(一)](https://news.now.com/home/local/player?newsId=637484) [Original](https://news.now.com/home/local/player?newsId=637484){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放宏福苑長遠居住安排方案一/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜保險業聯會：政府收購業權宏福苑居民個別買的家居保索權不受影響](https://news.now.com/home/local/player?newsId=637498) [Original](https://news.now.com/home/local/player?newsId=637498){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會政府收購業權宏福苑居民個別買的家居保索權不受影響/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜保險業聯會：個別購買的家居保險索權不受影響](https://news.now.com/home/local/player?newsId=637488) [Original](https://news.now.com/home/local/player?newsId=637488){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會個別購買的家居保險索權不受影響/){.md-button .hkfd-news-button}
+- [黃偉綸︰續提供租金補助至宏福苑居民遷入資助房屋　何永賢︰專門解說隊跟進居民問題](https://news.now.com/home/local/player?newsId=637467) [Original](https://news.now.com/home/local/player?newsId=637467){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸續提供租金補助至宏福苑居民遷入資助房屋-何永賢專門解說隊跟進居民問題/){.md-button .hkfd-news-button}

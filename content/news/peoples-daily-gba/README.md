@@ -325,3 +325,11 @@
 
 ### 2026-02-07
 - [澳门2025年火警850宗 同比减少3…](http://gba.people.cn/n1/2026/0207/c42272-40661544.html) [Original](http://gba.people.cn/n1/2026/0207/c42272-40661544.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/澳门2025年火警850宗-同比减少3/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [香港特区政府公布大埔宏福苑长远居住安排…](http://gba.people.cn/n1/2026/0222/c42272-40668392.html) [Original](http://gba.people.cn/n1/2026/0222/c42272-40668392.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府公布大埔宏福苑长远居住安排/){.md-button .hkfd-news-button}
+- [新华社香港2月21日电（记者刘媛媛）香港特区政府21日公布大埔宏福苑长远居住安排方案，计划以现金或以楼换楼方式收购宏福苑业主业权，收购成本约68亿港元。
+特区政府财政司副司长黄伟纶21日下午在记者会上介绍说，特区政府将收购受火灾影响的7座大厦，政府收购单位后，将承担后续一切法律、保险及处理程序上的风险与不确定性。](http://gba.people.cn/n1/2026/0222/c42272-40668362.html)
+- [本报香港2月21日电  （记者冯学知）香港特区政府21日下午举行记者会，公布大埔宏福苑长远居住安排方案，提出将采用现金或“以楼换楼”方式收购业权。
+特区政府财政司副司长黄伟纶表示，政府会提出收购宏福苑A—G座7座受灾楼宇共1736个单位的业权。](http://gba.people.cn/n1/2026/0222/c42272-40668220.html)

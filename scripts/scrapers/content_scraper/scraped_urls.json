@@ -54607,7 +54607,476 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2026-02-22T22:20:37.759344",
       "archive_path": "content\\news\\tvb\\archive\\deputy-financial-secretary-says-wang-fuk-court-buyout-plan-human-centric"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324362/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88-%E4%BD%95%E5%90%9B%E5%A0%AF%E4%BF%83%E6%87%89%E5%B0%8D%E9%87%98%E5%AD%90%E6%88%B6%E5%95%8F%E9%A1%8C-%E9%BB%83%E5%81%89%E7%B6%B8-%E8%B3%A3%E6%A8%93%E4%BD%A0%E6%83%85%E6%88%91%E9%A1%98": {
+      "title": "宏福苑安置方案｜何君堯促應對釘子戶問題　黃偉綸：賣樓你情我願",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-23T22:05:34.375872",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑安置方案何君堯促應對釘子戶問題-黃偉綸賣樓你情我願"
+    },
+    "https://www.881903.com/news/local/2620148/": {
+      "title": "麥美娟：宏福苑業主若選樓換樓　可獲租金補助至入伙",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-02-23T22:05:34.552330",
+      "archive_path": "content\\news\\commercial-radio\\archive\\麥美娟宏福苑業主若選樓換樓-可獲租金補助至入伙"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4324000/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E4%B8%A8%E9%BB%83%E5%81%89%E7%B6%B8%3A%E8%8B%A5%E6%A5%AD%E4%B8%BB%E5%A0%85%E6%8C%81%E4%B8%8D%E8%B3%A3%E6%A5%AD%E6%AC%8A+%E9%A0%88%E6%8E%A2%E8%A8%8E%E5%8F%A6%E8%A1%8C%E7%AB%8B%E6%B3%95%E8%99%95%E7%90%86": {
+      "title": "宏福苑安置丨黃偉綸:若業主堅持不賣業權 須探討另行立法處理",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:05:35.181740",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑安置丨黃偉綸若業主堅持不賣業權-須探討另行立法處理"
+    },
+    "https://www.dotdotnews.com/a/202602/22/AP699af15fe4b0c32d4f6983dc.html": {
+      "title": "（有片）宏福苑善後｜黃偉綸：政策體現人性化　冀收購做到你情我願",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:36.965619",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片宏福苑善後黃偉綸政策體現人性化-冀收購做到你情我願"
+    },
+    "https://english.dotdotnews.com/a/202602/21/AP6999721de4b0c32d4f6968a5.html": {
+      "title": "Wang Fuk Court aftermath | Govt forms 100-member team for in-home briefings on resettlement plans next month",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:37.155489",
+      "archive_path": "content\\news\\dotdotnews\\archive\\wang-fuk-court-aftermath-govt-forms-100-member-team-for-in-home-briefings-on"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324355/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E5%85%A9%E8%AD%B0%E5%93%A1%E5%80%A1%E5%8E%9F%E5%9D%80%E5%BB%BA%E5%BB%9F%E5%AE%87-%E5%B7%B4%E5%A3%AB%E5%8F%8A%E9%90%B5%E8%B7%AF%E5%8D%9A%E7%89%A9%E9%A4%A8-%E6%94%BF%E5%BA%9C%E7%A8%B1%E8%80%83%E6%85%AE": {
+      "title": "宏福苑火災｜兩議員倡原址建廟宇、巴士及鐵路博物館　政府稱考慮",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-23T22:05:39.608671",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災兩議員倡原址建廟宇巴士及鐵路博物館-政府稱考慮"
+    },
+    "https://www.881903.com/news/local/2620141/": {
+      "title": "黃偉綸：宏志閣一半業主達共識可商政府收購   但落實需另定門檻",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-02-23T22:05:40.002044",
+      "archive_path": "content\\news\\commercial-radio\\archive\\黃偉綸宏志閣一半業主達共識可商政府收購-但落實需另定門檻"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4323931/%E9%BB%83%E5%81%89%E7%B6%B8%3A%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%94%B6%E8%B3%BC%E6%AC%BE%E9%A0%85%E7%B4%8D%E9%A0%90%E7%AE%97%E6%A1%88%E8%99%95%E7%90%86+%E4%B8%8D%E5%BD%B1%E9%9F%BF%E7%9B%88%E9%A4%98%E6%88%96%E8%B5%A4%E5%AD%97": {
+      "title": "黃偉綸:宏福苑收購款項納預算案處理 不影響盈餘或赤字",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:05:41.126193",
+      "archive_path": "content\\news\\hkej\\archive\\黃偉綸宏福苑收購款項納預算案處理-不影響盈餘或赤字"
+    },
+    "https://www.dotdotnews.com/a/202602/22/AP699ad58fe4b0c32d4f6980e4.html": {
+      "title": "（有片）宏福苑善後｜收購業權40億元公帑撥款　放在財政預算案一併處理",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:42.910584",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片宏福苑善後收購業權40億元公帑撥款-放在財政預算案一併處理"
+    },
+    "https://english.dotdotnews.com/a/202602/22/AP699a7c14e4b0c32d4f6979a2.html": {
+      "title": "Wang Fuk Court aftermath | Michael Wong: Acquisition price 'human-centered', govt not using public funds to compensate for liability",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:43.263994",
+      "archive_path": "content\\news\\dotdotnews\\archive\\wang-fuk-court-aftermath-michael-wong-acquisition-price-human-centered-govt-not"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4323808/%E6%A5%AD%E4%B8%BB%E5%86%80%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8%E9%96%8B%E6%9C%83%E9%87%8B%E7%9C%BE%E6%85%AE": {
+      "title": "業主冀管理公司開會釋眾慮",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:05:43.868131",
+      "archive_path": "content\\news\\hkej\\archive\\業主冀管理公司開會釋眾慮"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324350/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%8F%E5%BF%97%E9%96%A3%E5%AE%89%E6%8E%92-%E9%BA%A5%E7%BE%8E%E5%A8%9F%E6%8C%87%E5%B1%85%E6%B0%91%E5%9B%9E%E5%AE%B6%E9%A0%88%E8%A7%A3%E6%B1%BA3%E5%A4%A7%E5%95%8F%E9%A1%8C-%E5%85%AC%E5%A5%91%E6%9C%80%E8%A4%87%E9%9B%9C": {
+      "title": "宏福苑宏志閣安排｜麥美娟指居民回家須解決3大問題　公契最複雜",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-23T22:05:45.309838",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑宏志閣安排麥美娟指居民回家須解決3大問題-公契最複雜"
+    },
+    "https://www.881903.com/news/local/2620071/": {
+      "title": "黃偉綸：宏福苑長遠居住方案有吸引力",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-02-23T22:05:45.793053",
+      "archive_path": "content\\news\\commercial-radio\\archive\\黃偉綸宏福苑長遠居住方案有吸引力"
+    },
+    "https://hongkongfp.com/?p=555525": {
+      "title": "In Pictures: Hong Kong protesters call for ceasefire ahead of Russia-Ukraine war’s 4th anniversary",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-23T22:05:47.486165",
+      "archive_path": "content\\news\\hkfp\\archive\\in-pictures-hong-kong-protesters-call-for-ceasefire-ahead-of-russia-ukraine"
+    },
+    "https://www.dotdotnews.com/a/202602/22/AP699ada26e4b0c32d4f698185.html": {
+      "title": "（有片）宏福苑善後｜跨部門百人解說專隊3·2啟動　何永賢：另設專門小組處理疑難問題",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:48.843000",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片宏福苑善後跨部門百人解說專隊32啟動-何永賢另設專門小組處理疑難問題"
+    },
+    "https://english.dotdotnews.com/a/202602/22/AP699af1a2e4b0c32d4f6983e3.html": {
+      "title": "Wang Fuk Court aftermath | Cross-departmental engagement team launched on March 2: Special team set to handle difficult problems",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:49.399316",
+      "archive_path": "content\\news\\dotdotnews\\archive\\wang-fuk-court-aftermath-cross-departmental-engagement-team-launched-on-march-2"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4323809/%E6%A2%81%E6%96%87%E5%BB%A3%E5%BB%BA%E8%AD%B0++%E5%87%86%E8%B3%BC%E3%80%8C%E7%99%BD%E5%B1%85%E4%BA%8C%E3%80%8D": {
+      "title": "梁文廣建議 准購「白居二」",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:05:49.730909",
+      "archive_path": "content\\news\\hkej\\archive\\梁文廣建議-准購白居二"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324340/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88-%E9%BA%A5%E7%BE%8E%E5%A8%9F-%E5%8F%AA%E6%9C%89%E6%8E%A5%E5%8F%97%E6%94%BF%E5%BA%9C%E6%96%B9%E6%A1%88%E7%81%BD%E6%B0%91%E8%83%BD%E7%8D%B2%E5%BB%B6%E9%95%B7%E7%A7%9F%E9%87%91%E8%A3%9C%E5%8A%A9": {
+      "title": "宏福苑安置方案｜麥美娟：只有接受政府方案災民能獲延長租金補助",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-23T22:05:50.577313",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑安置方案麥美娟只有接受政府方案災民能獲延長租金補助"
+    },
+    "https://hongkongfp.com/?p=555645": {
+      "title": "1,000 CUHK students, staff and alumni petition to reinstate student expelled following nat. sec arrest",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-23T22:05:52.923565",
+      "archive_path": "content\\news\\hkfp\\archive\\1000-cuhk-students-staff-and-alumni-petition-to-reinstate-student-expelled"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699c4840e4b0c32d4f699762.html": {
+      "title": "宏福苑善後｜麥美娟：接受政府方案居民將獲延長補助",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:54.631958",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑善後麥美娟接受政府方案居民將獲延長補助"
+    },
+    "https://english.dotdotnews.com/a/202602/23/AP699bd471e4b0c32d4f698de1.html": {
+      "title": "Deepline | Compassion first: Govt unveils detailed resettlement plan for Wang Fuk Court fire victims",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:05:54.976609",
+      "archive_path": "content\\news\\dotdotnews\\archive\\deepline-compassion-first-govt-unveils-detailed-resettlement-plan-for-wang-fuk"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E8%AD%B0%E5%93%A1%E5%80%A1%E5%8E%9F%E5%9D%80%E5%BB%BA%E5%BB%9F%E5%AE%87%E5%8D%9A%E7%89%A9%E9%A4%A8%E4%BD%9C%E6%97%85%E9%81%8A%E6%99%AF%E9%BB%9E-%E9%BB%83%E5%81%89%E7%B6%B8%E6%8C%87%E5%BB%A3%E7%A6%8F%E5%85%AC%E5%9C%92%E8%80%97%E6%99%82%E9%95%B7%E4%B8%8D%E9%81%A9%E5%90%88%E5%BB%BA%E5%B1%8B": {
+      "title": "【宏福苑五級火】議員倡原址建廟宇博物館作旅遊景點 黃偉綸指廣福公園耗時長不適合建屋",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-02-23T22:06:06.981863",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火議員倡原址建廟宇博物館作旅遊景點-黃偉綸指廣福公園耗時長不適合建屋"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4323760/%E6%94%B6%E8%B3%BC%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%A0%86%E7%90%86%E6%88%90%E7%AB%A0+%E7%A0%B4%E6%A0%BC%E6%80%9D%E7%B6%AD%E8%99%95%E7%90%86%E5%AE%8F%E5%BF%97%E9%96%A3": {
+      "title": "收購宏福苑順理成章 破格思維處理宏志閣",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:06:07.322463",
+      "archive_path": "content\\news\\hkej\\archive\\收購宏福苑順理成章-破格思維處理宏志閣"
+    },
+    "https://www.hk01.com/01%E8%AB%96%E5%A3%87/60324304/%E4%BE%86%E7%A8%BF-%E6%83%85%E7%90%86%E6%B3%95%E7%9A%84%E8%89%B1%E9%9B%A3%E5%B9%B3%E8%A1%A1-%E8%A9%95%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88%E7%9A%84%E7%89%B9%E6%AE%8A%E6%93%94%E7%95%B6%E8%88%87%E5%9F%B7%E8%A1%8C%E6%8C%91%E6%88%B0": {
+      "title": "來稿｜情理法的艱難平衡——評宏福苑安置方案的特殊擔當與執行挑戰",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-23T22:06:07.524440",
+      "archive_path": "content\\news\\hk01\\archive\\來稿情理法的艱難平衡評宏福苑安置方案的特殊擔當與執行挑戰"
+    },
+    "https://hongkongfp.com/?p=555597": {
+      "title": "Hong Kong gov’t mulls booking system, fees for tourist camping spots after NGO slams inaction on overcrowding",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-02-23T22:06:09.024490",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-govt-mulls-booking-system-fees-for-tourist-camping-spots-after-ngo"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699be201e4b0c32d4f698ec7.html": {
+      "title": "來論｜宏福苑安置方案展現的香港治理新思維",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:06:09.699366",
+      "archive_path": "content\\news\\dotdotnews\\archive\\來論宏福苑安置方案展現的香港治理新思維"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%AE%8F%E5%BF%97%E9%96%A3%E5%B1%85%E6%B0%91%E5%98%86%E6%88%90%E3%80%8C%E4%BA%8C%E7%AD%89%E7%81%BD%E6%B0%91%E3%80%8D-%E9%BB%83%E5%81%89%E7%B6%B8%EF%BC%9A%E5%94%94%E5%A5%BD%E6%9C%89%E5%91%A2%E5%80%8B%E6%84%9F%E8%A6%BA": {
+      "title": "【宏福苑五級火】宏志閣居民嘆成「二等災民」 黃偉綸：唔好有呢個感覺",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-02-23T22:06:16.660721",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火宏志閣居民嘆成二等災民-黃偉綸唔好有呢個感覺"
+    },
+    "https://news.now.com/home/local/player?newsId=637530": {
+      "title": "即日焦點｜外遊市民陸續回港／特朗普將全球關稅稅率上調至15%",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:06:17.053236",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點外遊市民陸續回港特朗普將全球關稅稅率上調至15"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60324257/%E6%99%82%E4%BA%8B%E8%A9%95%E8%AB%96%E4%BA%BA%E7%8E%8B%E5%B2%B8%E7%84%B6%E6%B6%89%E6%8A%AB%E9%9C%B2%E5%9C%8B%E5%AE%89%E6%A1%88%E5%85%A7%E5%AE%B9%E6%A1%88-3-12%E8%BD%89%E5%8D%80%E9%99%A2%E6%8F%90%E8%A8%8A": {
+      "title": "時事評論人王岸然涉披露國安案內容案　3.12轉區院提訊",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-02-23T22:06:18.378209",
+      "archive_path": "content\\news\\hk01\\archive\\時事評論人王岸然涉披露國安案內容案-312轉區院提訊"
+    },
+    "https://www1.hkej.com/dailynews/culture/article/4323635/%E9%BB%83%E5%81%89%E7%B6%B8Message": {
+      "title": "黃偉綸Message",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:06:18.509730",
+      "archive_path": "content\\news\\hkej\\archive\\黃偉綸message"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699c0ff1e4b0c32d4f699222.html": {
+      "title": "點直播｜房屋事務委員會特別會議　討論宏福苑長遠居住方案｜2月23日",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:06:19.488060",
+      "archive_path": "content\\news\\dotdotnews\\archive\\點直播房屋事務委員會特別會議-討論宏福苑長遠居住方案2月23日"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E7%88%AD%E5%8E%9F%E5%9D%80%E9%87%8D%E5%BB%BA%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E6%96%B9%E6%A1%88%E6%AD%A6%E6%96%B7-%E7%9B%BC%E6%94%BF%E5%BA%9C%E3%80%8C%E5%90%8C%E6%88%91%E5%93%8B%E5%86%8D%E5%82%BE%E9%81%8E%E3%80%8D": {
+      "title": "【宏福苑五級火】爭原址重建居民質疑方案武斷 盼政府「同我哋再傾過」",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-02-23T22:06:25.555976",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火爭原址重建居民質疑方案武斷-盼政府同我哋再傾過"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1844680-20260223.htm?archive_date=2026-02-23": {
+      "title": "Legal aid claims eased for Wang Fuk Court fire victims",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-02-23T22:06:25.753170",
+      "archive_path": "content\\news\\rthk\\archive\\legal-aid-claims-eased-for-wang-fuk-court-fire-victims"
+    },
+    "https://news.now.com/home/local/player?newsId=637652": {
+      "title": "宏福苑長遠居住安排｜議員擔心釘子戶　黃偉綸稱會人性化處理",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:06:28.002319",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑長遠居住安排議員擔心釘子戶-黃偉綸稱會人性化處理"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699c284de4b0c32d4f6994c7.html": {
+      "title": "久慧說法｜此心安處是吾家　宏福苑安置方案獲災民認同",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:06:28.361726",
+      "archive_path": "content\\news\\dotdotnews\\archive\\久慧說法此心安處是吾家-宏福苑安置方案獲災民認同"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%AE%8F%E5%BF%97%E9%96%A3%E6%96%99%E4%B8%89%E8%87%B3%E5%9B%9B%E5%80%8B%E6%9C%88%E5%85%A7%E8%A7%A3%E5%B0%81-%E5%B1%85%E6%B0%91%E4%B8%8A%E6%9C%88%E7%B0%BD%E6%AD%BB%E7%B4%84%E7%A7%9F%E5%B1%8B%EF%BC%9A%E4%BD%A0%E8%A9%B1%E4%BF%82%E5%92%AA%E7%8E%A9%E4%BA%BA%E5%91%A2%EF%BC%9F": {
+      "title": "【宏福苑五級火】宏志閣料三至四個月內解封 居民上月簽死約租屋：你話係咪玩人呢？",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-02-23T22:06:32.743790",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火宏志閣料三至四個月內解封-居民上月簽死約租屋你話係咪玩人呢"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4323807/%E4%BB%A3%E7%90%86%EF%BC%9A%E5%AE%8F%E7%A6%8F%E7%81%BD%E6%B0%91%E8%B2%B7%E4%BA%8C%E6%89%8B%E5%B1%85%E5%B1%8B%E7%B6%BD%E7%B6%BD%E6%9C%89%E9%A4%98": {
+      "title": "代理：宏福災民買二手居屋綽綽有餘 政府回購業權 專隊下月逐戶解說",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:06:33.011444",
+      "archive_path": "content\\news\\hkej\\archive\\代理宏福災民買二手居屋綽綽有餘-政府回購業權-專隊下月逐戶解說"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1844658-20260223.htm?archive_date=2026-02-23": {
+      "title": "HOS site in Tai Po redrawn for Wang Fuk Court owners",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-02-23T22:06:35.117732",
+      "archive_path": "content\\news\\rthk\\archive\\hos-site-in-tai-po-redrawn-for-wang-fuk-court-owners"
+    },
+    "https://news.now.com/home/local/player?newsId=637661": {
+      "title": "宏志閣獨立成為屋苑要有新公契　麥美娟稱法律問題複雜",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:06:35.236018",
+      "archive_path": "content\\news\\now-news\\archive\\宏志閣獨立成為屋苑要有新公契-麥美娟稱法律問題複雜"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699c5426e4b0c32d4f699820.html": {
+      "title": "宏福苑善後｜黃偉綸：若逾半宏志閣居民希望政府收購業權　可展開下一步商討",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:06:35.905537",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑善後黃偉綸若逾半宏志閣居民希望政府收購業權-可展開下一步商討"
+    },
+    "https://news.sky.com/story/convictions-of-pro-democracy-activists-upheld-in-hong-kong-13511108": {
+      "title": "Convictions of pro-democracy activists upheld in Hong Kong",
+      "source": "sky",
+      "source_file": "content/news/sky/README.md",
+      "scraped_at": "2026-02-23T22:06:36.112681",
+      "archive_path": "content\\news\\sky\\archive\\convictions-of-pro-democracy-activists-upheld-in-hong-kong"
+    },
+    "https://news.tvb.com/tc/taipofire/699b0781f3bac3b7e4a57951/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%B0%88%E8%A8%AA%E9%BB%83%E5%81%89%E7%B6%B8%E9%A0%90%E7%AE%97%E6%A1%88%E7%94%A8%E7%B4%AB%E8%89%B2%E5%B0%81%E9%9D%A2%E5%98%89%E6%87%89%E9%AB%98%E6%98%8718%E9%80%A3%E5%8B%9D": {
+      "title": "八分鐘本地新聞重點｜專訪黃偉綸／預算案用紫色封面／嘉應高昇18連勝 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:06:39.202182",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點專訪黃偉綸預算案用紫色封面嘉應高昇18連勝-宏福苑五級火-1天前-粵"
+    },
+    "https://www1.hkej.com/dailynews/investment/article/4323752/68%E5%84%84%E5%85%AC%E5%B8%91%E5%AE%89%E7%BD%AE%E6%98%AF%E5%90%A6%E7%94%A8%E5%BE%97%E5%85%B6%E6%89%80%3F": {
+      "title": "68億公帑安置是否用得其所?",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:06:39.557260",
+      "archive_path": "content\\news\\hkej\\archive\\68億公帑安置是否用得其所"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1844733-20260223.htm?archive_date=2026-02-23": {
+      "title": "大埔宏福苑支援基金累計47億元　麥美娟強調會確保善款用得其所",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-02-23T22:06:40.500650",
+      "archive_path": "content\\news\\rthk\\archive\\大埔宏福苑支援基金累計47億元-麥美娟強調會確保善款用得其所"
+    },
+    "https://news.now.com/home/local/player?newsId=637653": {
+      "title": "宏福苑長遠居住安排｜麥美娟：若居民接受政府方案　可獲延長租金補貼",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:06:41.238383",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑長遠居住安排麥美娟若居民接受政府方案-可獲延長租金補貼"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699c45c1e4b0c32d4f6996ff.html": {
+      "title": "（有片）宏福苑方案討論｜何君堯：「釘子戶」如何處理　黃偉綸：強制性處理日後再商討",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:06:42.149140",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片宏福苑方案討論何君堯釘子戶如何處理-黃偉綸強制性處理日後再商討"
+    },
+    "https://news.tvb.com/tc/taipofire/699a8fd91cd2b33ae1ca9c25/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%AC%9B%E6%B8%85%E8%AC%9B%E6%A5%9A%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E6%9C%89%E8%B6%B3%E5%A4%A0%E8%B3%87%E5%8A%A9%E6%88%BF%E5%B1%8B%E5%96%AE%E4%BD%8D%E6%87%89%E5%B0%8D-%E6%94%B6%E8%B3%BC%E6%A5%AD%E6%AC%8A%E4%B8%8D%E5%BD%B1%E9%9F%BF%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%A5%AD%E4%B8%BB%E7%B4%A2%E5%84%9F%E6%AC%8A": {
+      "title": "講清講楚｜黃偉綸：有足夠資助房屋單位應對 收購業權不影響宏福苑業主索償權 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:06:44.854986",
+      "archive_path": "content\\news\\tvb\\archive\\講清講楚黃偉綸有足夠資助房屋單位應對-收購業權不影響宏福苑業主索償權-宏福苑五級火-1天前-粵"
+    },
+    "https://www1.hkej.com/dailynews/commentary/article/4323816/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E6%96%B9%E6%A1%88%E6%98%8E%E6%9A%97%E9%82%8F%E8%BC%AF": {
+      "title": "宏福苑安置方案明暗邏輯",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-02-23T22:06:45.485482",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑安置方案明暗邏輯"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1844726-20260223.htm?archive_date=2026-02-23": {
+      "title": "黃偉綸：宏福苑「樓換樓」方案基本原則為「一戶換一戶」",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-02-23T22:06:46.246750",
+      "archive_path": "content\\news\\rthk\\archive\\黃偉綸宏福苑樓換樓方案基本原則為一戶換一戶"
+    },
+    "https://news.now.com/home/local/player?newsId=637646": {
+      "title": "宏福苑業主如若分戶買兩個單位　當局稱不排除可能性",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:06:47.222355",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑業主如若分戶買兩個單位-當局稱不排除可能性"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699c4266e4b0c32d4f699699.html": {
+      "title": "點觀香港｜春節假期逾百萬旅客來港賀歲　宏福苑安置方案有這些細節",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:06:48.212708",
+      "archive_path": "content\\news\\dotdotnews\\archive\\點觀香港春節假期逾百萬旅客來港賀歲-宏福苑安置方案有這些細節"
+    },
+    "https://news.tvb.com/tc/taipofire/699a878e1cd2b33ae1ca6097/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E4%BF%9D%E9%9A%AA%E6%A5%AD%E8%81%AF%E6%9C%83%E6%8C%87%E5%87%BA%E5%94%AE%E6%A5%AD%E6%AC%8A%E4%BB%8D%E5%8F%AF%E7%B4%A2%E5%84%9F%E5%AE%B6%E5%B1%85%E4%BF%9D-%E6%BA%AB%E5%81%89%E6%98%8E%E7%A8%B1%E6%94%B6%E8%B3%BC%E5%83%B9%E5%90%88%E7%90%86": {
+      "title": "宏福苑五級火｜保險業聯會指出售業權仍可索償家居保 溫偉明稱收購價合理 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:06:50.868555",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火保險業聯會指出售業權仍可索償家居保-溫偉明稱收購價合理-宏福苑五級火-1天前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1844728-20260223.htm?archive_date=2026-02-23": {
+      "title": "黃偉綸：若有宏福苑居民揀樓限期前未處理完遺產事宜將獲彈性安排",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-02-23T22:06:52.015612",
+      "archive_path": "content\\news\\rthk\\archive\\黃偉綸若有宏福苑居民揀樓限期前未處理完遺產事宜將獲彈性安排"
+    },
+    "https://news.now.com/home/local/player?newsId=637556": {
+      "title": "時事全方位｜宏福苑長遠居住安排(二)",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:06:53.111224",
+      "archive_path": "content\\news\\now-news\\archive\\時事全方位宏福苑長遠居住安排二"
+    },
+    "https://www.dotdotnews.com/a/202602/23/AP699c1f60e4b0c32d4f6993e8.html": {
+      "title": "講真D｜宏福苑「樓換樓」有着數",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-02-23T22:06:54.274802",
+      "archive_path": "content\\news\\dotdotnews\\archive\\講真d宏福苑樓換樓有着數"
+    },
+    "https://news.tvb.com/tc/taipofire/699a80111cd2b33ae1ca2a9d/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%AC%9B%E6%B8%85%E8%AC%9B%E6%A5%9A%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E5%BC%B7%E8%AA%BF%E6%94%B6%E8%B3%BC%E6%96%B9%E6%A1%88%E7%B5%95%E4%B8%8D%E6%9C%83%E8%A6%81%E6%B1%82%E7%81%BD%E6%B0%91%E6%94%BE%E6%A3%84%E6%87%89%E6%9C%89%E6%B0%91%E4%BA%8B%E7%B4%A2%E5%84%9F%E6%AC%8A%E5%88%A9": {
+      "title": "講清講楚｜黃偉綸強調收購方案絕不會要求災民放棄應有民事索償權利 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:06:56.607857",
+      "archive_path": "content\\news\\tvb\\archive\\講清講楚黃偉綸強調收購方案絕不會要求災民放棄應有民事索償權利-宏福苑五級火-1天前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1844657-20260223.htm?archive_date=2026-02-23": {
+      "title": "黃偉綸：選樓換樓宏福苑居民入伙前仍可獲租金津貼及住過渡屋",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-02-23T22:06:57.423136",
+      "archive_path": "content\\news\\rthk\\archive\\黃偉綸選樓換樓宏福苑居民入伙前仍可獲租金津貼及住過渡屋"
+    },
+    "https://news.now.com/home/local/player?newsId=637555": {
+      "title": "時事全方位｜宏福苑長遠居住安排(一)",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:06:59.171838",
+      "archive_path": "content\\news\\now-news\\archive\\時事全方位宏福苑長遠居住安排一"
+    },
+    "https://news.tvb.com/tc/taipofire/699a7cf11cd2b33ae1ca0fa9/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%AC%9B%E6%B8%85%E8%AC%9B%E6%A5%9A%EF%BD%9C%E9%BB%83%E5%81%89%E7%B6%B8%E6%9C%89%E8%83%BD%E5%8A%9B%E6%87%89%E4%BB%98%E8%A3%9C%E8%B2%BC40%E5%84%84%E5%85%83%E5%85%AC%E5%B8%91-%E7%9B%B8%E4%BF%A1%E6%94%B6%E8%B3%BC%E5%83%B9%E5%8F%AF%E8%A3%9C%E8%B2%BC%E7%81%BD%E6%B0%91%E6%90%AC%E9%81%B7": {
+      "title": "講清講楚｜黃偉綸：有能力應付補貼40億元公帑 相信收購價可補貼災民搬遷 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:07:02.127157",
+      "archive_path": "content\\news\\tvb\\archive\\講清講楚黃偉綸有能力應付補貼40億元公帑-相信收購價可補貼災民搬遷-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=637571": {
+      "title": "宏福苑長遠居住安排懶人包　各方案選項及時間表一文睇晒",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:07:04.898665",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑長遠居住安排懶人包-各方案選項及時間表一文睇晒"
+    },
+    "https://news.tvb.com/tc/taipofire/699a67431cd2b33ae1c96019/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%8A%89%E4%BD%A9%E7%8E%B2%E5%A6%82%E6%A5%AD%E4%B8%BB%E6%B1%BA%E5%AE%9A%E5%B0%87%E6%A5%AD%E6%AC%8A%E5%87%BA%E5%94%AE%E4%BA%88%E6%94%BF%E5%BA%9C-%E7%81%AB%E9%9A%AA%E6%9C%83%E8%BD%89%E7%A7%BB%E7%B5%A6%E6%94%BF%E5%BA%9C": {
+      "title": "宏福苑五級火｜劉佩玲：如業主決定將業權出售予政府 「火險」會轉移給政府 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:07:07.346070",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火劉佩玲如業主決定將業權出售予政府-火險會轉移給政府-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=637585": {
+      "title": "宏福苑長遠安置｜黃偉綸：需處理法律問題才能讓居民回宏志閣住",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:07:10.217680",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑長遠安置黃偉綸需處理法律問題才能讓居民回宏志閣住"
+    },
+    "https://news.tvb.com/tc/taipofire/699c488cf3bac3b7e4afc884/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E9%BA%A5%E7%BE%8E%E5%A8%9F%E6%96%99%E5%AE%8F%E5%BF%97%E9%96%A3%E5%B1%85%E6%B0%91%E6%9C%80%E5%BF%AB%E4%B8%89%E8%87%B3%E5%9B%9B%E5%80%8B%E6%9C%88%E5%BE%8C%E5%A7%8B%E8%83%BD%E9%87%8D%E8%BF%94%E5%A4%A7%E5%BB%88%E5%B1%85%E4%BD%8F": {
+      "title": "宏福苑長遠居住安排｜麥美娟料宏志閣居民最快三至四個月後始能重返大廈居住 宏福苑五級火 1小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:07:13.153123",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑長遠居住安排麥美娟料宏志閣居民最快三至四個月後始能重返大廈居住-宏福苑五級火-1小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=637541": {
+      "title": "採訪日誌｜中大醫學院春茗／立法會討論宏福苑居民長遠居住安排",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-02-23T22:07:16.014807",
+      "archive_path": "content\\news\\now-news\\archive\\採訪日誌中大醫學院春茗立法會討論宏福苑居民長遠居住安排"
+    },
+    "https://news.tvb.com/tc/taipofire/699c334df3bac3b7e4af0fe2/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E8%AD%B0%E5%93%A1%E9%97%9C%E6%B3%A8%E5%A6%82%E4%BD%95%E8%B7%9F%E9%80%B2%E5%AE%8F%E5%BF%97%E9%96%A3-%E9%BB%83%E5%81%89%E7%B6%B8%E7%A8%B1%E5%B0%87%E6%8E%A5%E8%A7%B8%E6%A5%AD%E4%B8%BB%E4%BA%86%E8%A7%A3%E6%84%8F%E5%90%91": {
+      "title": "宏福苑長遠居住安排｜議員關注如何跟進宏志閣 黃偉綸稱將接觸業主了解意向 宏福苑五級火 2小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:07:18.837952",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑長遠居住安排議員關注如何跟進宏志閣-黃偉綸稱將接觸業主了解意向-宏福苑五級火-2小時前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/699c21bbf3bac3b7e4ae6775/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E5%A4%9A%E5%90%8D%E8%AD%B0%E5%93%A1%E9%97%9C%E6%B3%A8%E5%AE%8F%E5%BF%97%E9%96%A3%E6%9C%AA%E7%B4%8D%E6%94%B6%E8%B3%BC-%E9%BB%83%E5%81%89%E7%B6%B8%E5%80%98%E6%9C%89%E5%85%B1%E8%AD%98%E9%A1%98%E5%95%86%E8%A8%8E": {
+      "title": "宏福苑長遠居住安排｜多名議員關注宏志閣未納收購 黃偉綸︰倘有共識願商討 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:07:24.431174",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑長遠居住安排多名議員關注宏志閣未納收購-黃偉綸倘有共識願商討-宏福苑五級火-4小時前-粵"
+    },
+    "https://news.tvb.com/tc/pearlnews/699afd6df3bac3b7e4a5215f/TVB%20News-Government-can-claim-Wang-Fuk-Court-fire-insurance-payout-if-buyout-plan-proceeds": {
+      "title": "Government can claim Wang Fuk Court fire insurance payout if buyout plan proceeds",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-02-23T22:07:30.195764",
+      "archive_path": "content\\news\\tvb\\archive\\government-can-claim-wang-fuk-court-fire-insurance-payout-if-buyout-plan-1"
     }
   },
-  "last_updated": "2026-02-22T22:20:37.759396"
+  "last_updated": "2026-02-23T22:07:30.195819"
 }

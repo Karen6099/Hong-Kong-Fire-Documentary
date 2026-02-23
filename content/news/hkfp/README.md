@@ -438,3 +438,11 @@
 ### 2026-02-22
 - [The warming Spring Festival: How climate change erodes cultural tradition](https://hongkongfp.com/?p=555338) [Original](https://hongkongfp.com/?p=555338){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/the-warming-spring-festival-how-climate-change-erodes-cultural-tradition/){.md-button .hkfd-news-button}
 - [‘Gov’t should bear greatest responsibility’: Tai Po fire survivors recall futile whistle-blowing attempts](https://hongkongfp.com/?p=555099) [Original](https://hongkongfp.com/?p=555099){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-should-bear-greatest-responsibility-tai-po-fire-survivors-recall-futile/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [In Pictures: Hong Kong protesters call for ceasefire ahead of Russia-Ukraine war’s 4th anniversary](https://hongkongfp.com/?p=555525) [Original](https://hongkongfp.com/?p=555525){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/in-pictures-hong-kong-protesters-call-for-ceasefire-ahead-of-russia-ukraine/){.md-button .hkfd-news-button}
+
+### 2026-02-23
+- [1,000 CUHK students, staff and alumni petition to reinstate student expelled following nat. sec arrest](https://hongkongfp.com/?p=555645) [Original](https://hongkongfp.com/?p=555645){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/1000-cuhk-students-staff-and-alumni-petition-to-reinstate-student-expelled/){.md-button .hkfd-news-button}
+- [Hong Kong gov’t mulls booking system, fees for tourist camping spots after NGO slams inaction on overcrowding](https://hongkongfp.com/?p=555597) [Original](https://hongkongfp.com/?p=555597){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-mulls-booking-system-fees-for-tourist-camping-spots-after-ngo/){.md-button .hkfd-news-button}

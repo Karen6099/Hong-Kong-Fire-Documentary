@@ -1251,3 +1251,18 @@
 - [宏福苑長遠居住安排｜保險業聯會：政府收購業權宏福苑居民個別買的家居保索權不受影響](https://news.now.com/home/local/player?newsId=637498) [Original](https://news.now.com/home/local/player?newsId=637498){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會政府收購業權宏福苑居民個別買的家居保索權不受影響/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排｜保險業聯會：個別購買的家居保險索權不受影響](https://news.now.com/home/local/player?newsId=637488) [Original](https://news.now.com/home/local/player?newsId=637488){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會個別購買的家居保險索權不受影響/){.md-button .hkfd-news-button}
 - [黃偉綸︰續提供租金補助至宏福苑居民遷入資助房屋　何永賢︰專門解說隊跟進居民問題](https://news.now.com/home/local/player?newsId=637467) [Original](https://news.now.com/home/local/player?newsId=637467){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸續提供租金補助至宏福苑居民遷入資助房屋-何永賢專門解說隊跟進居民問題/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [即日焦點｜外遊市民陸續回港／特朗普將全球關稅稅率上調至15%](https://news.now.com/home/local/player?newsId=637530) [Original](https://news.now.com/home/local/player?newsId=637530){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點外遊市民陸續回港特朗普將全球關稅稅率上調至15/){.md-button .hkfd-news-button}
+
+### 2026-02-23
+- [宏福苑長遠居住安排｜議員擔心釘子戶　黃偉綸稱會人性化處理](https://news.now.com/home/local/player?newsId=637652) [Original](https://news.now.com/home/local/player?newsId=637652){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排議員擔心釘子戶-黃偉綸稱會人性化處理/){.md-button .hkfd-news-button}
+- [宏志閣獨立成為屋苑要有新公契　麥美娟稱法律問題複雜](https://news.now.com/home/local/player?newsId=637661) [Original](https://news.now.com/home/local/player?newsId=637661){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏志閣獨立成為屋苑要有新公契-麥美娟稱法律問題複雜/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜麥美娟：若居民接受政府方案　可獲延長租金補貼](https://news.now.com/home/local/player?newsId=637653) [Original](https://news.now.com/home/local/player?newsId=637653){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排麥美娟若居民接受政府方案-可獲延長租金補貼/){.md-button .hkfd-news-button}
+- [宏福苑業主如若分戶買兩個單位　當局稱不排除可能性](https://news.now.com/home/local/player?newsId=637646) [Original](https://news.now.com/home/local/player?newsId=637646){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑業主如若分戶買兩個單位-當局稱不排除可能性/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠居住安排(二) ](https://news.now.com/home/local/player?newsId=637556) [Original](https://news.now.com/home/local/player?newsId=637556){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排二/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠居住安排(一) ](https://news.now.com/home/local/player?newsId=637555) [Original](https://news.now.com/home/local/player?newsId=637555){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排一/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排懶人包　各方案選項及時間表一文睇晒](https://news.now.com/home/local/player?newsId=637571) [Original](https://news.now.com/home/local/player?newsId=637571){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排懶人包-各方案選項及時間表一文睇晒/){.md-button .hkfd-news-button}
+- [宏福苑長遠安置｜黃偉綸：需處理法律問題才能讓居民回宏志閣住](https://news.now.com/home/local/player?newsId=637585) [Original](https://news.now.com/home/local/player?newsId=637585){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置黃偉綸需處理法律問題才能讓居民回宏志閣住/){.md-button .hkfd-news-button}
+- [採訪日誌｜中大醫學院春茗／立法會討論宏福苑居民長遠居住安排](https://news.now.com/home/local/player?newsId=637541) [Original](https://news.now.com/home/local/player?newsId=637541){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌中大醫學院春茗立法會討論宏福苑居民長遠居住安排/){.md-button .hkfd-news-button}

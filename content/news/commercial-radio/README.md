@@ -861,3 +861,9 @@
 - [田北辰：若宏福苑居民堅持原址重建   政府應盡力做](https://www.881903.com/news/local/2620022/) [Original](https://www.881903.com/news/local/2620022/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/田北辰若宏福苑居民堅持原址重建-政府應盡力做/){.md-button .hkfd-news-button}
 - [宏福苑大火｜測量師學會︰收購價已有恩恤補貼　料原址重建須27億](https://www.881903.com/news/local/2620004/) [Original](https://www.881903.com/news/local/2620004/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火測量師學會收購價已有恩恤補貼-料原址重建須27億/){.md-button .hkfd-news-button}
 - [宏褔苑大火｜黃偉綸：增收購價屬人性化　否認以公帑填補責任](https://www.881903.com/news/local/2620001/) [Original](https://www.881903.com/news/local/2620001/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏褔苑大火黃偉綸增收購價屬人性化-否認以公帑填補責任/){.md-button .hkfd-news-button}
+
+
+### 2026-02-23
+- [麥美娟：宏福苑業主若選樓換樓　可獲租金補助至入伙](https://www.881903.com/news/local/2620148/) [Original](https://www.881903.com/news/local/2620148/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟宏福苑業主若選樓換樓-可獲租金補助至入伙/){.md-button .hkfd-news-button}
+- [黃偉綸：宏志閣一半業主達共識可商政府收購   但落實需另定門檻](https://www.881903.com/news/local/2620141/) [Original](https://www.881903.com/news/local/2620141/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏志閣一半業主達共識可商政府收購-但落實需另定門檻/){.md-button .hkfd-news-button}
+- [黃偉綸：宏福苑長遠居住方案有吸引力](https://www.881903.com/news/local/2620071/) [Original](https://www.881903.com/news/local/2620071/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑長遠居住方案有吸引力/){.md-button .hkfd-news-button}

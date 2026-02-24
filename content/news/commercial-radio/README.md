@@ -867,3 +867,9 @@
 - [麥美娟：宏福苑業主若選樓換樓　可獲租金補助至入伙](https://www.881903.com/news/local/2620148/) [Original](https://www.881903.com/news/local/2620148/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟宏福苑業主若選樓換樓-可獲租金補助至入伙/){.md-button .hkfd-news-button}
 - [黃偉綸：宏志閣一半業主達共識可商政府收購   但落實需另定門檻](https://www.881903.com/news/local/2620141/) [Original](https://www.881903.com/news/local/2620141/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏志閣一半業主達共識可商政府收購-但落實需另定門檻/){.md-button .hkfd-news-button}
 - [黃偉綸：宏福苑長遠居住方案有吸引力](https://www.881903.com/news/local/2620071/) [Original](https://www.881903.com/news/local/2620071/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑長遠居住方案有吸引力/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [消防處料4至5月　向立法會簡介修訂消防相關條例](https://www.881903.com/news/local/2620253/) [Original](https://www.881903.com/news/local/2620253/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處料4至5月-向立法會簡介修訂消防相關條例/){.md-button .hkfd-news-button}
+- [有宏志閣居民已租其他單位　黃偉綸：繼續發放補貼](https://www.881903.com/news/local/2620212/) [Original](https://www.881903.com/news/local/2620212/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有宏志閣居民已租其他單位-黃偉綸繼續發放補貼/){.md-button .hkfd-news-button}
+- [勞工處長許澤森專訪｜地盤物料非巡查重點　跟進宏業欠薪](https://www.881903.com/news/local/2620172/) [Original](https://www.881903.com/news/local/2620172/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/勞工處長許澤森專訪地盤物料非巡查重點-跟進宏業欠薪/){.md-button .hkfd-news-button}

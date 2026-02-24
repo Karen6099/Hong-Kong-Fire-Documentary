@@ -446,3 +446,7 @@
 ### 2026-02-23
 - [1,000 CUHK students, staff and alumni petition to reinstate student expelled following nat. sec arrest](https://hongkongfp.com/?p=555645) [Original](https://hongkongfp.com/?p=555645){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/1000-cuhk-students-staff-and-alumni-petition-to-reinstate-student-expelled/){.md-button .hkfd-news-button}
 - [Hong Kong gov’t mulls booking system, fees for tourist camping spots after NGO slams inaction on overcrowding](https://hongkongfp.com/?p=555597) [Original](https://hongkongfp.com/?p=555597){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-mulls-booking-system-fees-for-tourist-camping-spots-after-ngo/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [Budget speech to detail funding plan for HK$6.8b Wang Fuk Court buyouts, Hong Kong official says](https://hongkongfp.com/?p=555788) [Original](https://hongkongfp.com/?p=555788){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/budget-speech-to-detail-funding-plan-for-hk68b-wang-fuk-court-buyouts-hong-kong/){.md-button .hkfd-news-button}

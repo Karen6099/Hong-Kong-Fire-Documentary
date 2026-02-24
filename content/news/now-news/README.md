@@ -1266,3 +1266,14 @@
 - [宏福苑長遠居住安排懶人包　各方案選項及時間表一文睇晒](https://news.now.com/home/local/player?newsId=637571) [Original](https://news.now.com/home/local/player?newsId=637571){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排懶人包-各方案選項及時間表一文睇晒/){.md-button .hkfd-news-button}
 - [宏福苑長遠安置｜黃偉綸：需處理法律問題才能讓居民回宏志閣住](https://news.now.com/home/local/player?newsId=637585) [Original](https://news.now.com/home/local/player?newsId=637585){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置黃偉綸需處理法律問題才能讓居民回宏志閣住/){.md-button .hkfd-news-button}
 - [採訪日誌｜中大醫學院春茗／立法會討論宏福苑居民長遠居住安排](https://news.now.com/home/local/player?newsId=637541) [Original](https://news.now.com/home/local/player?newsId=637541){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌中大醫學院春茗立法會討論宏福苑居民長遠居住安排/){.md-button .hkfd-news-button}
+
+
+### 2026-02-23
+- [即日焦點｜35+顛覆政權案上訴全數駁回／黃偉綸稱人性化處理宏福苑業權](https://news.now.com/home/local/player?newsId=637665) [Original](https://news.now.com/home/local/player?newsId=637665){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點35顛覆政權案上訴全數駁回黃偉綸稱人性化處理宏福苑業權/){.md-button .hkfd-news-button}
+
+### 2026-02-24
+- [宏福苑五級火災｜消防處派員出席獨立委員會聽證會　楊恩健︰為火警尋一些真相](https://news.now.com/home/local/player?newsId=637762) [Original](https://news.now.com/home/local/player?newsId=637762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處派員出席獨立委員會聽證會-楊恩健為火警尋一些真相/){.md-button .hkfd-news-button}
+- [楊恩健：承傳殉職消防隊目何偉豪義無反顧精神　全力守護市民生命財產](https://news.now.com/home/local/player?newsId=637750) [Original](https://news.now.com/home/local/player?newsId=637750){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/楊恩健承傳殉職消防隊目何偉豪義無反顧精神-全力守護市民生命財產/){.md-button .hkfd-news-button}
+- [第一期關愛隊服務全部達標完成　麥美娟：成績有目共睹](https://news.now.com/home/local/player?newsId=637744) [Original](https://news.now.com/home/local/player?newsId=637744){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/第一期關愛隊服務全部達標完成-麥美娟成績有目共睹/){.md-button .hkfd-news-button}
+- [何永賢：3900單位供宏福苑居民選擇　已平衡整體市場　料對私樓市場影響有限](https://news.now.com/home/local/player?newsId=637715) [Original](https://news.now.com/home/local/player?newsId=637715){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢3900單位供宏福苑居民選擇-已平衡整體市場-料對私樓市場影響有限/){.md-button .hkfd-news-button}
+- [黃偉綸：倘宏福苑業主不出售業權　屆時再研究立法處理　預算案已預留撥款](https://news.now.com/home/local/player?newsId=637693) [Original](https://news.now.com/home/local/player?newsId=637693){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸倘宏福苑業主不出售業權-屆時再研究立法處理-預算案已預留撥款/){.md-button .hkfd-news-button}

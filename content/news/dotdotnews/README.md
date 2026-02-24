@@ -459,3 +459,12 @@
 - [（有片）宏福苑方案討論｜何君堯：「釘子戶」如何處理　黃偉綸：強制性處理日後再商討](https://www.dotdotnews.com/a/202602/23/AP699c45c1e4b0c32d4f6996ff.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699c45c1e4b0c32d4f6996ff.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑方案討論何君堯釘子戶如何處理-黃偉綸強制性處理日後再商討/){.md-button .hkfd-news-button}
 - [點觀香港｜春節假期逾百萬旅客來港賀歲　宏福苑安置方案有這些細節](https://www.dotdotnews.com/a/202602/23/AP699c4266e4b0c32d4f699699.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699c4266e4b0c32d4f699699.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港春節假期逾百萬旅客來港賀歲-宏福苑安置方案有這些細節/){.md-button .hkfd-news-button}
 - [講真D｜宏福苑「樓換樓」有着數](https://www.dotdotnews.com/a/202602/23/AP699c1f60e4b0c32d4f6993e8.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699c1f60e4b0c32d4f6993e8.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d宏福苑樓換樓有着數/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [Wang Fuk Court aftermath | Residents of Wang Chi House expected to return home in 4 months: HYAB emphasizes 3 issues pending resolution](https://english.dotdotnews.com/a/202602/24/AP699d2091e4b0c32d4f69a178.html) [Original](https://english.dotdotnews.com/a/202602/24/AP699d2091e4b0c32d4f69a178.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-residents-of-wang-chi-house-expected-to-return-home-in/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [講真D｜單獨保留宏志閣　面臨哪些挑戰？](https://www.dotdotnews.com/a/202602/24/AP699d805ae4b0c32d4f69aaa6.html) [Original](https://www.dotdotnews.com/a/202602/24/AP699d805ae4b0c32d4f69aaa6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d單獨保留宏志閣-面臨哪些挑戰/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜楊恩健：去年逾44萬次防火巡查　將派員出席聽證會為火警尋真相](https://www.dotdotnews.com/a/202602/24/AP699da00ee4b0c32d4f69adda.html) [Original](https://www.dotdotnews.com/a/202602/24/AP699da00ee4b0c32d4f69adda.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火楊恩健去年逾44萬次防火巡查-將派員出席聽證會為火警尋真相/){.md-button .hkfd-news-button}

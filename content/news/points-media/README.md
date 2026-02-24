@@ -90,3 +90,7 @@
 
 ### 2026年02月21日
 - [香港世紀大火｜關靖豐被取消學籍 中大人發聯署促撤處分 質疑聆訊程序公義](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e9%97%9c%e9%9d%96%e8%b1%90%e8%a2%ab%e5%8f%96%e6%b6%88%e5%ad%b8%e7%b1%8d%e5%86%8d%e6%8e%80%e7%88%ad%e8%ad%b0-%e4%b8%ad%e5%a4%a7%e4%ba%ba/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e9%97%9c%e9%9d%96%e8%b1%90%e8%a2%ab%e5%8f%96%e6%b6%88%e5%ad%b8%e7%b1%8d%e5%86%8d%e6%8e%80%e7%88%ad%e8%ad%b0-%e4%b8%ad%e5%a4%a7%e4%ba%ba/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火關靖豐被取消學籍-中大人發聯署促撤處分-質疑聆訊程序公義/){.md-button .hkfd-news-button}
+
+
+### 2026年02月24日
+- [香港世紀大火｜居英港人促劍橋撤盧煜明榮譽學位提名 批中大開除關靖豐違背校訓「啟蒙與智慧之源」](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%b1%85%e8%8b%b1%e6%b8%af%e4%ba%ba%e4%bf%83%e5%8a%8d%e6%a9%8b%e6%92%a4%e7%9b%a7%e7%85%9c%e6%98%8e%e6%a6%ae%e8%ad%bd%e5%ad%b8%e4%bd%8d/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%b1%85%e8%8b%b1%e6%b8%af%e4%ba%ba%e4%bf%83%e5%8a%8d%e6%a9%8b%e6%92%a4%e7%9b%a7%e7%85%9c%e6%98%8e%e6%a6%ae%e8%ad%bd%e5%ad%b8%e4%bd%8d/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火居英港人促劍橋撤盧煜明榮譽學位提名-批中大開除關靖豐違背校訓啟蒙與智慧之源/){.md-button .hkfd-news-button}

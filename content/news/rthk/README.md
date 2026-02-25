@@ -1146,3 +1146,7 @@
 - ['Major safety reform after Wang Fuk Court fire'](https://news.rthk.hk/rthk/en/component/k2/1844839-20260224.htm?archive_date=2026-02-24) [Original](https://news.rthk.hk/rthk/en/component/k2/1844839-20260224.htm?archive_date=2026-02-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/major-safety-reform-after-wang-fuk-court-fire/){.md-button .hkfd-news-button}
 - ['Wang Fuk Court buyout plan could expand to cover all'](https://news.rthk.hk/rthk/en/component/k2/1844793-20260224.htm?archive_date=2026-02-24) [Original](https://news.rthk.hk/rthk/en/component/k2/1844793-20260224.htm?archive_date=2026-02-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-buyout-plan-could-expand-to-cover-all/){.md-button .hkfd-news-button}
 - [消防處已就宏福苑火災向獨立委員會遞交文件](https://news.rthk.hk/rthk/ch/component/k2/1844862-20260224.htm?archive_date=2026-02-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844862-20260224.htm?archive_date=2026-02-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處已就宏福苑火災向獨立委員會遞交文件/){.md-button .hkfd-news-button}
+
+
+### 2026-02-25
+- [財政預算案｜預40億支援宏福苑安置　30億改革樓宇更新大行動](https://news.rthk.hk/rthk/ch/component/k2/1844986-20260225.htm?archive_date=2026-02-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844986-20260225.htm?archive_date=2026-02-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預40億支援宏福苑安置-30億改革樓宇更新大行動/){.md-button .hkfd-news-button}

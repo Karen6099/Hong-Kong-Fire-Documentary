@@ -873,3 +873,12 @@
 - [消防處料4至5月　向立法會簡介修訂消防相關條例](https://www.881903.com/news/local/2620253/) [Original](https://www.881903.com/news/local/2620253/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處料4至5月-向立法會簡介修訂消防相關條例/){.md-button .hkfd-news-button}
 - [有宏志閣居民已租其他單位　黃偉綸：繼續發放補貼](https://www.881903.com/news/local/2620212/) [Original](https://www.881903.com/news/local/2620212/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有宏志閣居民已租其他單位-黃偉綸繼續發放補貼/){.md-button .hkfd-news-button}
 - [勞工處長許澤森專訪｜地盤物料非巡查重點　跟進宏業欠薪](https://www.881903.com/news/local/2620172/) [Original](https://www.881903.com/news/local/2620172/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/勞工處長許澤森專訪地盤物料非巡查重點-跟進宏業欠薪/){.md-button .hkfd-news-button}
+
+
+### 2026-02-25
+- [政府將助聘宏福苑顧問鴻毅的屋苑　免費重新招標](https://www.881903.com/news/local/2620468/) [Original](https://www.881903.com/news/local/2620468/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府將助聘宏福苑顧問鴻毅的屋苑-免費重新招標/){.md-button .hkfd-news-button}
+- [工聯會：預算案提振信心對接規劃](https://www.881903.com/news/local/2620439/) [Original](https://www.881903.com/news/local/2620439/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工聯會預算案提振信心對接規劃/){.md-button .hkfd-news-button}
+- [宏福苑安置｜消息：樓換樓入伙前租金津貼　不使用公帑](https://www.881903.com/news/local/2620433/) [Original](https://www.881903.com/news/local/2620433/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置消息樓換樓入伙前租金津貼-不使用公帑/){.md-button .hkfd-news-button}
+- [政府：若將宏志閣納入收購　須增撥10億元](https://www.881903.com/news/local/2620431/) [Original](https://www.881903.com/news/local/2620431/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府若將宏志閣納入收購-須增撥10億元/){.md-button .hkfd-news-button}
+- [預算案｜預留40億處理宏福苑長遠居住安排](https://www.881903.com/news/local/2620385/) [Original](https://www.881903.com/news/local/2620385/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/預算案預留40億處理宏福苑長遠居住安排/){.md-button .hkfd-news-button}
+- [新民黨：預算案派糖力度温和　市民感覺屬「低糖」](https://www.881903.com/news/local/2620405/) [Original](https://www.881903.com/news/local/2620405/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新民黨預算案派糖力度温和-市民感覺屬低糖/){.md-button .hkfd-news-button}

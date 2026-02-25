@@ -468,3 +468,7 @@
 ### 2026-02-24
 - [講真D｜單獨保留宏志閣　面臨哪些挑戰？](https://www.dotdotnews.com/a/202602/24/AP699d805ae4b0c32d4f69aaa6.html) [Original](https://www.dotdotnews.com/a/202602/24/AP699d805ae4b0c32d4f69aaa6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d單獨保留宏志閣-面臨哪些挑戰/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜楊恩健：去年逾44萬次防火巡查　將派員出席聽證會為火警尋真相](https://www.dotdotnews.com/a/202602/24/AP699da00ee4b0c32d4f69adda.html) [Original](https://www.dotdotnews.com/a/202602/24/AP699da00ee4b0c32d4f69adda.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火楊恩健去年逾44萬次防火巡查-將派員出席聽證會為火警尋真相/){.md-button .hkfd-news-button}
+
+
+### 2026-02-25
+- [來論｜宏福苑安置方案合情合理　但執行須到位](https://www.dotdotnews.com/a/202602/25/AP699eed5fe4b0c32d4f69d131.html) [Original](https://www.dotdotnews.com/a/202602/25/AP699eed5fe4b0c32d4f69d131.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑安置方案合情合理-但執行須到位/){.md-button .hkfd-news-button}

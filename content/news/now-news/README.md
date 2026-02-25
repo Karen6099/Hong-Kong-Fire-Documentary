@@ -1277,3 +1277,16 @@
 - [第一期關愛隊服務全部達標完成　麥美娟：成績有目共睹](https://news.now.com/home/local/player?newsId=637744) [Original](https://news.now.com/home/local/player?newsId=637744){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/第一期關愛隊服務全部達標完成-麥美娟成績有目共睹/){.md-button .hkfd-news-button}
 - [何永賢：3900單位供宏福苑居民選擇　已平衡整體市場　料對私樓市場影響有限](https://news.now.com/home/local/player?newsId=637715) [Original](https://news.now.com/home/local/player?newsId=637715){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢3900單位供宏福苑居民選擇-已平衡整體市場-料對私樓市場影響有限/){.md-button .hkfd-news-button}
 - [黃偉綸：倘宏福苑業主不出售業權　屆時再研究立法處理　預算案已預留撥款](https://news.now.com/home/local/player?newsId=637693) [Original](https://news.now.com/home/local/player?newsId=637693){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸倘宏福苑業主不出售業權-屆時再研究立法處理-預算案已預留撥款/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [即日焦點｜據悉預算案預留款項為公務員加薪／中方將20家日本實體列入出口管制管控名單](https://news.now.com/home/local/player?newsId=637788) [Original](https://news.now.com/home/local/player?newsId=637788){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點據悉預算案預留款項為公務員加薪中方將20家日本實體列入出口管制管控名單/){.md-button .hkfd-news-button}
+
+### 2026-02-25
+- [宏福苑居民聯署公開信　望政府盡快讓他們返回單位執拾](https://news.now.com/home/local/player?newsId=637912) [Original](https://news.now.com/home/local/player?newsId=637912){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民聯署公開信-望政府盡快讓他們返回單位執拾/){.md-button .hkfd-news-button}
+- [財政預算案｜預留40億收宏福苑業權　3億推加強版招標妥](https://news.now.com/home/local/player?newsId=637899) [Original](https://news.now.com/home/local/player?newsId=637899){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預留40億收宏福苑業權-3億推加強版招標妥/){.md-button .hkfd-news-button}
+- [財政預算案｜吳傑莊對未提夜間消費券感失望　新民黨工聯會稱理解政府決定](https://news.now.com/home/local/player?newsId=637874) [Original](https://news.now.com/home/local/player?newsId=637874){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案吳傑莊對未提夜間消費券感失望-新民黨工聯會稱理解政府決定/){.md-button .hkfd-news-button}
+- [全方位睇預算｜管浩鳴指預留40億元用作宏福苑長遠居住安排適合　對社福部分感失望](https://news.now.com/home/local/player?newsId=637856) [Original](https://news.now.com/home/local/player?newsId=637856){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全方位睇預算管浩鳴指預留40億元用作宏福苑長遠居住安排適合-對社福部分感失望/){.md-button .hkfd-news-button}
+- [全方位睇預算｜經濟學者指政府未來預算要審慎　宏福苑居民滿意政府長遠居住安排](https://news.now.com/home/local/player?newsId=637855) [Original](https://news.now.com/home/local/player?newsId=637855){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全方位睇預算經濟學者指政府未來預算要審慎-宏福苑居民滿意政府長遠居住安排/){.md-button .hkfd-news-button}
+- [財政預算案｜預留40億收宏福苑業權　30億制定全新大維修資助計劃](https://news.now.com/home/local/player?newsId=637847) [Original](https://news.now.com/home/local/player?newsId=637847){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預留40億收宏福苑業權-30億制定全新大維修資助計劃/){.md-button .hkfd-news-button}
+- [財政預算案．不斷更新｜財政司司長陳茂波宣讀新一份《財政預算案》](https://news.now.com/home/local/player?newsId=637825) [Original](https://news.now.com/home/local/player?newsId=637825){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案不斷更新財政司司長陳茂波宣讀新一份財政預算案/){.md-button .hkfd-news-button}

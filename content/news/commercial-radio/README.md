@@ -882,3 +882,8 @@
 - [政府：若將宏志閣納入收購　須增撥10億元](https://www.881903.com/news/local/2620431/) [Original](https://www.881903.com/news/local/2620431/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府若將宏志閣納入收購-須增撥10億元/){.md-button .hkfd-news-button}
 - [預算案｜預留40億處理宏福苑長遠居住安排](https://www.881903.com/news/local/2620385/) [Original](https://www.881903.com/news/local/2620385/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/預算案預留40億處理宏福苑長遠居住安排/){.md-button .hkfd-news-button}
 - [新民黨：預算案派糖力度温和　市民感覺屬「低糖」](https://www.881903.com/news/local/2620405/) [Original](https://www.881903.com/news/local/2620405/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新民黨預算案派糖力度温和-市民感覺屬低糖/){.md-button .hkfd-news-button}
+
+
+### 2026-02-26
+- [宏福苑7座起火樓宇居民　最快4月底上樓收拾物品](https://www.881903.com/news/local/2620621/) [Original](https://www.881903.com/news/local/2620621/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑7座起火樓宇居民-最快4月底上樓收拾物品/){.md-button .hkfd-news-button}
+- [宏福苑災民免費義診服務延長至8月底](https://www.881903.com/news/local/2620601/) [Original](https://www.881903.com/news/local/2620601/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民免費義診服務延長至8月底/){.md-button .hkfd-news-button}

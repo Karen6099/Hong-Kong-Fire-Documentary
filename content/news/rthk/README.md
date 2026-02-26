@@ -1150,3 +1150,11 @@
 
 ### 2026-02-25
 - [財政預算案｜預40億支援宏福苑安置　30億改革樓宇更新大行動](https://news.rthk.hk/rthk/ch/component/k2/1844986-20260225.htm?archive_date=2026-02-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844986-20260225.htm?archive_date=2026-02-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預40億支援宏福苑安置-30億改革樓宇更新大行動/){.md-button .hkfd-news-button}
+
+
+### 2026-02-26
+- ['Wang Fuk Court residents could return home end-April'](https://news.rthk.hk/rthk/en/component/k2/1845249-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/en/component/k2/1845249-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-could-return-home-end-april/){.md-button .hkfd-news-button}
+- [Up to HK$1b needed to buy eighth Wang Fuk Court block](https://news.rthk.hk/rthk/en/component/k2/1845191-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/en/component/k2/1845191-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/up-to-hk1b-needed-to-buy-eighth-wang-fuk-court-block/){.md-button .hkfd-news-button}
+- [卓永興：盡量下月公布宏福苑居民返回單位視察安排](https://news.rthk.hk/rthk/ch/component/k2/1845233-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845233-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興盡量下月公布宏福苑居民返回單位視察安排/){.md-button .hkfd-news-button}
+- [政府延長宏福苑居民免費中西醫義診及鑲假牙服務至8月底](https://news.rthk.hk/rthk/ch/component/k2/1845240-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845240-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府延長宏福苑居民免費中西醫義診及鑲假牙服務至8月底/){.md-button .hkfd-news-button}
+- [卓永興：最快4月底安排宏福苑7座樓宇居民分批返回單位執拾物品](https://news.rthk.hk/rthk/ch/component/k2/1845234-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845234-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興最快4月底安排宏福苑7座樓宇居民分批返回單位執拾物品/){.md-button .hkfd-news-button}

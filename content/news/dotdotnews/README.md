@@ -472,3 +472,7 @@
 
 ### 2026-02-25
 - [來論｜宏福苑安置方案合情合理　但執行須到位](https://www.dotdotnews.com/a/202602/25/AP699eed5fe4b0c32d4f69d131.html) [Original](https://www.dotdotnews.com/a/202602/25/AP699eed5fe4b0c32d4f69d131.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑安置方案合情合理-但執行須到位/){.md-button .hkfd-news-button}
+
+
+### 2026-02-26
+- [時事英豪｜看新聞學英文《宏福苑大火善後 居民安置進行時》](https://www.dotdotnews.com/a/202602/26/AP699fe050e4b0c32d4f69de0e.html) [Original](https://www.dotdotnews.com/a/202602/26/AP699fe050e4b0c32d4f69de0e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事英豪看新聞學英文宏福苑大火善後-居民安置進行時/){.md-button .hkfd-news-button}

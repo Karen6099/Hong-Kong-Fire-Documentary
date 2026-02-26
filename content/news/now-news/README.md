@@ -1290,3 +1290,10 @@
 - [全方位睇預算｜經濟學者指政府未來預算要審慎　宏福苑居民滿意政府長遠居住安排](https://news.now.com/home/local/player?newsId=637855) [Original](https://news.now.com/home/local/player?newsId=637855){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全方位睇預算經濟學者指政府未來預算要審慎-宏福苑居民滿意政府長遠居住安排/){.md-button .hkfd-news-button}
 - [財政預算案｜預留40億收宏福苑業權　30億制定全新大維修資助計劃](https://news.now.com/home/local/player?newsId=637847) [Original](https://news.now.com/home/local/player?newsId=637847){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預留40億收宏福苑業權-30億制定全新大維修資助計劃/){.md-button .hkfd-news-button}
 - [財政預算案．不斷更新｜財政司司長陳茂波宣讀新一份《財政預算案》](https://news.now.com/home/local/player?newsId=637825) [Original](https://news.now.com/home/local/player?newsId=637825){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案不斷更新財政司司長陳茂波宣讀新一份財政預算案/){.md-button .hkfd-news-button}
+
+
+### 2026-02-26
+- [宏福苑五級火災｜最快4月底可返回單位執拾物品　居民欣喜](https://news.now.com/home/local/player?newsId=638045) [Original](https://news.now.com/home/local/player?newsId=638045){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災最快4月底可返回單位執拾物品-居民欣喜/){.md-button .hkfd-news-button}
+- [宏福苑居民最快4月底可返回單位執拾物品](https://news.now.com/home/local/player?newsId=638043) [Original](https://news.now.com/home/local/player?newsId=638043){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民最快4月底可返回單位執拾物品/){.md-button .hkfd-news-button}
+- [醫衞局延長宏福苑災民免費義診服務至八月底](https://news.now.com/home/local/player?newsId=638012) [Original](https://news.now.com/home/local/player?newsId=638012){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫衞局延長宏福苑災民免費義診服務至八月底/){.md-button .hkfd-news-button}
+- [議員憂預算案留40億元未涵蓋收購宏志閣　黃偉綸：若業主就收購有共識將再向立會申撥款](https://news.now.com/home/local/player?newsId=637978) [Original](https://news.now.com/home/local/player?newsId=637978){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/議員憂預算案留40億元未涵蓋收購宏志閣-黃偉綸若業主就收購有共識將再向立會申撥款/){.md-button .hkfd-news-button}

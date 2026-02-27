@@ -458,3 +458,7 @@
 ### 2026-02-25
 - [Budget 2026: Hong Kong gov’t to earmark HK$4 billion to buy out fire-hit Wang Fuk Court flats](https://hongkongfp.com/?p=555989) [Original](https://hongkongfp.com/?p=555989){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/budget-2026-hong-kong-govt-to-earmark-hk4-billion-to-buy-out-fire-hit-wang-fuk/){.md-button .hkfd-news-button}
 - [Police investigate suspected suicide of officer at Kwun Tong Police Station](https://hongkongfp.com/?p=555970) [Original](https://hongkongfp.com/?p=555970){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/police-investigate-suspected-suicide-of-officer-at-kwun-tong-police-station/){.md-button .hkfd-news-button}
+
+
+### 2026-02-27
+- [Tai Po fire: Wang Fuk Court residents could return home for belongings as early as late April, official says](https://hongkongfp.com/?p=556378) [Original](https://hongkongfp.com/?p=556378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-wang-fuk-court-residents-could-return-home-for-belongings-as-early/){.md-button .hkfd-news-button}

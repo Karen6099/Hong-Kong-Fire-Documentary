@@ -887,3 +887,7 @@
 ### 2026-02-26
 - [宏福苑7座起火樓宇居民　最快4月底上樓收拾物品](https://www.881903.com/news/local/2620621/) [Original](https://www.881903.com/news/local/2620621/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑7座起火樓宇居民-最快4月底上樓收拾物品/){.md-button .hkfd-news-button}
 - [宏福苑災民免費義診服務延長至8月底](https://www.881903.com/news/local/2620601/) [Original](https://www.881903.com/news/local/2620601/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民免費義診服務延長至8月底/){.md-button .hkfd-news-button}
+
+
+### 2026-02-27
+- [卓永興：下月公布宏福苑居民返回單位收拾安排　料部署兩個月](https://www.881903.com/news/local/2620763/) [Original](https://www.881903.com/news/local/2620763/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興下月公布宏福苑居民返回單位收拾安排-料部署兩個月/){.md-button .hkfd-news-button}

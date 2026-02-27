@@ -414,3 +414,47 @@
 
 ### 2026-02-14
 - [Hong Kong journalists face ‘precarious’ future after Jimmy Lai jailed](https://hongkongfp.com/?p=554647) [Original](https://hongkongfp.com/?p=554647){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-journalists-face-precarious-future-after-jimmy-lai-jailed/){.md-button .hkfd-news-button}
+
+
+### 2026-02-17
+- [Hong Kong Free Press Annual Report 2025-6: Our achievements, best coverage, & accounts from the past year](https://hongkongfp.com/?p=552085) [Original](https://hongkongfp.com/?p=552085){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-free-press-annual-report-2025-6-our-achievements-best-coverage/){.md-button .hkfd-news-button}
+
+
+### 2026-02-18
+- [Hong Kong Free Press Transparency Report 2025: See our income and spending from the past year](https://hongkongfp.com/?p=551974) [Original](https://hongkongfp.com/?p=551974){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-free-press-transparency-report-2025-see-our-income-and-spending-from/){.md-button .hkfd-news-button}
+
+
+### 2026-02-20
+- [Funding Q&A: HKFP shrinks, enacts cutbacks to ensure the future of our newsroom](https://hongkongfp.com/?p=555314) [Original](https://hongkongfp.com/?p=555314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/funding-qa-hkfp-shrinks-enacts-cutbacks-to-ensure-the-future-of-our-newsroom/){.md-button .hkfd-news-button}
+- [Gov’t expected to unveil resettlement plan for fire-hit estate Saturday, buyout ‘highly likely’ – reports](https://hongkongfp.com/?p=555247) [Original](https://hongkongfp.com/?p=555247){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-expected-to-unveil-resettlement-plan-for-fire-hit-estate-saturday-buyout/){.md-button .hkfd-news-button}
+- [500 tents at Sai Kung campsites over Lunar New Year exceed gov’t capacity, Greenpeace says](https://hongkongfp.com/?p=555234) [Original](https://hongkongfp.com/?p=555234){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/500-tents-at-sai-kung-campsites-over-lunar-new-year-exceed-govt-capacity/){.md-button .hkfd-news-button}
+
+
+### 2026-02-21
+- [Tai Po fire: Hong Kong gov’t to offer buy-outs for Wang Fuk Court flats](https://hongkongfp.com/?p=555454) [Original](https://hongkongfp.com/?p=555454){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-hong-kong-govt-to-offer-buy-outs-for-wang-fuk-court-flats/){.md-button .hkfd-news-button}
+- [In Pictures: As eviction looms, Hong Kong farmer battles erratic weather for perfect Lunar New Year blooms](https://hongkongfp.com/?p=554830) [Original](https://hongkongfp.com/?p=554830){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/in-pictures-as-eviction-looms-hong-kong-farmer-battles-erratic-weather-for/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [The warming Spring Festival: How climate change erodes cultural tradition](https://hongkongfp.com/?p=555338) [Original](https://hongkongfp.com/?p=555338){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/the-warming-spring-festival-how-climate-change-erodes-cultural-tradition/){.md-button .hkfd-news-button}
+- [‘Gov’t should bear greatest responsibility’: Tai Po fire survivors recall futile whistle-blowing attempts](https://hongkongfp.com/?p=555099) [Original](https://hongkongfp.com/?p=555099){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-should-bear-greatest-responsibility-tai-po-fire-survivors-recall-futile/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [In Pictures: Hong Kong protesters call for ceasefire ahead of Russia-Ukraine war’s 4th anniversary](https://hongkongfp.com/?p=555525) [Original](https://hongkongfp.com/?p=555525){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/in-pictures-hong-kong-protesters-call-for-ceasefire-ahead-of-russia-ukraine/){.md-button .hkfd-news-button}
+
+### 2026-02-23
+- [1,000 CUHK students, staff and alumni petition to reinstate student expelled following nat. sec arrest](https://hongkongfp.com/?p=555645) [Original](https://hongkongfp.com/?p=555645){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/1000-cuhk-students-staff-and-alumni-petition-to-reinstate-student-expelled/){.md-button .hkfd-news-button}
+- [Hong Kong gov’t mulls booking system, fees for tourist camping spots after NGO slams inaction on overcrowding](https://hongkongfp.com/?p=555597) [Original](https://hongkongfp.com/?p=555597){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-mulls-booking-system-fees-for-tourist-camping-spots-after-ngo/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [Budget speech to detail funding plan for HK$6.8b Wang Fuk Court buyouts, Hong Kong official says](https://hongkongfp.com/?p=555788) [Original](https://hongkongfp.com/?p=555788){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/budget-speech-to-detail-funding-plan-for-hk68b-wang-fuk-court-buyouts-hong-kong/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [Hong Kong mulls law amendment to boost building fire safety after fatal Tai Po fire](https://hongkongfp.com/?p=555881) [Original](https://hongkongfp.com/?p=555881){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-mulls-law-amendment-to-boost-building-fire-safety-after-fatal-tai-po/){.md-button .hkfd-news-button}
+
+### 2026-02-25
+- [Budget 2026: Hong Kong gov’t to earmark HK$4 billion to buy out fire-hit Wang Fuk Court flats](https://hongkongfp.com/?p=555989) [Original](https://hongkongfp.com/?p=555989){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/budget-2026-hong-kong-govt-to-earmark-hk4-billion-to-buy-out-fire-hit-wang-fuk/){.md-button .hkfd-news-button}
+- [Police investigate suspected suicide of officer at Kwun Tong Police Station](https://hongkongfp.com/?p=555970) [Original](https://hongkongfp.com/?p=555970){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/police-investigate-suspected-suicide-of-officer-at-kwun-tong-police-station/){.md-button .hkfd-news-button}

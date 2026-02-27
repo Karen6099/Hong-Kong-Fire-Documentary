@@ -830,3 +830,60 @@
 - [再有區議員涉違泊　麥美娟：將再三提醒區議員謹言慎行](https://www.881903.com/news/local/2619068/) [Original](https://www.881903.com/news/local/2619068/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/再有區議員涉違泊-麥美娟將再三提醒區議員謹言慎行/){.md-button .hkfd-news-button}
 - [李家超探訪宏福苑災民　指住宿安排工作組新年不可停頓工作](https://www.881903.com/news/local/2619062/) [Original](https://www.881903.com/news/local/2619062/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超探訪宏福苑災民-指住宿安排工作組新年不可停頓工作/){.md-button .hkfd-news-button}
 - [多一名宏福苑傷者出院　仍有一人留院](https://www.881903.com/news/local/2619022/) [Original](https://www.881903.com/news/local/2619022/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/多一名宏福苑傷者出院-仍有一人留院/){.md-button .hkfd-news-button}
+
+
+### 2026-02-16
+- [林智遠：所有涉宏福苑火災部門都可能受審計](https://www.881903.com/news/local/2619380/) [Original](https://www.881903.com/news/local/2619380/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林智遠所有涉宏福苑火災部門都可能受審計/){.md-button .hkfd-news-button}
+
+
+### 2026-02-16
+- [宏福苑火災獨立委員會委任2名專家  提交報告及意見](https://www.881903.com/news/local/2619515/) [Original](https://www.881903.com/news/local/2619515/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會委任2名專家-提交報告及意見/){.md-button .hkfd-news-button}
+
+
+### 2026-02-20
+- [宏福苑長遠安置方案最快周六公布　政府收購價或高於市價](https://www.881903.com/news/local/2619855/) [Original](https://www.881903.com/news/local/2619855/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置方案最快周六公布-政府收購價或高於市價/){.md-button .hkfd-news-button}
+- [宏福苑維修承建商宏業棄任註册承建商　屋宇署：不減法律責任](https://www.881903.com/news/local/2619870/) [Original](https://www.881903.com/news/local/2619870/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑維修承建商宏業棄任註册承建商-屋宇署不減法律責任/){.md-button .hkfd-news-button}
+- [甯漢豪專訪｜加強版招標妥更著重資歷和質素　冀中小型承建商列預審名單](https://www.881903.com/news/local/2619769/) [Original](https://www.881903.com/news/local/2619769/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪專訪加強版招標妥更著重資歷和質素-冀中小型承建商列預審名單/){.md-button .hkfd-news-button}
+
+
+### 2026-02-21
+- [宏福苑大火｜74%業主考慮接受收購業權　收購呎價8000或10500元](https://www.881903.com/news/local/2619952/) [Original](https://www.881903.com/news/local/2619952/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火74業主考慮接受收購業權-收購呎價8000或10500元/){.md-button .hkfd-news-button}
+- [宏福苑大火｜梁文廣促政府盡快尋求宏志閣居民共識](https://www.881903.com/news/local/2619981/) [Original](https://www.881903.com/news/local/2619981/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火梁文廣促政府盡快尋求宏志閣居民共識/){.md-button .hkfd-news-button}
+- [宏福苑大火丨麥美娟：料宏志閣居民最快3至4個月後才能重返單位](https://www.881903.com/news/local/2619979/) [Original](https://www.881903.com/news/local/2619979/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火丨麥美娟料宏志閣居民最快3至4個月後才能重返單位/){.md-button .hkfd-news-button}
+- [宏福苑大火丨甯漢豪：收購業權是以恩恤方式協助業主](https://www.881903.com/news/local/2619970/) [Original](https://www.881903.com/news/local/2619970/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火丨甯漢豪收購業權是以恩恤方式協助業主/){.md-button .hkfd-news-button}
+- [宏福苑大火｜受災單位需拆卸不原址重建　收購業權不包括宏志閣](https://www.881903.com/news/local/2619955/) [Original](https://www.881903.com/news/local/2619955/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火受災單位需拆卸不原址重建-收購業權不包括宏志閣/){.md-button .hkfd-news-button}
+- [政府下午3時召開記者會　公布宏福苑安置方案](https://www.881903.com/news/local/2619946/) [Original](https://www.881903.com/news/local/2619946/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府下午3時召開記者會-公布宏福苑安置方案/){.md-button .hkfd-news-button}
+- [孫玉菡專訪｜「一戶一社工」服務不設時限　料服務頻率隨需要自然調整](https://www.881903.com/news/local/2619768/) [Original](https://www.881903.com/news/local/2619768/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡專訪一戶一社工服務不設時限-料服務頻率隨需要自然調整/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [宏福苑安置丨黃偉綸：重建1幢或7幢耗時沒分別](https://www.881903.com/news/local/2620024/) [Original](https://www.881903.com/news/local/2620024/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置丨黃偉綸重建1幢或7幢耗時沒分別/){.md-button .hkfd-news-button}
+- [田北辰：若宏福苑居民堅持原址重建   政府應盡力做](https://www.881903.com/news/local/2620022/) [Original](https://www.881903.com/news/local/2620022/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/田北辰若宏福苑居民堅持原址重建-政府應盡力做/){.md-button .hkfd-news-button}
+- [宏福苑大火｜測量師學會︰收購價已有恩恤補貼　料原址重建須27億](https://www.881903.com/news/local/2620004/) [Original](https://www.881903.com/news/local/2620004/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火測量師學會收購價已有恩恤補貼-料原址重建須27億/){.md-button .hkfd-news-button}
+- [宏褔苑大火｜黃偉綸：增收購價屬人性化　否認以公帑填補責任](https://www.881903.com/news/local/2620001/) [Original](https://www.881903.com/news/local/2620001/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏褔苑大火黃偉綸增收購價屬人性化-否認以公帑填補責任/){.md-button .hkfd-news-button}
+
+
+### 2026-02-23
+- [麥美娟：宏福苑業主若選樓換樓　可獲租金補助至入伙](https://www.881903.com/news/local/2620148/) [Original](https://www.881903.com/news/local/2620148/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟宏福苑業主若選樓換樓-可獲租金補助至入伙/){.md-button .hkfd-news-button}
+- [黃偉綸：宏志閣一半業主達共識可商政府收購   但落實需另定門檻](https://www.881903.com/news/local/2620141/) [Original](https://www.881903.com/news/local/2620141/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏志閣一半業主達共識可商政府收購-但落實需另定門檻/){.md-button .hkfd-news-button}
+- [黃偉綸：宏福苑長遠居住方案有吸引力](https://www.881903.com/news/local/2620071/) [Original](https://www.881903.com/news/local/2620071/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑長遠居住方案有吸引力/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [消防處料4至5月　向立法會簡介修訂消防相關條例](https://www.881903.com/news/local/2620253/) [Original](https://www.881903.com/news/local/2620253/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處料4至5月-向立法會簡介修訂消防相關條例/){.md-button .hkfd-news-button}
+- [有宏志閣居民已租其他單位　黃偉綸：繼續發放補貼](https://www.881903.com/news/local/2620212/) [Original](https://www.881903.com/news/local/2620212/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有宏志閣居民已租其他單位-黃偉綸繼續發放補貼/){.md-button .hkfd-news-button}
+- [勞工處長許澤森專訪｜地盤物料非巡查重點　跟進宏業欠薪](https://www.881903.com/news/local/2620172/) [Original](https://www.881903.com/news/local/2620172/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/勞工處長許澤森專訪地盤物料非巡查重點-跟進宏業欠薪/){.md-button .hkfd-news-button}
+
+
+### 2026-02-25
+- [政府將助聘宏福苑顧問鴻毅的屋苑　免費重新招標](https://www.881903.com/news/local/2620468/) [Original](https://www.881903.com/news/local/2620468/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府將助聘宏福苑顧問鴻毅的屋苑-免費重新招標/){.md-button .hkfd-news-button}
+- [工聯會：預算案提振信心對接規劃](https://www.881903.com/news/local/2620439/) [Original](https://www.881903.com/news/local/2620439/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工聯會預算案提振信心對接規劃/){.md-button .hkfd-news-button}
+- [宏福苑安置｜消息：樓換樓入伙前租金津貼　不使用公帑](https://www.881903.com/news/local/2620433/) [Original](https://www.881903.com/news/local/2620433/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置消息樓換樓入伙前租金津貼-不使用公帑/){.md-button .hkfd-news-button}
+- [政府：若將宏志閣納入收購　須增撥10億元](https://www.881903.com/news/local/2620431/) [Original](https://www.881903.com/news/local/2620431/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府若將宏志閣納入收購-須增撥10億元/){.md-button .hkfd-news-button}
+- [預算案｜預留40億處理宏福苑長遠居住安排](https://www.881903.com/news/local/2620385/) [Original](https://www.881903.com/news/local/2620385/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/預算案預留40億處理宏福苑長遠居住安排/){.md-button .hkfd-news-button}
+- [新民黨：預算案派糖力度温和　市民感覺屬「低糖」](https://www.881903.com/news/local/2620405/) [Original](https://www.881903.com/news/local/2620405/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新民黨預算案派糖力度温和-市民感覺屬低糖/){.md-button .hkfd-news-button}
+
+
+### 2026-02-26
+- [宏福苑7座起火樓宇居民　最快4月底上樓收拾物品](https://www.881903.com/news/local/2620621/) [Original](https://www.881903.com/news/local/2620621/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑7座起火樓宇居民-最快4月底上樓收拾物品/){.md-button .hkfd-news-button}
+- [宏福苑災民免費義診服務延長至8月底](https://www.881903.com/news/local/2620601/) [Original](https://www.881903.com/news/local/2620601/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民免費義診服務延長至8月底/){.md-button .hkfd-news-button}

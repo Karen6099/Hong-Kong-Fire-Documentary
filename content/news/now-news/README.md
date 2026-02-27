@@ -1216,3 +1216,84 @@
 
 ### 2026-02-14
 - [中大生發起宏福苑聯署被捕　稱遭開除學籍校方不評論](https://news.now.com/home/local/player?newsId=636762) [Original](https://news.now.com/home/local/player?newsId=636762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中大生發起宏福苑聯署被捕-稱遭開除學籍校方不評論/){.md-button .hkfd-news-button}
+
+
+### 2026-02-16
+- [大埔浸信會公立學校新學年用前基正小學校舍　將還原原有校舍設計](https://news.now.com/home/local/player?newsId=636939) [Original](https://news.now.com/home/local/player?newsId=636939){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔浸信會公立學校新學年用前基正小學校舍-將還原原有校舍設計/){.md-button .hkfd-news-button}
+- [廣福街市商戶料新年無助生意增長　豬肉檔賣鳳爪幫補收入](https://news.now.com/home/local/player?newsId=636901) [Original](https://news.now.com/home/local/player?newsId=636901){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/廣福街市商戶料新年無助生意增長-豬肉檔賣鳳爪幫補收入/){.md-button .hkfd-news-button}
+- [歲晚宏福苑居民聚舊　新年願望：當局盡快公布安置方案並解封單位](https://news.now.com/home/local/player?newsId=636898) [Original](https://news.now.com/home/local/player?newsId=636898){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/歲晚宏福苑居民聚舊-新年願望當局盡快公布安置方案並解封單位/){.md-button .hkfd-news-button}
+- [晨早新聞重點｜葵涌邨夏葵樓凌晨恢復供電／廣福街市商戶冀商場再酌情減租](https://news.now.com/home/local/player?newsId=636896) [Original](https://news.now.com/home/local/player?newsId=636896){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點葵涌邨夏葵樓凌晨恢復供電廣福街市商戶冀商場再酌情減租/){.md-button .hkfd-news-button}
+
+
+### 2026-02-20
+- [宏福苑五級火災｜據悉政府周六公布長遠安置方案　收購呎價增至八千至逾一萬元](https://news.now.com/home/local/player?newsId=637314) [Original](https://news.now.com/home/local/player?newsId=637314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災據悉政府周六公布長遠安置方案-收購呎價增至八千至逾一萬元/){.md-button .hkfd-news-button}
+- [即日焦點｜據悉政府周六公布宏福苑長遠安置方案／兩億新春金多寶周六晚攪珠](https://news.now.com/home/local/player?newsId=637378) [Original](https://news.now.com/home/local/player?newsId=637378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點據悉政府周六公布宏福苑長遠安置方案兩億新春金多寶周六晚攪珠/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜宏業建築承建商名冊除名　屋宇署：不能免除任何法律責任](https://news.now.com/home/local/player?newsId=637351) [Original](https://news.now.com/home/local/player?newsId=637351){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏業建築承建商名冊除名-屋宇署不能免除任何法律責任/){.md-button .hkfd-news-button}
+
+
+### 2026-02-21
+- [宏福苑長遠居住安排｜40億公帑收購業權　居民可選特設銷售計劃樓換樓](https://news.now.com/home/local/player?newsId=637447) [Original](https://news.now.com/home/local/player?newsId=637447){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排40億公帑收購業權-居民可選特設銷售計劃樓換樓/){.md-button .hkfd-news-button}
+- [即日焦點｜宏福苑長遠居住安排方案公布／美國最高法院裁定特朗普關稅政策不合法](https://news.now.com/home/local/player?newsId=637459) [Original](https://news.now.com/home/local/player?newsId=637459){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點宏福苑長遠居住安排方案公布美國最高法院裁定特朗普關稅政策不合法/){.md-button .hkfd-news-button}
+- [甯漢豪：宏福苑情況與引用收回土地條例明顯不同](https://news.now.com/home/local/player?newsId=637458) [Original](https://news.now.com/home/local/player?newsId=637458){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪宏福苑情況與引用收回土地條例明顯不同/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜收購方案不包括宏志閣　業主須達高度共識再探討](https://news.now.com/home/local/player?newsId=637449) [Original](https://news.now.com/home/local/player?newsId=637449){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排收購方案不包括宏志閣-業主須達高度共識再探討/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜宏昌閣居民憂收購價未能買到同類型單位　測量師指政府出價高於市價](https://news.now.com/home/local/player?newsId=637448) [Original](https://news.now.com/home/local/player?newsId=637448){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排宏昌閣居民憂收購價未能買到同類型單位-測量師指政府出價高於市價/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜測量師學會指政府收購價合理　讓災民尋新家園](https://news.now.com/home/local/player?newsId=637441) [Original](https://news.now.com/home/local/player?newsId=637441){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排測量師學會指政府收購價合理-讓災民尋新家園/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜收購業權方案現階段不包括宏志閣　須業主達高度共識再探討](https://news.now.com/home/local/player?newsId=637437) [Original](https://news.now.com/home/local/player?newsId=637437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排收購業權方案現階段不包括宏志閣-須業主達高度共識再探討/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜收購方案不包括宏志閣　有居民憂遷回居住屬假希望](https://news.now.com/home/local/player?newsId=637436) [Original](https://news.now.com/home/local/player?newsId=637436){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排收購方案不包括宏志閣-有居民憂遷回居住屬假希望/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜黃偉綸：9%業主只接受原址重建　政府傾向原址改建成公園或社區設施](https://news.now.com/home/local/player?newsId=637435) [Original](https://news.now.com/home/local/player?newsId=637435){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排黃偉綸9業主只接受原址重建-政府傾向原址改建成公園或社區設施/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜政府收購七座大廈不包宏志閣　呎價8000及10500元　料涉40億元公帑](https://news.now.com/home/local/player?newsId=637434) [Original](https://news.now.com/home/local/player?newsId=637434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排政府收購七座大廈不包宏志閣-呎價8000及10500元-料涉40億元公帑/){.md-button .hkfd-news-button}
+- [政府下午舉行記者會　公布宏福苑長遠居住方案](https://news.now.com/home/local/player?newsId=637431) [Original](https://news.now.com/home/local/player?newsId=637431){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府下午舉行記者會-公布宏福苑長遠居住方案/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [大鳴大放｜宏福苑長遠居住安排方案(二)](https://news.now.com/home/local/player?newsId=637485) [Original](https://news.now.com/home/local/player?newsId=637485){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放宏福苑長遠居住安排方案二/){.md-button .hkfd-news-button}
+- [大鳴大放｜宏福苑長遠居住安排方案(一)](https://news.now.com/home/local/player?newsId=637484) [Original](https://news.now.com/home/local/player?newsId=637484){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放宏福苑長遠居住安排方案一/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜保險業聯會：政府收購業權宏福苑居民個別買的家居保索權不受影響](https://news.now.com/home/local/player?newsId=637498) [Original](https://news.now.com/home/local/player?newsId=637498){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會政府收購業權宏福苑居民個別買的家居保索權不受影響/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜保險業聯會：個別購買的家居保險索權不受影響](https://news.now.com/home/local/player?newsId=637488) [Original](https://news.now.com/home/local/player?newsId=637488){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會個別購買的家居保險索權不受影響/){.md-button .hkfd-news-button}
+- [黃偉綸︰續提供租金補助至宏福苑居民遷入資助房屋　何永賢︰專門解說隊跟進居民問題](https://news.now.com/home/local/player?newsId=637467) [Original](https://news.now.com/home/local/player?newsId=637467){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸續提供租金補助至宏福苑居民遷入資助房屋-何永賢專門解說隊跟進居民問題/){.md-button .hkfd-news-button}
+
+
+### 2026-02-22
+- [即日焦點｜外遊市民陸續回港／特朗普將全球關稅稅率上調至15%](https://news.now.com/home/local/player?newsId=637530) [Original](https://news.now.com/home/local/player?newsId=637530){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點外遊市民陸續回港特朗普將全球關稅稅率上調至15/){.md-button .hkfd-news-button}
+
+### 2026-02-23
+- [宏福苑長遠居住安排｜議員擔心釘子戶　黃偉綸稱會人性化處理](https://news.now.com/home/local/player?newsId=637652) [Original](https://news.now.com/home/local/player?newsId=637652){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排議員擔心釘子戶-黃偉綸稱會人性化處理/){.md-button .hkfd-news-button}
+- [宏志閣獨立成為屋苑要有新公契　麥美娟稱法律問題複雜](https://news.now.com/home/local/player?newsId=637661) [Original](https://news.now.com/home/local/player?newsId=637661){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏志閣獨立成為屋苑要有新公契-麥美娟稱法律問題複雜/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排｜麥美娟：若居民接受政府方案　可獲延長租金補貼](https://news.now.com/home/local/player?newsId=637653) [Original](https://news.now.com/home/local/player?newsId=637653){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排麥美娟若居民接受政府方案-可獲延長租金補貼/){.md-button .hkfd-news-button}
+- [宏福苑業主如若分戶買兩個單位　當局稱不排除可能性](https://news.now.com/home/local/player?newsId=637646) [Original](https://news.now.com/home/local/player?newsId=637646){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑業主如若分戶買兩個單位-當局稱不排除可能性/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠居住安排(二) ](https://news.now.com/home/local/player?newsId=637556) [Original](https://news.now.com/home/local/player?newsId=637556){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排二/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠居住安排(一) ](https://news.now.com/home/local/player?newsId=637555) [Original](https://news.now.com/home/local/player?newsId=637555){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排一/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排懶人包　各方案選項及時間表一文睇晒](https://news.now.com/home/local/player?newsId=637571) [Original](https://news.now.com/home/local/player?newsId=637571){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排懶人包-各方案選項及時間表一文睇晒/){.md-button .hkfd-news-button}
+- [宏福苑長遠安置｜黃偉綸：需處理法律問題才能讓居民回宏志閣住](https://news.now.com/home/local/player?newsId=637585) [Original](https://news.now.com/home/local/player?newsId=637585){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置黃偉綸需處理法律問題才能讓居民回宏志閣住/){.md-button .hkfd-news-button}
+- [採訪日誌｜中大醫學院春茗／立法會討論宏福苑居民長遠居住安排](https://news.now.com/home/local/player?newsId=637541) [Original](https://news.now.com/home/local/player?newsId=637541){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌中大醫學院春茗立法會討論宏福苑居民長遠居住安排/){.md-button .hkfd-news-button}
+
+
+### 2026-02-23
+- [即日焦點｜35+顛覆政權案上訴全數駁回／黃偉綸稱人性化處理宏福苑業權](https://news.now.com/home/local/player?newsId=637665) [Original](https://news.now.com/home/local/player?newsId=637665){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點35顛覆政權案上訴全數駁回黃偉綸稱人性化處理宏福苑業權/){.md-button .hkfd-news-button}
+
+### 2026-02-24
+- [宏福苑五級火災｜消防處派員出席獨立委員會聽證會　楊恩健︰為火警尋一些真相](https://news.now.com/home/local/player?newsId=637762) [Original](https://news.now.com/home/local/player?newsId=637762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處派員出席獨立委員會聽證會-楊恩健為火警尋一些真相/){.md-button .hkfd-news-button}
+- [楊恩健：承傳殉職消防隊目何偉豪義無反顧精神　全力守護市民生命財產](https://news.now.com/home/local/player?newsId=637750) [Original](https://news.now.com/home/local/player?newsId=637750){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/楊恩健承傳殉職消防隊目何偉豪義無反顧精神-全力守護市民生命財產/){.md-button .hkfd-news-button}
+- [第一期關愛隊服務全部達標完成　麥美娟：成績有目共睹](https://news.now.com/home/local/player?newsId=637744) [Original](https://news.now.com/home/local/player?newsId=637744){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/第一期關愛隊服務全部達標完成-麥美娟成績有目共睹/){.md-button .hkfd-news-button}
+- [何永賢：3900單位供宏福苑居民選擇　已平衡整體市場　料對私樓市場影響有限](https://news.now.com/home/local/player?newsId=637715) [Original](https://news.now.com/home/local/player?newsId=637715){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢3900單位供宏福苑居民選擇-已平衡整體市場-料對私樓市場影響有限/){.md-button .hkfd-news-button}
+- [黃偉綸：倘宏福苑業主不出售業權　屆時再研究立法處理　預算案已預留撥款](https://news.now.com/home/local/player?newsId=637693) [Original](https://news.now.com/home/local/player?newsId=637693){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸倘宏福苑業主不出售業權-屆時再研究立法處理-預算案已預留撥款/){.md-button .hkfd-news-button}
+
+
+### 2026-02-24
+- [即日焦點｜據悉預算案預留款項為公務員加薪／中方將20家日本實體列入出口管制管控名單](https://news.now.com/home/local/player?newsId=637788) [Original](https://news.now.com/home/local/player?newsId=637788){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點據悉預算案預留款項為公務員加薪中方將20家日本實體列入出口管制管控名單/){.md-button .hkfd-news-button}
+
+### 2026-02-25
+- [宏福苑居民聯署公開信　望政府盡快讓他們返回單位執拾](https://news.now.com/home/local/player?newsId=637912) [Original](https://news.now.com/home/local/player?newsId=637912){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民聯署公開信-望政府盡快讓他們返回單位執拾/){.md-button .hkfd-news-button}
+- [財政預算案｜預留40億收宏福苑業權　3億推加強版招標妥](https://news.now.com/home/local/player?newsId=637899) [Original](https://news.now.com/home/local/player?newsId=637899){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預留40億收宏福苑業權-3億推加強版招標妥/){.md-button .hkfd-news-button}
+- [財政預算案｜吳傑莊對未提夜間消費券感失望　新民黨工聯會稱理解政府決定](https://news.now.com/home/local/player?newsId=637874) [Original](https://news.now.com/home/local/player?newsId=637874){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案吳傑莊對未提夜間消費券感失望-新民黨工聯會稱理解政府決定/){.md-button .hkfd-news-button}
+- [全方位睇預算｜管浩鳴指預留40億元用作宏福苑長遠居住安排適合　對社福部分感失望](https://news.now.com/home/local/player?newsId=637856) [Original](https://news.now.com/home/local/player?newsId=637856){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全方位睇預算管浩鳴指預留40億元用作宏福苑長遠居住安排適合-對社福部分感失望/){.md-button .hkfd-news-button}
+- [全方位睇預算｜經濟學者指政府未來預算要審慎　宏福苑居民滿意政府長遠居住安排](https://news.now.com/home/local/player?newsId=637855) [Original](https://news.now.com/home/local/player?newsId=637855){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全方位睇預算經濟學者指政府未來預算要審慎-宏福苑居民滿意政府長遠居住安排/){.md-button .hkfd-news-button}
+- [財政預算案｜預留40億收宏福苑業權　30億制定全新大維修資助計劃](https://news.now.com/home/local/player?newsId=637847) [Original](https://news.now.com/home/local/player?newsId=637847){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預留40億收宏福苑業權-30億制定全新大維修資助計劃/){.md-button .hkfd-news-button}
+- [財政預算案．不斷更新｜財政司司長陳茂波宣讀新一份《財政預算案》](https://news.now.com/home/local/player?newsId=637825) [Original](https://news.now.com/home/local/player?newsId=637825){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案不斷更新財政司司長陳茂波宣讀新一份財政預算案/){.md-button .hkfd-news-button}
+
+
+### 2026-02-26
+- [宏福苑五級火災｜最快4月底可返回單位執拾物品　居民欣喜](https://news.now.com/home/local/player?newsId=638045) [Original](https://news.now.com/home/local/player?newsId=638045){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災最快4月底可返回單位執拾物品-居民欣喜/){.md-button .hkfd-news-button}
+- [宏福苑居民最快4月底可返回單位執拾物品](https://news.now.com/home/local/player?newsId=638043) [Original](https://news.now.com/home/local/player?newsId=638043){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民最快4月底可返回單位執拾物品/){.md-button .hkfd-news-button}
+- [醫衞局延長宏福苑災民免費義診服務至八月底](https://news.now.com/home/local/player?newsId=638012) [Original](https://news.now.com/home/local/player?newsId=638012){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫衞局延長宏福苑災民免費義診服務至八月底/){.md-button .hkfd-news-button}
+- [議員憂預算案留40億元未涵蓋收購宏志閣　黃偉綸：若業主就收購有共識將再向立會申撥款](https://news.now.com/home/local/player?newsId=637978) [Original](https://news.now.com/home/local/player?newsId=637978){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/議員憂預算案留40億元未涵蓋收購宏志閣-黃偉綸若業主就收購有共識將再向立會申撥款/){.md-button .hkfd-news-button}

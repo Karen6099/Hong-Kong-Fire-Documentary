@@ -135,7 +135,7 @@ async def _scrape_async():
                             if any(ex in headline for ex in excluded_terms):
                                 continue
 
-                            keywords = ["Tai Po", "Wang Fuk", "Kwong Fuk", "fire", "blaze", "inferno"]
+                            keywords = ["Wang Fuk"]
                             if not any(k.lower() in headline.lower() for k in keywords):
                                 continue
 

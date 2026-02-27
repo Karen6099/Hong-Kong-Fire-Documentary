@@ -33,3 +33,7 @@
 
 ### 2025-12-31T17:57:08Z
 - [Hong Kong celebrates New Year's without fireworks after fire tragedy that left 161 dead in November](https://news.sky.com/video/hong-kong-celebrates-new-years-without-fireworks-after-fire-tragedy-that-left-161-dead-in-november-13489100) [Original](https://news.sky.com/video/hong-kong-celebrates-new-years-without-fireworks-after-fire-tragedy-that-left-161-dead-in-november-13489100){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-celebrates-new-years-without-fireworks-after-fire-tragedy-that-left/){.md-button .hkfd-news-button}
+
+
+### 2026-02-23T11:01:00Z
+- [Convictions of pro-democracy activists upheld in Hong Kong](https://news.sky.com/story/convictions-of-pro-democracy-activists-upheld-in-hong-kong-13511108) [Original](https://news.sky.com/story/convictions-of-pro-democracy-activists-upheld-in-hong-kong-13511108){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/convictions-of-pro-democracy-activists-upheld-in-hong-kong/){.md-button .hkfd-news-button}

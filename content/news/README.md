@@ -30,6 +30,9 @@
 - [**TVBS新聞 (TVBS News)**](tvbs/README.md)
 - [**Pulse News**](pulse-news/README.md)
 - [**透視報 (True Report)**](true-report/README.md)
+- [**Yahoo HK News**](yahoo-news-hk/README.md)
+- [**端傳媒 (The Initium)**](the-initium/README.md)
+- [**報導者 (The Reporter)**](twreporter/README.md)
 
 ## 國際媒體 (International Media)
 

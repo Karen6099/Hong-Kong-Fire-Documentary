@@ -78,3 +78,19 @@
 
 ### 2026年02月13日
 - [香港世紀大火｜曾提「四大訴求」被捕  中大學生關靖豐遭踢出校 中大回應：按紀律程序處理](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e6%9b%be%e6%8f%90%e3%80%8c%e5%9b%9b%e5%a4%a7%e8%a8%b4%e6%b1%82%e3%80%8d%e8%a2%ab%e6%8d%95-%e4%b8%ad%e5%a4%a7%e5%ad%b8%e7%94%9f%e9%97%9c/) [Original](https://points-media.com/%e6%94%bf%e6%b2%bb/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e6%9b%be%e6%8f%90%e3%80%8c%e5%9b%9b%e5%a4%a7%e8%a8%b4%e6%b1%82%e3%80%8d%e8%a2%ab%e6%8d%95-%e4%b8%ad%e5%a4%a7%e5%ad%b8%e7%94%9f%e9%97%9c/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火曾提四大訴求被捕-中大學生關靖豐遭踢出校-中大回應按紀律程序處理/){.md-button .hkfd-news-button}
+
+
+### 2026年02月18日
+- [香港世紀大火｜網上聯署促恢復關靖豐學籍 發起人批中大「政治凌駕教育」](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%b6%b2%e4%b8%8a%e8%81%af%e7%bd%b2%e4%bf%83%e6%81%a2%e5%be%a9%e9%97%9c%e9%9d%96%e8%b1%90%e5%ad%b8%e7%b1%8d-%e7%99%bc%e8%b5%b7%e4%ba%ba/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%b6%b2%e4%b8%8a%e8%81%af%e7%bd%b2%e4%bf%83%e6%81%a2%e5%be%a9%e9%97%9c%e9%9d%96%e8%b1%90%e5%ad%b8%e7%b1%8d-%e7%99%bc%e8%b5%b7%e4%ba%ba/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火網上聯署促恢復關靖豐學籍-發起人批中大政治凌駕教育/){.md-button .hkfd-news-button}
+
+
+### 2026年02月18日
+- [香港世紀大火｜網上聯署逾1,700人促中大恢復關靖豐學籍 關靖豐：過年心情未受影響](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%b6%b2%e4%b8%8a%e8%81%af%e7%bd%b2%e9%80%be1700%e4%ba%ba%e4%bf%83%e4%b8%ad%e5%a4%a7%e6%81%a2%e5%be%a9%e9%97%9c%e9%9d%96%e8%b1%90/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%b6%b2%e4%b8%8a%e8%81%af%e7%bd%b2%e9%80%be1700%e4%ba%ba%e4%bf%83%e4%b8%ad%e5%a4%a7%e6%81%a2%e5%be%a9%e9%97%9c%e9%9d%96%e8%b1%90/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火網上聯署逾1700人促中大恢復關靖豐學籍-關靖豐過年心情未受影響/){.md-button .hkfd-news-button}
+
+
+### 2026年02月21日
+- [香港世紀大火｜關靖豐被取消學籍 中大人發聯署促撤處分 質疑聆訊程序公義](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e9%97%9c%e9%9d%96%e8%b1%90%e8%a2%ab%e5%8f%96%e6%b6%88%e5%ad%b8%e7%b1%8d%e5%86%8d%e6%8e%80%e7%88%ad%e8%ad%b0-%e4%b8%ad%e5%a4%a7%e4%ba%ba/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e9%97%9c%e9%9d%96%e8%b1%90%e8%a2%ab%e5%8f%96%e6%b6%88%e5%ad%b8%e7%b1%8d%e5%86%8d%e6%8e%80%e7%88%ad%e8%ad%b0-%e4%b8%ad%e5%a4%a7%e4%ba%ba/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火關靖豐被取消學籍-中大人發聯署促撤處分-質疑聆訊程序公義/){.md-button .hkfd-news-button}
+
+
+### 2026年02月24日
+- [香港世紀大火｜居英港人促劍橋撤盧煜明榮譽學位提名 批中大開除關靖豐違背校訓「啟蒙與智慧之源」](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%b1%85%e8%8b%b1%e6%b8%af%e4%ba%ba%e4%bf%83%e5%8a%8d%e6%a9%8b%e6%92%a4%e7%9b%a7%e7%85%9c%e6%98%8e%e6%a6%ae%e8%ad%bd%e5%ad%b8%e4%bd%8d/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%b1%85%e8%8b%b1%e6%b8%af%e4%ba%ba%e4%bf%83%e5%8a%8d%e6%a9%8b%e6%92%a4%e7%9b%a7%e7%85%9c%e6%98%8e%e6%a6%ae%e8%ad%bd%e5%ad%b8%e4%bd%8d/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火居英港人促劍橋撤盧煜明榮譽學位提名-批中大開除關靖豐違背校訓啟蒙與智慧之源/){.md-button .hkfd-news-button}

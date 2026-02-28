@@ -462,3 +462,7 @@
 
 ### 2026-02-27
 - [Tai Po fire: Wang Fuk Court residents could return home for belongings as early as late April, official says](https://hongkongfp.com/?p=556378) [Original](https://hongkongfp.com/?p=556378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-wang-fuk-court-residents-could-return-home-for-belongings-as-early/){.md-button .hkfd-news-button}
+
+
+### 2026-02-28
+- [Miles Kwan saga: Are our universities too willing to sacrifice students to the gods of political correctness?](https://hongkongfp.com/?p=555988) [Original](https://hongkongfp.com/?p=555988){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/miles-kwan-saga-are-our-universities-too-willing-to-sacrifice-students-to-the/){.md-button .hkfd-news-button}

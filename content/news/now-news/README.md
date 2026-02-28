@@ -1307,3 +1307,8 @@
 - [即日焦點｜陳茂波專訪稱冀公私營投資北都各佔半／野豬闖烏溪沙站撞到途人](https://news.now.com/home/local/player?newsId=638173) [Original](https://news.now.com/home/local/player?newsId=638173){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點陳茂波專訪稱冀公私營投資北都各佔半野豬闖烏溪沙站撞到途人/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜災民約2個月後可回家執拾　卓永興：要準備斷捨離](https://news.now.com/home/local/player?newsId=638139) [Original](https://news.now.com/home/local/player?newsId=638139){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災災民約2個月後可回家執拾-卓永興要準備斷捨離/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜卓永興指最快約2個月後安排災民回家執拾物品](https://news.now.com/home/local/player?newsId=638134) [Original](https://news.now.com/home/local/player?newsId=638134){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災卓永興指最快約2個月後安排災民回家執拾物品/){.md-button .hkfd-news-button}
+
+
+### 2026-02-28
+- [宏福苑五級火災｜當局擬准災民回家執拾　何啟明：存一定難度需跨部門商討](https://news.now.com/home/local/player?newsId=638239) [Original](https://news.now.com/home/local/player?newsId=638239){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災當局擬准災民回家執拾-何啟明存一定難度需跨部門商討/){.md-button .hkfd-news-button}
+- [有團體舉辦盆菜宴招待宏福苑居民　居民冀早日回家執拾重要物品](https://news.now.com/home/local/player?newsId=638230) [Original](https://news.now.com/home/local/player?newsId=638230){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有團體舉辦盆菜宴招待宏福苑居民-居民冀早日回家執拾重要物品/){.md-button .hkfd-news-button}

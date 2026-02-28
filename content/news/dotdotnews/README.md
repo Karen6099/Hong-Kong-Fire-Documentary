@@ -476,3 +476,7 @@
 
 ### 2026-02-26
 - [時事英豪｜看新聞學英文《宏福苑大火善後 居民安置進行時》](https://www.dotdotnews.com/a/202602/26/AP699fe050e4b0c32d4f69de0e.html) [Original](https://www.dotdotnews.com/a/202602/26/AP699fe050e4b0c32d4f69de0e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事英豪看新聞學英文宏福苑大火善後-居民安置進行時/){.md-button .hkfd-news-button}
+
+
+### 2026-02-28
+- [來論｜宏福苑安置選擇多元細膩　彰顯政府治理溫度與力度](https://www.dotdotnews.com/a/202602/28/AP69a2a5b1e4b0c32d4f6a1602.html) [Original](https://www.dotdotnews.com/a/202602/28/AP69a2a5b1e4b0c32d4f6a1602.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑安置選擇多元細膩-彰顯政府治理溫度與力度/){.md-button .hkfd-news-button}

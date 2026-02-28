@@ -891,3 +891,8 @@
 
 ### 2026-02-27
 - [卓永興：下月公布宏福苑居民返回單位收拾安排　料部署兩個月](https://www.881903.com/news/local/2620763/) [Original](https://www.881903.com/news/local/2620763/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興下月公布宏福苑居民返回單位收拾安排-料部署兩個月/){.md-button .hkfd-news-button}
+
+
+### 2026-02-28
+- [有宏福苑居民冀重返單位　取回重要物品及與家園道別](https://www.881903.com/news/local/2620926/) [Original](https://www.881903.com/news/local/2620926/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有宏福苑居民冀重返單位-取回重要物品及與家園道別/){.md-button .hkfd-news-button}
+- [何啟明冀宏福苑居民看到現實　覓最佳安置方案](https://www.881903.com/news/local/2620933/) [Original](https://www.881903.com/news/local/2620933/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何啟明冀宏福苑居民看到現實-覓最佳安置方案/){.md-button .hkfd-news-button}

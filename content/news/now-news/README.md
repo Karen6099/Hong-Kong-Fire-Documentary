@@ -1312,3 +1312,9 @@
 ### 2026-02-28
 - [宏福苑五級火災｜當局擬准災民回家執拾　何啟明：存一定難度需跨部門商討](https://news.now.com/home/local/player?newsId=638239) [Original](https://news.now.com/home/local/player?newsId=638239){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災當局擬准災民回家執拾-何啟明存一定難度需跨部門商討/){.md-button .hkfd-news-button}
 - [有團體舉辦盆菜宴招待宏福苑居民　居民冀早日回家執拾重要物品](https://news.now.com/home/local/player?newsId=638230) [Original](https://news.now.com/home/local/player?newsId=638230){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有團體舉辦盆菜宴招待宏福苑居民-居民冀早日回家執拾重要物品/){.md-button .hkfd-news-button}
+
+
+### 2026-03-02
+- [林定國：法律界集思廣益善用一國兩制　配合十五五規劃](https://news.now.com/home/local/player?newsId=638468) [Original](https://news.now.com/home/local/player?newsId=638468){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林定國法律界集思廣益善用一國兩制-配合十五五規劃/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638404) [Original](https://news.now.com/home/local/player?newsId=638404){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638374) [Original](https://news.now.com/home/local/player?newsId=638374){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務-1/){.md-button .hkfd-news-button}

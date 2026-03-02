@@ -896,3 +896,7 @@
 ### 2026-02-28
 - [有宏福苑居民冀重返單位　取回重要物品及與家園道別](https://www.881903.com/news/local/2620926/) [Original](https://www.881903.com/news/local/2620926/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有宏福苑居民冀重返單位-取回重要物品及與家園道別/){.md-button .hkfd-news-button}
 - [何啟明冀宏福苑居民看到現實　覓最佳安置方案](https://www.881903.com/news/local/2620933/) [Original](https://www.881903.com/news/local/2620933/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何啟明冀宏福苑居民看到現實-覓最佳安置方案/){.md-button .hkfd-news-button}
+
+
+### 2026-03-02
+- [宏福苑長遠安置方案熱線投入服務　解說專隊本周起接觸業主](https://www.881903.com/news/local/2621073/) [Original](https://www.881903.com/news/local/2621073/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置方案熱線投入服務-解說專隊本周起接觸業主/){.md-button .hkfd-news-button}

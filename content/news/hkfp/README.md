@@ -466,3 +466,11 @@
 
 ### 2026-02-28
 - [Miles Kwan saga: Are our universities too willing to sacrifice students to the gods of political correctness?](https://hongkongfp.com/?p=555988) [Original](https://hongkongfp.com/?p=555988){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/miles-kwan-saga-are-our-universities-too-willing-to-sacrifice-students-to-the/){.md-button .hkfd-news-button}
+
+
+### 2026-03-01
+- [Tai Po fire: Some survivors wary over resettlement plan after ‘ignored’ calls to rebuild on site](https://hongkongfp.com/?p=556277) [Original](https://hongkongfp.com/?p=556277){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-some-survivors-wary-over-resettlement-plan-after-ignored-calls-to/){.md-button .hkfd-news-button}
+
+### 2026-03-02
+- [6 people injured in Marine Department vessel engine blast](https://hongkongfp.com/?p=556822) [Original](https://hongkongfp.com/?p=556822){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/6-people-injured-in-marine-department-vessel-engine-blast/){.md-button .hkfd-news-button}
+- [Hong Kong gov’t deploys 100-strong team to explain long-term resettlement policy to Tai Po fire victims](https://hongkongfp.com/?p=556761) [Original](https://hongkongfp.com/?p=556761){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-deploys-100-strong-team-to-explain-long-term-resettlement-policy/){.md-button .hkfd-news-button}

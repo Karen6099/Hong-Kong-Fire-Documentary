@@ -1158,3 +1158,12 @@
 - [卓永興：盡量下月公布宏福苑居民返回單位視察安排](https://news.rthk.hk/rthk/ch/component/k2/1845233-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845233-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興盡量下月公布宏福苑居民返回單位視察安排/){.md-button .hkfd-news-button}
 - [政府延長宏福苑居民免費中西醫義診及鑲假牙服務至8月底](https://news.rthk.hk/rthk/ch/component/k2/1845240-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845240-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府延長宏福苑居民免費中西醫義診及鑲假牙服務至8月底/){.md-button .hkfd-news-button}
 - [卓永興：最快4月底安排宏福苑7座樓宇居民分批返回單位執拾物品](https://news.rthk.hk/rthk/ch/component/k2/1845234-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845234-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興最快4月底安排宏福苑7座樓宇居民分批返回單位執拾物品/){.md-button .hkfd-news-button}
+
+
+### 2026-02-27
+- [卓永興稱擬先派員到宏福苑嚴重燒毀單位門口拍攝情況　讓住戶了解](https://news.rthk.hk/rthk/ch/component/k2/1845362-20260227.htm?archive_date=2026-02-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845362-20260227.htm?archive_date=2026-02-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興稱擬先派員到宏福苑嚴重燒毀單位門口拍攝情況-讓住戶了解/){.md-button .hkfd-news-button}
+- [卓永興：須安全情況下讓宏福苑居民返回單位　料約兩個月時間準備](https://news.rthk.hk/rthk/ch/component/k2/1845303-20260227.htm?archive_date=2026-02-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845303-20260227.htm?archive_date=2026-02-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興須安全情況下讓宏福苑居民返回單位-料約兩個月時間準備/){.md-button .hkfd-news-button}
+
+
+### 2026-03-02
+- [宏福苑長遠居住安排查詢熱線　今起投入服務](https://news.rthk.hk/rthk/ch/component/k2/1845608-20260302.htm?archive_date=2026-03-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845608-20260302.htm?archive_date=2026-03-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線-今起投入服務/){.md-button .hkfd-news-button}

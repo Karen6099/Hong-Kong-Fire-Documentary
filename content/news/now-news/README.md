@@ -1297,3 +1297,24 @@
 - [宏福苑居民最快4月底可返回單位執拾物品](https://news.now.com/home/local/player?newsId=638043) [Original](https://news.now.com/home/local/player?newsId=638043){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民最快4月底可返回單位執拾物品/){.md-button .hkfd-news-button}
 - [醫衞局延長宏福苑災民免費義診服務至八月底](https://news.now.com/home/local/player?newsId=638012) [Original](https://news.now.com/home/local/player?newsId=638012){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫衞局延長宏福苑災民免費義診服務至八月底/){.md-button .hkfd-news-button}
 - [議員憂預算案留40億元未涵蓋收購宏志閣　黃偉綸：若業主就收購有共識將再向立會申撥款](https://news.now.com/home/local/player?newsId=637978) [Original](https://news.now.com/home/local/player?newsId=637978){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/議員憂預算案留40億元未涵蓋收購宏志閣-黃偉綸若業主就收購有共識將再向立會申撥款/){.md-button .hkfd-news-button}
+
+
+### 2026-02-26
+- [宏福苑居民最快4月底返回單位執拾　鄧家彪稱三分一宏志閣業主望政府收購](https://news.now.com/home/local/player?newsId=638055) [Original](https://news.now.com/home/local/player?newsId=638055){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民最快4月底返回單位執拾-鄧家彪稱三分一宏志閣業主望政府收購/){.md-button .hkfd-news-button}
+- [即日焦點｜陳茂波稱取消電動車一換一非考慮稅收／美伊舉行第三輪間接談判](https://news.now.com/home/local/player?newsId=638049) [Original](https://news.now.com/home/local/player?newsId=638049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點陳茂波稱取消電動車一換一非考慮稅收美伊舉行第三輪間接談判/){.md-button .hkfd-news-button}
+
+### 2026-02-27
+- [即日焦點｜陳茂波專訪稱冀公私營投資北都各佔半／野豬闖烏溪沙站撞到途人](https://news.now.com/home/local/player?newsId=638173) [Original](https://news.now.com/home/local/player?newsId=638173){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點陳茂波專訪稱冀公私營投資北都各佔半野豬闖烏溪沙站撞到途人/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜災民約2個月後可回家執拾　卓永興：要準備斷捨離](https://news.now.com/home/local/player?newsId=638139) [Original](https://news.now.com/home/local/player?newsId=638139){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災災民約2個月後可回家執拾-卓永興要準備斷捨離/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜卓永興指最快約2個月後安排災民回家執拾物品](https://news.now.com/home/local/player?newsId=638134) [Original](https://news.now.com/home/local/player?newsId=638134){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災卓永興指最快約2個月後安排災民回家執拾物品/){.md-button .hkfd-news-button}
+
+
+### 2026-02-28
+- [宏福苑五級火災｜當局擬准災民回家執拾　何啟明：存一定難度需跨部門商討](https://news.now.com/home/local/player?newsId=638239) [Original](https://news.now.com/home/local/player?newsId=638239){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災當局擬准災民回家執拾-何啟明存一定難度需跨部門商討/){.md-button .hkfd-news-button}
+- [有團體舉辦盆菜宴招待宏福苑居民　居民冀早日回家執拾重要物品](https://news.now.com/home/local/player?newsId=638230) [Original](https://news.now.com/home/local/player?newsId=638230){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有團體舉辦盆菜宴招待宏福苑居民-居民冀早日回家執拾重要物品/){.md-button .hkfd-news-button}
+
+
+### 2026-03-02
+- [林定國：法律界集思廣益善用一國兩制　配合十五五規劃](https://news.now.com/home/local/player?newsId=638468) [Original](https://news.now.com/home/local/player?newsId=638468){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林定國法律界集思廣益善用一國兩制-配合十五五規劃/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638404) [Original](https://news.now.com/home/local/player?newsId=638404){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務/){.md-button .hkfd-news-button}
+- [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638374) [Original](https://news.now.com/home/local/player?newsId=638374){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務-1/){.md-button .hkfd-news-button}

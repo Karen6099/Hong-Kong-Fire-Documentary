@@ -900,3 +900,10 @@
 
 ### 2026-03-02
 - [宏福苑長遠安置方案熱線投入服務　解說專隊本周起接觸業主](https://www.881903.com/news/local/2621073/) [Original](https://www.881903.com/news/local/2621073/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置方案熱線投入服務-解說專隊本周起接觸業主/){.md-button .hkfd-news-button}
+
+
+### 2026-03-03
+- [宏福苑獨立委員會本月19日起辦首輪8場聽證會　旁聽名額先到先得](https://www.881903.com/news/local/2621307/) [Original](https://www.881903.com/news/local/2621307/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會本月19日起辦首輪8場聽證會-旁聽名額先到先得/){.md-button .hkfd-news-button}
+
+### 2026-03-04
+- [宏福苑大火｜金管局放寬按揭規定　延期多6個月還款](https://www.881903.com/news/local/2621482/) [Original](https://www.881903.com/news/local/2621482/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火金管局放寬按揭規定-延期多6個月還款/){.md-button .hkfd-news-button}

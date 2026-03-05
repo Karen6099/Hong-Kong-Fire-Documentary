@@ -1201,6 +1201,10 @@
 ### 2026-03-04
 - [宏福苑五級火｜銀行界為災民提供新支援 配合政府長遠居住安排 宏福苑五級火 53分鐘前 粵](https://news.tvb.com/tc/taipofire/69a83044101d7dfc26ebabb6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%8A%80%E8%A1%8C%E7%95%8C%E7%82%BA%E7%81%BD%E6%B0%91%E6%8F%90%E4%BE%9B%E6%96%B0%E6%94%AF%E6%8F%B4-%E9%85%8D%E5%90%88%E6%94%BF%E5%BA%9C%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92) [Original](https://news.tvb.com/tc/taipofire/69a83044101d7dfc26ebabb6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%8A%80%E8%A1%8C%E7%95%8C%E7%82%BA%E7%81%BD%E6%B0%91%E6%8F%90%E4%BE%9B%E6%96%B0%E6%94%AF%E6%8F%B4-%E9%85%8D%E5%90%88%E6%94%BF%E5%BA%9C%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火銀行界為災民提供新支援-配合政府長遠居住安排-宏福苑五級火-53分鐘前-粵/){.md-button .hkfd-news-button}
 
+
+### 2026-03-05
+- [宏福苑五級火｜金管局及銀行公會支援災民 按揭等還款期延長至11月底 宏福苑五級火 23小時前](https://news.tvb.com/tc/taipofire/69a83ed5101d7dfc26ec355e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%87%91%E7%AE%A1%E5%B1%80%E5%8F%8A%E9%8A%80%E8%A1%8C%E5%85%AC%E6%9C%83%E6%94%AF%E6%8F%B4%E7%81%BD%E6%B0%91-%E6%8C%89%E6%8F%AD%E7%AD%89%E9%82%84%E6%AC%BE%E6%9C%9F%E5%BB%B6%E9%95%B7%E8%87%B311%E6%9C%88%E5%BA%95) [Original](https://news.tvb.com/tc/taipofire/69a83ed5101d7dfc26ec355e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%87%91%E7%AE%A1%E5%B1%80%E5%8F%8A%E9%8A%80%E8%A1%8C%E5%85%AC%E6%9C%83%E6%94%AF%E6%8F%B4%E7%81%BD%E6%B0%91-%E6%8C%89%E6%8F%AD%E7%AD%89%E9%82%84%E6%AC%BE%E6%9C%9F%E5%BB%B6%E9%95%B7%E8%87%B311%E6%9C%88%E5%BA%95){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火金管局及銀行公會支援災民-按揭等還款期延長至11月底-宏福苑五級火-23小時前/){.md-button .hkfd-news-button}
+
 # TVB News (English)
 
 ### 2025-11-26
@@ -1701,3 +1705,7 @@
 
 ### 2026-02-27
 - [Wang Fuk Court residents may return in batches in two months' time](https://news.tvb.com/tc/pearlnews/69a18e30f3bac3b7e4dca8c0/TVB%20News-Wang-Fuk-Court-residents-may-return-in-batches-in-two-months-time) [Original](https://news.tvb.com/tc/pearlnews/69a18e30f3bac3b7e4dca8c0/TVB%20News-Wang-Fuk-Court-residents-may-return-in-batches-in-two-months-time){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-may-return-in-batches-in-two-months-time/){.md-button .hkfd-news-button}
+
+
+### 2026-03-03
+- [First round of evidential hearings of Wang Fuk Court fire begins on Mar 19](https://news.tvb.com/tc/pearlnews/69a6cef22f81fd44da01c5a3/TVB%20News-First-round-of-evidential-hearings-of-Wang-Fuk-Court-fire-begins-on-Mar-19) [Original](https://news.tvb.com/tc/pearlnews/69a6cef22f81fd44da01c5a3/TVB%20News-First-round-of-evidential-hearings-of-Wang-Fuk-Court-fire-begins-on-Mar-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/first-round-of-evidential-hearings-of-wang-fuk-court-fire-begins-on-mar-19/){.md-button .hkfd-news-button}

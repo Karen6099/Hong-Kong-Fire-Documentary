@@ -1318,3 +1318,15 @@
 - [林定國：法律界集思廣益善用一國兩制　配合十五五規劃](https://news.now.com/home/local/player?newsId=638468) [Original](https://news.now.com/home/local/player?newsId=638468){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林定國法律界集思廣益善用一國兩制-配合十五五規劃/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638404) [Original](https://news.now.com/home/local/player?newsId=638404){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638374) [Original](https://news.now.com/home/local/player?newsId=638374){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務-1/){.md-button .hkfd-news-button}
+
+
+### 2026-03-03
+- [即日焦點｜以色列擴大打擊黎巴嫩真主黨／夏寶龍接見港區人大政協](https://news.now.com/home/local/player?newsId=638611) [Original](https://news.now.com/home/local/player?newsId=638611){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點以色列擴大打擊黎巴嫩真主黨夏寶龍接見港區人大政協/){.md-button .hkfd-news-button}
+- [宏福苑獨立委員會首輪八場聽證會　本月19日起舉行](https://news.now.com/home/local/player?newsId=638567) [Original](https://news.now.com/home/local/player?newsId=638567){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會首輪八場聽證會-本月19日起舉行/){.md-button .hkfd-news-button}
+- [房協下年度推逾四千單位　資助出售房屋佔三成半](https://news.now.com/home/local/player?newsId=638564) [Original](https://news.now.com/home/local/player?newsId=638564){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協下年度推逾四千單位-資助出售房屋佔三成半/){.md-button .hkfd-news-button}
+- [晤大埔區議會　勞工處處長：會虛心接受宏福苑獨立委員會結論](https://news.now.com/home/local/player?newsId=638554) [Original](https://news.now.com/home/local/player?newsId=638554){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晤大埔區議會-勞工處處長會虛心接受宏福苑獨立委員會結論/){.md-button .hkfd-news-button}
+- [大埔區議員黃碧嬌倡金屬棚架取代竹棚　勞工處處長：視乎發展局政策取向](https://news.now.com/home/local/player?newsId=638541) [Original](https://news.now.com/home/local/player?newsId=638541){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔區議員黃碧嬌倡金屬棚架取代竹棚-勞工處處長視乎發展局政策取向/){.md-button .hkfd-news-button}
+
+### 2026-03-04
+- [銀行業延長宏福苑受影響人士各類貸款還款期六個月](https://news.now.com/home/local/player?newsId=638750) [Original](https://news.now.com/home/local/player?newsId=638750){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行業延長宏福苑受影響人士各類貸款還款期六個月/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜災民貸款延至11月底還款　銀行助業主處理按揭](https://news.now.com/home/local/player?newsId=638717) [Original](https://news.now.com/home/local/player?newsId=638717){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災災民貸款延至11月底還款-銀行助業主處理按揭/){.md-button .hkfd-news-button}

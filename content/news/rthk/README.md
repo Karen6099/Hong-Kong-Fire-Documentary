@@ -1167,3 +1167,10 @@
 
 ### 2026-03-02
 - [宏福苑長遠居住安排查詢熱線　今起投入服務](https://news.rthk.hk/rthk/ch/component/k2/1845608-20260302.htm?archive_date=2026-03-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845608-20260302.htm?archive_date=2026-03-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線-今起投入服務/){.md-button .hkfd-news-button}
+
+
+### 2026-03-03
+- [獨立委員會3月19日至4月2日舉行宏福苑火災首輪8場聽證會](https://news.rthk.hk/rthk/ch/component/k2/1845805-20260303.htm?archive_date=2026-03-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845805-20260303.htm?archive_date=2026-03-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/獨立委員會3月19日至4月2日舉行宏福苑火災首輪8場聽證會/){.md-button .hkfd-news-button}
+
+### 2026-03-04
+- [銀行業界再推措施助宏福苑居民包括延長各類貸款還款期多6個月](https://news.rthk.hk/rthk/ch/component/k2/1845981-20260304.htm?archive_date=2026-03-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845981-20260304.htm?archive_date=2026-03-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行業界再推措施助宏福苑居民包括延長各類貸款還款期多6個月/){.md-button .hkfd-news-button}

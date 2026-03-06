@@ -474,3 +474,12 @@
 ### 2026-03-02
 - [6 people injured in Marine Department vessel engine blast](https://hongkongfp.com/?p=556822) [Original](https://hongkongfp.com/?p=556822){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/6-people-injured-in-marine-department-vessel-engine-blast/){.md-button .hkfd-news-button}
 - [Hong Kong gov’t deploys 100-strong team to explain long-term resettlement policy to Tai Po fire victims](https://hongkongfp.com/?p=556761) [Original](https://hongkongfp.com/?p=556761){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-deploys-100-strong-team-to-explain-long-term-resettlement-policy/){.md-button .hkfd-news-button}
+
+
+### 2026-03-04
+- [Wang Fuk Court residents to testify at probe hearings on deadly fire](https://hongkongfp.com/?p=557103) [Original](https://hongkongfp.com/?p=557103){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-to-testify-at-probe-hearings-on-deadly-fire/){.md-button .hkfd-news-button}
+
+
+### 2026-03-05
+- [Hong Kong urged to provide ‘humane education’ after 14-year-old boy arrested over alleged animal abuse](https://hongkongfp.com/?p=557192) [Original](https://hongkongfp.com/?p=557192){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-urged-to-provide-humane-education-after-14-year-old-boy-arrested-over/){.md-button .hkfd-news-button}
+- [Hongkongers stranded in Dubai return home on first Middle East flight since conflict began](https://hongkongfp.com/?p=557159) [Original](https://hongkongfp.com/?p=557159){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hongkongers-stranded-in-dubai-return-home-on-first-middle-east-flight-since/){.md-button .hkfd-news-button}

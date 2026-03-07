@@ -1174,3 +1174,12 @@
 
 ### 2026-03-04
 - [銀行業界再推措施助宏福苑居民包括延長各類貸款還款期多6個月](https://news.rthk.hk/rthk/ch/component/k2/1845981-20260304.htm?archive_date=2026-03-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845981-20260304.htm?archive_date=2026-03-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行業界再推措施助宏福苑居民包括延長各類貸款還款期多6個月/){.md-button .hkfd-news-button}
+
+
+### 2026-03-06
+- [Three arrested over Wang Fuk Court theft](https://news.rthk.hk/rthk/en/component/k2/1846339-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/en/component/k2/1846339-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/three-arrested-over-wang-fuk-court-theft/){.md-button .hkfd-news-button}
+- [政務司副司長要求保安局聯同警方覆檢所有授權人士進出宏福苑流程](https://news.rthk.hk/rthk/ch/component/k2/1846348-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846348-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政務司副司長要求保安局聯同警方覆檢所有授權人士進出宏福苑流程/){.md-button .hkfd-news-button}
+- [宏福苑3名加固工程工人涉盜竊被捕起回9萬元首飾　警斥行為卑劣](https://news.rthk.hk/rthk/ch/component/k2/1846334-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846334-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑3名加固工程工人涉盜竊被捕起回9萬元首飾-警斥行為卑劣/){.md-button .hkfd-news-button}
+- [據了解一名宏福苑工程加固工人涉嫌偷竊被捕　警方起回部分贓物](https://news.rthk.hk/rthk/ch/component/k2/1846320-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846320-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/據了解一名宏福苑工程加固工人涉嫌偷竊被捕-警方起回部分贓物/){.md-button .hkfd-news-button}
+- [全國兩會｜政協蘇長荣引述丁薛祥肯定特區處理宏福苑火災有序及時](https://news.rthk.hk/rthk/ch/component/k2/1846267-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846267-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會政協蘇長荣引述丁薛祥肯定特區處理宏福苑火災有序及時/){.md-button .hkfd-news-button}
+- [政府向宏福苑火災殉職消防隊目何偉豪家屬發放615萬元援助](https://news.rthk.hk/rthk/ch/component/k2/1846253-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846253-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府向宏福苑火災殉職消防隊目何偉豪家屬發放615萬元援助/){.md-button .hkfd-news-button}

@@ -483,3 +483,7 @@
 ### 2026-03-05
 - [Hong Kong urged to provide ‘humane education’ after 14-year-old boy arrested over alleged animal abuse](https://hongkongfp.com/?p=557192) [Original](https://hongkongfp.com/?p=557192){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-urged-to-provide-humane-education-after-14-year-old-boy-arrested-over/){.md-button .hkfd-news-button}
 - [Hongkongers stranded in Dubai return home on first Middle East flight since conflict began](https://hongkongfp.com/?p=557159) [Original](https://hongkongfp.com/?p=557159){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hongkongers-stranded-in-dubai-return-home-on-first-middle-east-flight-since/){.md-button .hkfd-news-button}
+
+
+### 2026-03-06
+- [Family of Hong Kong firefighter killed in Tai Po blaze to receive HK$6.15 million in gov’t financial aid](https://hongkongfp.com/?p=557371) [Original](https://hongkongfp.com/?p=557371){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/family-of-hong-kong-firefighter-killed-in-tai-po-blaze-to-receive-hk615-million/){.md-button .hkfd-news-button}

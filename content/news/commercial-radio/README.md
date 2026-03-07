@@ -907,3 +907,12 @@
 
 ### 2026-03-04
 - [宏福苑大火｜金管局放寬按揭規定　延期多6個月還款](https://www.881903.com/news/local/2621482/) [Original](https://www.881903.com/news/local/2621482/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火金管局放寬按揭規定-延期多6個月還款/){.md-button .hkfd-news-button}
+
+
+### 2026-03-06
+- [警拘3名男工人　涉在宏福苑進行加固工程期間盜竊9萬元首飾](https://www.881903.com/news/local/2621846/) [Original](https://www.881903.com/news/local/2621846/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警拘3名男工人-涉在宏福苑進行加固工程期間盜竊9萬元首飾/){.md-button .hkfd-news-button}
+- [唐英年：丁薛祥提到去年香港的「大選、大案、大火」](https://www.881903.com/news/local/2621788/) [Original](https://www.881903.com/news/local/2621788/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/唐英年丁薛祥提到去年香港的大選大案大火/){.md-button .hkfd-news-button}
+- [政府向宏福苑殉職消防何偉豪的家屬　發放615萬元援助](https://www.881903.com/news/local/2621773/) [Original](https://www.881903.com/news/local/2621773/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府向宏福苑殉職消防何偉豪的家屬-發放615萬元援助/){.md-button .hkfd-news-button}
+
+### 2026-03-07
+- [涉在宏福苑偷取住戶首飾的三名男子　被控盜竊罪今提堂](https://www.881903.com/news/local/2621928/) [Original](https://www.881903.com/news/local/2621928/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/涉在宏福苑偷取住戶首飾的三名男子-被控盜竊罪今提堂/){.md-button .hkfd-news-button}

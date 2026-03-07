@@ -1330,3 +1330,18 @@
 ### 2026-03-04
 - [銀行業延長宏福苑受影響人士各類貸款還款期六個月](https://news.now.com/home/local/player?newsId=638750) [Original](https://news.now.com/home/local/player?newsId=638750){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行業延長宏福苑受影響人士各類貸款還款期六個月/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜災民貸款延至11月底還款　銀行助業主處理按揭](https://news.now.com/home/local/player?newsId=638717) [Original](https://news.now.com/home/local/player?newsId=638717){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災災民貸款延至11月底還款-銀行助業主處理按揭/){.md-button .hkfd-news-button}
+
+
+### 2026-03-06
+- [宏福苑盜竊案｜政府高度關注　已要求覆檢出入屋苑流程](https://news.now.com/home/local/player?newsId=639062) [Original](https://news.now.com/home/local/player?newsId=639062){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑盜竊案政府高度關注-已要求覆檢出入屋苑流程/){.md-button .hkfd-news-button}
+- [即日焦點｜丁薛祥指行政主導是廣大市民共同責任／工人涉盜去宏福苑單位首飾被捕](https://news.now.com/home/local/player?newsId=639053) [Original](https://news.now.com/home/local/player?newsId=639053){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點丁薛祥指行政主導是廣大市民共同責任工人涉盜去宏福苑單位首飾被捕/){.md-button .hkfd-news-button}
+- [三名工人盜竊宏福苑單位9萬元首飾　警方：行為卑劣予以嚴厲譴責](https://news.now.com/home/local/player?newsId=639052) [Original](https://news.now.com/home/local/player?newsId=639052){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/三名工人盜竊宏福苑單位9萬元首飾-警方行為卑劣予以嚴厲譴責/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜據悉三名工人涉於加固工程期間盜去單位內財物](https://news.now.com/home/local/player?newsId=639036) [Original](https://news.now.com/home/local/player?newsId=639036){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災據悉三名工人涉於加固工程期間盜去單位內財物/){.md-button .hkfd-news-button}
+- [全國兩會｜唐英年指丁薛祥提及大選、大案、大火　提醒各人要對危害國安者嚴陣以待](https://news.now.com/home/local/player?newsId=639014) [Original](https://news.now.com/home/local/player?newsId=639014){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會唐英年指丁薛祥提及大選大案大火-提醒各人要對危害國安者嚴陣以待/){.md-button .hkfd-news-button}
+- [全國兩會｜唐英年指丁薛祥肯定香港有穩妥處理宏福苑火災善後　及時制止反中亂港人士](https://news.now.com/home/local/player?newsId=639003) [Original](https://news.now.com/home/local/player?newsId=639003){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會唐英年指丁薛祥肯定香港有穩妥處理宏福苑火災善後-及時制止反中亂港人士/){.md-button .hkfd-news-button}
+- [全國兩會｜有政協引述丁薛祥讚揚特區政府有序及時處理宏福苑火災](https://news.now.com/home/local/player?newsId=638996) [Original](https://news.now.com/home/local/player?newsId=638996){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會有政協引述丁薛祥讚揚特區政府有序及時處理宏福苑火災/){.md-button .hkfd-news-button}
+- [宏福苑火災｜殉職消防隊目何偉豪家屬獲發615萬元經濟援助金](https://news.now.com/home/local/player?newsId=638975) [Original](https://news.now.com/home/local/player?newsId=638975){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災殉職消防隊目何偉豪家屬獲發615萬元經濟援助金/){.md-button .hkfd-news-button}
+
+### 2026-03-07
+- [宏福苑爆盜竊案　災民警署備案冀盡快上樓取回物品](https://news.now.com/home/local/player?newsId=639120) [Original](https://news.now.com/home/local/player?newsId=639120){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑爆盜竊案-災民警署備案冀盡快上樓取回物品/){.md-button .hkfd-news-button}
+- [宏福苑盜竊案　有災民擔心財物被盜到警署求助](https://news.now.com/home/local/player?newsId=639108) [Original](https://news.now.com/home/local/player?newsId=639108){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑盜竊案-有災民擔心財物被盜到警署求助/){.md-button .hkfd-news-button}

@@ -480,3 +480,7 @@
 
 ### 2026-02-28
 - [來論｜宏福苑安置選擇多元細膩　彰顯政府治理溫度與力度](https://www.dotdotnews.com/a/202602/28/AP69a2a5b1e4b0c32d4f6a1602.html) [Original](https://www.dotdotnews.com/a/202602/28/AP69a2a5b1e4b0c32d4f6a1602.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑安置選擇多元細膩-彰顯政府治理溫度與力度/){.md-button .hkfd-news-button}
+
+
+### 2026-03-09
+- [Wang Fuk Court Aftermath | Police enhance security: Workers restricted to carrying cash and subject to searches](https://english.dotdotnews.com/a/202603/09/AP69ae6dd1e4b0c32d4f6b3ab7.html) [Original](https://english.dotdotnews.com/a/202603/09/AP69ae6dd1e4b0c32d4f6b3ab7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-police-enhance-security-workers-restricted-to-carrying/){.md-button .hkfd-news-button}

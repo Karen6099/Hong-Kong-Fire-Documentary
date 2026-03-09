@@ -487,3 +487,12 @@
 
 ### 2026-03-06
 - [Family of Hong Kong firefighter killed in Tai Po blaze to receive HK$6.15 million in gov’t financial aid](https://hongkongfp.com/?p=557371) [Original](https://hongkongfp.com/?p=557371){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/family-of-hong-kong-firefighter-killed-in-tai-po-blaze-to-receive-hk615-million/){.md-button .hkfd-news-button}
+
+
+### 2026-03-08
+- [Explainer: Hong Kong’s national security crackdown – month 68](https://hongkongfp.com/?p=556898) [Original](https://hongkongfp.com/?p=556898){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/explainer-hong-kongs-national-security-crackdown-month-68/){.md-button .hkfd-news-button}
+
+### 2026-03-09
+- [Lawmaker Judy Chan fined HK$2,000, banned from driving for 1 month over traffic offence](https://hongkongfp.com/?p=557669) [Original](https://hongkongfp.com/?p=557669){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/lawmaker-judy-chan-fined-hk2000-banned-from-driving-for-1-month-over-traffic/){.md-button .hkfd-news-button}
+- [Hong Kong court rejects Wall Street Journal’s bid to throw out wrongful dismissal suit](https://hongkongfp.com/?p=557590) [Original](https://hongkongfp.com/?p=557590){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-court-rejects-wall-street-journals-bid-to-throw-out-wrongful/){.md-button .hkfd-news-button}
+- [Tai Po fire: Workers at Wang Fuk Court to undergo tight security checks after 3 arrested for allegedly stealing jewellery](https://hongkongfp.com/?p=557549) [Original](https://hongkongfp.com/?p=557549){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-workers-at-wang-fuk-court-to-undergo-tight-security-checks-after-3/){.md-button .hkfd-news-button}

@@ -907,3 +907,23 @@
 
 ### 2026-03-04
 - [宏福苑大火｜金管局放寬按揭規定　延期多6個月還款](https://www.881903.com/news/local/2621482/) [Original](https://www.881903.com/news/local/2621482/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火金管局放寬按揭規定-延期多6個月還款/){.md-button .hkfd-news-button}
+
+
+### 2026-03-06
+- [警拘3名男工人　涉在宏福苑進行加固工程期間盜竊9萬元首飾](https://www.881903.com/news/local/2621846/) [Original](https://www.881903.com/news/local/2621846/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警拘3名男工人-涉在宏福苑進行加固工程期間盜竊9萬元首飾/){.md-button .hkfd-news-button}
+- [唐英年：丁薛祥提到去年香港的「大選、大案、大火」](https://www.881903.com/news/local/2621788/) [Original](https://www.881903.com/news/local/2621788/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/唐英年丁薛祥提到去年香港的大選大案大火/){.md-button .hkfd-news-button}
+- [政府向宏福苑殉職消防何偉豪的家屬　發放615萬元援助](https://www.881903.com/news/local/2621773/) [Original](https://www.881903.com/news/local/2621773/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府向宏福苑殉職消防何偉豪的家屬-發放615萬元援助/){.md-button .hkfd-news-button}
+
+### 2026-03-07
+- [涉在宏福苑偷取住戶首飾的三名男子　被控盜竊罪今提堂](https://www.881903.com/news/local/2621928/) [Original](https://www.881903.com/news/local/2621928/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/涉在宏福苑偷取住戶首飾的三名男子-被控盜竊罪今提堂/){.md-button .hkfd-news-button}
+
+
+### 2026-03-08
+- [宏福苑周一恢復加固工程　周一鳴：將加強4項保安](https://www.881903.com/news/local/2622044/) [Original](https://www.881903.com/news/local/2622044/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑周一恢復加固工程-周一鳴將加強4項保安/){.md-button .hkfd-news-button}
+- [宏福苑安置｜房委會六項目500大單位　佔業戶不足3成](https://www.881903.com/news/local/2622033/) [Original](https://www.881903.com/news/local/2622033/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置房委會六項目500大單位-佔業戶不足3成/){.md-button .hkfd-news-button}
+- [兩會｜王靈桂：相信特區政府　會處理好大火善後工作](https://www.881903.com/news/local/2622032/) [Original](https://www.881903.com/news/local/2622032/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/兩會王靈桂相信特區政府-會處理好大火善後工作/){.md-button .hkfd-news-button}
+- [兩會丨仇鴻：現時國際形勢下 國安風險一直存在](https://www.881903.com/news/local/2622029/) [Original](https://www.881903.com/news/local/2622029/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/兩會丨仇鴻現時國際形勢下-國安風險一直存在/){.md-button .hkfd-news-button}
+
+### 2026-03-09
+- [宏福苑安置 |  房委會大單位僅500個　黃碧如：整體人口影響大單位減少](https://www.881903.com/news/local/2622127/) [Original](https://www.881903.com/news/local/2622127/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置-房委會大單位僅500個-黃碧如整體人口影響大單位減少/){.md-button .hkfd-news-button}
+- [警方加強宏福苑保安措施　居民批評亡羊補牢](https://www.881903.com/news/local/2622138/) [Original](https://www.881903.com/news/local/2622138/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警方加強宏福苑保安措施-居民批評亡羊補牢/){.md-button .hkfd-news-button}

@@ -56259,7 +56259,756 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2026-03-05T22:16:55.835446",
       "archive_path": "content\\news\\tvb\\archive\\first-round-of-evidential-hearings-of-wang-fuk-court-fire-begins-on-mar-19"
+    },
+    "https://hongkongfp.com/?p=557371": {
+      "title": "Family of Hong Kong firefighter killed in Tai Po blaze to receive HK$6.15 million in gov’t financial aid",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-07T22:09:15.279539",
+      "archive_path": "content\\news\\hkfp\\archive\\family-of-hong-kong-firefighter-killed-in-tai-po-blaze-to-receive-hk615-million"
+    },
+    "https://www.881903.com/news/local/2621846/": {
+      "title": "警拘3名男工人　涉在宏福苑進行加固工程期間盜竊9萬元首飾",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-07T22:09:16.035423",
+      "archive_path": "content\\news\\commercial-radio\\archive\\警拘3名男工人-涉在宏福苑進行加固工程期間盜竊9萬元首飾"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328189/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E9%81%87%E7%AB%8A-3%E8%A2%AB%E6%8D%95%E5%B7%A5%E4%BA%BA2%E6%9C%88%E5%BA%95%E9%96%8B%E5%B7%A5-%E5%AE%8F%E6%B3%B0%E9%96%A3%E5%96%AE%E4%BD%8D%E6%8E%A07%E4%BB%B6%E9%A6%96%E9%A3%BE%E5%B0%B1%E6%93%92": {
+      "title": "宏福苑火後遇竊｜3被捕工人2月底開工　宏泰閣單位掠7件首飾就擒",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-07T22:09:16.118139",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後遇竊3被捕工人2月底開工-宏泰閣單位掠7件首飾就擒"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4335914/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%E4%B8%A83%E5%90%8D%E5%8A%A0%E5%9B%BA%E5%B7%A5%E7%A8%8B%E5%B7%A5%E4%BA%BA%E6%B6%89%E7%9B%9C%E7%AB%8A%E9%A6%96%E9%A3%BE+%E8%AD%A6%E6%96%A5%E8%A1%8C%E7%82%BA%E5%8D%91%E5%8A%A3": {
+      "title": "宏福苑盜竊案丨3名加固工程工人涉盜竊首飾 警斥行為卑劣",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-07T22:09:16.206098",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑盜竊案丨3名加固工程工人涉盜竊首飾-警斥行為卑劣"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4335674/3%E5%8A%A0%E5%9B%BA%E5%B7%A5%E4%BA%BA%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C9%E8%90%AC%E5%85%83%E9%A6%96%E9%A3%BE%E8%A2%AB%E6%8D%95": {
+      "title": "3加固工人宏福苑盜9萬元首飾被捕",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-07T22:09:16.599973",
+      "archive_path": "content\\news\\hkej\\archive\\3加固工人宏福苑盜9萬元首飾被捕"
+    },
+    "https://news.now.com/home/local/player?newsId=639062": {
+      "title": "宏福苑盜竊案｜政府高度關注　已要求覆檢出入屋苑流程",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:19.195227",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑盜竊案政府高度關注-已要求覆檢出入屋苑流程"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4335738/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%E4%B8%A8%E5%B1%85%E6%B0%91%E4%BF%83%E7%95%B6%E5%B1%80%E4%BA%A4%E4%BB%A3%E4%BA%8B%E4%BB%B6+%E6%98%8E%E7%A2%BA%E6%8F%90%E5%89%8D%E5%AE%89%E6%8E%92%E4%BD%8F%E6%88%B6%E5%9B%9E%E5%AE%B6%E5%9F%B7%E6%8B%BE": {
+      "title": "宏福苑盜竊案丨居民促當局交代事件 明確提前安排住戶回家執拾",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-07T22:09:21.452640",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑盜竊案丨居民促當局交代事件-明確提前安排住戶回家執拾"
+    },
+    "https://www.881903.com/news/local/2621788/": {
+      "title": "唐英年：丁薛祥提到去年香港的「大選、大案、大火」",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-07T22:09:21.696600",
+      "archive_path": "content\\news\\commercial-radio\\archive\\唐英年丁薛祥提到去年香港的大選大案大火"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328158/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E7%9B%9C%E7%AB%8A-%E6%9C%89%E7%89%87-%E8%AD%A6%E5%91%A8%E5%9B%9B%E6%99%9A%E7%99%BB%E6%A8%93%E8%AA%BF%E6%9F%A5-%E5%96%AE%E4%BD%8D%E5%82%B3%E5%87%BA%E7%85%A7%E6%98%8E%E7%87%88%E5%85%89": {
+      "title": "宏福苑火後盜竊．有片｜警周四晚登樓調查　單位傳出照明燈光",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-07T22:09:21.851365",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後盜竊有片警周四晚登樓調查-單位傳出照明燈光"
+    },
+    "https://www1.hkej.com/dailynews/headline/article/4335642/%E8%82%AF%E5%AE%9A%E6%B8%AF%E5%BA%9C%E7%A9%A9%E5%A6%A5%E8%99%95%E7%90%86%E5%AE%8F%E7%A6%8F%E7%81%AB%E7%81%BD": {
+      "title": "肯定港府穩妥處理宏福火災",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-07T22:09:23.184123",
+      "archive_path": "content\\news\\hkej\\archive\\肯定港府穩妥處理宏福火災"
+    },
+    "https://news.now.com/home/local/player?newsId=639053": {
+      "title": "即日焦點｜丁薛祥指行政主導是廣大市民共同責任／工人涉盜去宏福苑單位首飾被捕",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:24.692628",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點丁薛祥指行政主導是廣大市民共同責任工人涉盜去宏福苑單位首飾被捕"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1846339-20260306.htm?archive_date=2026-03-06": {
+      "title": "Three arrested over Wang Fuk Court theft",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-07T22:09:25.706194",
+      "archive_path": "content\\news\\rthk\\archive\\three-arrested-over-wang-fuk-court-theft"
+    },
+    "https://www.881903.com/news/local/2621773/": {
+      "title": "政府向宏福苑殉職消防何偉豪的家屬　發放615萬元援助",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-07T22:09:27.374257",
+      "archive_path": "content\\news\\commercial-radio\\archive\\政府向宏福苑殉職消防何偉豪的家屬-發放615萬元援助"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4335526/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%EF%BD%9C%E6%B6%88%E6%81%AF%3A%E5%8A%A0%E5%9B%BA%E5%B7%A5%E7%A8%8B%E5%B7%A5%E4%BA%BA%E6%B6%89%E5%96%AE%E4%BD%8D%E5%85%A7%E7%9B%9C%E7%AB%8A+%E8%B5%B7%E5%9B%9E%E9%87%91%E5%99%A8%E7%AD%89%E8%B4%93%E7%89%A9": {
+      "title": "宏福苑大火｜消息:加固工程工人涉單位內盜竊 起回金器等贓物",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-07T22:09:27.541555",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火消息加固工程工人涉單位內盜竊-起回金器等贓物"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328257/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E9%81%87%E7%AB%8A-%E5%B1%85%E6%B0%91%E6%86%82%E5%BF%83%E5%BF%A1%E5%BF%A1%E5%88%B0%E8%AD%A6%E7%BD%B2%E5%82%99%E6%A1%88-%E6%8E%A7%E8%A8%B4-%E6%88%91%E5%93%8B%E6%B7%9A%E6%B5%81%E5%88%B0%E7%84%A1": {
+      "title": "宏福苑火後遇竊｜居民憂心忡忡到警署備案　控訴：我哋淚流到無",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-07T22:09:27.690080",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後遇竊居民憂心忡忡到警署備案-控訴我哋淚流到無"
+    },
+    "https://news.now.com/home/local/player?newsId=639052": {
+      "title": "三名工人盜竊宏福苑單位9萬元首飾　警方：行為卑劣予以嚴厲譴責",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:30.327915",
+      "archive_path": "content\\news\\now-news\\archive\\三名工人盜竊宏福苑單位9萬元首飾-警方行為卑劣予以嚴厲譴責"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846348-20260306.htm?archive_date=2026-03-06": {
+      "title": "政務司副司長要求保安局聯同警方覆檢所有授權人士進出宏福苑流程",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-07T22:09:31.003826",
+      "archive_path": "content\\news\\rthk\\archive\\政務司副司長要求保安局聯同警方覆檢所有授權人士進出宏福苑流程"
+    },
+    "https://www.881903.com/news/local/2621928/": {
+      "title": "涉在宏福苑偷取住戶首飾的三名男子　被控盜竊罪今提堂",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-07T22:09:33.149432",
+      "archive_path": "content\\news\\commercial-radio\\archive\\涉在宏福苑偷取住戶首飾的三名男子-被控盜竊罪今提堂"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4335119/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%94%BF%E5%BA%9C%E5%90%91%E8%8B%B1%E5%8B%87%E6%AE%89%E8%81%B7%E4%BD%95%E5%81%89%E8%B1%AA%E5%AE%B6%E5%B1%AC%E7%99%BC%E6%94%BE615%E8%90%AC": {
+      "title": "宏福苑大火丨政府向英勇殉職何偉豪家屬發放615萬",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-07T22:09:33.265028",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨政府向英勇殉職何偉豪家屬發放615萬"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328264/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E9%81%87%E7%AB%8A-3%E7%96%91%E7%8A%AF%E8%A2%AB%E8%90%BD%E6%A1%88%E6%8E%A7%E4%BB%A5%E7%9B%9C%E7%AB%8A%E7%BD%AA-%E4%BB%8A%E6%97%A5%E6%B2%99%E7%94%B0%E8%A3%81%E5%88%A4%E6%B3%95%E9%99%A2%E6%8F%90%E5%A0%82": {
+      "title": "宏福苑火後遇竊｜3疑犯被落案控以盜竊罪　今日沙田裁判法院提堂",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-07T22:09:33.702019",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後遇竊3疑犯被落案控以盜竊罪-今日沙田裁判法院提堂"
+    },
+    "https://news.now.com/home/local/player?newsId=639036": {
+      "title": "宏福苑五級火災｜據悉三名工人涉於加固工程期間盜去單位內財物",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:36.012784",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災據悉三名工人涉於加固工程期間盜去單位內財物"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846334-20260306.htm?archive_date=2026-03-06": {
+      "title": "宏福苑3名加固工程工人涉盜竊被捕起回9萬元首飾　警斥行為卑劣",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-07T22:09:37.113637",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑3名加固工程工人涉盜竊被捕起回9萬元首飾-警斥行為卑劣"
+    },
+    "https://news.tvb.com/tc/taipofire/69aad05d101d7dfc26012b9c/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%E7%8F%BE%E5%A0%B4%EF%BD%9C%E8%AD%A6%E6%96%B93%E5%90%8D%E5%B7%A5%E4%BA%BA%E6%B6%89%E5%81%B7%E8%B5%B07%E4%BB%B6%E9%A6%96%E9%A3%BE%E7%B4%84%E5%80%BC9%E8%90%AC%E5%85%83-%E6%96%A5%E8%A1%8C%E7%82%BA%E5%8D%91%E5%8A%A3": {
+      "title": "宏福苑盜竊案‧現場｜警方：3名工人涉偷走7件首飾約值9萬元 斥行為卑劣 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:09:37.314435",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案現場警方3名工人涉偷走7件首飾約值9萬元-斥行為卑劣-宏福苑五級火-1天前-粵"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328222/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E9%81%87%E7%AB%8A-%E6%88%BF%E5%B1%8B%E5%B1%80%E8%B2%AC%E6%88%90%E6%89%BF%E5%BB%BA%E5%95%86%E5%8A%A0%E5%BC%B7%E4%BF%9D%E5%AE%89-%E5%B7%A5%E4%BA%BA%E9%9B%A2%E9%96%8B%E5%89%8D%E6%8E%A5%E5%8F%97%E6%90%9C%E8%BA%AB": {
+      "title": "宏福苑火後遇竊｜房屋局責成承建商加強保安　工人離開前接受搜身",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-07T22:09:39.769859",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後遇竊房屋局責成承建商加強保安-工人離開前接受搜身"
+    },
+    "https://news.now.com/home/local/player?newsId=639014": {
+      "title": "全國兩會｜唐英年指丁薛祥提及大選、大案、大火　提醒各人要對危害國安者嚴陣以待",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:41.389925",
+      "archive_path": "content\\news\\now-news\\archive\\全國兩會唐英年指丁薛祥提及大選大案大火-提醒各人要對危害國安者嚴陣以待"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846320-20260306.htm?archive_date=2026-03-06": {
+      "title": "據了解一名宏福苑工程加固工人涉嫌偷竊被捕　警方起回部分贓物",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-07T22:09:42.470017",
+      "archive_path": "content\\news\\rthk\\archive\\據了解一名宏福苑工程加固工人涉嫌偷竊被捕-警方起回部分贓物"
+    },
+    "https://news.tvb.com/tc/taipofire/69aaa7de101d7dfc2600a0e6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%93%9A%E6%82%893%E5%90%8D%E5%8A%A0%E5%9B%BA%E5%B7%A5%E7%A8%8B%E5%B7%A5%E4%BA%BA%E7%96%91%E5%81%B7%E7%AB%8A%E8%A2%AB%E6%8D%95-%E8%B5%B7%E5%9B%9E%E9%87%91%E5%99%A8%E7%AD%89%E5%85%A8%E9%83%A8%E8%B4%93%E7%89%A9": {
+      "title": "宏福苑五級火｜據悉3名加固工程工人疑偷竊被捕 起回金器等全部贓物 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:09:43.572952",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火據悉3名加固工程工人疑偷竊被捕-起回金器等全部贓物-宏福苑五級火-1天前-粵"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328207/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E9%81%87%E7%AB%8A-%E5%B7%A5%E4%BA%BA%E9%A0%88%E7%99%BB%E8%A8%98-%E8%AD%A6%E9%99%AA%E5%90%8C%E5%8F%8A%E6%90%9C%E7%89%A9%E5%93%81-%E7%8A%AF%E6%A1%88%E5%BE%8C%E5%8F%8A%E6%99%82%E8%A2%AB%E6%8F%AD%E7%99%BC": {
+      "title": "宏福苑火後遇竊｜工人須登記、警陪同及搜物品　犯案後及時被揭發",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-07T22:09:45.680712",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後遇竊工人須登記警陪同及搜物品-犯案後及時被揭發"
+    },
+    "https://news.now.com/home/local/player?newsId=639003": {
+      "title": "全國兩會｜唐英年指丁薛祥肯定香港有穩妥處理宏福苑火災善後　及時制止反中亂港人士",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:47.346179",
+      "archive_path": "content\\news\\now-news\\archive\\全國兩會唐英年指丁薛祥肯定香港有穩妥處理宏福苑火災善後-及時制止反中亂港人士"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846267-20260306.htm?archive_date=2026-03-06": {
+      "title": "全國兩會｜政協蘇長荣引述丁薛祥肯定特區處理宏福苑火災有序及時",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-07T22:09:48.082435",
+      "archive_path": "content\\news\\rthk\\archive\\全國兩會政協蘇長荣引述丁薛祥肯定特區處理宏福苑火災有序及時"
+    },
+    "https://news.tvb.com/tc/taipofire/69aa4a65101d7dfc26fdc7b0/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%94%BF%E5%BA%9C%E5%90%91%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%93%A1%E4%BD%95%E5%81%89%E8%B1%AA%E5%AE%B6%E5%B1%AC%E7%99%BC%E6%94%BE615%E8%90%AC%E5%85%83%E6%8D%A8%E8%BA%AB%E6%95%91%E4%BA%BA%E6%8F%B4%E5%8A%A9%E9%87%91": {
+      "title": "宏福苑五級火｜政府向殉職消防員何偉豪家屬發放615萬元「捨身救人」援助金 宏福苑五級火 1天前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:09:49.802001",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火政府向殉職消防員何偉豪家屬發放615萬元捨身救人援助金-宏福苑五級火-1天前"
+    },
+    "https://news.now.com/home/local/player?newsId=638996": {
+      "title": "全國兩會｜有政協引述丁薛祥讚揚特區政府有序及時處理宏福苑火災",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:52.940615",
+      "archive_path": "content\\news\\now-news\\archive\\全國兩會有政協引述丁薛祥讚揚特區政府有序及時處理宏福苑火災"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846253-20260306.htm?archive_date=2026-03-06": {
+      "title": "政府向宏福苑火災殉職消防隊目何偉豪家屬發放615萬元援助",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-07T22:09:54.051483",
+      "archive_path": "content\\news\\rthk\\archive\\政府向宏福苑火災殉職消防隊目何偉豪家屬發放615萬元援助"
+    },
+    "https://news.tvb.com/tc/taipofire/69abb80d101d7dfc2603475b/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E4%B8%89%E5%90%8D%E6%B6%89%E4%BA%8B%E5%B7%A5%E4%BA%BA%E6%8F%90%E5%A0%82-%E5%BB%BA%E9%80%A0%E6%A5%AD%E7%B8%BD%E5%B7%A5%E6%9C%83%E6%89%B9%E8%A1%8C%E7%82%BA%E5%8D%91%E5%8A%A3%E5%B1%AC%E5%80%8B%E5%88%A5%E4%BA%8B%E4%BB%B6": {
+      "title": "宏福苑盜竊案｜三名涉事工人提堂 建造業總工會批行為卑劣屬個別事件 宏福苑五級火 8小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:09:55.691165",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案三名涉事工人提堂-建造業總工會批行為卑劣屬個別事件-宏福苑五級火-8小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=638975": {
+      "title": "宏福苑火災｜殉職消防隊目何偉豪家屬獲發615萬元經濟援助金",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:09:58.444254",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災殉職消防隊目何偉豪家屬獲發615萬元經濟援助金"
+    },
+    "https://news.tvb.com/tc/taipofire/69ab07e8101d7dfc2601e1ac/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E5%8D%93%E6%B0%B8%E8%88%88%E5%B7%B2%E8%A6%81%E6%B1%82%E7%95%B6%E5%B1%80%E6%AA%A2%E8%A6%96%E9%80%B2%E5%87%BA%E5%B1%8B%E8%8B%91%E6%B5%81%E7%A8%8B-%E5%B7%A5%E4%BA%BA%E9%9B%A2%E5%A0%B4%E9%A0%88%E6%90%9C%E8%BA%AB": {
+      "title": "宏福苑盜竊案｜卓永興：已要求當局檢視進出屋苑流程 工人離場須搜身 宏福苑五級火 21小時前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:10:01.787450",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案卓永興已要求當局檢視進出屋苑流程-工人離場須搜身-宏福苑五級火-21小時前"
+    },
+    "https://news.now.com/home/local/player?newsId=639120": {
+      "title": "宏福苑爆盜竊案　災民警署備案冀盡快上樓取回物品",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:10:03.716683",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑爆盜竊案-災民警署備案冀盡快上樓取回物品"
+    },
+    "https://news.tvb.com/tc/taipofire/69aae50b101d7dfc26016cff/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E4%B8%89%E5%90%8D%E5%B7%A5%E4%BA%BA%E6%B6%89%E5%81%B7%E8%B5%B0%E9%A6%96%E9%A3%BE%E5%85%B1%E7%B4%84%E4%B9%9D%E8%90%AC%E5%85%83-%E6%94%BF%E5%BA%9C%E9%AB%98%E5%BA%A6%E9%97%9C%E6%B3%A8%E8%A6%81%E6%B1%82%E5%BC%95%E5%85%A5%E5%8A%A0%E5%BC%B7%E6%8E%AA%E6%96%BD": {
+      "title": "宏福苑盜竊案｜三名工人涉偷走首飾共約九萬元 政府高度關注要求引入加強措施 宏福苑五級火 22小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:10:07.662086",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案三名工人涉偷走首飾共約九萬元-政府高度關注要求引入加強措施-宏福苑五級火-22小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639108": {
+      "title": "宏福苑盜竊案　有災民擔心財物被盜到警署求助",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-07T22:10:10.395442",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑盜竊案-有災民擔心財物被盜到警署求助"
+    },
+    "https://news.tvb.com/tc/pearlnews/69aacaf2101d7dfc26011ab7/TVB%20News-Wang-Fuk-Court-resident-reports-suspected-burglary-from-a-unit-Thursday-night": {
+      "title": "Wang Fuk Court resident reports suspected burglary from a unit Thursday night",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:10:13.742909",
+      "archive_path": "content\\news\\tvb\\archive\\wang-fuk-court-resident-reports-suspected-burglary-from-a-unit-thursday-night"
+    },
+    "https://news.tvb.com/tc/pearlnews/69ac236c101d7dfc26047727/TVB-News-3-workers-suspected-of-stealing-jewellery-at-Wang-Fuk-Court-appear-in-court": {
+      "title": "3 workers suspected of stealing jewellery at Wang Fuk Court appear in court",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:10:19.196127",
+      "archive_path": "content\\news\\tvb\\archive\\3-workers-suspected-of-stealing-jewellery-at-wang-fuk-court-appear-in-court"
+    },
+    "https://news.tvb.com/tc/pearlnews/69aae26e101d7dfc2601671c/TVB%20News-Vice-Premier-Ding-Xuexiang-affirms-governments-work-on-Wang-Fuk-Court-and-Jimmy-Lai-case": {
+      "title": "Vice Premier Ding Xuexiang affirms government's work on Wang Fuk Court and Jimmy Lai case",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-07T22:10:24.735316",
+      "archive_path": "content\\news\\tvb\\archive\\vice-premier-ding-xuexiang-affirms-governments-work-on-wang-fuk-court-and-jimmy"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4336060/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%E4%B8%A8%E5%91%A8%E4%B8%80%E9%B3%B4%3A%E5%91%A8%E4%B8%80%E6%81%A2%E5%BE%A9%E5%8A%A0%E5%9B%BA%E5%B7%A5%E7%A8%8B+%E6%8E%A1%E6%90%9C%E8%BA%AB%E7%AD%89%E4%BF%9D%E5%AE%89%E6%8E%AA%E6%96%BD": {
+      "title": "宏福苑盜竊案丨周一鳴:周一恢復加固工程 採搜身等保安措施",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-09T23:04:25.896361",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑盜竊案丨周一鳴周一恢復加固工程-採搜身等保安措施"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4336171/%E5%AE%8F%E7%A6%8F4%E6%8B%9B%E9%98%B2%E8%B3%8A+%E5%B7%A5%E4%BA%BA%E9%A0%88%E6%90%9C%E8%BA%AB": {
+      "title": "宏福4招防賊 工人須搜身 火災單位失竊 周一鳴：倘警疏忽可處分",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-09T23:04:27.654803",
+      "archive_path": "content\\news\\hkej\\archive\\宏福4招防賊-工人須搜身-火災單位失竊-周一鳴倘警疏忽可處分"
+    },
+    "https://english.dotdotnews.com/a/202603/09/AP69ae6dd1e4b0c32d4f6b3ab7.html": {
+      "title": "Wang Fuk Court Aftermath | Police enhance security: Workers restricted to carrying cash and subject to searches",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-03-09T23:04:30.747237",
+      "archive_path": "content\\news\\dotdotnews\\archive\\wang-fuk-court-aftermath-police-enhance-security-workers-restricted-to-carrying"
+    },
+    "https://www.881903.com/news/local/2622044/": {
+      "title": "宏福苑周一恢復加固工程　周一鳴：將加強4項保安",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-09T23:04:34.742618",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑周一恢復加固工程-周一鳴將加強4項保安"
+    },
+    "https://hongkongfp.com/?p=556898": {
+      "title": "Explainer: Hong Kong’s national security crackdown – month 68",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-09T23:04:35.413699",
+      "archive_path": "content\\news\\hkfp\\archive\\explainer-hong-kongs-national-security-crackdown-month-68"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4337041/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE%E4%B8%A8%E4%BD%95%E6%B0%B8%E8%B3%A2%3A%E6%88%BF%E5%A7%94%E6%9C%83%E5%90%91%E5%87%BA%E5%94%AE%E6%A5%AD%E6%AC%8A%E6%A5%AD%E4%B8%BB%E6%8F%90%E4%BE%9B2000%E5%80%8B%E5%A4%A7%E5%96%AE%E4%BD%8D": {
+      "title": "宏福苑安置丨何永賢:房委會向出售業權業主提供2000個大單位",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-09T23:04:38.139645",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑安置丨何永賢房委會向出售業權業主提供2000個大單位"
+    },
+    "https://www.881903.com/news/local/2622033/": {
+      "title": "宏福苑安置｜房委會六項目500大單位　佔業戶不足3成",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-09T23:04:41.852997",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑安置房委會六項目500大單位-佔業戶不足3成"
+    },
+    "https://hongkongfp.com/?p=557669": {
+      "title": "Lawmaker Judy Chan fined HK$2,000, banned from driving for 1 month over traffic offence",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-09T23:04:41.940600",
+      "archive_path": "content\\news\\hkfp\\archive\\lawmaker-judy-chan-fined-hk2000-banned-from-driving-for-1-month-over-traffic"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4336172/%E6%88%BF%E5%A7%94%E5%AE%89%E7%BD%AE%E5%A4%A7%E5%96%AE%E4%BD%8D%E5%B0%91++%E7%81%BD%E6%B0%91%E6%80%A8%E8%B3%BC%E8%B2%B7%E9%9D%A0%E9%81%8B%E6%B0%A3": {
+      "title": "房委安置大單位少 災民怨購買靠運氣",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-09T23:04:45.508641",
+      "archive_path": "content\\news\\hkej\\archive\\房委安置大單位少-災民怨購買靠運氣"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328502/3%E5%B7%A5%E4%BA%BA%E7%9B%9C%E7%AB%8A%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%B1%85%E6%B0%91%E8%B2%A1%E7%89%A9-%E8%AD%A6%E6%96%B9%E5%91%A8%E4%B8%80%E6%8E%A84%E6%8B%9B%E9%98%B2%E7%9B%9C-%E5%B7%A5%E4%BA%BA%E9%9B%A2%E9%96%8B%E5%89%8D%E9%A0%88%E6%90%9C%E8%BA%AB": {
+      "title": "3工人盜竊宏福苑居民財物　警方周一推4招防盜　工人離開前須搜身",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-09T23:04:46.328667",
+      "archive_path": "content\\news\\hk01\\archive\\3工人盜竊宏福苑居民財物-警方周一推4招防盜-工人離開前須搜身"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4336323/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E6%88%BF%E5%A7%94%E6%9C%83%3A%E9%A0%8C%E9%9B%85%E8%B7%AF%E8%A5%BF%E9%A0%85%E7%9B%AE%E4%B8%8D%E5%B0%8F%E6%96%BC400%E5%91%8E": {
+      "title": "宏福苑大火丨房委會:頌雅路西項目不小於400呎",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-09T23:04:47.989998",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨房委會頌雅路西項目不小於400呎"
+    },
+    "https://hongkongfp.com/?p=557590": {
+      "title": "Hong Kong court rejects Wall Street Journal’s bid to throw out wrongful dismissal suit",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-09T23:04:48.284175",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-court-rejects-wall-street-journals-bid-to-throw-out-wrongful"
+    },
+    "https://www.881903.com/news/local/2622032/": {
+      "title": "兩會｜王靈桂：相信特區政府　會處理好大火善後工作",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-09T23:04:49.185822",
+      "archive_path": "content\\news\\commercial-radio\\archive\\兩會王靈桂相信特區政府-會處理好大火善後工作"
+    },
+    "https://www1.hkej.com/dailynews/views/article/4336173/%E5%9B%9B%E6%9C%88%E9%87%8D%E8%BF%94%E7%87%92%E6%AF%80%E5%AF%93%E6%89%80+%E5%AE%9C%E8%A6%AA%E5%8F%8B%E9%99%AA%E5%90%8C": {
+      "title": "四月重返燒毀寓所 宜親友陪同",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-09T23:04:52.502378",
+      "archive_path": "content\\news\\hkej\\archive\\四月重返燒毀寓所-宜親友陪同"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60328890/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%AE%89%E7%BD%AE-%E6%88%BF%E5%B1%8B%E5%B1%80%E5%8F%8D%E9%A7%81%E5%83%85500%E5%80%8B%E5%A4%A7%E5%96%AE%E4%BD%8D%E9%81%B8%E8%B3%BC-%E6%8C%87%E9%A0%8C%E9%9B%85%E8%B7%AF%E8%A5%BF%E6%9C%891500%E5%80%8B": {
+      "title": "宏福苑安置｜房屋局反駁僅500個大單位選購　指頌雅路西有1500個",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-09T23:04:54.148603",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑安置房屋局反駁僅500個大單位選購-指頌雅路西有1500個"
+    },
+    "https://hongkongfp.com/?p=557549": {
+      "title": "Tai Po fire: Workers at Wang Fuk Court to undergo tight security checks after 3 arrested for allegedly stealing jewellery",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-09T23:04:54.433217",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-fire-workers-at-wang-fuk-court-to-undergo-tight-security-checks-after-3"
+    },
+    "https://www.881903.com/news/local/2622029/": {
+      "title": "兩會丨仇鴻：現時國際形勢下 國安風險一直存在",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-09T23:04:54.534611",
+      "archive_path": "content\\news\\commercial-radio\\archive\\兩會丨仇鴻現時國際形勢下-國安風險一直存在"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4336326/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%B1%E7%AB%8A+%E5%91%A8%E4%B8%80%E9%B3%B4%3A%E6%8E%A14%E9%A0%85%E4%BF%9D%E5%AE%89%E6%8E%AA%E6%96%BD%E9%98%B2%E5%86%8D%E7%99%BC%E7%94%9F": {
+      "title": "宏福苑失竊 周一鳴:採4項保安措施防再發生",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-09T23:04:58.178095",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑失竊-周一鳴採4項保安措施防再發生"
+    },
+    "https://www.881903.com/news/local/2622127/": {
+      "title": "宏福苑安置 |  房委會大單位僅500個　黃碧如：整體人口影響大單位減少",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-09T23:05:00.865304",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑安置-房委會大單位僅500個-黃碧如整體人口影響大單位減少"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328691/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E9%81%87%E7%AB%8A-%E5%B1%85%E6%B0%91%E5%A0%B1%E6%A1%88%E6%86%82%E9%81%BA%E5%AE%B6%E4%B8%AD%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A2%AB%E7%9B%9C%E7%94%A8-%E8%AD%A6%E7%99%BB%E6%A8%93%E5%85%A5%E5%B1%8B%E5%B0%8B%E7%8D%B2": {
+      "title": "宏福苑火後遇竊｜居民報案憂遺家中信用卡被盜用　警登樓入屋尋獲",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-09T23:05:04.469802",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後遇竊居民報案憂遺家中信用卡被盜用-警登樓入屋尋獲"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1846506-20260308.htm?archive_date=2026-03-08": {
+      "title": "Wang Fuk Court security to be tightened: police chief",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:05.184473",
+      "archive_path": "content\\news\\rthk\\archive\\wang-fuk-court-security-to-be-tightened-police-chief"
+    },
+    "https://news.now.com/home/local/player?newsId=639145": {
+      "title": "即日焦點｜丁薛祥冀立法會探索和實踐行政主導／伊朗總統就襲擊鄰國致歉",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:10.402650",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點丁薛祥冀立法會探索和實踐行政主導伊朗總統就襲擊鄰國致歉"
+    },
+    "https://www.881903.com/news/local/2622138/": {
+      "title": "警方加強宏福苑保安措施　居民批評亡羊補牢",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-09T23:05:10.574865",
+      "archive_path": "content\\news\\commercial-radio\\archive\\警方加強宏福苑保安措施-居民批評亡羊補牢"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328626/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E5%BE%8C%E9%81%87%E7%AB%8A-%E7%BA%8C%E5%8A%A0%E5%9B%BA%E5%B7%A5%E7%A8%8B-%E8%A8%AD%E8%AD%A6%E5%B4%97%E5%8A%A0%E5%BC%B7%E4%BF%9D%E5%AE%89-%E5%B7%A5%E4%BA%BA%E5%85%88%E7%99%BB%E8%A8%98%E5%BE%8C%E4%B8%8A%E7%8F%AD": {
+      "title": "宏福苑火後遇竊｜續加固工程　設警崗加強保安　工人先登記後上班",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-09T23:05:13.271544",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火後遇竊續加固工程-設警崗加強保安-工人先登記後上班"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846507-20260308.htm?archive_date=2026-03-08": {
+      "title": "新居屋及綠置居預留二千個單位予宏福苑業主選購",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:13.426161",
+      "archive_path": "content\\news\\rthk\\archive\\新居屋及綠置居預留二千個單位予宏福苑業主選購"
+    },
+    "https://news.now.com/home/local/player?newsId=639223": {
+      "title": "即日焦點｜王毅再促停止美以襲伊朗軍事行動／宏福苑加固工程周一恢復　警方加強保安措施",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:17.268456",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點王毅再促停止美以襲伊朗軍事行動宏福苑加固工程周一恢復-警方加強保安措施"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846502-20260308.htm?archive_date=2026-03-08": {
+      "title": "周一鳴：明日恢復宏福苑鞏固工程　加強保安工人完成工作時需搜身",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:20.131501",
+      "archive_path": "content\\news\\rthk\\archive\\周一鳴明日恢復宏福苑鞏固工程-加強保安工人完成工作時需搜身"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60328604/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E5%B7%A5%E4%BA%BA%E6%B6%89%E7%9B%9C%E7%AB%8A-%E5%B1%85%E6%B0%91%E6%82%B2%E5%95%8F-%E5%8F%AF%E8%83%BD%E4%BF%82%E9%81%BA%E7%89%A9%E5%9A%9F-%E9%BB%9E%E8%A7%A3%E9%83%BD%E8%A6%81%E5%81%B7": {
+      "title": "宏福苑火災｜工人涉盜竊　居民悲問：可能係遺物嚟　點解都要偷？",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-09T23:05:21.821536",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火災工人涉盜竊-居民悲問可能係遺物嚟-點解都要偷"
+    },
+    "https://news.now.com/home/local/player?newsId=639213": {
+      "title": "宏福苑五級火災｜加固工程周一恢復　警方加強保安措施",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:25.118244",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災加固工程周一恢復-警方加強保安措施"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1846561-20260309.htm?archive_date=2026-03-09": {
+      "title": "'Tightened security at Wang Fuk Court protects all'",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:27.236087",
+      "archive_path": "content\\news\\rthk\\archive\\tightened-security-at-wang-fuk-court-protects-all"
+    },
+    "https://news.tvb.com/tc/taipofire/69ad773c2dd2502b58742272/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E8%AD%A6%E6%96%B9%E5%8A%A0%E5%BC%B7%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BF%9D%E5%AE%89%E6%BB%AF%E7%95%99%E4%B8%AD%E6%9D%B1%E6%B8%AF%E4%BA%BA%E5%9B%9E%E6%B8%AF%E5%B0%88%E8%A8%AA%E4%B8%98%E6%87%89%E6%A8%BA": {
+      "title": "八分鐘本地新聞重點｜警方加強宏福苑保安／滯留中東港人回港／專訪丘應樺 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:05:29.345828",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點警方加強宏福苑保安滯留中東港人回港專訪丘應樺-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639208": {
+      "title": "宏福苑五級火災｜警方接81宗宏福苑居民求助憂失竊　周一鳴︰明起工人上樓不准帶逾500元現金及離開須搜身",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:32.343646",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災警方接81宗宏福苑居民求助憂失竊-周一鳴明起工人上樓不准帶逾500元現金及離開須搜身"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846629-20260309.htm?archive_date=2026-03-09": {
+      "title": "何永賢：房委會向出售業權宏福苑業主提供2000個大單位",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:34.877516",
+      "archive_path": "content\\news\\rthk\\archive\\何永賢房委會向出售業權宏福苑業主提供2000個大單位"
+    },
+    "https://news.tvb.com/tc/taipofire/69ac6574e51148b01ae0b51d/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E4%B8%80%E5%91%A8%E5%A4%A7%E4%BA%8B%E5%9B%9E%E9%A1%A7%EF%BD%9C3%E6%9C%881%E6%97%A5%E8%87%B33%E6%9C%887%E6%97%A5": {
+      "title": "一周大事回顧｜3月1日至3月7日 宏福苑五級火 1天前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:05:35.742241",
+      "archive_path": "content\\news\\tvb\\archive\\一周大事回顧3月1日至3月7日-宏福苑五級火-1天前"
+    },
+    "https://news.now.com/home/local/player?newsId=639206": {
+      "title": "宏福苑五級火災｜房屋局：業主除2000伙新資助出售房屋　可選大埔頌雅路西項目",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:38.543801",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災房屋局業主除2000伙新資助出售房屋-可選大埔頌雅路西項目"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846626-20260309.htm?archive_date=2026-03-09": {
+      "title": "警方接105宗求助關注宏福苑財物　包括一宗信用卡懷疑被盜用",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:41.624312",
+      "archive_path": "content\\news\\rthk\\archive\\警方接105宗求助關注宏福苑財物-包括一宗信用卡懷疑被盜用"
+    },
+    "https://news.tvb.com/tc/taipofire/69ad54c92dd2502b5873cea4/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E5%85%B1%E4%BA%8C%E5%8D%83%E5%96%AE%E4%BD%8D%E5%8F%AF%E4%BE%9B%E6%A8%93%E6%8F%9B%E6%A8%93-%E5%95%9F%E5%BE%B7%E5%B1%85%E5%B1%8B%E5%95%9F%E9%99%BD%E8%8B%91%E4%BD%94%E6%9C%80%E5%A4%9A": {
+      "title": "宏福苑長遠居住安排｜共二千單位可供「樓換樓」 啟德居屋啟陽苑佔最多 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:05:41.884600",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑長遠居住安排共二千單位可供樓換樓-啟德居屋啟陽苑佔最多-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639202": {
+      "title": "全國兩會｜王靈桂仇鴻回應宏福苑火災　指相信特區政府會認真處理善後",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:44.961634",
+      "archive_path": "content\\news\\now-news\\archive\\全國兩會王靈桂仇鴻回應宏福苑火災-指相信特區政府會認真處理善後"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846609-20260309.htm?archive_date=2026-03-09": {
+      "title": "宏福苑即日起加強保安　工人落樓須搜身",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:47.984907",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑即日起加強保安-工人落樓須搜身"
+    },
+    "https://news.tvb.com/tc/taipofire/69ad54b32dd2502b5873ce4b/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E5%91%A8%E4%B8%80%E6%81%A2%E5%BE%A9%E5%8A%A0%E5%9B%BA%E5%B7%A5%E7%A8%8B-%E8%AD%A6%E6%96%B9%E5%8A%A0%E5%BC%B7%E4%BF%9D%E5%AE%89%E6%8E%AA%E6%96%BD%E5%8C%85%E6%8B%AC%E5%B7%A5%E4%BA%BA%E9%9B%A2%E9%96%8B%E5%89%8D%E9%A0%88%E6%90%9C%E8%BA%AB": {
+      "title": "宏福苑盜竊案｜周一恢復加固工程 警方加強保安措施包括工人離開前須搜身 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:05:48.712708",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案周一恢復加固工程-警方加強保安措施包括工人離開前須搜身-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639183": {
+      "title": "宏福苑五級火災｜新居屋及綠置居預留500大單位予災民　另倡保留綠表資格兩年",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:51.362603",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災新居屋及綠置居預留500大單位予災民-另倡保留綠表資格兩年"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846610-20260309.htm?archive_date=2026-03-09": {
+      "title": "新居屋及綠置居預留2000單位予宏福苑業主選購",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:05:54.221350",
+      "archive_path": "content\\news\\rthk\\archive\\新居屋及綠置居預留2000單位予宏福苑業主選購"
+    },
+    "https://news.tvb.com/tc/taipofire/69ad4de92dd2502b5873bc86/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E5%91%A8%E4%B8%80%E9%B3%B4%E6%8C%87%E8%AD%A6%E6%96%B9%E5%B7%B2%E6%AA%A2%E8%A6%96%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BF%9D%E5%AE%89%E7%A8%8B%E5%BA%8F-%E6%9C%83%E7%A2%BA%E4%BF%9D%E7%9B%B8%E9%97%9C%E6%8E%AA%E6%96%BD%E8%B6%B3%E5%A4%A0": {
+      "title": "宏福苑盜竊案｜周一鳴指警方已檢視宏福苑保安程序 會確保相關措施足夠 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:05:54.665751",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案周一鳴指警方已檢視宏福苑保安程序-會確保相關措施足夠-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639351": {
+      "title": "宏福苑五級火災｜警方接獲105宗關注宏福苑保安及單位財物情況的求助個案",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:05:57.821430",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災警方接獲105宗關注宏福苑保安及單位財物情況的求助個案"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846556-20260309.htm?archive_date=2026-03-09": {
+      "title": "宏福苑實施新措施加強保安　有工人稱可保障自己及他人",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:06:00.778385",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑實施新措施加強保安-有工人稱可保障自己及他人"
+    },
+    "https://news.tvb.com/tc/taipofire/69ad456b2dd2502b5873a54d/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E5%91%A8%E4%B8%80%E9%B3%B4%E6%98%8E%E8%B5%B7%E5%8A%A0%E5%BC%B7%E4%BF%9D%E5%AE%89%E6%8E%AA%E6%96%BD-%E5%8C%85%E6%8B%AC%E5%85%88%E8%A8%98%E9%8C%84%E5%96%AE%E4%BD%8D%E6%9C%89%E7%84%A1%E6%98%8E%E9%A1%AF%E8%B2%A1%E7%89%A9": {
+      "title": "宏福苑盜竊案｜周一鳴：明起加強保安措施 包括先記錄單位有無明顯財物 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:00.861567",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案周一鳴明起加強保安措施-包括先記錄單位有無明顯財物-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639314": {
+      "title": "宏福苑五級火災｜警方加強保安　工人安檢後才能上樓　落樓需搜身並向警員登記",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:03.467766",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災警方加強保安-工人安檢後才能上樓-落樓需搜身並向警員登記"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1846554-20260309.htm?archive_date=2026-03-09": {
+      "title": "黃碧如：宏福苑事件後頌雅路西項目改成居屋單位全數不小於四百呎",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-09T23:06:06.944722",
+      "archive_path": "content\\news\\rthk\\archive\\黃碧如宏福苑事件後頌雅路西項目改成居屋單位全數不小於四百呎"
+    },
+    "https://news.tvb.com/tc/taipofire/69ad34332dd2502b58737266/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E6%88%BF%E5%A7%94%E6%9C%83%E4%BA%A4%E4%BB%A3%E5%90%84%E9%A0%85%E6%A8%93%E6%8F%9B%E6%A8%93%E9%81%B8%E9%A0%85%E5%96%AE%E4%BD%8D%E6%95%B8%E7%9B%AE": {
+      "title": "宏福苑長遠居住安排｜房委會交代各項「樓換樓」選項單位數目 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:07.109508",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑長遠居住安排房委會交代各項樓換樓選項單位數目-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639304": {
+      "title": "宏福苑五級火災｜據悉有宏福苑居民一月收交易短訊　疑遺留在家信用卡被盜用",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:09.758616",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災據悉有宏福苑居民一月收交易短訊-疑遺留在家信用卡被盜用"
+    },
+    "https://news.tvb.com/tc/taipofire/69aeb01b2dd2502b5878bd0a/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%B0%88%E5%AE%B6%E6%96%99%E6%9C%80%E5%BF%AB%E4%B8%8B%E6%9C%88%E5%8A%A0%E9%9B%BB%E8%B2%BB%E8%B7%9F%E9%80%B2%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%E5%B0%8D%E6%8E%A5%E5%8D%81%E4%BA%94%E4%BA%94": {
+      "title": "八分鐘本地新聞重點｜專家料最快下月加電費／跟進宏福苑盜竊案／對接十五五 宏福苑五級火 1小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:13.337215",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點專家料最快下月加電費跟進宏福苑盜竊案對接十五五-宏福苑五級火-1小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639286": {
+      "title": "宏福苑五級火災｜大埔區議員稱加強保安措施安排合理　冀當局盡快公布居民上樓安排",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:15.520130",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災大埔區議員稱加強保安措施安排合理-冀當局盡快公布居民上樓安排"
+    },
+    "https://news.tvb.com/tc/taipofire/69aec7cc2dd2502b58798a47/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E6%88%BF%E5%A7%94%E6%9C%83%E5%8F%8A%E6%88%BF%E5%8D%94%E5%B0%87%E7%82%BA%E5%87%BA%E5%94%AE%E6%A5%AD%E6%AC%8A%E6%A5%AD%E4%B8%BB%E6%8F%90%E4%BE%9B%E8%BF%91%E5%9B%9B%E5%8D%83%E5%80%8B%E5%96%AE%E4%BD%8D": {
+      "title": "宏福苑長遠居住安排｜房委會及房協將為出售業權業主提供近四千個單位 宏福苑五級火 1小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:18.905656",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑長遠居住安排房委會及房協將為出售業權業主提供近四千個單位-宏福苑五級火-1小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639272": {
+      "title": "宏福苑五級火災｜警方即日起加強保安　工人上樓前要將財物存放儲物櫃　落樓需搜身",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:21.708000",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災警方即日起加強保安-工人上樓前要將財物存放儲物櫃-落樓需搜身"
+    },
+    "https://news.tvb.com/tc/taipofire/69ae46552dd2502b5875dcf6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E8%AD%A6%E6%96%B9%E5%8A%A0%E5%BC%B7%E4%BF%9D%E5%AE%89-%E6%9C%89%E5%B1%85%E6%B0%91%E5%A0%B1%E7%A8%B1%E7%96%91%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%81%AD%E7%9B%9C%E7%94%A8%E8%AA%BF%E6%9F%A5%E5%BE%8C%E5%96%AE%E4%BD%8D%E5%85%A7%E5%B0%8B%E5%9B%9E": {
+      "title": "宏福苑盜竊案｜警方加強保安 有居民報稱疑信用卡遭盜用調查後單位內尋回 宏福苑五級火 2小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:24.907292",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案警方加強保安-有居民報稱疑信用卡遭盜用調查後單位內尋回-宏福苑五級火-2小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639265": {
+      "title": "宏福苑五級火災｜警方即日起加強保安　工人落樓需搜身　居民不滿仍未能上樓查看單位",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:26.988740",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災警方即日起加強保安-工人落樓需搜身-居民不滿仍未能上樓查看單位"
+    },
+    "https://news.tvb.com/tc/taipofire/69ae6c242dd2502b587657f8/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E8%81%BD%E2%96%B6%EF%B8%8E%E6%B8%AF%E8%81%9E%EF%BD%9C%E5%8A%A0%E5%BC%B7%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BF%9D%E5%AE%89-%E5%B0%8D%E6%8E%A5%E5%8D%81%E4%BA%94%E4%BA%94%E8%A6%8F%E5%8A%83-%E5%B9%B3%E5%AE%89%E5%8D%A1%E8%AA%B2%E7%A8%8B%E6%A9%9F%E6%A7%8B%E6%8A%AB%E9%9C%B2%E8%A9%A6%E9%A1%8C%E7%AD%94%E6%A1%88%EF%BD%9C2026%E5%B9%B43%E6%9C%889%E6%97%A5": {
+      "title": "聽▶︎港聞｜加強宏福苑保安 對接十五五規劃 平安卡課程機構披露試題答案｜2026年3月9日 宏福苑五級火 5小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:31.352385",
+      "archive_path": "content\\news\\tvb\\archive\\聽港聞加強宏福苑保安-對接十五五規劃-平安卡課程機構披露試題答案2026年3月9日-宏福苑五級火-5小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639247": {
+      "title": "宏福苑五級火災｜警方即日起加強保安　工人落樓需搜身",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:33.104073",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑五級火災警方即日起加強保安-工人落樓需搜身"
+    },
+    "https://news.tvb.com/tc/taipofire/69ae25cf2dd2502b587581a8/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%9B%9C%E7%AB%8A%E6%A1%88%EF%BD%9C%E8%AD%A6%E6%96%B9%E5%8A%A0%E5%BC%B7%E5%AE%89%E4%BF%9D%E7%94%A8%E9%87%91%E5%B1%AC%E6%8E%A2%E6%B8%AC%E5%99%A8%E6%90%9C%E8%BA%AB-%E6%9C%89%E5%B7%A5%E4%BA%BA%E8%A1%A8%E7%A4%BA%E7%90%86%E8%A7%A3": {
+      "title": "宏福苑盜竊案｜警方加強安保用金屬探測器搜身 有工人表示理解 宏福苑五級火 12小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:37.114774",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑盜竊案警方加強安保用金屬探測器搜身-有工人表示理解-宏福苑五級火-12小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=639240": {
+      "title": "採訪日誌｜國泰與西九推出香港精神號客機／宏福苑恢復加固工程",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:38.860684",
+      "archive_path": "content\\news\\now-news\\archive\\採訪日誌國泰與西九推出香港精神號客機宏福苑恢復加固工程"
+    },
+    "https://news.tvb.com/tc/taipofire/69ad8f152dd2502b5874691f/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E6%88%BF%E5%B1%8B%E5%B1%80%E9%A0%8C%E9%9B%85%E8%B7%AF%E8%A5%BF%E5%96%AE%E4%BD%8D%E5%9D%87%E7%82%BA400%E5%A4%9A%E5%91%8E-%E8%B2%BC%E8%BF%91%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%96%AE%E4%BD%8D%E9%9D%A2%E7%A9%8D": {
+      "title": "宏福苑長遠居住安排｜房屋局：頌雅路西單位均為400多呎 貼近宏福苑單位面積 宏福苑五級火 23小時前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:43.176580",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑長遠居住安排房屋局頌雅路西單位均為400多呎-貼近宏福苑單位面積-宏福苑五級火-23小時前"
+    },
+    "https://news.now.com/home/local/player?newsId=639228": {
+      "title": "晨早新聞重點｜據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖／警方加強宏福苑保安措施　工人離開時要搜身",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-09T23:06:45.334209",
+      "archive_path": "content\\news\\now-news\\archive\\晨早新聞重點據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖警方加強宏福苑保安措施-工人離開時要搜身"
+    },
+    "https://news.tvb.com/tc/pearlnews/69ac236c101d7dfc26047727/TVB%20News-3-workers-suspected-of-stealing-jewellery-at-Wang-Fuk-Court-appear-in-court": {
+      "title": "3 workers suspected of stealing jewellery at Wang Fuk Court appear in court",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:48.941320",
+      "archive_path": "content\\news\\tvb\\archive\\3-workers-suspected-of-stealing-jewellery-at-wang-fuk-court-appear-in-court-1"
+    },
+    "https://news.tvb.com/tc/pearlnews/69ad7ba02dd2502b58742e6a/TVB%20News-Police-to-strengthen-security-measures-at-Wang-Fuk-Court": {
+      "title": "Police to strengthen security measures at Wang Fuk Court",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:06:54.514994",
+      "archive_path": "content\\news\\tvb\\archive\\police-to-strengthen-security-measures-at-wang-fuk-court"
+    },
+    "https://news.tvb.com/tc/pearlnews/69ae567d2dd2502b58760952/TVB%20News-Workers-show-understanding-toward-tightened-security-measures-in-Wang-Fuk-Court": {
+      "title": "Workers show understanding toward tightened security measures in Wang Fuk Court",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-09T23:07:00.676704",
+      "archive_path": "content\\news\\tvb\\archive\\workers-show-understanding-toward-tightened-security-measures-in-wang-fuk-court"
     }
   },
-  "last_updated": "2026-03-05T22:16:55.835525"
+  "last_updated": "2026-03-09T23:07:00.676758"
 }

@@ -1330,3 +1330,41 @@
 ### 2026-03-04
 - [銀行業延長宏福苑受影響人士各類貸款還款期六個月](https://news.now.com/home/local/player?newsId=638750) [Original](https://news.now.com/home/local/player?newsId=638750){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行業延長宏福苑受影響人士各類貸款還款期六個月/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜災民貸款延至11月底還款　銀行助業主處理按揭](https://news.now.com/home/local/player?newsId=638717) [Original](https://news.now.com/home/local/player?newsId=638717){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災災民貸款延至11月底還款-銀行助業主處理按揭/){.md-button .hkfd-news-button}
+
+
+### 2026-03-06
+- [宏福苑盜竊案｜政府高度關注　已要求覆檢出入屋苑流程](https://news.now.com/home/local/player?newsId=639062) [Original](https://news.now.com/home/local/player?newsId=639062){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑盜竊案政府高度關注-已要求覆檢出入屋苑流程/){.md-button .hkfd-news-button}
+- [即日焦點｜丁薛祥指行政主導是廣大市民共同責任／工人涉盜去宏福苑單位首飾被捕](https://news.now.com/home/local/player?newsId=639053) [Original](https://news.now.com/home/local/player?newsId=639053){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點丁薛祥指行政主導是廣大市民共同責任工人涉盜去宏福苑單位首飾被捕/){.md-button .hkfd-news-button}
+- [三名工人盜竊宏福苑單位9萬元首飾　警方：行為卑劣予以嚴厲譴責](https://news.now.com/home/local/player?newsId=639052) [Original](https://news.now.com/home/local/player?newsId=639052){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/三名工人盜竊宏福苑單位9萬元首飾-警方行為卑劣予以嚴厲譴責/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜據悉三名工人涉於加固工程期間盜去單位內財物](https://news.now.com/home/local/player?newsId=639036) [Original](https://news.now.com/home/local/player?newsId=639036){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災據悉三名工人涉於加固工程期間盜去單位內財物/){.md-button .hkfd-news-button}
+- [全國兩會｜唐英年指丁薛祥提及大選、大案、大火　提醒各人要對危害國安者嚴陣以待](https://news.now.com/home/local/player?newsId=639014) [Original](https://news.now.com/home/local/player?newsId=639014){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會唐英年指丁薛祥提及大選大案大火-提醒各人要對危害國安者嚴陣以待/){.md-button .hkfd-news-button}
+- [全國兩會｜唐英年指丁薛祥肯定香港有穩妥處理宏福苑火災善後　及時制止反中亂港人士](https://news.now.com/home/local/player?newsId=639003) [Original](https://news.now.com/home/local/player?newsId=639003){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會唐英年指丁薛祥肯定香港有穩妥處理宏福苑火災善後-及時制止反中亂港人士/){.md-button .hkfd-news-button}
+- [全國兩會｜有政協引述丁薛祥讚揚特區政府有序及時處理宏福苑火災](https://news.now.com/home/local/player?newsId=638996) [Original](https://news.now.com/home/local/player?newsId=638996){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會有政協引述丁薛祥讚揚特區政府有序及時處理宏福苑火災/){.md-button .hkfd-news-button}
+- [宏福苑火災｜殉職消防隊目何偉豪家屬獲發615萬元經濟援助金](https://news.now.com/home/local/player?newsId=638975) [Original](https://news.now.com/home/local/player?newsId=638975){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災殉職消防隊目何偉豪家屬獲發615萬元經濟援助金/){.md-button .hkfd-news-button}
+
+### 2026-03-07
+- [宏福苑爆盜竊案　災民警署備案冀盡快上樓取回物品](https://news.now.com/home/local/player?newsId=639120) [Original](https://news.now.com/home/local/player?newsId=639120){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑爆盜竊案-災民警署備案冀盡快上樓取回物品/){.md-button .hkfd-news-button}
+- [宏福苑盜竊案　有災民擔心財物被盜到警署求助](https://news.now.com/home/local/player?newsId=639108) [Original](https://news.now.com/home/local/player?newsId=639108){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑盜竊案-有災民擔心財物被盜到警署求助/){.md-button .hkfd-news-button}
+
+
+### 2026-03-07
+- [即日焦點｜丁薛祥冀立法會探索和實踐行政主導／伊朗總統就襲擊鄰國致歉](https://news.now.com/home/local/player?newsId=639145) [Original](https://news.now.com/home/local/player?newsId=639145){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點丁薛祥冀立法會探索和實踐行政主導伊朗總統就襲擊鄰國致歉/){.md-button .hkfd-news-button}
+
+### 2026-03-08
+- [即日焦點｜王毅再促停止美以襲伊朗軍事行動／宏福苑加固工程周一恢復　警方加強保安措施](https://news.now.com/home/local/player?newsId=639223) [Original](https://news.now.com/home/local/player?newsId=639223){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點王毅再促停止美以襲伊朗軍事行動宏福苑加固工程周一恢復-警方加強保安措施/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜加固工程周一恢復　警方加強保安措施](https://news.now.com/home/local/player?newsId=639213) [Original](https://news.now.com/home/local/player?newsId=639213){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災加固工程周一恢復-警方加強保安措施/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜警方接81宗宏福苑居民求助憂失竊　周一鳴︰明起工人上樓不准帶逾500元現金及離開須搜身](https://news.now.com/home/local/player?newsId=639208) [Original](https://news.now.com/home/local/player?newsId=639208){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方接81宗宏福苑居民求助憂失竊-周一鳴明起工人上樓不准帶逾500元現金及離開須搜身/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜房屋局：業主除2000伙新資助出售房屋　可選大埔頌雅路西項目](https://news.now.com/home/local/player?newsId=639206) [Original](https://news.now.com/home/local/player?newsId=639206){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災房屋局業主除2000伙新資助出售房屋-可選大埔頌雅路西項目/){.md-button .hkfd-news-button}
+- [全國兩會｜王靈桂仇鴻回應宏福苑火災　指相信特區政府會認真處理善後 ](https://news.now.com/home/local/player?newsId=639202) [Original](https://news.now.com/home/local/player?newsId=639202){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會王靈桂仇鴻回應宏福苑火災-指相信特區政府會認真處理善後/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜新居屋及綠置居預留500大單位予災民　另倡保留綠表資格兩年](https://news.now.com/home/local/player?newsId=639183) [Original](https://news.now.com/home/local/player?newsId=639183){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災新居屋及綠置居預留500大單位予災民-另倡保留綠表資格兩年/){.md-button .hkfd-news-button}
+
+### 2026-03-09
+- [宏福苑五級火災｜警方接獲105宗關注宏福苑保安及單位財物情況的求助個案](https://news.now.com/home/local/player?newsId=639351) [Original](https://news.now.com/home/local/player?newsId=639351){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方接獲105宗關注宏福苑保安及單位財物情況的求助個案/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜警方加強保安　工人安檢後才能上樓　落樓需搜身並向警員登記](https://news.now.com/home/local/player?newsId=639314) [Original](https://news.now.com/home/local/player?newsId=639314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方加強保安-工人安檢後才能上樓-落樓需搜身並向警員登記/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜據悉有宏福苑居民一月收交易短訊　疑遺留在家信用卡被盜用](https://news.now.com/home/local/player?newsId=639304) [Original](https://news.now.com/home/local/player?newsId=639304){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災據悉有宏福苑居民一月收交易短訊-疑遺留在家信用卡被盜用/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜大埔區議員稱加強保安措施安排合理　冀當局盡快公布居民上樓安排](https://news.now.com/home/local/player?newsId=639286) [Original](https://news.now.com/home/local/player?newsId=639286){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔區議員稱加強保安措施安排合理-冀當局盡快公布居民上樓安排/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜警方即日起加強保安　工人上樓前要將財物存放儲物櫃　落樓需搜身](https://news.now.com/home/local/player?newsId=639272) [Original](https://news.now.com/home/local/player?newsId=639272){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方即日起加強保安-工人上樓前要將財物存放儲物櫃-落樓需搜身/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜警方即日起加強保安　工人落樓需搜身　居民不滿仍未能上樓查看單位](https://news.now.com/home/local/player?newsId=639265) [Original](https://news.now.com/home/local/player?newsId=639265){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方即日起加強保安-工人落樓需搜身-居民不滿仍未能上樓查看單位/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜警方即日起加強保安　工人落樓需搜身](https://news.now.com/home/local/player?newsId=639247) [Original](https://news.now.com/home/local/player?newsId=639247){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方即日起加強保安-工人落樓需搜身/){.md-button .hkfd-news-button}
+- [採訪日誌｜國泰與西九推出香港精神號客機／宏福苑恢復加固工程](https://news.now.com/home/local/player?newsId=639240) [Original](https://news.now.com/home/local/player?newsId=639240){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌國泰與西九推出香港精神號客機宏福苑恢復加固工程/){.md-button .hkfd-news-button}
+- [晨早新聞重點｜據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖／警方加強宏福苑保安措施　工人離開時要搜身](https://news.now.com/home/local/player?newsId=639228) [Original](https://news.now.com/home/local/player?newsId=639228){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖警方加強宏福苑保安措施-工人離開時要搜身/){.md-button .hkfd-news-button}

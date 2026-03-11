@@ -927,3 +927,8 @@
 ### 2026-03-09
 - [宏福苑安置 |  房委會大單位僅500個　黃碧如：整體人口影響大單位減少](https://www.881903.com/news/local/2622127/) [Original](https://www.881903.com/news/local/2622127/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置-房委會大單位僅500個-黃碧如整體人口影響大單位減少/){.md-button .hkfd-news-button}
 - [警方加強宏福苑保安措施　居民批評亡羊補牢](https://www.881903.com/news/local/2622138/) [Original](https://www.881903.com/news/local/2622138/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警方加強宏福苑保安措施-居民批評亡羊補牢/){.md-button .hkfd-news-button}
+
+
+### 2026-03-10
+- [紅十字會：收到5.3億元捐款　持續支援宏福苑居民](https://www.881903.com/news/local/2622330/) [Original](https://www.881903.com/news/local/2622330/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/紅十字會收到53億元捐款-持續支援宏福苑居民/){.md-button .hkfd-news-button}
+- [工會倡先歸還財物予宏福苑業戶　保障工友免「瓜田李下」](https://www.881903.com/news/local/2622297/) [Original](https://www.881903.com/news/local/2622297/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工會倡先歸還財物予宏福苑業戶-保障工友免瓜田李下/){.md-button .hkfd-news-button}

@@ -1,6 +1,6 @@
 {
-  "success": 4160,
-  "failed": 176,
+  "success": 4183,
+  "failed": 177,
   "failed_urls": [
     "https://www2.hkej.com/multimedia/view/id/4264272?/multimedia/searchlist/q/%E9%98%B2%E7%81%AB%E4%BE%8B%E5%A4%A7%E8%90%BD%E5%BE%8C+%E5%B1%8B%E7%BD%B2%E6%B6%88%E9%98%B2%E6%A9%9F%E9%9B%BB%E5%90%84%E8%87%AA%E7%82%BA%E6%94%BF%EF%BD%9C%E4%BF%A1%E5%A0%B1%E8%83%A1%E6%81%A9%E5%A8%81%E5%B0%88%E6%AC%84",
     "https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf",
@@ -57,6 +57,6 @@
     "https://news.now.com/home/local/player?newsId=633855",
     "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%A4%A7%E5%96%AE%E4%BD%8D%E5%B0%91%E5%B1%85%E6%B0%91%E7%88%AD%E5%B4%A9%E9%A0%AD%EF%BC%9F%E9%BB%83%E7%A2%A7%E5%A6%82%EF%BC%9A%E9%A0%8C%E9%9B%85%E8%B7%AF%E8%A5%BF%E6%9C%891500%E4%BC%99"
   ],
-  "cycles": 90,
+  "cycles": 91,
   "started_at": "2025-12-08T00:44:28.851238"
 }

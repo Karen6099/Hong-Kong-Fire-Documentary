@@ -1238,6 +1238,10 @@
 ### 2026-03-11
 - [宏福苑五級火｜香港紅十字會籌得約5.3億 當中預留逾億長期支援 宏福苑五級火 1天前 粵](https://news.tvb.com/tc/taipofire/69b030e82dd2502b588592f9/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%A6%99%E6%B8%AF%E7%B4%85%E5%8D%81%E5%AD%97%E6%9C%83%E7%B1%8C%E5%BE%97%E7%B4%845.3%E5%84%84-%E7%95%B6%E4%B8%AD%E9%A0%90%E7%95%99%E9%80%BE%E5%84%84%E9%95%B7%E6%9C%9F%E6%94%AF%E6%8F%B4) [Original](https://news.tvb.com/tc/taipofire/69b030e82dd2502b588592f9/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%A6%99%E6%B8%AF%E7%B4%85%E5%8D%81%E5%AD%97%E6%9C%83%E7%B1%8C%E5%BE%97%E7%B4%845.3%E5%84%84-%E7%95%B6%E4%B8%AD%E9%A0%90%E7%95%99%E9%80%BE%E5%84%84%E9%95%B7%E6%9C%9F%E6%94%AF%E6%8F%B4){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火香港紅十字會籌得約53億-當中預留逾億長期支援-宏福苑五級火-1天前-粵/){.md-button .hkfd-news-button}
 
+
+### 2026-03-14
+- [宏福苑長遠居住安排｜房屋局：無要求業主接受收購後30天內遷出過渡屋 宏福苑五級火 8小時前 粵](https://news.tvb.com/tc/taipofire/69b3e05c2dd2502b58a53605/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E6%88%BF%E5%B1%8B%E5%B1%80%E7%84%A1%E8%A6%81%E6%B1%82%E6%A5%AD%E4%B8%BB%E6%8E%A5%E5%8F%97%E6%94%B6%E8%B3%BC%E5%BE%8C30%E5%A4%A9%E5%85%A7%E9%81%B7%E5%87%BA%E9%81%8E%E6%B8%A1%E5%B1%8B) [Original](https://news.tvb.com/tc/taipofire/69b3e05c2dd2502b58a53605/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E9%95%B7%E9%81%A0%E5%B1%85%E4%BD%8F%E5%AE%89%E6%8E%92%EF%BD%9C%E6%88%BF%E5%B1%8B%E5%B1%80%E7%84%A1%E8%A6%81%E6%B1%82%E6%A5%AD%E4%B8%BB%E6%8E%A5%E5%8F%97%E6%94%B6%E8%B3%BC%E5%BE%8C30%E5%A4%A9%E5%85%A7%E9%81%B7%E5%87%BA%E9%81%8E%E6%B8%A1%E5%B1%8B){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排房屋局無要求業主接受收購後30天內遷出過渡屋-宏福苑五級火-8小時前-粵/){.md-button .hkfd-news-button}
+
 # TVB News (English)
 
 ### 2025-11-26

@@ -932,3 +932,12 @@
 ### 2026-03-10
 - [紅十字會：收到5.3億元捐款　持續支援宏福苑居民](https://www.881903.com/news/local/2622330/) [Original](https://www.881903.com/news/local/2622330/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/紅十字會收到53億元捐款-持續支援宏福苑居民/){.md-button .hkfd-news-button}
 - [工會倡先歸還財物予宏福苑業戶　保障工友免「瓜田李下」](https://www.881903.com/news/local/2622297/) [Original](https://www.881903.com/news/local/2622297/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工會倡先歸還財物予宏福苑業戶-保障工友免瓜田李下/){.md-button .hkfd-news-button}
+
+
+### 2026-03-12
+- [房協為宏福苑特設銷售計劃預留400單位　約8成5為400呎以上](https://www.881903.com/news/local/2622757/) [Original](https://www.881903.com/news/local/2622757/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協為宏福苑特設銷售計劃預留400單位-約8成5為400呎以上/){.md-button .hkfd-news-button}
+- [王岸然就被控妨害國安調查案申法援　押後下月再訊](https://www.881903.com/news/local/2622746/) [Original](https://www.881903.com/news/local/2622746/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/王岸然就被控妨害國安調查案申法援-押後下月再訊/){.md-button .hkfd-news-button}
+
+### 2026-03-13
+- [宏福苑喪親家庭支援計劃聯繫153死者家庭　初步篩查339人](https://www.881903.com/news/local/2622951/) [Original](https://www.881903.com/news/local/2622951/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑喪親家庭支援計劃聯繫153死者家庭-初步篩查339人/){.md-button .hkfd-news-button}
+- [政府：宏福苑業主長遠安置前　會持續有住宿及租金津貼](https://www.881903.com/news/local/2622904/) [Original](https://www.881903.com/news/local/2622904/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府宏福苑業主長遠安置前-會持續有住宿及租金津貼/){.md-button .hkfd-news-button}

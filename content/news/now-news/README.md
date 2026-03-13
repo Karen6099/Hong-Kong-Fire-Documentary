@@ -1380,3 +1380,11 @@
 - [時事全方位｜宏福苑盜竊案(一)](https://news.now.com/home/local/player?newsId=639392) [Original](https://news.now.com/home/local/player?newsId=639392){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑盜竊案一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜建造業倡政府點算屋苑單位財物後交還居民](https://news.now.com/home/local/player?newsId=639404) [Original](https://news.now.com/home/local/player?newsId=639404){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災建造業倡政府點算屋苑單位財物後交還居民/){.md-button .hkfd-news-button}
 - [採訪日誌｜紅十字會災後支援與復原工作／離島區議會討論渡輪加價](https://news.now.com/home/local/player?newsId=639370) [Original](https://news.now.com/home/local/player?newsId=639370){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌紅十字會災後支援與復原工作離島區議會討論渡輪加價/){.md-button .hkfd-news-button}
+
+
+### 2026-03-12
+- [宏福苑五級火災｜房協400個單位讓業主選購　當中逾八成半大單位](https://news.now.com/home/local/player?newsId=639756) [Original](https://news.now.com/home/local/player?newsId=639756){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災房協400個單位讓業主選購-當中逾八成半大單位/){.md-button .hkfd-news-button}
+
+### 2026-03-13
+- [宏福苑安置｜何永賢指過渡屋營運機構會彈性處理居民遷出安排](https://news.now.com/home/local/player?newsId=639873) [Original](https://news.now.com/home/local/player?newsId=639873){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置何永賢指過渡屋營運機構會彈性處理居民遷出安排/){.md-button .hkfd-news-button}
+- [強制虐兒舉報｜孫玉菡：至二月底接66宗疑嚴重個案　涉70名兒童](https://news.now.com/home/local/player?newsId=639831) [Original](https://news.now.com/home/local/player?newsId=639831){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/強制虐兒舉報孫玉菡至二月底接66宗疑嚴重個案-涉70名兒童/){.md-button .hkfd-news-button}

@@ -500,3 +500,11 @@
 
 ### 2026-03-10
 - [Tai Po fire: Industrial workers’ union urges gov’t to return residents’ belongings after suspected theft](https://hongkongfp.com/?p=557788) [Original](https://hongkongfp.com/?p=557788){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-industrial-workers-union-urges-govt-to-return-residents-belongings/){.md-button .hkfd-news-button}
+
+
+### 2026-03-12
+- [Records show reporter Selina Cheng was let go from WSJ due to redundancy, HR exec. says in unlawful dismissal suit](https://hongkongfp.com/?p=558057) [Original](https://hongkongfp.com/?p=558057){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/records-show-reporter-selina-cheng-was-let-go-from-wsj-due-to-redundancy-hr/){.md-button .hkfd-news-button}
+
+### 2026-03-13
+- [Some Wang Fuk Court residents to participate as involved parties in fire probe hearings](https://hongkongfp.com/?p=558202) [Original](https://hongkongfp.com/?p=558202){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/some-wang-fuk-court-residents-to-participate-as-involved-parties-in-fire-probe/){.md-button .hkfd-news-button}
+- [Hong Kong gov’t urged to stabilise oil prices as some residents turn to illicit fuel amid Middle East war](https://hongkongfp.com/?p=558104) [Original](https://hongkongfp.com/?p=558104){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-urged-to-stabilise-oil-prices-as-some-residents-turn-to-illicit/){.md-button .hkfd-news-button}

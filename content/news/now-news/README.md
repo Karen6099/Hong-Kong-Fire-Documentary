@@ -1368,3 +1368,23 @@
 - [宏福苑五級火災｜警方即日起加強保安　工人落樓需搜身](https://news.now.com/home/local/player?newsId=639247) [Original](https://news.now.com/home/local/player?newsId=639247){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方即日起加強保安-工人落樓需搜身/){.md-button .hkfd-news-button}
 - [採訪日誌｜國泰與西九推出香港精神號客機／宏福苑恢復加固工程](https://news.now.com/home/local/player?newsId=639240) [Original](https://news.now.com/home/local/player?newsId=639240){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌國泰與西九推出香港精神號客機宏福苑恢復加固工程/){.md-button .hkfd-news-button}
 - [晨早新聞重點｜據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖／警方加強宏福苑保安措施　工人離開時要搜身](https://news.now.com/home/local/player?newsId=639228) [Original](https://news.now.com/home/local/player?newsId=639228){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖警方加強宏福苑保安措施-工人離開時要搜身/){.md-button .hkfd-news-button}
+
+
+### 2026-03-09
+- [即日焦點｜警方加強宏福苑保安／哈梅內伊之子穆傑塔巴接任伊朗最高領袖](https://news.now.com/home/local/player?newsId=639354) [Original](https://news.now.com/home/local/player?newsId=639354){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點警方加強宏福苑保安哈梅內伊之子穆傑塔巴接任伊朗最高領袖/){.md-button .hkfd-news-button}
+
+### 2026-03-10
+- [宏福苑五級火災｜紅十字會收逾5億元捐款　現金援助居民](https://news.now.com/home/local/player?newsId=639465) [Original](https://news.now.com/home/local/player?newsId=639465){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災紅十字會收逾5億元捐款-現金援助居民/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜紅十字會收逾5億元支援捐款](https://news.now.com/home/local/player?newsId=639444) [Original](https://news.now.com/home/local/player?newsId=639444){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災紅十字會收逾5億元支援捐款/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑盜竊案(二)](https://news.now.com/home/local/player?newsId=639393) [Original](https://news.now.com/home/local/player?newsId=639393){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑盜竊案二/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑盜竊案(一)](https://news.now.com/home/local/player?newsId=639392) [Original](https://news.now.com/home/local/player?newsId=639392){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑盜竊案一/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜建造業倡政府點算屋苑單位財物後交還居民](https://news.now.com/home/local/player?newsId=639404) [Original](https://news.now.com/home/local/player?newsId=639404){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災建造業倡政府點算屋苑單位財物後交還居民/){.md-button .hkfd-news-button}
+- [採訪日誌｜紅十字會災後支援與復原工作／離島區議會討論渡輪加價](https://news.now.com/home/local/player?newsId=639370) [Original](https://news.now.com/home/local/player?newsId=639370){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌紅十字會災後支援與復原工作離島區議會討論渡輪加價/){.md-button .hkfd-news-button}
+
+
+### 2026-03-12
+- [宏福苑五級火災｜房協400個單位讓業主選購　當中逾八成半大單位](https://news.now.com/home/local/player?newsId=639756) [Original](https://news.now.com/home/local/player?newsId=639756){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災房協400個單位讓業主選購-當中逾八成半大單位/){.md-button .hkfd-news-button}
+
+### 2026-03-13
+- [宏福苑安置｜何永賢指過渡屋營運機構會彈性處理居民遷出安排](https://news.now.com/home/local/player?newsId=639873) [Original](https://news.now.com/home/local/player?newsId=639873){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置何永賢指過渡屋營運機構會彈性處理居民遷出安排/){.md-button .hkfd-news-button}
+- [強制虐兒舉報｜孫玉菡：至二月底接66宗疑嚴重個案　涉70名兒童](https://news.now.com/home/local/player?newsId=639831) [Original](https://news.now.com/home/local/player?newsId=639831){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/強制虐兒舉報孫玉菡至二月底接66宗疑嚴重個案-涉70名兒童/){.md-button .hkfd-news-button}

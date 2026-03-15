@@ -1198,3 +1198,17 @@
 - [新居屋及綠置居預留2000單位予宏福苑業主選購](https://news.rthk.hk/rthk/ch/component/k2/1846610-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846610-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新居屋及綠置居預留2000單位予宏福苑業主選購/){.md-button .hkfd-news-button}
 - [宏福苑實施新措施加強保安　有工人稱可保障自己及他人](https://news.rthk.hk/rthk/ch/component/k2/1846556-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846556-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑實施新措施加強保安-有工人稱可保障自己及他人/){.md-button .hkfd-news-button}
 - [黃碧如：宏福苑事件後頌雅路西項目改成居屋單位全數不小於四百呎](https://news.rthk.hk/rthk/ch/component/k2/1846554-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846554-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃碧如宏福苑事件後頌雅路西項目改成居屋單位全數不小於四百呎/){.md-button .hkfd-news-button}
+
+
+### 2026-03-10
+- ['More should be done to ensure Wang Fuk security'](https://news.rthk.hk/rthk/en/component/k2/1846696-20260310.htm?archive_date=2026-03-10) [Original](https://news.rthk.hk/rthk/en/component/k2/1846696-20260310.htm?archive_date=2026-03-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/more-should-be-done-to-ensure-wang-fuk-security/){.md-button .hkfd-news-button}
+- [香港紅十字會：就支援宏福苑火災居民至今共收逾5億3千萬捐款](https://news.rthk.hk/rthk/ch/component/k2/1846744-20260310.htm?archive_date=2026-03-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846744-20260310.htm?archive_date=2026-03-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港紅十字會就支援宏福苑火災居民至今共收逾5億3千萬捐款/){.md-button .hkfd-news-button}
+- [周思傑稱宏福苑加強保安措施有功效　工人財物放儲物櫃具必要性](https://news.rthk.hk/rthk/ch/component/k2/1846705-20260310.htm?archive_date=2026-03-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846705-20260310.htm?archive_date=2026-03-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周思傑稱宏福苑加強保安措施有功效-工人財物放儲物櫃具必要性/){.md-button .hkfd-news-button}
+
+
+### 2026-03-12
+- [房協宏福苑特設銷售計劃共400個單位　85%單位逾400呎](https://news.rthk.hk/rthk/ch/component/k2/1847096-20260312.htm?archive_date=2026-03-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847096-20260312.htm?archive_date=2026-03-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協宏福苑特設銷售計劃共400個單位-85單位逾400呎/){.md-button .hkfd-news-button}
+
+### 2026-03-13
+- [Govt clarifies Wang Fuk rehousing arrangements](https://news.rthk.hk/rthk/en/component/k2/1847253-20260313.htm?archive_date=2026-03-13) [Original](https://news.rthk.hk/rthk/en/component/k2/1847253-20260313.htm?archive_date=2026-03-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-clarifies-wang-fuk-rehousing-arrangements/){.md-button .hkfd-news-button}
+- [政府澄清過渡房屋營運機構為宏福苑居民提供彈性遷出安排](https://news.rthk.hk/rthk/ch/component/k2/1847236-20260313.htm?archive_date=2026-03-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847236-20260313.htm?archive_date=2026-03-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府澄清過渡房屋營運機構為宏福苑居民提供彈性遷出安排/){.md-button .hkfd-news-button}

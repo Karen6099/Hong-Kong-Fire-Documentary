@@ -1212,3 +1212,7 @@
 ### 2026-03-13
 - [Govt clarifies Wang Fuk rehousing arrangements](https://news.rthk.hk/rthk/en/component/k2/1847253-20260313.htm?archive_date=2026-03-13) [Original](https://news.rthk.hk/rthk/en/component/k2/1847253-20260313.htm?archive_date=2026-03-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-clarifies-wang-fuk-rehousing-arrangements/){.md-button .hkfd-news-button}
 - [政府澄清過渡房屋營運機構為宏福苑居民提供彈性遷出安排](https://news.rthk.hk/rthk/ch/component/k2/1847236-20260313.htm?archive_date=2026-03-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847236-20260313.htm?archive_date=2026-03-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府澄清過渡房屋營運機構為宏福苑居民提供彈性遷出安排/){.md-button .hkfd-news-button}
+
+
+### 2026-03-15
+- [鄧炳強讚揚警隊和消防在大埔宏福苑火災救援表現](https://news.rthk.hk/rthk/ch/component/k2/1847392-20260315.htm?archive_date=2026-03-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847392-20260315.htm?archive_date=2026-03-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強讚揚警隊和消防在大埔宏福苑火災救援表現/){.md-button .hkfd-news-button}

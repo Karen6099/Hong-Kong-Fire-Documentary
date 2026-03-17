@@ -1388,3 +1388,14 @@
 ### 2026-03-13
 - [宏福苑安置｜何永賢指過渡屋營運機構會彈性處理居民遷出安排](https://news.now.com/home/local/player?newsId=639873) [Original](https://news.now.com/home/local/player?newsId=639873){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置何永賢指過渡屋營運機構會彈性處理居民遷出安排/){.md-button .hkfd-news-button}
 - [強制虐兒舉報｜孫玉菡：至二月底接66宗疑嚴重個案　涉70名兒童](https://news.now.com/home/local/player?newsId=639831) [Original](https://news.now.com/home/local/player?newsId=639831){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/強制虐兒舉報孫玉菡至二月底接66宗疑嚴重個案-涉70名兒童/){.md-button .hkfd-news-button}
+
+
+### 2026-03-17
+- [房協粉嶺專用安置屋邨樂嶺都匯落成](https://news.now.com/home/local/player?newsId=640282) [Original](https://news.now.com/home/local/player?newsId=640282){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協粉嶺專用安置屋邨樂嶺都匯落成/){.md-button .hkfd-news-button}
+- [宏福苑火災｜鴻毅建築及宏業建築將作為涉事方參與獨立委員會聽證會](https://news.now.com/home/local/player?newsId=640273) [Original](https://news.now.com/home/local/player?newsId=640273){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災鴻毅建築及宏業建築將作為涉事方參與獨立委員會聽證會/){.md-button .hkfd-news-button}
+- [宏福苑火災｜李家超：下月中下旬讓宏福苑居民上樓收拾　強調要確保安全有序](https://news.now.com/home/local/player?newsId=640244) [Original](https://news.now.com/home/local/player?newsId=640244){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災李家超下月中下旬讓宏福苑居民上樓收拾-強調要確保安全有序/){.md-button .hkfd-news-button}
+- [油價急升｜李家超：如發現燃油供應商有合謀定價　競委會依法行使權力](https://news.now.com/home/local/player?newsId=640240) [Original](https://news.now.com/home/local/player?newsId=640240){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/油價急升李家超如發現燃油供應商有合謀定價-競委會依法行使權力/){.md-button .hkfd-news-button}
+- [十五五規劃｜李家超：全速制訂香港首份五年規劃　料年底公布正式文本](https://news.now.com/home/local/player?newsId=640239) [Original](https://news.now.com/home/local/player?newsId=640239){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/十五五規劃李家超全速制訂香港首份五年規劃-料年底公布正式文本/){.md-button .hkfd-news-button}
+- [有片．李家超行會前見記者(二)｜回應油價變動對本港影響／宏福苑居民重返住所安排](https://news.now.com/home/local/player?newsId=640221) [Original](https://news.now.com/home/local/player?newsId=640221){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片李家超行會前見記者二回應油價變動對本港影響宏福苑居民重返住所安排/){.md-button .hkfd-news-button}
+- [有片．李家超行會前見記者(一)｜政府制定首份五年規劃](https://news.now.com/home/local/player?newsId=640220) [Original](https://news.now.com/home/local/player?newsId=640220){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片李家超行會前見記者一政府制定首份五年規劃/){.md-button .hkfd-news-button}
+- [宏福苑火災｜李家超：下月中下旬讓居民上樓收拾　強調要安全有序](https://news.now.com/home/local/player?newsId=640223) [Original](https://news.now.com/home/local/player?newsId=640223){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災李家超下月中下旬讓居民上樓收拾-強調要安全有序/){.md-button .hkfd-news-button}

@@ -508,3 +508,10 @@
 ### 2026-03-13
 - [Some Wang Fuk Court residents to participate as involved parties in fire probe hearings](https://hongkongfp.com/?p=558202) [Original](https://hongkongfp.com/?p=558202){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/some-wang-fuk-court-residents-to-participate-as-involved-parties-in-fire-probe/){.md-button .hkfd-news-button}
 - [Hong Kong gov’t urged to stabilise oil prices as some residents turn to illicit fuel amid Middle East war](https://hongkongfp.com/?p=558104) [Original](https://hongkongfp.com/?p=558104){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-govt-urged-to-stabilise-oil-prices-as-some-residents-turn-to-illicit/){.md-button .hkfd-news-button}
+
+
+### 2026-03-16
+- [Over 400 homeowners from fire-hit Tai Po complex petition city leader for help meeting estate management](https://hongkongfp.com/?p=558457) [Original](https://hongkongfp.com/?p=558457){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/over-400-homeowners-from-fire-hit-tai-po-complex-petition-city-leader-for-help/){.md-button .hkfd-news-button}
+
+### 2026-03-17
+- [Hong Kong to see ‘shocks, volatility’ in oil supply amid Middle East war, leader John Lee says](https://hongkongfp.com/?p=558510) [Original](https://hongkongfp.com/?p=558510){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-to-see-shocks-volatility-in-oil-supply-amid-middle-east-war-leader/){.md-button .hkfd-news-button}

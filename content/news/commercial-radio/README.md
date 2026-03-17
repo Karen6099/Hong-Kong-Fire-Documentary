@@ -941,3 +941,9 @@
 ### 2026-03-13
 - [宏福苑喪親家庭支援計劃聯繫153死者家庭　初步篩查339人](https://www.881903.com/news/local/2622951/) [Original](https://www.881903.com/news/local/2622951/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑喪親家庭支援計劃聯繫153死者家庭-初步篩查339人/){.md-button .hkfd-news-button}
 - [政府：宏福苑業主長遠安置前　會持續有住宿及租金津貼](https://www.881903.com/news/local/2622904/) [Original](https://www.881903.com/news/local/2622904/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府宏福苑業主長遠安置前-會持續有住宿及租金津貼/){.md-button .hkfd-news-button}
+
+
+### 2026-03-17
+- [宏福苑獨立委員會37個持份者列為涉事方   包括政府部門及居民](https://www.881903.com/news/local/2623415/) [Original](https://www.881903.com/news/local/2623415/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會37個持份者列為涉事方-包括政府部門及居民/){.md-button .hkfd-news-button}
+- [房協資助出售房屋「樂嶺軒」本月交樓　預留單位供宏福苑居民認購](https://www.881903.com/news/local/2623393/) [Original](https://www.881903.com/news/local/2623393/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協資助出售房屋樂嶺軒本月交樓-預留單位供宏福苑居民認購/){.md-button .hkfd-news-button}
+- [李家超：預期宏福苑居民最快下月可返回單位收拾](https://www.881903.com/news/local/2623362/) [Original](https://www.881903.com/news/local/2623362/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超預期宏福苑居民最快下月可返回單位收拾/){.md-button .hkfd-news-button}

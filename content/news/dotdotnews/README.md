@@ -488,3 +488,7 @@
 
 ### 2026-03-10
 - [點直播｜紅十字會簡介宏福苑善後最新進展｜3月10日](https://www.dotdotnews.com/a/202603/10/AP69afc0e8e4b0c32d4f6b585d.html) [Original](https://www.dotdotnews.com/a/202603/10/AP69afc0e8e4b0c32d4f6b585d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播紅十字會簡介宏福苑善後最新進展3月10日/){.md-button .hkfd-news-button}
+
+
+### 2026-03-17
+- [Wang Fuk Court Aftermath | John Lee: Residents expected to return to collect personal belongings by April](https://english.dotdotnews.com/a/202603/17/AP69b8eee8e4b0c32d4f6c13d4.html) [Original](https://english.dotdotnews.com/a/202603/17/AP69b8eee8e4b0c32d4f6c13d4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-john-lee-residents-expected-to-return-to-collect/){.md-button .hkfd-news-button}

@@ -78,3 +78,7 @@
 
 ### 2026-02-19
 - [<![CDATA[香港宏福苑「一戶一社工」過勞爭議 ：他們在承擔什麼角色？]]>](https://www.bbc.com/zhongwen/articles/ce8nedljjl0o/trad)
+
+
+### 2026-03-19
+- [<![CDATA[宏福苑火災：勞工處多次巡查未發現吸煙，棚網承建商被指大火後試圖隱瞞]]>](https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad)

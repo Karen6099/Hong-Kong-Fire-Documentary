@@ -492,3 +492,10 @@
 
 ### 2026-03-17
 - [Wang Fuk Court Aftermath | John Lee: Residents expected to return to collect personal belongings by April](https://english.dotdotnews.com/a/202603/17/AP69b8eee8e4b0c32d4f6c13d4.html) [Original](https://english.dotdotnews.com/a/202603/17/AP69b8eee8e4b0c32d4f6c13d4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-john-lee-residents-expected-to-return-to-collect/){.md-button .hkfd-news-button}
+
+
+### 2026-03-19
+- [點觀香港｜宏福苑火災首場聽證會　起火原因初步鎖定　何偉豪殉職過程披露](https://www.dotdotnews.com/a/202603/19/AP69bbe024e4b0c32d4f6c58b2.html) [Original](https://www.dotdotnews.com/a/202603/19/AP69bbe024e4b0c32d4f6c58b2.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑火災首場聽證會-起火原因初步鎖定-何偉豪殉職過程披露/){.md-button .hkfd-news-button}
+- [宏福苑調查｜宏業要求訂購非阻燃棚網　當局檢查前「通風」恐助承建商作假](https://www.dotdotnews.com/a/202603/19/AP69bbcf74e4b0c32d4f6c5666.html) [Original](https://www.dotdotnews.com/a/202603/19/AP69bbcf74e4b0c32d4f6c5666.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑調查宏業要求訂購非阻燃棚網-當局檢查前通風恐助承建商作假/){.md-button .hkfd-news-button}
+- [宏福苑調查｜火災疑涉多項人為疏失　詳情一圖睇](https://www.dotdotnews.com/a/202603/19/AP69bbd048e4b0c32d4f6c5686.html) [Original](https://www.dotdotnews.com/a/202603/19/AP69bbd048e4b0c32d4f6c5686.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑調查火災疑涉多項人為疏失-詳情一圖睇/){.md-button .hkfd-news-button}
+- [（有片）宏福苑調查｜居民讚聽證會還原真相　對調查結果有信心](https://www.dotdotnews.com/a/202603/19/AP69bbb4fee4b0c32d4f6c525d.html) [Original](https://www.dotdotnews.com/a/202603/19/AP69bbb4fee4b0c32d4f6c525d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑調查居民讚聽證會還原真相-對調查結果有信心/){.md-button .hkfd-news-button}

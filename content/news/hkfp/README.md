@@ -515,3 +515,11 @@
 
 ### 2026-03-17
 - [Hong Kong to see ‘shocks, volatility’ in oil supply amid Middle East war, leader John Lee says](https://hongkongfp.com/?p=558510) [Original](https://hongkongfp.com/?p=558510){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-to-see-shocks-volatility-in-oil-supply-amid-middle-east-war-leader/){.md-button .hkfd-news-button}
+
+
+### 2026-03-18
+- [Hong Kong parents charged with child abuse after son, 5, swept into sea during Super Typhoon Ragasa](https://hongkongfp.com/?p=558631) [Original](https://hongkongfp.com/?p=558631){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-parents-charged-with-child-abuse-after-son-5-swept-into-sea-during/){.md-button .hkfd-news-button}
+
+### 2026-03-19
+- [Deadly Wang Fuk Court fire ‘most likely’ caused by smoking, public inquiry hears](https://hongkongfp.com/?p=558777) [Original](https://hongkongfp.com/?p=558777){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/deadly-wang-fuk-court-fire-most-likely-caused-by-smoking-public-inquiry-hears/){.md-button .hkfd-news-button}
+- [Hong Kong to introduce campsite booking system by National Day, environment chief says](https://hongkongfp.com/?p=558727) [Original](https://hongkongfp.com/?p=558727){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-to-introduce-campsite-booking-system-by-national-day-environment/){.md-button .hkfd-news-button}

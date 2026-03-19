@@ -947,3 +947,12 @@
 - [宏福苑獨立委員會37個持份者列為涉事方   包括政府部門及居民](https://www.881903.com/news/local/2623415/) [Original](https://www.881903.com/news/local/2623415/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會37個持份者列為涉事方-包括政府部門及居民/){.md-button .hkfd-news-button}
 - [房協資助出售房屋「樂嶺軒」本月交樓　預留單位供宏福苑居民認購](https://www.881903.com/news/local/2623393/) [Original](https://www.881903.com/news/local/2623393/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協資助出售房屋樂嶺軒本月交樓-預留單位供宏福苑居民認購/){.md-button .hkfd-news-button}
 - [李家超：預期宏福苑居民最快下月可返回單位收拾](https://www.881903.com/news/local/2623362/) [Original](https://www.881903.com/news/local/2623362/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超預期宏福苑居民最快下月可返回單位收拾/){.md-button .hkfd-news-button}
+
+
+### 2026-03-18
+- [政府擬將民政處助理署長轉為常額職位　負責修訂《建管條例》](https://www.881903.com/news/local/2623493/) [Original](https://www.881903.com/news/local/2623493/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬將民政處助理署長轉為常額職位-負責修訂建管條例/){.md-button .hkfd-news-button}
+
+### 2026-03-19
+- [宏福苑火災聽證會｜居民批宏業隱瞞使用非阻燃棚網泯人性](https://www.881903.com/news/local/2623687/) [Original](https://www.881903.com/news/local/2623687/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會居民批宏業隱瞞使用非阻燃棚網泯人性/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會首輪聽證會　起火成因或有人燃點香煙  ](https://www.881903.com/news/local/2623667/) [Original](https://www.881903.com/news/local/2623667/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會首輪聽證會-起火成因或有人燃點香煙/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜何偉豪或在宏泰閣遇惡劣情況墮樓身亡](https://www.881903.com/news/local/2623712/) [Original](https://www.881903.com/news/local/2623712/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會何偉豪或在宏泰閣遇惡劣情況墮樓身亡/){.md-button .hkfd-news-button}

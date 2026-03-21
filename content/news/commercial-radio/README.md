@@ -956,3 +956,19 @@
 - [宏福苑火災聽證會｜居民批宏業隱瞞使用非阻燃棚網泯人性](https://www.881903.com/news/local/2623687/) [Original](https://www.881903.com/news/local/2623687/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會居民批宏業隱瞞使用非阻燃棚網泯人性/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會首輪聽證會　起火成因或有人燃點香煙  ](https://www.881903.com/news/local/2623667/) [Original](https://www.881903.com/news/local/2623667/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會首輪聽證會-起火成因或有人燃點香煙/){.md-button .hkfd-news-button}
 - [宏福苑火災聽證會｜何偉豪或在宏泰閣遇惡劣情況墮樓身亡](https://www.881903.com/news/local/2623712/) [Original](https://www.881903.com/news/local/2623712/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會何偉豪或在宏泰閣遇惡劣情況墮樓身亡/){.md-button .hkfd-news-button}
+
+
+### 2026-03-20
+- [宏福苑火災丨聽證會提及多部門曾巡查　政府：基於私隱不便交代涉事人員資料](https://www.881903.com/news/local/2623963/) [Original](https://www.881903.com/news/local/2623963/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災丨聽證會提及多部門曾巡查-政府基於私隱不便交代涉事人員資料/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會丨前管委會主席徐滿柑：會竭力講出所知　助找出真相](https://www.881903.com/news/local/2623917/) [Original](https://www.881903.com/news/local/2623917/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會丨前管委會主席徐滿柑會竭力講出所知-助找出真相/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜杜淦堃：圍標及貪污等行為廣泛普遍　需要嚴肅應對](https://www.881903.com/news/local/2623877/) [Original](https://www.881903.com/news/local/2623877/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會杜淦堃圍標及貪污等行為廣泛普遍-需要嚴肅應對/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜居民批評房屋局監管態度得過且過](https://www.881903.com/news/local/2623886/) [Original](https://www.881903.com/news/local/2623886/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會居民批評房屋局監管態度得過且過/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜時任法團主席：曾質疑使用發泡膠板　獲宏業回覆稱無規管](https://www.881903.com/news/local/2623876/) [Original](https://www.881903.com/news/local/2623876/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會時任法團主席曾質疑使用發泡膠板-獲宏業回覆稱無規管/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜杜淦堃：「宏業」使用發泡膠板前明白有風險](https://www.881903.com/news/local/2623872/) [Original](https://www.881903.com/news/local/2623872/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會杜淦堃宏業使用發泡膠板前明白有風險/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜有人多次申請延長關閉消防系統　消防處巡查沒進泵房](https://www.881903.com/news/local/2623869/) [Original](https://www.881903.com/news/local/2623869/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會有人多次申請延長關閉消防系統-消防處巡查沒進泵房/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜陸啟康對報道感不安　稱陳詞不代表委員會結論](https://www.881903.com/news/local/2623825/) [Original](https://www.881903.com/news/local/2623825/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會陸啟康對報道感不安-稱陳詞不代表委員會結論/){.md-button .hkfd-news-button}
+- [宏福苑火災｜孫玉菡：全力配合調查　需問責會問責到底](https://www.881903.com/news/local/2623867/) [Original](https://www.881903.com/news/local/2623867/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災孫玉菡全力配合調查-需問責會問責到底/){.md-button .hkfd-news-button}
+- [政府稱全力支持宏福苑獨立委員會工作　並提交改善措施資料](https://www.881903.com/news/local/2623789/) [Original](https://www.881903.com/news/local/2623789/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府稱全力支持宏福苑獨立委員會工作-並提交改善措施資料/){.md-button .hkfd-news-button}
+
+### 2026-03-21
+- [警方延長宏福苑範圍「限制飛行區」至下月5日](https://www.881903.com/news/local/2624018/) [Original](https://www.881903.com/news/local/2624018/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警方延長宏福苑範圍限制飛行區至下月5日/){.md-button .hkfd-news-button}

@@ -58184,7 +58184,602 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2026-03-19T22:57:17.569112",
       "archive_path": "content\\news\\tvb\\archive\\deadly-wang-fuk-court-blaze-inquiry-focuses-on-smoking-violations-safety-lapses"
+    },
+    "https://hongkongfp.com/?p=558804": {
+      "title": "Housing Bureau’s inspection unit alerted renovation consultant before safety checks, Tai Po fire inquiry hears",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-22T02:52:21.738099",
+      "archive_path": "content\\news\\hkfp\\archive\\housing-bureaus-inspection-unit-alerted-renovation-consultant-before-safety"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60331645/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%833-19%E9%A6%96%E6%97%A5%E9%87%8D%E9%BB%9E-%E6%88%BF%E5%B1%8B%E5%B1%80%E6%9F%A5%E6%A3%9A%E7%B6%B2%E5%85%88%E9%80%9A%E5%82%B3-%E4%BD%95%E5%81%89%E8%B1%AA31%E6%A8%93%E5%A2%AE%E6%A8%93": {
+      "title": "宏福苑聽證會3.19首日重點　房屋局查棚網先通傳　何偉豪31樓墮樓",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:52:22.748664",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會319首日重點-房屋局查棚網先通傳-何偉豪31樓墮樓"
+    },
+    "https://www.881903.com/news/local/2623963/": {
+      "title": "宏福苑火災丨聽證會提及多部門曾巡查　政府：基於私隱不便交代涉事人員資料",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:52:22.959200",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災丨聽證會提及多部門曾巡查-政府基於私隱不便交代涉事人員資料"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4347652/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E6%94%BF%E5%BA%9C%E5%B0%8A%E9%87%8D%E5%80%8B%E4%BA%BA%E7%A7%81%E9%9A%B1+%E4%B8%8D%E6%8F%90%E4%BE%9B%E5%85%A9%E5%90%8D%E6%88%BF%E5%B1%8B%E7%BD%B2%E5%83%B1%E5%93%A1%E8%B3%87%E6%96%99": {
+      "title": "宏福苑聽證會丨政府尊重個人私隱 不提供兩名房屋署僱員資料",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:23.049453",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨政府尊重個人私隱-不提供兩名房屋署僱員資料"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4346207/%E6%B6%88%E9%98%B2%E5%93%A1%E4%BD%95%E5%81%89%E8%B1%AA%E4%B8%8A%E9%8C%AF%E6%A8%93+%E7%A0%B4%E7%AA%97%E9%80%83%E7%94%9F%E5%A2%AE%E4%BA%A1": {
+      "title": "消防員何偉豪上錯樓 破窗逃生墮亡",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:23.412455",
+      "archive_path": "content\\news\\hkej\\archive\\消防員何偉豪上錯樓-破窗逃生墮亡"
+    },
+    "https://hongkongfp.com/?p=558905": {
+      "title": "Businessman and construction graft whistleblower Jason Poon released on bail after fraud arrest",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-22T02:52:26.793946",
+      "archive_path": "content\\news\\hkfp\\archive\\businessman-and-construction-graft-whistleblower-jason-poon-released-on-bail"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332693/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%88%BF%E7%BD%B2%E5%85%A9%E9%BB%9E%E5%90%8D%E8%81%B7%E5%93%A1%E5%90%8D%E5%AD%97%E5%BE%9E%E9%9B%BB%E8%A9%B1%E7%B0%BF%E6%B6%88%E5%A4%B1-%E6%94%BF%E5%BA%9C-%E6%B6%89%E7%A7%81%E9%9A%B1%E4%B8%8D%E4%BE%9B%E8%B3%87%E6%96%99": {
+      "title": "宏福苑｜房署兩點名職員名字從電話簿消失　政府︰涉私隱不供資料",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:52:27.828951",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑房署兩點名職員名字從電話簿消失-政府涉私隱不供資料"
+    },
+    "https://www.881903.com/news/local/2623917/": {
+      "title": "宏福苑火災聽證會丨前管委會主席徐滿柑：會竭力講出所知　助找出真相",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:52:28.224889",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災聽證會丨前管委會主席徐滿柑會竭力講出所知-助找出真相"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4347115/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E5%AE%8F%E6%A5%AD%E8%88%875%E9%96%93%E6%8A%95%E6%A8%99%E7%B6%AD%E4%BF%AE%E5%85%AC%E5%8F%B8%E6%9C%89%E9%97%9C+%E9%B4%BB%E6%AF%85%E6%AA%A2%E9%A9%97%E4%BA%BA%E7%96%91%E6%98%AF%E6%A9%A1%E7%9A%AE%E5%9C%96%E7%AB%A0": {
+      "title": "宏福苑聽證會丨宏業與5間投標維修公司有關 鴻毅檢驗人疑是橡皮圖章",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:29.453801",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨宏業與5間投標維修公司有關-鴻毅檢驗人疑是橡皮圖章"
+    },
+    "https://hongkongfp.com/?p=558942": {
+      "title": "Tai Po fire probe: Blaze revealed systemic issues from potential collusion to ‘rubber-stamp inspections,’ inquiry hears",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-22T02:52:32.165205",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-fire-probe-blaze-revealed-systemic-issues-from-potential-collusion-to"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4347304/%E5%AE%8F%E7%A6%8F%E9%A1%A7%E5%95%8F%E9%B4%BB%E6%AF%85%E6%B6%89%E6%94%B9%E5%A0%B1%E5%91%8A+%E5%8A%A9%E5%AE%8F%E6%A5%AD%E4%B8%AD%E6%A8%99++": {
+      "title": "宏福顧問鴻毅涉改報告 助宏業中標 6間入標公司盤根錯節 圍獵3.3億大維修工程",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:32.461049",
+      "archive_path": "content\\news\\hkej\\archive\\宏福顧問鴻毅涉改報告-助宏業中標-6間入標公司盤根錯節-圍獵33億大維修工程"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332541/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E5%B1%85%E6%B0%91%E9%A6%96%E8%81%9E%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1%E9%97%9C%E9%96%89%E5%8D%8A%E5%B9%B4-%E5%8E%9F%E4%BE%86%E5%96%BA%E5%92%81%E5%8D%B1%E9%9A%AA%E5%9C%B0%E6%96%B9%E5%92%81%E8%80%90": {
+      "title": "宏福苑聽證會｜居民首聞消防系統關閉半年：原來喺咁危險地方咁耐",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:52:33.104838",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會居民首聞消防系統關閉半年原來喺咁危險地方咁耐"
+    },
+    "https://www.881903.com/news/local/2623877/": {
+      "title": "宏福苑火災聽證會｜杜淦堃：圍標及貪污等行為廣泛普遍　需要嚴肅應對",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:52:34.159017",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災聽證會杜淦堃圍標及貪污等行為廣泛普遍-需要嚴肅應對"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346961/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E5%AE%8F%E6%A5%AD%E5%85%A9%E8%91%A3%E4%BA%8B%E6%8B%92%E5%87%BA%E5%BA%AD%E8%AB%87%E7%B6%AD%E4%BF%AE%E6%8B%9B%E6%A8%99+%E5%A7%94%E5%93%A1%E6%9C%83%E5%90%91%E9%BB%83%E7%A2%A7%E5%AC%8C%E7%B4%A2%E5%8F%96%E8%AD%89%E4%BE%9B": {
+      "title": "宏福苑聽證會丨宏業兩董事拒出庭談維修招標 委員會向黃碧嬌索取證供",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:35.504138",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨宏業兩董事拒出庭談維修招標-委員會向黃碧嬌索取證供"
+    },
+    "https://hongkongfp.com/?p=558904": {
+      "title": "Tai Po fire probe: Hong Kong fire department dismissed residents’ complaints about foam boards",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-22T02:52:37.836041",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-fire-probe-hong-kong-fire-department-dismissed-residents-complaints"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332657/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD%E5%BE%90%E6%BB%BF%E6%9F%91%E6%8A%BD%E6%B3%A3%E9%99%B3%E8%A9%9E-%E6%9C%83%E8%AC%9B%E5%87%BA%E4%BA%8B%E5%AF%A6-%E7%9B%BC%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8": {
+      "title": "宏福苑聽證會｜法團主席徐滿柑抽泣陳詞：會講出事實　盼還原真相",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:52:38.341694",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會法團主席徐滿柑抽泣陳詞會講出事實-盼還原真相"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4347308/%E5%BE%90%E6%BB%BF%E6%9F%91%E6%8A%BD%E6%B3%A3%E9%99%B3%E8%A9%9E++%E7%A8%B1%E4%B8%8D%E6%9C%83%E9%80%83%E9%81%BF%E8%AA%BF%E6%9F%A5": {
+      "title": "徐滿柑抽泣陳詞 稱不會逃避調查",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:39.183316",
+      "archive_path": "content\\news\\hkej\\archive\\徐滿柑抽泣陳詞-稱不會逃避調查"
+    },
+    "https://www.881903.com/news/local/2623886/": {
+      "title": "宏福苑火災聽證會｜居民批評房屋局監管態度得過且過",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:52:39.338929",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災聽證會居民批評房屋局監管態度得過且過"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346838/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E6%9C%89%E9%BB%91%E7%A4%BE%E6%9C%83%E7%B6%93%E7%87%9F%E9%A1%A7%E5%95%8F%E5%85%AC%E5%8F%B8+%E5%85%85%E6%96%A5%E4%B8%B2%E9%80%9A%E8%B2%AA%E6%B1%A1": {
+      "title": "宏福苑聽證會丨有黑社會經營顧問公司 充斥串通貪污",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:41.241325",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨有黑社會經營顧問公司-充斥串通貪污"
+    },
+    "https://hongkongfp.com/?p=558832": {
+      "title": "100 people evacuated after fire hits Tsuen Wan village",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-03-22T02:52:43.222293",
+      "archive_path": "content\\news\\hkfp\\archive\\100-people-evacuated-after-fire-hits-tsuen-wan-village"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%B6%89%E4%BA%8B%E7%8D%A8%E7%AB%8B%E5%AF%A9%E6%9F%A5%E7%B5%84%E4%BA%BA%E5%93%A1%E5%BE%9E%E9%9B%BB%E8%A9%B1%E7%B0%BF%E6%B6%88%E5%A4%B1-%E6%94%BF%E5%BA%9C%E7%99%BC%E8%A8%80%E4%BA%BA%EF%BC%9A%E5%B0%8A%E9%87%8D%E7%A7%81%E9%9A%B1%E3%80%81%E4%B8%8D%E4%BE%BF%E6%8F%90%E4%BE%9B%E5%80%8B%E5%88%A5%E5%83%B1%E5%93%A1%E8%B3%87%E6%96%99": {
+      "title": "【宏福苑五級火】涉事獨立審查組人員從電話簿消失 政府發言人：尊重私隱、不便提供個別僱員資料",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-03-22T02:52:57.064529",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火涉事獨立審查組人員從電話簿消失-政府發言人尊重私隱不便提供個別僱員資料"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332649/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E8%AD%A6%E6%96%B9%E6%83%85%E5%A0%B1%E6%8C%87%E6%9C%89%E9%BB%91%E7%A4%BE%E6%9C%83%E7%B6%93%E7%87%9F%E9%A1%A7%E5%95%8F-%E8%88%87%E6%89%BF%E5%BB%BA%E5%95%86%E5%85%85%E6%96%A5%E8%B2%AA%E6%B1%A1": {
+      "title": "宏福苑聽證會｜警方情報指有黑社會經營顧問　與承建商充斥貪污",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:52:57.469914",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會警方情報指有黑社會經營顧問-與承建商充斥貪污"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4347305/%E7%99%BC%E6%B3%A1%E8%86%A0%E5%B0%81%E7%AA%97+%E6%B6%88%E9%98%B2%E4%B8%8D%E5%8F%97%E7%90%86%E5%B1%85%E6%B0%91%E6%8A%95%E8%A8%B4": {
+      "title": "發泡膠封窗 消防不受理居民投訴",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:58.788034",
+      "archive_path": "content\\news\\hkej\\archive\\發泡膠封窗-消防不受理居民投訴"
+    },
+    "https://www.881903.com/news/local/2623876/": {
+      "title": "宏福苑火災聽證會｜時任法團主席：曾質疑使用發泡膠板　獲宏業回覆稱無規管",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:52:59.257886",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災聽證會時任法團主席曾質疑使用發泡膠板-獲宏業回覆稱無規管"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346809/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E5%AE%8F%E6%A5%AD%E5%A0%85%E6%8C%81%E7%94%A8%E7%99%BC%E6%B3%A1%E8%86%A0%E6%9D%BF%E9%81%AE%E7%AA%97+%E5%BE%8C%E7%96%91%E6%B7%B7%E7%94%A8%E9%9D%9E%E9%98%BB%E7%87%83%E8%88%87%E9%98%BB%E7%87%83%E7%89%A9%E6%96%99": {
+      "title": "宏福苑聽證會丨宏業堅持用發泡膠板遮窗 後疑混用非阻燃與阻燃物料",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:52:59.548448",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨宏業堅持用發泡膠板遮窗-後疑混用非阻燃與阻燃物料"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%AE%8F%E6%A5%AD%E4%BE%AF%E8%8F%AF%E5%BB%BA%E8%A2%AB%E6%8C%87%E8%88%87%E4%BA%94%E5%85%A5%E6%A8%99%E5%85%AC%E5%8F%B8%E7%9B%B8%E9%97%9C-%E6%87%B7%E7%96%91%E6%98%AF%E5%9C%8D%E6%A8%99%E6%93%8D%E4%BD%9C": {
+      "title": "【宏福苑五級火】宏業侯華建被指與五入標公司相關 懷疑是圍標操作",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-03-22T02:53:04.703789",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火宏業侯華建被指與五入標公司相關-懷疑是圍標操作"
+    },
+    "https://www.881903.com/news/local/2623872/": {
+      "title": "宏福苑火災聽證會｜杜淦堃：「宏業」使用發泡膠板前明白有風險",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:53:06.758650",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災聽證會杜淦堃宏業使用發泡膠板前明白有風險"
+    },
+    "https://www.hk01.com/%E6%94%BF%E6%83%85/60332646/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%8F%AD%E9%A7%AD%E4%BA%BA%E6%83%85%E7%AF%80-%E6%94%BF%E7%95%8C%E7%9B%B8%E5%B0%8D%E5%B9%B3%E9%9D%9C%E6%89%80%E7%82%BA%E4%BD%95%E4%BA%8B-%E6%94%BF%E5%9C%88%E8%A7%80%E5%AF%9F": {
+      "title": "宏福苑聽證會揭駭人情節　政界相對平靜所為何事？｜政圈觀察",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:53:07.058888",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會揭駭人情節-政界相對平靜所為何事政圈觀察"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346779/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E6%88%BF%E7%BD%B2%E5%85%A9%E8%81%B7%E5%90%8D%E8%A2%AB%E9%BB%9E%E5%90%8D+%E5%B7%B2%E5%BE%9E%E6%94%BF%E5%BA%9C%E9%9B%BB%E8%A9%B1%E7%B0%BF%E6%B6%88%E5%A4%B1": {
+      "title": "宏福苑聽證會丨房署兩職名被點名 已從政府電話簿消失",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:53:07.275438",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨房署兩職名被點名-已從政府電話簿消失"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4347306/%E7%81%AB%E8%AD%A6%E7%B3%BB%E7%B5%B1%E9%97%9C%E5%8D%8A%E5%B9%B4+%E6%89%BF%E8%BE%A6%E5%95%86%E8%AA%8D%E7%96%8F%E5%BF%BD": {
+      "title": "火警系統關半年 承辦商認疏忽",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:53:07.550680",
+      "archive_path": "content\\news\\hkej\\archive\\火警系統關半年-承辦商認疏忽"
+    },
+    "https://news.now.com/home/local/player?newsId=640598": {
+      "title": "即日焦點｜宏福苑火災聽證會　房屋局巡查棚網前宏業即「做手腳」／殉職消防員何偉豪疑31樓破窗逃生墮樓",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:53:08.078967",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點宏福苑火災聽證會-房屋局巡查棚網前宏業即做手腳殉職消防員何偉豪疑31樓破窗逃生墮樓"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%ae%8f%e7%a6%8f%e8%8b%91%e9%a6%96%e6%97%a5%e8%81%bd%e8%ad%89%e6%8f%ad%e5%a4%9a%e9%87%8d%e4%ba%ba%e7%82%ba%e5%a4%b1%e8%aa%a4-%e6%b6%88/": {
+      "title": "香港世紀大火｜宏福苑首日聽證揭多重人為失誤 消防系統失效 棚網造假疑曝光",
+      "source": "points-media",
+      "source_file": "content/news/points-media/README.md",
+      "scraped_at": "2026-03-22T02:53:10.490044",
+      "archive_path": "content\\news\\points-media\\archive\\香港世紀大火宏福苑首日聽證揭多重人為失誤-消防系統失效-棚網造假疑曝光"
+    },
+    "https://www.881903.com/news/local/2623869/": {
+      "title": "宏福苑火災聽證會｜有人多次申請延長關閉消防系統　消防處巡查沒進泵房",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:53:11.923999",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災聽證會有人多次申請延長關閉消防系統-消防處巡查沒進泵房"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332631/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E8%AD%89%E9%B4%BB%E6%AF%85%E5%9B%9E%E6%A8%99%E5%88%86%E6%9E%90%E8%A2%AB%E7%AF%A1%E6%94%B9%E5%AD%98%E8%AA%A4%E5%B0%8E-%E8%91%A3%E4%BA%8B%E7%9D%80%E8%81%B7%E5%93%A1%E5%8B%BF%E7%90%86%E6%9C%83": {
+      "title": "宏福苑聽證會｜證鴻毅回標分析被篡改存誤導　董事着職員勿理會",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:53:12.591156",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會證鴻毅回標分析被篡改存誤導-董事着職員勿理會"
+    },
+    "https://www2.hkej.com/instantnews/hongkong/article/4346793/%E5%8D%88%E9%96%93%E6%96%B0%E8%81%9E%E7%B2%BE%E9%81%B8%E4%B8%A8%E9%84%AD%E6%B0%8F%E5%AE%B6%E6%97%8F%E5%82%B3%E8%80%83%E6%85%AE%E9%85%8D%E8%82%A1%E6%88%96%E4%BE%9B%E8%82%A1%E5%90%91%E6%96%B0%E4%B8%96%E7%95%8C%E6%B3%A8%E8%B3%87": {
+      "title": "午間新聞精選丨鄭氏家族傳考慮配股或供股向新世界注資",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:53:12.802081",
+      "archive_path": "content\\news\\hkej\\archive\\午間新聞精選丨鄭氏家族傳考慮配股或供股向新世界注資"
+    },
+    "https://news.now.com/home/local/player?newsId=640743": {
+      "title": "宏福苑火災聽證會｜政府指稍後研訊將提交證據　現不便提供政府僱員資料",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:53:14.515823",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會政府指稍後研訊將提交證據-現不便提供政府僱員資料"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e3%80%90%e9%a6%ae%e7%9d%8e%e4%b9%be%e5%8d%81%e4%b8%89%e7%b6%ad%e5%ba%a6%e3%80%91%e5%ae%8f%e7%a6%8f%e8%8b%91%e4%ba%ba%e7%a6%8d%ef%bc%8c%e8%a6%81%e8%a8%98%e4%bd%8f%e5%85%a9%e5%80%8b%e5%90%8d%e5%ad%97/": {
+      "title": "【馮睎乾十三維度】宏福苑人禍，要記住兩個名字",
+      "source": "points-media",
+      "source_file": "content/news/points-media/README.md",
+      "scraped_at": "2026-03-22T02:53:16.440377",
+      "archive_path": "content\\news\\points-media\\archive\\馮睎乾十三維度宏福苑人禍要記住兩個名字"
+    },
+    "https://www.881903.com/news/local/2623825/": {
+      "title": "宏福苑火災聽證會｜陸啟康對報道感不安　稱陳詞不代表委員會結論",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:53:17.297240",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災聽證會陸啟康對報道感不安-稱陳詞不代表委員會結論"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346778/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E8%A2%AB%E5%95%8F%E5%8B%9E%E5%B7%A5%E8%99%95%E5%B7%A116%E6%AC%A1%E7%84%A1%E7%99%BC%E7%8F%BE%E5%90%B8%E7%85%99+%E5%AD%AB%E7%8E%89%E8%8F%A1%3A%E5%A6%82%E9%9C%80%E5%95%8F%E8%B2%AC%E4%B8%80%E5%AE%9A%E5%95%8F%E8%B2%AC%E5%88%B0%E5%BA%95": {
+      "title": "宏福苑聽證會丨被問勞工處巡16次無發現吸煙 孫玉菡:如需問責一定問責到底",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:53:18.537621",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨被問勞工處巡16次無發現吸煙-孫玉菡如需問責一定問責到底"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332343/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%833-20%E9%87%8D%E9%BB%9E-%E5%B1%85%E6%B0%91%E6%8A%95%E8%A8%B4%E6%B2%89%E5%A4%A7%E6%B5%B7-%E9%B4%BB%E6%AF%85%E6%AA%A2%E9%A9%97%E4%BA%BA%E5%A6%82%E6%A9%A1%E7%9A%AE%E5%9C%96%E7%AB%A0": {
+      "title": "宏福苑聽證會3.20重點　居民投訴沉大海　鴻毅檢驗人如橡皮圖章",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:53:18.743598",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會320重點-居民投訴沉大海-鴻毅檢驗人如橡皮圖章"
+    },
+    "https://news.now.com/home/local/player?newsId=640740": {
+      "title": "即日焦點｜宏福苑居民曾多次投訴發泡膠封窗　消防處稱不屬管轄範圍／三歲男童染侵入性腦膜炎雙球菌　屬本地感染",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:53:20.729660",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點宏福苑居民曾多次投訴發泡膠封窗-消防處稱不屬管轄範圍三歲男童染侵入性腦膜炎雙球菌-屬本地感染"
+    },
+    "https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%ae%8f%e7%a6%8f%e8%8b%91%e5%a4%a7%e7%81%ab%e8%81%bd%e8%ad%89%e6%9c%83%e6%ac%a1%e6%97%a5-%e5%b1%85%e6%b0%91%e5%a4%a7%e6%9c%83%e7%96%91/": {
+      "title": "香港世紀大火｜宏福苑大火聽證會次日 業主大會疑神秘多近一倍票 通過宏業作維修承建商",
+      "source": "points-media",
+      "source_file": "content/news/points-media/README.md",
+      "scraped_at": "2026-03-22T02:53:22.365680",
+      "archive_path": "content\\news\\points-media\\archive\\香港世紀大火宏福苑大火聽證會次日-業主大會疑神秘多近一倍票-通過宏業作維修承建商"
+    },
+    "https://www.881903.com/news/local/2623867/": {
+      "title": "宏福苑火災｜孫玉菡：全力配合調查　需問責會問責到底",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:53:22.729580",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災孫玉菡全力配合調查-需問責會問責到底"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332438/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E8%A2%AB%E9%BB%9E%E5%90%8D%E5%9B%9B%E9%83%A8%E9%96%80%E4%B8%80%E6%96%87%E6%95%B4%E5%90%88-%E7%9C%8B%E6%A3%9A%E7%B6%B2-%E5%90%B8%E7%85%99%E5%95%8F%E9%A1%8C%E8%B2%AC%E4%BB%BB%E8%AA%B0%E5%B1%AC": {
+      "title": "宏福苑聽證會｜被點名四部門一文整合　看棚網、吸煙問題責任誰屬",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:53:24.545092",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會被點名四部門一文整合-看棚網吸煙問題責任誰屬"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346785/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E4%BD%95%E5%81%89%E8%B1%AA%E5%9B%A0%E5%8D%94%E5%8A%A9%E7%81%BD%E6%B0%91%E8%88%87%E5%90%8C%E8%A2%8D%E5%A4%B1%E6%95%A3": {
+      "title": "宏福苑聽證會｜殉職消防何偉豪因協助災民與同袍失散",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:53:25.019220",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會殉職消防何偉豪因協助災民與同袍失散"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1848183-20260320.htm?archive_date=2026-03-20": {
+      "title": "No conclusions drawn on Wang Fuk Court blaze: govt",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-22T02:53:25.410201",
+      "archive_path": "content\\news\\rthk\\archive\\no-conclusions-drawn-on-wang-fuk-court-blaze-govt"
+    },
+    "https://news.now.com/home/local/player?newsId=640720": {
+      "title": "宏福苑火災聽證會｜工程顧問評分報告刪宏業不良紀錄　宏業董事與多間入標公司有關聯",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:53:26.881027",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會工程顧問評分報告刪宏業不良紀錄-宏業董事與多間入標公司有關聯"
+    },
+    "https://www.881903.com/news/local/2623789/": {
+      "title": "政府稱全力支持宏福苑獨立委員會工作　並提交改善措施資料",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:53:28.426630",
+      "archive_path": "content\\news\\commercial-radio\\archive\\政府稱全力支持宏福苑獨立委員會工作-並提交改善措施資料"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332591/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%8F%AD%E5%AE%8F%E6%A5%AD%E4%BE%AF%E8%8F%AF%E5%BB%BA%E8%88%87%E4%BA%94%E5%85%A5%E6%A8%99%E5%85%AC%E5%8F%B8%E7%9B%B8%E9%97%9C-%E4%B8%89%E5%85%AC%E5%8F%B8%E6%88%90%E4%B8%AD%E6%A8%99%E6%AC%A1%E9%81%B8": {
+      "title": "宏福苑聽證會｜揭宏業侯華建與五入標公司相關　三公司成中標次選",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:53:29.957550",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會揭宏業侯華建與五入標公司相關-三公司成中標次選"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1848094-20260320.htm?archive_date=2026-03-20": {
+      "title": "Wang Fuk blaze hearing turns attention to foam boards",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-22T02:53:30.698195",
+      "archive_path": "content\\news\\rthk\\archive\\wang-fuk-blaze-hearing-turns-attention-to-foam-boards"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346698/%E4%BF%A1%E8%A7%80%E9%BB%9E%E4%B8%A8%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E5%B1%AC%E4%BA%BA%E7%A6%8D+%E5%BF%85%E9%A0%88%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B2%AC": {
+      "title": "信觀點丨宏福苑火災屬人禍 必須追究刑責",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:53:31.422389",
+      "archive_path": "content\\news\\hkej\\archive\\信觀點丨宏福苑火災屬人禍-必須追究刑責"
+    },
+    "https://news.now.com/home/local/player?newsId=640719": {
+      "title": "宏福苑火災聽證會｜居民指各部門卸責感無助　法團欠專業知識處理大維修",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:53:32.127339",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會居民指各部門卸責感無助-法團欠專業知識處理大維修"
+    },
+    "https://www.881903.com/news/local/2624018/": {
+      "title": "警方延長宏福苑範圍「限制飛行區」至下月5日",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-03-22T02:53:34.008104",
+      "archive_path": "content\\news\\commercial-radio\\archive\\警方延長宏福苑範圍限制飛行區至下月5日"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332612/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E9%A1%A7%E5%95%8F%E9%B4%BB%E6%AF%85%E5%94%AF%E4%B8%80%E8%A8%BB%E5%86%8A%E6%AA%A2%E9%A9%97%E4%BA%BA%E5%93%A1%E7%82%BA%E5%85%BC%E8%81%B7-%E8%A2%AB%E6%8C%87%E6%98%AF%E6%A9%A1%E7%9A%AE%E5%9C%96%E7%AB%A0": {
+      "title": "宏福苑聽證會｜顧問鴻毅唯一註冊檢驗人員為兼職　被指是橡皮圖章",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:53:35.824502",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會顧問鴻毅唯一註冊檢驗人員為兼職-被指是橡皮圖章"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1848156-20260320.htm?archive_date=2026-03-20": {
+      "title": "聽證會指宏福苑消防系統火災前停用逾半年　陸啟康盼公眾保持客觀",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-03-22T02:53:36.231305",
+      "archive_path": "content\\news\\rthk\\archive\\聽證會指宏福苑消防系統火災前停用逾半年-陸啟康盼公眾保持客觀"
+    },
+    "https://news.now.com/home/local/player?newsId=640717": {
+      "title": "宏福苑火災聽證會｜居民多次投訴宏業發泡膠封窗　消防處稱不屬管轄範圍",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:53:42.608352",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會居民多次投訴宏業發泡膠封窗-消防處稱不屬管轄範圍"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60332434/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%88%BF%E7%BD%B2%E5%8A%89%E5%98%89%E6%95%8F%E5%8F%A4%E5%B0%8F%E5%B9%B3%E8%A2%AB%E9%BB%9E%E5%90%8D-%E5%90%8D%E5%AD%97%E5%BE%9E%E6%94%BF%E5%BA%9C%E9%9B%BB%E8%A9%B1%E7%B0%BF%E6%B6%88%E5%A4%B1": {
+      "title": "宏福苑聽證會｜房署兩人被點名　名字從政府電話簿消失　原因未明",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:53:45.534010",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會房署兩人被點名-名字從政府電話簿消失-原因未明"
+    },
+    "https://news.now.com/home/local/player?newsId=640703": {
+      "title": "宏福苑火災聽證會｜居民指各部門推卸責任感無助　法團欠專業知識處理大維修",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:53:50.470553",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會居民指各部門推卸責任感無助-法團欠專業知識處理大維修"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4346701/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E5%B1%85%E6%B0%91%E6%8A%95%E8%A8%B4%E7%99%BC%E6%B3%A1%E8%86%A0%E6%98%93%E7%87%83+%E6%B6%88%E9%98%B2%E8%99%95%3A%E4%B8%8D%E5%B1%AC%E8%81%B7%E6%AC%8A%E7%AF%84%E5%9C%8D": {
+      "title": "宏福苑聽證會丨居民投訴發泡膠易燃 消防處:不屬職權範圍",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-03-22T02:53:50.555353",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨居民投訴發泡膠易燃-消防處不屬職權範圍"
+    },
+    "https://news.now.com/home/local/player?newsId=640698": {
+      "title": "宏福苑火災聽證會｜工程顧問評分報告刪宏業不良紀錄　宏業董事與多間入標公司有關聯",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:54:05.965743",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會工程顧問評分報告刪宏業不良紀錄-宏業董事與多間入標公司有關聯-1"
+    },
+    "https://news.now.com/home/local/player?newsId=640697": {
+      "title": "宏福苑火災聽證會｜居民多次投訴宏業發泡膠封窗　消防處稱不屬管轄範圍",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:54:40.455787",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會居民多次投訴宏業發泡膠封窗-消防處稱不屬管轄範圍-1"
+    },
+    "https://www.hk01.com/%E6%94%BF%E6%83%85/60332862/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E9%BB%83%E7%A2%A7%E5%AC%8C%E4%B8%89%E5%AD%97%E5%9B%9E%E6%87%89%E6%9C%89%E5%90%A6%E8%A2%AB%E5%82%B3%E5%8F%AC-%E6%9C%AA%E6%98%8E%E8%A8%80%E6%9C%83%E5%90%A6%E9%85%8D%E5%90%88%E5%87%BA%E5%B8%AD": {
+      "title": "宏福苑聽證會｜黃碧嬌三字回應有否被傳召　未明言會否配合出席",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-03-22T02:54:43.432538",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會黃碧嬌三字回應有否被傳召-未明言會否配合出席"
+    },
+    "https://news.now.com/home/local/player?newsId=640686": {
+      "title": "宏福苑火災聽證會｜陸啟康籲公眾勿太快就火災下結論　需客觀聽取所有證據",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:54:46.112952",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會陸啟康籲公眾勿太快就火災下結論-需客觀聽取所有證據"
+    },
+    "https://news.tvb.com/tc/taipofire/69bd4cd667ae60978fc3d325/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%85%AD%E5%85%A5%E6%A8%99%E5%85%AC%E5%8F%B8%E8%88%87%E4%BE%AF%E8%8F%AF%E5%81%A5%E6%9C%89%E9%97%9C%E4%BD%95%E5%81%89%E8%B1%AA%E5%9B%A0%E5%8A%A9%E6%92%A4%E9%9B%A2%E7%81%BD%E6%B0%91%E9%9B%A2%E9%9A%8A": {
+      "title": "八分鐘本地新聞重點｜宏福苑六入標公司與侯華健有關／何偉豪因助撤離災民離隊 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:54:47.890535",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點宏福苑六入標公司與侯華健有關何偉豪因助撤離災民離隊-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640685": {
+      "title": "宏福苑火災聽證會｜時任法團主席徐滿柑指　宏業稱轉用高阻燃發泡膠或要加錢",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:54:51.677806",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會時任法團主席徐滿柑指-宏業稱轉用高阻燃發泡膠或要加錢"
+    },
+    "https://news.tvb.com/tc/taipofire/69bd3ee967ae60978fc34eb0/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E5%86%80%E9%82%84%E5%8E%9F%E7%9C%9F%E7%9B%B8-%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%B2%E5%8F%96%E6%95%99%E8%A8%93%E4%BD%9C%E5%87%BA%E6%94%B9%E5%96%84": {
+      "title": "宏福苑火災聽證會｜部分居民冀還原真相 政府要汲取教訓作出改善 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:54:54.423509",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會部分居民冀還原真相-政府要汲取教訓作出改善-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640672": {
+      "title": "宏福苑火災聽證會｜孫玉菡：會全力配合宏福苑火災獨立委員會工作",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:54:57.406183",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會孫玉菡會全力配合宏福苑火災獨立委員會工作"
+    },
+    "https://news.tvb.com/tc/taipofire/69bd224c64af51d53ddaf33d/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E5%A4%A7%E5%BB%88%E6%A8%93%E6%A2%AF%E7%AA%97%E6%88%B6%E6%94%B9%E6%88%90%E7%94%9F%E5%8F%A3%E9%81%95%E8%A6%8F-%E6%88%BF%E5%B1%8B%E5%B1%80%E6%8C%87%E7%95%B6%E6%99%82%E7%84%A1%E5%AF%A6%E5%9C%B0%E6%AA%A2%E6%B8%AC": {
+      "title": "宏福苑火災聽證會｜大廈樓梯窗戶改成「生口」違規 房屋局指當時無實地檢測 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:54:59.686115",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會大廈樓梯窗戶改成生口違規-房屋局指當時無實地檢測-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640671": {
+      "title": "宏福苑火災聽證會｜杜淦堃：宏福苑消防承辦商無做好監督角色",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:55:03.105836",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會杜淦堃宏福苑消防承辦商無做好監督角色"
+    },
+    "https://news.tvb.com/tc/taipofire/69bd223364af51d53ddaf1b5/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B3%95%E5%9C%98%E5%89%8D%E4%B8%BB%E5%B8%AD%E8%A2%AB%E6%8C%87%E7%9F%A5%E9%81%93%E7%99%BC%E6%B3%A1%E8%86%A0%E6%9D%BF%E7%84%A1%E9%98%BB%E7%87%83%E4%BF%9D%E8%AD%89-%E7%A8%B1%E7%AE%A1%E5%A7%94%E6%9C%83%E9%9D%9E%E5%B0%88%E5%AE%B6": {
+      "title": "宏福苑火災聽證會｜法團前主席被指知道發泡膠板無阻燃保證 稱管委會非專家 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:05.228187",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會法團前主席被指知道發泡膠板無阻燃保證-稱管委會非專家-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640670": {
+      "title": "宏福苑火災聽證會｜工程顧問提醒發泡膠是易燃物　宏業指法例無訂明不能用堅持以發泡膠板遮窗",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:55:09.168947",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會工程顧問提醒發泡膠是易燃物-宏業指法例無訂明不能用堅持以發泡膠板遮窗"
+    },
+    "https://news.tvb.com/tc/taipofire/69bd221364af51d53ddaed1c/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E5%85%AD%E9%96%93%E5%85%A5%E6%A8%99%E5%85%AC%E5%8F%B8%E8%88%87%E5%AE%8F%E6%A5%AD%E8%91%A3%E4%BA%8B%E6%9C%89%E9%97%9C-%E9%A1%A7%E5%95%8F%E5%85%AC%E5%8F%B8%E6%9C%89%E4%BA%BA%E5%88%AA%E5%AE%8F%E6%A5%AD%E4%B8%8D%E8%89%AF%E7%B4%80%E9%8C%84": {
+      "title": "宏福苑火災聽證會｜六間入標公司與宏業董事有關 顧問公司有人刪宏業不良紀錄 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:10.802840",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會六間入標公司與宏業董事有關-顧問公司有人刪宏業不良紀錄-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640652": {
+      "title": "宏福苑火災聽證會｜承建商宏業堅持以非阻燃發泡膠封窗　消防處指不屬管轄範圍",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:55:14.360425",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會承建商宏業堅持以非阻燃發泡膠封窗-消防處指不屬管轄範圍"
+    },
+    "https://news.tvb.com/tc/taipofire/69bce52f23be94ba5d07096b/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%99%82%E4%BB%BB%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD%E6%8C%87%E6%9B%BE%E4%BF%83%E6%89%BF%E5%BB%BA%E5%95%86%E6%9B%B4%E6%8F%9B%E9%98%BB%E7%87%83%E7%89%A9%E6%96%99%E5%B0%81%E7%AA%97-%E6%83%9F%E9%81%AD%E6%8B%92": {
+      "title": "宏福苑火災聽證會｜時任法團主席指曾促承建商更換阻燃物料封窗 惟遭拒 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:16.205872",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會時任法團主席指曾促承建商更換阻燃物料封窗-惟遭拒-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640638": {
+      "title": "宏福苑火災獨立委員會舉行第二場聽證會",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:55:19.889844",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災獨立委員會舉行第二場聽證會"
+    },
+    "https://news.tvb.com/tc/taipofire/69bcd46d23be94ba5d06875e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1%E5%81%9C%E7%94%A8%E9%80%BE%E5%8D%8A%E5%B9%B4-%E6%B6%88%E9%98%B2%E6%9B%BE%E6%B4%BE%E5%93%A1%E5%88%B0%E5%A0%B4%E6%9C%AA%E6%9C%89%E6%AA%A2%E6%9F%A5": {
+      "title": "宏福苑火災聽證會｜宏福苑消防系統停用逾半年 消防曾派員到場未有檢查 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:22.286873",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會宏福苑消防系統停用逾半年-消防曾派員到場未有檢查-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640622": {
+      "title": "採訪日誌｜立法會交通事務委員會討論專營巴士服務／宏福苑獨立委員會第二日召開聽證會",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:55:25.399802",
+      "archive_path": "content\\news\\now-news\\archive\\採訪日誌立法會交通事務委員會討論專營巴士服務宏福苑獨立委員會第二日召開聽證會"
+    },
+    "https://news.tvb.com/tc/taipofire/69bcd46523be94ba5d0686f8/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E5%AE%8F%E6%A5%AD%E6%98%8E%E7%9F%A5%E4%BB%A5%E7%99%BC%E6%B3%A1%E8%86%A0%E5%B0%81%E7%AA%97%E6%9C%89%E5%8D%B1%E9%9A%AA%E4%BB%8D%E4%BD%BF%E7%94%A8-%E6%B6%88%E9%98%B2%E5%B7%A1%E6%9F%A5%E6%9C%AA%E6%9C%89%E8%99%95%E7%90%86": {
+      "title": "宏福苑火災聽證會｜宏業明知以發泡膠封窗有危險仍使用 消防巡查未有處理 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:27.958722",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會宏業明知以發泡膠封窗有危險仍使用-消防巡查未有處理-宏福苑五級火-1天前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=640810": {
+      "title": "宏福苑火災聽證會｜證人陸續作供　黃碧嬌指暫未收到委員會傳召",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-03-22T02:55:31.405611",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災聽證會證人陸續作供-黃碧嬌指暫未收到委員會傳召"
+    },
+    "https://news.tvb.com/tc/taipofire/69bcc2a723be94ba5d05e7db/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E5%B1%85%E6%B0%91%E6%9B%BE%E6%8A%95%E8%A8%B4%E6%9C%89%E5%A4%A7%E9%87%8F%E8%86%A0%E6%9D%BF%E5%AD%98%E6%94%BE%E4%B8%8D%E9%98%BB%E7%87%83-%E6%B6%88%E9%98%B2%E8%99%95%E7%A8%B1%E4%B8%8D%E5%B1%AC%E7%AE%A1%E8%BD%84%E7%AF%84%E5%9C%8D": {
+      "title": "宏福苑火災聽證會｜居民曾投訴有大量膠板存放、不阻燃 消防處稱不屬管轄範圍 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:33.212352",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會居民曾投訴有大量膠板存放不阻燃-消防處稱不屬管轄範圍-宏福苑五級火-1天前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69bcbf6b23be94ba5d05c9ad/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E8%B2%A0%E8%B2%AC%E5%85%AC%E5%8F%B816%E6%AC%A1%E7%94%B3%E8%AB%8B%E5%BB%B6%E9%95%B7%E9%97%9C%E9%96%89%E7%81%AB%E8%AD%A6%E7%B3%BB%E7%B5%B1%E5%81%9C%E7%94%A8%E9%81%94%E5%8D%8A%E5%B9%B4": {
+      "title": "宏福苑火災聽證會｜負責公司16次申請延長關閉火警系統、停用達半年 宏福苑五級火 1天前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:38.837563",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會負責公司16次申請延長關閉火警系統停用達半年-宏福苑五級火-1天前"
+    },
+    "https://news.tvb.com/tc/taipofire/69bcb47823be94ba5d056b3e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E5%A7%94%E5%93%A1%E6%9C%83%E5%B0%81%E7%AA%97%E7%99%BC%E6%B3%A1%E8%86%A0%E9%83%A8%E5%88%86%E4%B8%8D%E9%98%BB%E7%87%83-%E5%B1%85%E6%B0%91%E5%90%91%E6%B6%88%E9%98%B2%E8%99%95%E6%8A%95%E8%A8%B4%E4%B8%8D%E7%8D%B2%E5%8F%97%E7%90%86": {
+      "title": "宏福苑火災聽證會｜委員會：封窗發泡膠部分不阻燃 居民向消防處投訴不獲受理 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:44.486134",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會委員會封窗發泡膠部分不阻燃-居民向消防處投訴不獲受理-宏福苑五級火-1天前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69bcab6d23be94ba5d0522a6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%94%BF%E5%BA%9C%E7%A8%B1%E5%B7%B2%E5%90%91%E5%A7%94%E5%93%A1%E6%9C%83%E6%8F%90%E4%BA%A4%E6%94%B9%E5%96%84%E6%8E%AA%E6%96%BD%E8%B3%87%E6%96%99-%E5%B0%87%E6%8C%89%E5%BB%BA%E8%AD%B0%E5%84%AA%E5%8C%96%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9": {
+      "title": "宏福苑火災聽證會｜政府稱已向委員會提交改善措施資料 將按建議優化制度改革 宏福苑五級火 1天前",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:50.777549",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會政府稱已向委員會提交改善措施資料-將按建議優化制度改革-宏福苑五級火-1天前"
+    },
+    "https://news.tvb.com/tc/taipofire/69bc02d423be94ba5dff9139/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E8%91%B5%E6%B6%8C%E5%A1%8C%E5%A4%A9%E7%A7%A4-%E8%AD%89%E6%93%9A%E6%8C%87%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%B5%B7%E7%81%AB%E6%BA%90%E9%A0%AD%E7%82%BA%E7%85%99%E9%A0%AD%E4%BD%95%E5%81%89%E8%B1%AA%E9%80%83%E7%94%9F%E6%99%82%E5%A2%AE%E6%A8%93": {
+      "title": "八分鐘本地新聞重點｜葵涌塌天秤／ 證據指宏福苑起火源頭為煙頭／何偉豪逃生時墮樓 宏福苑五級火 2026-3-19 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:55:56.906383",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點葵涌塌天秤-證據指宏福苑起火源頭為煙頭何偉豪逃生時墮樓-宏福苑五級火-2026-3-19-粵"
+    },
+    "https://news.tvb.com/tc/pearlnews/69bccb3d23be94ba5d063355/TVB%20News-2nd-day-of-Wang-Fuk-Court-Hearing-involved-safety-issues-of-polyfoam-boards-": {
+      "title": "2nd day of Wang Fuk Court Hearing involved safety issues of polyfoam boards",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-03-22T02:56:02.769059",
+      "archive_path": "content\\news\\tvb\\archive\\2nd-day-of-wang-fuk-court-hearing-involved-safety-issues-of-polyfoam-boards"
     }
   },
-  "last_updated": "2026-03-19T22:57:17.569173"
+  "last_updated": "2026-03-22T02:56:02.769295"
 }

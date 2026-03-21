@@ -82,3 +82,7 @@
 
 ### 2026-03-19
 - [<![CDATA[宏福苑火災：勞工處多次巡查未發現吸煙，棚網承建商被指大火後試圖隱瞞]]>](https://www.bbc.com/zhongwen/articles/c3dzd71xkjxo/trad)
+
+
+### 2026-03-20
+- [<![CDATA[香港宏福苑聽證會：承建商堅持用非阻燃發泡膠封窗，大火前消防系統停運逾半年]]>](https://www.bbc.com/zhongwen/articles/cqj8l24lyrvo/trad)

@@ -523,3 +523,13 @@
 ### 2026-03-19
 - [Deadly Wang Fuk Court fire ‘most likely’ caused by smoking, public inquiry hears](https://hongkongfp.com/?p=558777) [Original](https://hongkongfp.com/?p=558777){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/deadly-wang-fuk-court-fire-most-likely-caused-by-smoking-public-inquiry-hears/){.md-button .hkfd-news-button}
 - [Hong Kong to introduce campsite booking system by National Day, environment chief says](https://hongkongfp.com/?p=558727) [Original](https://hongkongfp.com/?p=558727){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-to-introduce-campsite-booking-system-by-national-day-environment/){.md-button .hkfd-news-button}
+
+
+### 2026-03-19
+- [Housing Bureau’s inspection unit alerted renovation consultant before safety checks, Tai Po fire inquiry hears](https://hongkongfp.com/?p=558804) [Original](https://hongkongfp.com/?p=558804){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/housing-bureaus-inspection-unit-alerted-renovation-consultant-before-safety/){.md-button .hkfd-news-button}
+
+### 2026-03-20
+- [Businessman and construction graft whistleblower Jason Poon released on bail after fraud arrest](https://hongkongfp.com/?p=558905) [Original](https://hongkongfp.com/?p=558905){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/businessman-and-construction-graft-whistleblower-jason-poon-released-on-bail/){.md-button .hkfd-news-button}
+- [Tai Po fire probe: Blaze revealed systemic issues from potential collusion to ‘rubber-stamp inspections,’ inquiry hears](https://hongkongfp.com/?p=558942) [Original](https://hongkongfp.com/?p=558942){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-probe-blaze-revealed-systemic-issues-from-potential-collusion-to/){.md-button .hkfd-news-button}
+- [Tai Po fire probe: Hong Kong fire department dismissed residents’ complaints about foam boards](https://hongkongfp.com/?p=558904) [Original](https://hongkongfp.com/?p=558904){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-probe-hong-kong-fire-department-dismissed-residents-complaints/){.md-button .hkfd-news-button}
+- [100 people evacuated after fire hits Tsuen Wan village](https://hongkongfp.com/?p=558832) [Original](https://hongkongfp.com/?p=558832){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/100-people-evacuated-after-fire-hits-tsuen-wan-village/){.md-button .hkfd-news-button}

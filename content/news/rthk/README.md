@@ -1216,3 +1216,23 @@
 
 ### 2026-03-15
 - [鄧炳強讚揚警隊和消防在大埔宏福苑火災救援表現](https://news.rthk.hk/rthk/ch/component/k2/1847392-20260315.htm?archive_date=2026-03-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847392-20260315.htm?archive_date=2026-03-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強讚揚警隊和消防在大埔宏福苑火災救援表現/){.md-button .hkfd-news-button}
+
+
+### 2026-03-17
+- [Wang Fuk victims can salvage belongings by late April](https://news.rthk.hk/rthk/en/component/k2/1847605-20260317.htm?archive_date=2026-03-17) [Original](https://news.rthk.hk/rthk/en/component/k2/1847605-20260317.htm?archive_date=2026-03-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-victims-can-salvage-belongings-by-late-april/){.md-button .hkfd-news-button}
+- [粉嶺專用安置屋邨100個單位預留予宏福苑居民選購](https://news.rthk.hk/rthk/ch/component/k2/1847676-20260317.htm?archive_date=2026-03-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847676-20260317.htm?archive_date=2026-03-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/粉嶺專用安置屋邨100個單位預留予宏福苑居民選購/){.md-button .hkfd-news-button}
+- [李家超：宏福苑居民最快下月中下旬可返家](https://news.rthk.hk/rthk/ch/component/k2/1847673-20260317.htm?archive_date=2026-03-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847673-20260317.htm?archive_date=2026-03-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超宏福苑居民最快下月中下旬可返家/){.md-button .hkfd-news-button}
+- [獨立委員會周四聽證會　政府部門、宏福苑居民及前法團委員參與](https://news.rthk.hk/rthk/ch/component/k2/1847632-20260317.htm?archive_date=2026-03-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847632-20260317.htm?archive_date=2026-03-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/獨立委員會周四聽證會-政府部門宏福苑居民及前法團委員參與/){.md-button .hkfd-news-button}
+- [李家超：本月內公布安排　冀4月中下旬讓宏福苑居民返家取回物品](https://news.rthk.hk/rthk/ch/component/k2/1847596-20260317.htm?archive_date=2026-03-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847596-20260317.htm?archive_date=2026-03-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超本月內公布安排-冀4月中下旬讓宏福苑居民返家取回物品/){.md-button .hkfd-news-button}
+
+
+### 2026-03-19
+- ['Deceased fireman went into wrong Wang Fuk building'](https://news.rthk.hk/rthk/en/component/k2/1847952-20260319.htm?archive_date=2026-03-19) [Original](https://news.rthk.hk/rthk/en/component/k2/1847952-20260319.htm?archive_date=2026-03-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/deceased-fireman-went-into-wrong-wang-fuk-building/){.md-button .hkfd-news-button}
+- [宏福苑居民聽證會旁聽　稱觀看事發片段感心情沉重](https://news.rthk.hk/rthk/ch/component/k2/1847940-20260319.htm?archive_date=2026-03-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847940-20260319.htm?archive_date=2026-03-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民聽證會旁聽-稱觀看事發片段感心情沉重/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會首輪聽證會今早舉行　有業主冀知道火警成因](https://news.rthk.hk/rthk/ch/component/k2/1847907-20260319.htm?archive_date=2026-03-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847907-20260319.htm?archive_date=2026-03-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會首輪聽證會今早舉行-有業主冀知道火警成因/){.md-button .hkfd-news-button}
+
+
+### 2026-03-20
+- [No conclusions drawn on Wang Fuk Court blaze: govt](https://news.rthk.hk/rthk/en/component/k2/1848183-20260320.htm?archive_date=2026-03-20) [Original](https://news.rthk.hk/rthk/en/component/k2/1848183-20260320.htm?archive_date=2026-03-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/no-conclusions-drawn-on-wang-fuk-court-blaze-govt/){.md-button .hkfd-news-button}
+- [Wang Fuk blaze hearing turns attention to foam boards](https://news.rthk.hk/rthk/en/component/k2/1848094-20260320.htm?archive_date=2026-03-20) [Original](https://news.rthk.hk/rthk/en/component/k2/1848094-20260320.htm?archive_date=2026-03-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-blaze-hearing-turns-attention-to-foam-boards/){.md-button .hkfd-news-button}
+- [聽證會指宏福苑消防系統火災前停用逾半年　陸啟康盼公眾保持客觀](https://news.rthk.hk/rthk/ch/component/k2/1848156-20260320.htm?archive_date=2026-03-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848156-20260320.htm?archive_date=2026-03-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聽證會指宏福苑消防系統火災前停用逾半年-陸啟康盼公眾保持客觀/){.md-button .hkfd-news-button}

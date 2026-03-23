@@ -1441,3 +1441,14 @@
 
 ### 2026-03-21
 - [宏福苑火災聽證會｜證人陸續作供　黃碧嬌指暫未收到委員會傳召](https://news.now.com/home/local/player?newsId=640810) [Original](https://news.now.com/home/local/player?newsId=640810){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會證人陸續作供-黃碧嬌指暫未收到委員會傳召/){.md-button .hkfd-news-button}
+
+
+### 2026-03-22
+- [宏福苑五級火災｜被問合安何時開業主大會　民政總署：合安正處理文件等　完成後會向居民交代](https://news.now.com/home/local/player?newsId=640844) [Original](https://news.now.com/home/local/player?newsId=640844){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災被問合安何時開業主大會-民政總署合安正處理文件等-完成後會向居民交代/){.md-button .hkfd-news-button}
+
+### 2026-03-23
+- [宏福苑五級火災｜房屋局局長何永賢與宏志閣業主會面](https://news.now.com/home/local/player?newsId=641027) [Original](https://news.now.com/home/local/player?newsId=641027){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災房屋局局長何永賢與宏志閣業主會面/){.md-button .hkfd-news-button}
+- [政府建議修例在地盤實施全面禁煙　違例者定額罰款3千元](https://news.now.com/home/local/player?newsId=641026) [Original](https://news.now.com/home/local/player?newsId=641026){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府建議修例在地盤實施全面禁煙-違例者定額罰款3千元/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜獨立委員會下月將舉行多13場聽證會　聽取相關證據](https://news.now.com/home/local/player?newsId=641023) [Original](https://news.now.com/home/local/player?newsId=641023){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會獨立委員會下月將舉行多13場聽證會-聽取相關證據/){.md-button .hkfd-news-button}
+- [民建聯領導層換屆　陳克勤連任主席](https://news.now.com/home/local/player?newsId=640994) [Original](https://news.now.com/home/local/player?newsId=640994){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民建聯領導層換屆-陳克勤連任主席/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜孫玉菡：冀今年上半年修例實施地盤全面禁煙](https://news.now.com/home/local/player?newsId=640951) [Original](https://news.now.com/home/local/player?newsId=640951){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災孫玉菡冀今年上半年修例實施地盤全面禁煙/){.md-button .hkfd-news-button}

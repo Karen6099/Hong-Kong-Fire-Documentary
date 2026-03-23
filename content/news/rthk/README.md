@@ -1236,3 +1236,7 @@
 - [No conclusions drawn on Wang Fuk Court blaze: govt](https://news.rthk.hk/rthk/en/component/k2/1848183-20260320.htm?archive_date=2026-03-20) [Original](https://news.rthk.hk/rthk/en/component/k2/1848183-20260320.htm?archive_date=2026-03-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/no-conclusions-drawn-on-wang-fuk-court-blaze-govt/){.md-button .hkfd-news-button}
 - [Wang Fuk blaze hearing turns attention to foam boards](https://news.rthk.hk/rthk/en/component/k2/1848094-20260320.htm?archive_date=2026-03-20) [Original](https://news.rthk.hk/rthk/en/component/k2/1848094-20260320.htm?archive_date=2026-03-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-blaze-hearing-turns-attention-to-foam-boards/){.md-button .hkfd-news-button}
 - [聽證會指宏福苑消防系統火災前停用逾半年　陸啟康盼公眾保持客觀](https://news.rthk.hk/rthk/ch/component/k2/1848156-20260320.htm?archive_date=2026-03-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848156-20260320.htm?archive_date=2026-03-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聽證會指宏福苑消防系統火災前停用逾半年-陸啟康盼公眾保持客觀/){.md-button .hkfd-news-button}
+
+
+### 2026-03-23
+- [宏福苑獨立委員會下月將舉行第二輪及第三輪共13場聽證會](https://news.rthk.hk/rthk/ch/component/k2/1848471-20260323.htm?archive_date=2026-03-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848471-20260323.htm?archive_date=2026-03-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會下月將舉行第二輪及第三輪共13場聽證會/){.md-button .hkfd-news-button}

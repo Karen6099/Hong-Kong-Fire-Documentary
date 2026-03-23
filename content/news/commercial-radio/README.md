@@ -972,3 +972,16 @@
 
 ### 2026-03-21
 - [警方延長宏福苑範圍「限制飛行區」至下月5日](https://www.881903.com/news/local/2624018/) [Original](https://www.881903.com/news/local/2624018/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警方延長宏福苑範圍限制飛行區至下月5日/){.md-button .hkfd-news-button}
+
+
+### 2026-03-22
+- [房屋局：宏福苑業主參與特銷計劃未能購單位　可取現金](https://www.881903.com/news/local/2624132/) [Original](https://www.881903.com/news/local/2624132/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋局宏福苑業主參與特銷計劃未能購單位-可取現金/){.md-button .hkfd-news-button}
+- [公益金新界百萬行在粉嶺繞道東段舉行 ](https://www.881903.com/news/local/2624084/) [Original](https://www.881903.com/news/local/2624084/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/公益金新界百萬行在粉嶺繞道東段舉行/){.md-button .hkfd-news-button}
+- [民政總署：合安正執行程序　完成後將交代會否開業主會](https://www.881903.com/news/local/2624089/) [Original](https://www.881903.com/news/local/2624089/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民政總署合安正執行程序-完成後將交代會否開業主會/){.md-button .hkfd-news-button}
+
+### 2026-03-23
+- [勞工處擬修例將地盤全面禁煙　違者定額罰款3000元](https://www.881903.com/news/local/2624310/) [Original](https://www.881903.com/news/local/2624310/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/勞工處擬修例將地盤全面禁煙-違者定額罰款3000元/){.md-button .hkfd-news-button}
+- [何永賢與宏志閣業主會面了解想法　指解說隊會續聯絡業主](https://www.881903.com/news/local/2624319/) [Original](https://www.881903.com/news/local/2624319/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢與宏志閣業主會面了解想法-指解說隊會續聯絡業主/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會明日續舉行聽證會　傳召3名居民](https://www.881903.com/news/local/2624317/) [Original](https://www.881903.com/news/local/2624317/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會明日續舉行聽證會-傳召3名居民/){.md-button .hkfd-news-button}
+- [宏福苑火災第二及第三輪聽證會下月舉行　周三起可預約旁聽](https://www.881903.com/news/local/2624304/) [Original](https://www.881903.com/news/local/2624304/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災第二及第三輪聽證會下月舉行-周三起可預約旁聽/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜孫玉菡指全力配合獨立委員會工作、問責到底](https://www.881903.com/news/local/2624227/) [Original](https://www.881903.com/news/local/2624227/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火孫玉菡指全力配合獨立委員會工作問責到底/){.md-button .hkfd-news-button}

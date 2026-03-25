@@ -985,3 +985,16 @@
 - [宏福苑火災獨立委員會明日續舉行聽證會　傳召3名居民](https://www.881903.com/news/local/2624317/) [Original](https://www.881903.com/news/local/2624317/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會明日續舉行聽證會-傳召3名居民/){.md-button .hkfd-news-button}
 - [宏福苑火災第二及第三輪聽證會下月舉行　周三起可預約旁聽](https://www.881903.com/news/local/2624304/) [Original](https://www.881903.com/news/local/2624304/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災第二及第三輪聽證會下月舉行-周三起可預約旁聽/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜孫玉菡指全力配合獨立委員會工作、問責到底](https://www.881903.com/news/local/2624227/) [Original](https://www.881903.com/news/local/2624227/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火孫玉菡指全力配合獨立委員會工作問責到底/){.md-button .hkfd-news-button}
+
+
+### 2026-03-24
+- [政府：獨立委員會調查過程需對涉事者公道　籲各界保持耐性](https://www.881903.com/news/local/2624501/) [Original](https://www.881903.com/news/local/2624501/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府獨立委員會調查過程需對涉事者公道-籲各界保持耐性/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜政府方：審查組檢測前須商討　通風報信指控不實](https://www.881903.com/news/local/2624364/) [Original](https://www.881903.com/news/local/2624364/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會政府方審查組檢測前須商討-通風報信指控不實/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜作供居民：鄰居以消防喉轆救火但無水](https://www.881903.com/news/local/2624459/) [Original](https://www.881903.com/news/local/2624459/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會作供居民鄰居以消防喉轆救火但無水/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜市建局：只扮演促進者　未盡忠職守之說欠公允](https://www.881903.com/news/local/2624413/) [Original](https://www.881903.com/news/local/2624413/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會市建局只扮演促進者-未盡忠職守之說欠公允/){.md-button .hkfd-news-button}
+- [孫玉菡：地盤全面禁煙目標9月前正式實施](https://www.881903.com/news/local/2624360/) [Original](https://www.881903.com/news/local/2624360/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡地盤全面禁煙目標9月前正式實施/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜業主拒售業權　稱解說隊未解後續安排疑問](https://www.881903.com/news/local/2624299/) [Original](https://www.881903.com/news/local/2624299/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火業主拒售業權-稱解說隊未解後續安排疑問/){.md-button .hkfd-news-button}
+
+### 2026-03-25
+- [競委會控告圍標集團　涉宏福苑等11工程共近7億元合約](https://www.881903.com/news/local/2624598/) [Original](https://www.881903.com/news/local/2624598/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/競委會控告圍標集團-涉宏福苑等11工程共近7億元合約/){.md-button .hkfd-news-button}
+- [地盤禁煙｜工會：若設違規吸煙工人黑名單是太極端](https://www.881903.com/news/local/2624554/) [Original](https://www.881903.com/news/local/2624554/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/地盤禁煙工會若設違規吸煙工人黑名單是太極端/){.md-button .hkfd-news-button}

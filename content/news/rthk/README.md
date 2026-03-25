@@ -1240,3 +1240,14 @@
 
 ### 2026-03-23
 - [宏福苑獨立委員會下月將舉行第二輪及第三輪共13場聽證會](https://news.rthk.hk/rthk/ch/component/k2/1848471-20260323.htm?archive_date=2026-03-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848471-20260323.htm?archive_date=2026-03-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會下月將舉行第二輪及第三輪共13場聽證會/){.md-button .hkfd-news-button}
+
+
+### 2026-03-24
+- [Wang Fuk Court residents say no fire alarms sounded](https://news.rthk.hk/rthk/en/component/k2/1848601-20260324.htm?archive_date=2026-03-24) [Original](https://news.rthk.hk/rthk/en/component/k2/1848601-20260324.htm?archive_date=2026-03-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-say-no-fire-alarms-sounded/){.md-button .hkfd-news-button}
+- [宏福苑居民於獨立委員會作供　曾見過工人搭棚時吸煙](https://news.rthk.hk/rthk/ch/component/k2/1848596-20260324.htm?archive_date=2026-03-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848596-20260324.htm?archive_date=2026-03-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民於獨立委員會作供-曾見過工人搭棚時吸煙/){.md-button .hkfd-news-button}
+- [市建局代表大律師稱宏福苑非透過「招標妥」聘工程顧問故認知有限](https://news.rthk.hk/rthk/ch/component/k2/1848575-20260324.htm?archive_date=2026-03-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848575-20260324.htm?archive_date=2026-03-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局代表大律師稱宏福苑非透過招標妥聘工程顧問故認知有限/){.md-button .hkfd-news-button}
+- [宏福苑獨立委員會續開聽證會　料下午將傳召3宏福苑居民作供](https://news.rthk.hk/rthk/ch/component/k2/1848530-20260324.htm?archive_date=2026-03-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848530-20260324.htm?archive_date=2026-03-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會續開聽證會-料下午將傳召3宏福苑居民作供/){.md-button .hkfd-news-button}
+
+### 2026-03-25
+- [競委會起訴6間業務實體及12人　涉宏福苑等11屋苑維修工程](https://news.rthk.hk/rthk/ch/component/k2/1848768-20260325.htm?archive_date=2026-03-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848768-20260325.htm?archive_date=2026-03-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/競委會起訴6間業務實體及12人-涉宏福苑等11屋苑維修工程/){.md-button .hkfd-news-button}
+- [競委會控告維修工程圍標集團　涉及宏福苑等11屋苑總額近７億元](https://news.rthk.hk/rthk/ch/component/k2/1848728-20260325.htm?archive_date=2026-03-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1848728-20260325.htm?archive_date=2026-03-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/競委會控告維修工程圍標集團-涉及宏福苑等11屋苑總額近7億元/){.md-button .hkfd-news-button}

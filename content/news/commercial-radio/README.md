@@ -998,3 +998,20 @@
 ### 2026-03-25
 - [競委會控告圍標集團　涉宏福苑等11工程共近7億元合約](https://www.881903.com/news/local/2624598/) [Original](https://www.881903.com/news/local/2624598/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/競委會控告圍標集團-涉宏福苑等11工程共近7億元合約/){.md-button .hkfd-news-button}
 - [地盤禁煙｜工會：若設違規吸煙工人黑名單是太極端](https://www.881903.com/news/local/2624554/) [Original](https://www.881903.com/news/local/2624554/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/地盤禁煙工會若設違規吸煙工人黑名單是太極端/){.md-button .hkfd-news-button}
+
+
+### 2026-03-25
+- [宏福苑火災聽證會丨明傳召11證人　包括分包商外牆清潔工](https://www.881903.com/news/local/2624690/) [Original](https://www.881903.com/news/local/2624690/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會丨明傳召11證人-包括分包商外牆清潔工/){.md-button .hkfd-news-button}
+
+### 2026-03-26
+- [宏福苑火災聽證會｜首報案居民指999線路繁忙  有居民目睹工人吸煙](https://www.881903.com/news/local/2624741/) [Original](https://www.881903.com/news/local/2624741/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會首報案居民指999線路繁忙-有居民目睹工人吸煙/){.md-button .hkfd-news-button}
+- [李慧琼：立法會將持續觀察宏福苑火災事態發展](https://www.881903.com/news/local/2624829/) [Original](https://www.881903.com/news/local/2624829/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李慧琼立法會將持續觀察宏福苑火災事態發展/){.md-button .hkfd-news-button}
+- [合安：最快4月開簡介會  交代宏福苑業主立案法團工作進度](https://www.881903.com/news/local/2624827/) [Original](https://www.881903.com/news/local/2624827/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/合安最快4月開簡介會-交代宏福苑業主立案法團工作進度/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜ 遺屬質疑大維修承建商揀選結果](https://www.881903.com/news/local/2624779/) [Original](https://www.881903.com/news/local/2624779/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會-遺屬質疑大維修承建商揀選結果/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜外牆清潔工稱工作課未提火災應變方法](https://www.881903.com/news/local/2624800/) [Original](https://www.881903.com/news/local/2624800/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會外牆清潔工稱工作課未提火災應變方法/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會｜競委會：宏福苑大維修或涉兩個或以上圍標集團](https://www.881903.com/news/local/2624770/) [Original](https://www.881903.com/news/local/2624770/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會競委會宏福苑大維修或涉兩個或以上圍標集團/){.md-button .hkfd-news-button}
+- [何永賢︰宏福苑收購方案不包括法團戶口及維修基金餘款](https://www.881903.com/news/local/2624765/) [Original](https://www.881903.com/news/local/2624765/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢宏福苑收購方案不包括法團戶口及維修基金餘款/){.md-button .hkfd-news-button}
+
+### 2026-03-27
+- [宏福苑居民指3小時上樓執拾不足夠　冀再安排上樓](https://www.881903.com/news/local/2625023/) [Original](https://www.881903.com/news/local/2625023/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民指3小時上樓執拾不足夠-冀再安排上樓/){.md-button .hkfd-news-button}
+- [宏福苑7幢樓宇居民　下月20日起分批返單位執拾3小時](https://www.881903.com/news/local/2624923/) [Original](https://www.881903.com/news/local/2624923/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑7幢樓宇居民-下月20日起分批返單位執拾3小時/){.md-button .hkfd-news-button}

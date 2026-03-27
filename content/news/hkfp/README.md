@@ -547,3 +547,14 @@
 - [Hong Kong proposes blanket smoking ban on construction sites, seeking to penalise workers, contractors](https://hongkongfp.com/?p=559357) [Original](https://hongkongfp.com/?p=559357){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-proposes-blanket-smoking-ban-on-construction-sites-seeking-to/){.md-button .hkfd-news-button}
 - [Tai Po fire inquiry: Gov’t lawyer rejects claims officer ‘tipped off’ consultant over safety checks](https://hongkongfp.com/?p=559315) [Original](https://hongkongfp.com/?p=559315){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-inquiry-govt-lawyer-rejects-claims-officer-tipped-off-consultant/){.md-button .hkfd-news-button}
 - [Hong Kong upgrades Iran, Israel travel alerts to ‘black’ amid Middle East war](https://hongkongfp.com/?p=559270) [Original](https://hongkongfp.com/?p=559270){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-upgrades-iran-israel-travel-alerts-to-black-amid-middle-east-war/){.md-button .hkfd-news-button}
+
+
+### 2026-03-25
+- [Hong Kong competition watchdog sues ‘building maintenance cartel’ over HK$700 million bid-rigging](https://hongkongfp.com/?p=559495) [Original](https://hongkongfp.com/?p=559495){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-competition-watchdog-sues-building-maintenance-cartel-over-hk700/){.md-button .hkfd-news-button}
+
+### 2026-03-26
+- [Tai Po fire survivor ‘proud’ of firefighters who retrieved victim’s body during rescue](https://hongkongfp.com/?p=559604) [Original](https://hongkongfp.com/?p=559604){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-survivor-proud-of-firefighters-who-retrieved-victims-body-during/){.md-button .hkfd-news-button}
+
+### 2026-03-27
+- [Wang Fuk Court residents to get 3-hour slots to retrieve belongings at fire-hit estate from mid-April](https://hongkongfp.com/?p=559704) [Original](https://hongkongfp.com/?p=559704){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-to-get-3-hour-slots-to-retrieve-belongings-at-fire-hit/){.md-button .hkfd-news-button}
+- [Hong Kong politician faces fresh scrutiny as resident of fire-hit Tai Po estate slams ‘shady’ renovation tendering process](https://hongkongfp.com/?p=559671) [Original](https://hongkongfp.com/?p=559671){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-politician-faces-fresh-scrutiny-as-resident-of-fire-hit-tai-po-estate/){.md-button .hkfd-news-button}

@@ -110,3 +110,7 @@
 
 ### 2026年03月23日
 - [香港世紀大火｜獨立委員會下月將舉行多 13 場聽證會 勞工處擬修例 地盤全面禁煙](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%8d%a8%e7%ab%8b%e5%a7%94%e5%93%a1%e6%9c%83%e4%b8%8b%e6%9c%88%e5%b0%87%e8%88%89%e8%a1%8c%e5%a4%9a-13-%e5%a0%b4%e8%81%bd%e8%ad%89/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e7%8d%a8%e7%ab%8b%e5%a7%94%e5%93%a1%e6%9c%83%e4%b8%8b%e6%9c%88%e5%b0%87%e8%88%89%e8%a1%8c%e5%a4%9a-13-%e5%a0%b4%e8%81%bd%e8%ad%89/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火獨立委員會下月將舉行多-13-場聽證會-勞工處擬修例-地盤全面禁煙/){.md-button .hkfd-news-button}
+
+
+### 2026年03月28日
+- [英國《香港半年報告》續指港自由受挫 提宏福苑稱國安公署指控「外國干預」 港府及立法會分別譴責英方](https://points-media.com/%e6%9c%80%e6%96%b0/%e8%8b%b1%e5%9c%8b%e3%80%8a%e9%a6%99%e6%b8%af%e5%8d%8a%e5%b9%b4%e5%a0%b1%e5%91%8a%e3%80%8b%e7%ba%8c%e6%8c%87%e6%b8%af%e8%87%aa%e7%94%b1%e5%8f%97%e6%8c%ab-%e6%8f%90%e5%ae%8f%e7%a6%8f%e8%8b%91%e7%a8%b1/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e8%8b%b1%e5%9c%8b%e3%80%8a%e9%a6%99%e6%b8%af%e5%8d%8a%e5%b9%b4%e5%a0%b1%e5%91%8a%e3%80%8b%e7%ba%8c%e6%8c%87%e6%b8%af%e8%87%aa%e7%94%b1%e5%8f%97%e6%8c%ab-%e6%8f%90%e5%ae%8f%e7%a6%8f%e8%8b%91%e7%a8%b1/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/英國香港半年報告續指港自由受挫-提宏福苑稱國安公署指控外國干預-港府及立法會分別譴責英方/){.md-button .hkfd-news-button}

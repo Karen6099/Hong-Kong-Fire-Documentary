@@ -499,3 +499,16 @@
 - [宏福苑調查｜宏業要求訂購非阻燃棚網　當局檢查前「通風」恐助承建商作假](https://www.dotdotnews.com/a/202603/19/AP69bbcf74e4b0c32d4f6c5666.html) [Original](https://www.dotdotnews.com/a/202603/19/AP69bbcf74e4b0c32d4f6c5666.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑調查宏業要求訂購非阻燃棚網-當局檢查前通風恐助承建商作假/){.md-button .hkfd-news-button}
 - [宏福苑調查｜火災疑涉多項人為疏失　詳情一圖睇](https://www.dotdotnews.com/a/202603/19/AP69bbd048e4b0c32d4f6c5686.html) [Original](https://www.dotdotnews.com/a/202603/19/AP69bbd048e4b0c32d4f6c5686.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑調查火災疑涉多項人為疏失-詳情一圖睇/){.md-button .hkfd-news-button}
 - [（有片）宏福苑調查｜居民讚聽證會還原真相　對調查結果有信心](https://www.dotdotnews.com/a/202603/19/AP69bbb4fee4b0c32d4f6c525d.html) [Original](https://www.dotdotnews.com/a/202603/19/AP69bbb4fee4b0c32d4f6c525d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑調查居民讚聽證會還原真相-對調查結果有信心/){.md-button .hkfd-news-button}
+
+
+### 2026-03-27
+- [Wang Fuk Court Aftermath | Nearly 7,000 residents to return and retrieve belongings as govt deploys over 1,000 personnel daily](https://english.dotdotnews.com/a/202603/27/AP69c65224e4b0c32d4f6d3607.html) [Original](https://english.dotdotnews.com/a/202603/27/AP69c65224e4b0c32d4f6d3607.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-nearly-7000-residents-to-return-and-retrieve/){.md-button .hkfd-news-button}
+
+
+### 2026-03-25
+- [宏福苑火災敲警鐘　議員促加強學校防災教育](https://www.dotdotnews.com/a/202603/25/AP69c3ab1de4b0c32d4f6cfe64.html) [Original](https://www.dotdotnews.com/a/202603/25/AP69c3ab1de4b0c32d4f6cfe64.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災敲警鐘-議員促加強學校防災教育/){.md-button .hkfd-news-button}
+
+### 2026-03-27
+- [點直播｜政府公布宏福苑居民返單位執拾的安排｜3月27日](https://www.dotdotnews.com/a/202603/27/AP69c63154e4b0c32d4f6d31b0.html) [Original](https://www.dotdotnews.com/a/202603/27/AP69c63154e4b0c32d4f6d31b0.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播政府公布宏福苑居民返單位執拾的安排3月27日/){.md-button .hkfd-news-button}
+- [久慧說法｜優化《競爭條例》　全面打擊圍標！](https://www.dotdotnews.com/a/202603/27/AP69c64e31e4b0c32d4f6d357e.html) [Original](https://www.dotdotnews.com/a/202603/27/AP69c64e31e4b0c32d4f6d357e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/久慧說法優化競爭條例-全面打擊圍標/){.md-button .hkfd-news-button}
+- [點觀香港｜宏福苑7廈居民4·20起分批返家執拾　政府每日派逾千人護送](https://www.dotdotnews.com/a/202603/27/AP69c674c1e4b0c32d4f6d3bfd.html) [Original](https://www.dotdotnews.com/a/202603/27/AP69c674c1e4b0c32d4f6d3bfd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑7廈居民420起分批返家執拾-政府每日派逾千人護送/){.md-button .hkfd-news-button}

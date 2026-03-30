@@ -512,3 +512,7 @@
 - [點直播｜政府公布宏福苑居民返單位執拾的安排｜3月27日](https://www.dotdotnews.com/a/202603/27/AP69c63154e4b0c32d4f6d31b0.html) [Original](https://www.dotdotnews.com/a/202603/27/AP69c63154e4b0c32d4f6d31b0.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播政府公布宏福苑居民返單位執拾的安排3月27日/){.md-button .hkfd-news-button}
 - [久慧說法｜優化《競爭條例》　全面打擊圍標！](https://www.dotdotnews.com/a/202603/27/AP69c64e31e4b0c32d4f6d357e.html) [Original](https://www.dotdotnews.com/a/202603/27/AP69c64e31e4b0c32d4f6d357e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/久慧說法優化競爭條例-全面打擊圍標/){.md-button .hkfd-news-button}
 - [點觀香港｜宏福苑7廈居民4·20起分批返家執拾　政府每日派逾千人護送](https://www.dotdotnews.com/a/202603/27/AP69c674c1e4b0c32d4f6d3bfd.html) [Original](https://www.dotdotnews.com/a/202603/27/AP69c674c1e4b0c32d4f6d3bfd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑7廈居民420起分批返家執拾-政府每日派逾千人護送/){.md-button .hkfd-news-button}
+
+
+### 2026-03-30
+- [Wang Fuk Court Aftermath | Cheuk Wing-hing: Flexible on-site handling, residents may be allowed upstairs more than once](https://english.dotdotnews.com/a/202603/30/AP69ca17c1e4b09ea23310e6ad.html) [Original](https://english.dotdotnews.com/a/202603/30/AP69ca17c1e4b09ea23310e6ad.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-cheuk-wing-hing-flexible-on-site-handling-residents/){.md-button .hkfd-news-button}

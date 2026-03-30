@@ -558,3 +558,10 @@
 ### 2026-03-27
 - [Wang Fuk Court residents to get 3-hour slots to retrieve belongings at fire-hit estate from mid-April](https://hongkongfp.com/?p=559704) [Original](https://hongkongfp.com/?p=559704){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-to-get-3-hour-slots-to-retrieve-belongings-at-fire-hit/){.md-button .hkfd-news-button}
 - [Hong Kong politician faces fresh scrutiny as resident of fire-hit Tai Po estate slams ‘shady’ renovation tendering process](https://hongkongfp.com/?p=559671) [Original](https://hongkongfp.com/?p=559671){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-politician-faces-fresh-scrutiny-as-resident-of-fire-hit-tai-po-estate/){.md-button .hkfd-news-button}
+
+
+### 2026-03-28
+- [Lawyer’s paradoxical logic: Advance notice was ‘groundless’ and necessary](https://hongkongfp.com/?p=559697) [Original](https://hongkongfp.com/?p=559697){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/lawyers-paradoxical-logic-advance-notice-was-groundless-and-necessary/){.md-button .hkfd-news-button}
+
+### 2026-03-30
+- [Wang Fuk Court residents allowed repeat trips to retrieve belongings after petition calls 3-hour limit insufficient](https://hongkongfp.com/?p=559885) [Original](https://hongkongfp.com/?p=559885){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-allowed-repeat-trips-to-retrieve-belongings-after/){.md-button .hkfd-news-button}

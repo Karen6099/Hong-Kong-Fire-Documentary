@@ -1015,3 +1015,21 @@
 ### 2026-03-27
 - [宏福苑居民指3小時上樓執拾不足夠　冀再安排上樓](https://www.881903.com/news/local/2625023/) [Original](https://www.881903.com/news/local/2625023/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民指3小時上樓執拾不足夠-冀再安排上樓/){.md-button .hkfd-news-button}
 - [宏福苑7幢樓宇居民　下月20日起分批返單位執拾3小時](https://www.881903.com/news/local/2624923/) [Original](https://www.881903.com/news/local/2624923/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑7幢樓宇居民-下月20日起分批返單位執拾3小時/){.md-button .hkfd-news-button}
+
+
+### 2026-03-28
+- [法援署長陳澤銘：已批70宗宏福苑法援申請　涉不同類別索償](https://www.881903.com/news/local/2625078/) [Original](https://www.881903.com/news/local/2625078/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署長陳澤銘已批70宗宏福苑法援申請-涉不同類別索償/){.md-button .hkfd-news-button}
+- [卓永興：宏福苑居民原則上不可多次往返單位　料3小時足夠收拾](https://www.881903.com/news/local/2625069/) [Original](https://www.881903.com/news/local/2625069/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興宏福苑居民原則上不可多次往返單位-料3小時足夠收拾/){.md-button .hkfd-news-button}
+
+### 2026-03-29
+- [宏福苑火災聽證會丨消防裝置承辦商「宏泰消防工程」3員工明日作供](https://www.881903.com/news/local/2625228/) [Original](https://www.881903.com/news/local/2625228/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會丨消防裝置承辦商宏泰消防工程3員工明日作供/){.md-button .hkfd-news-button}
+- [宏福苑居民收上樓守則　指不建議長者及兒童上樓](https://www.881903.com/news/local/2625210/) [Original](https://www.881903.com/news/local/2625210/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民收上樓守則-指不建議長者及兒童上樓/){.md-button .hkfd-news-button}
+
+### 2026-03-30
+- [宏福苑火災聽證會丨承辦商電工：物管稱另有工程關閉消防泵總掣](https://www.881903.com/news/local/2625363/) [Original](https://www.881903.com/news/local/2625363/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會丨承辦商電工物管稱另有工程關閉消防泵總掣/){.md-button .hkfd-news-button}
+- [卓永興：居民可向社工提出需要再上樓　將視乎具體情況處理](https://www.881903.com/news/local/2625288/) [Original](https://www.881903.com/news/local/2625288/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興居民可向社工提出需要再上樓-將視乎具體情況處理/){.md-button .hkfd-news-button}
+- [當局研修例地盤全面禁煙　議員關注承建商如何達合理標準](https://www.881903.com/news/local/2625271/) [Original](https://www.881903.com/news/local/2625271/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/當局研修例地盤全面禁煙-議員關注承建商如何達合理標準/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會丨居民曾就發泡膠封窗致電消防　回覆沒條例規管](https://www.881903.com/news/local/2625309/) [Original](https://www.881903.com/news/local/2625309/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會丨居民曾就發泡膠封窗致電消防-回覆沒條例規管/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會丨居民指曾向市建局投訴惟對方不理會](https://www.881903.com/news/local/2625260/) [Original](https://www.881903.com/news/local/2625260/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會丨居民指曾向市建局投訴惟對方不理會/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會期間突然響火警鐘　有消防員到場檢查](https://www.881903.com/news/local/2625298/) [Original](https://www.881903.com/news/local/2625298/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會期間突然響火警鐘-有消防員到場檢查/){.md-button .hkfd-news-button}
+- [宏福苑居民指執拾時間不足　感到憤怒](https://www.881903.com/news/local/2625263/) [Original](https://www.881903.com/news/local/2625263/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民指執拾時間不足-感到憤怒/){.md-button .hkfd-news-button}

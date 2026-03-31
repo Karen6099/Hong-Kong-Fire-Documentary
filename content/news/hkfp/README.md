@@ -565,3 +565,15 @@
 
 ### 2026-03-30
 - [Wang Fuk Court residents allowed repeat trips to retrieve belongings after petition calls 3-hour limit insufficient](https://hongkongfp.com/?p=559885) [Original](https://hongkongfp.com/?p=559885){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-allowed-repeat-trips-to-retrieve-belongings-after/){.md-button .hkfd-news-button}
+
+
+### 2026-03-30
+- [Fire safety contractor knew Wang Fuk Court alarms were off before fatal blaze, inquiry hears](https://hongkongfp.com/?p=560012) [Original](https://hongkongfp.com/?p=560012){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-safety-contractor-knew-wang-fuk-court-alarms-were-off-before-fatal-blaze/){.md-button .hkfd-news-button}
+- [Widower in deadly Tai Po fire slams Hong Kong gov’t for ‘evading responsibility’](https://hongkongfp.com/?p=559999) [Original](https://hongkongfp.com/?p=559999){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/widower-in-deadly-tai-po-fire-slams-hong-kong-govt-for-evading-responsibility/){.md-button .hkfd-news-button}
+
+### 2026-03-31
+- [Fire safety contractor defends inaction despite knowing alarms were disabled before fatal Tai Po blaze](https://hongkongfp.com/?p=560187) [Original](https://hongkongfp.com/?p=560187){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-safety-contractor-defends-inaction-despite-knowing-alarms-were-disabled/){.md-button .hkfd-news-button}
+- [Knife-wielding man shot by Hong Kong police dies after 10 days in hospital](https://hongkongfp.com/?p=560116) [Original](https://hongkongfp.com/?p=560116){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/knife-wielding-man-shot-by-hong-kong-police-dies-after-10-days-in-hospital/){.md-button .hkfd-news-button}
+- [Tai Po fire: Inquiry committee urges public to report suspected graft in building maintenance projects](https://hongkongfp.com/?p=560068) [Original](https://hongkongfp.com/?p=560068){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-inquiry-committee-urges-public-to-report-suspected-graft-in/){.md-button .hkfd-news-button}
+- [All airline passengers limited to 2 power banks](https://hongkongfp.com/?p=560049) [Original](https://hongkongfp.com/?p=560049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/all-airline-passengers-limited-to-2-power-banks/){.md-button .hkfd-news-button}
+- [Hong Kong anti-graft watchdog, police arrest 42 in crackdown on triad-linked building maintenance syndicate](https://hongkongfp.com/?p=560050) [Original](https://hongkongfp.com/?p=560050){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-anti-graft-watchdog-police-arrest-42-in-crackdown-on-triad-linked/){.md-button .hkfd-news-button}

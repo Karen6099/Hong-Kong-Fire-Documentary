@@ -1033,3 +1033,13 @@
 - [宏福苑火災聽證會丨居民指曾向市建局投訴惟對方不理會](https://www.881903.com/news/local/2625260/) [Original](https://www.881903.com/news/local/2625260/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會丨居民指曾向市建局投訴惟對方不理會/){.md-button .hkfd-news-button}
 - [宏福苑火災聽證會期間突然響火警鐘　有消防員到場檢查](https://www.881903.com/news/local/2625298/) [Original](https://www.881903.com/news/local/2625298/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會期間突然響火警鐘-有消防員到場檢查/){.md-button .hkfd-news-button}
 - [宏福苑居民指執拾時間不足　感到憤怒](https://www.881903.com/news/local/2625263/) [Original](https://www.881903.com/news/local/2625263/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民指執拾時間不足-感到憤怒/){.md-button .hkfd-news-button}
+
+
+### 2026-03-30
+- [宏福苑獨立委員會邀公眾  就大維修工程涉貪圍標提供資料](https://www.881903.com/news/local/2625388/) [Original](https://www.881903.com/news/local/2625388/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會邀公眾-就大維修工程涉貪圍標提供資料/){.md-button .hkfd-news-button}
+
+### 2026-03-31
+- [麥美娟：收集居民再上樓意願　很快安排宏志閣居民上樓執拾](https://www.881903.com/news/local/2625526/) [Original](https://www.881903.com/news/local/2625526/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟收集居民再上樓意願-很快安排宏志閣居民上樓執拾/){.md-button .hkfd-news-button}
+- [房屋局：僅1宗發錯宏福苑單位相片個案　覆查未發現同類問題](https://www.881903.com/news/local/2625527/) [Original](https://www.881903.com/news/local/2625527/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋局僅1宗發錯宏福苑單位相片個案-覆查未發現同類問題/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜年檢核對表與消防證書不符　宏泰董事：沒有留意到](https://www.881903.com/news/local/2625442/) [Original](https://www.881903.com/news/local/2625442/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會年檢核對表與消防證書不符-宏泰董事沒有留意到/){.md-button .hkfd-news-button}
+- [房屋局認發放宏福苑單位相片時出錯　料今日內完成全面核查](https://www.881903.com/news/local/2625449/) [Original](https://www.881903.com/news/local/2625449/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋局認發放宏福苑單位相片時出錯-料今日內完成全面核查/){.md-button .hkfd-news-button}

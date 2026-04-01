@@ -1043,3 +1043,9 @@
 - [房屋局：僅1宗發錯宏福苑單位相片個案　覆查未發現同類問題](https://www.881903.com/news/local/2625527/) [Original](https://www.881903.com/news/local/2625527/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋局僅1宗發錯宏福苑單位相片個案-覆查未發現同類問題/){.md-button .hkfd-news-button}
 - [宏福苑聽證會｜年檢核對表與消防證書不符　宏泰董事：沒有留意到](https://www.881903.com/news/local/2625442/) [Original](https://www.881903.com/news/local/2625442/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會年檢核對表與消防證書不符-宏泰董事沒有留意到/){.md-button .hkfd-news-button}
 - [房屋局認發放宏福苑單位相片時出錯　料今日內完成全面核查](https://www.881903.com/news/local/2625449/) [Original](https://www.881903.com/news/local/2625449/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋局認發放宏福苑單位相片時出錯-料今日內完成全面核查/){.md-button .hkfd-news-button}
+
+
+### 2026-04-01
+- [宏福苑聽證會｜物管公司員工指法團曾質疑維修消防水缸必要性](https://www.881903.com/news/local/2625604/) [Original](https://www.881903.com/news/local/2625604/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會物管公司員工指法團曾質疑維修消防水缸必要性/){.md-button .hkfd-news-button}
+- [孫玉菡：推動良政善治　需非政府機構支援](https://www.881903.com/news/local/2625672/) [Original](https://www.881903.com/news/local/2625672/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡推動良政善治-需非政府機構支援/){.md-button .hkfd-news-button}
+- [東華三院就宏福苑火災累計籌3.72億　將規劃支援方案](https://www.881903.com/news/local/2625662/) [Original](https://www.881903.com/news/local/2625662/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/東華三院就宏福苑火災累計籌372億-將規劃支援方案/){.md-button .hkfd-news-button}

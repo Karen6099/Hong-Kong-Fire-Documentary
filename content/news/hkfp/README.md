@@ -577,3 +577,8 @@
 - [Tai Po fire: Inquiry committee urges public to report suspected graft in building maintenance projects](https://hongkongfp.com/?p=560068) [Original](https://hongkongfp.com/?p=560068){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-inquiry-committee-urges-public-to-report-suspected-graft-in/){.md-button .hkfd-news-button}
 - [All airline passengers limited to 2 power banks](https://hongkongfp.com/?p=560049) [Original](https://hongkongfp.com/?p=560049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/all-airline-passengers-limited-to-2-power-banks/){.md-button .hkfd-news-button}
 - [Hong Kong anti-graft watchdog, police arrest 42 in crackdown on triad-linked building maintenance syndicate](https://hongkongfp.com/?p=560050) [Original](https://hongkongfp.com/?p=560050){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-anti-graft-watchdog-police-arrest-42-in-crackdown-on-triad-linked/){.md-button .hkfd-news-button}
+
+
+### 2026-04-01
+- [Renovation consultant knew a week before gov’t inspections, proxy votes ‘very common,’ Tai Po blaze inquiry hears](https://hongkongfp.com/?p=560261) [Original](https://hongkongfp.com/?p=560261){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/renovation-consultant-knew-a-week-before-govt-inspections-proxy-votes-very/){.md-button .hkfd-news-button}
+- [Gov’t-appointed administrator for fire-hit Wang Fuk Court to hold ‘briefing session’ for residents](https://hongkongfp.com/?p=560251) [Original](https://hongkongfp.com/?p=560251){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-appointed-administrator-for-fire-hit-wang-fuk-court-to-hold-briefing/){.md-button .hkfd-news-button}

@@ -1573,3 +1573,11 @@
 - [宏福苑聽證會｜被問為何不跟進消防總電掣被關　鍾傑文認為不應該「教人做嘢」](https://news.now.com/home/local/player?newsId=642014) [Original](https://news.now.com/home/local/player?newsId=642014){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會被問為何不跟進消防總電掣被關-鍾傑文認為不應該教人做嘢/){.md-button .hkfd-news-button}
 - [宏福苑聽證會｜消防年檢顯示水缸損壞　宏泰消防董事承認可能填錯](https://news.now.com/home/local/player?newsId=641991) [Original](https://news.now.com/home/local/player?newsId=641991){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防年檢顯示水缸損壞-宏泰消防董事承認可能填錯/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會舉行第六場聽證會](https://news.now.com/home/local/player?newsId=641970) [Original](https://news.now.com/home/local/player?newsId=641970){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會舉行第六場聽證會/){.md-button .hkfd-news-button}
+
+
+### 2026-04-01
+- [宏福苑聽證會｜陸啟康質疑物管工程主任不知下屬放消防缸水　事主︰我非廢物須處理複雜個案](https://news.now.com/home/local/player?newsId=642187) [Original](https://news.now.com/home/local/player?newsId=642187){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會陸啟康質疑物管工程主任不知下屬放消防缸水-事主我非廢物須處理複雜個案/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜宏福苑物管作供︰房屋局ICU約一周前通知鴻毅到場視察　授權票普遍有人投訴遭冒簽](https://news.now.com/home/local/player?newsId=642186) [Original](https://news.now.com/home/local/player?newsId=642186){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會宏福苑物管作供房屋局icu約一周前通知鴻毅到場視察-授權票普遍有人投訴遭冒簽/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜房屋局ICU約一周前通知鴻毅到場視察　授權票普遍有人投訴遭冒簽](https://news.now.com/home/local/player?newsId=642138) [Original](https://news.now.com/home/local/player?newsId=642138){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會房屋局icu約一周前通知鴻毅到場視察-授權票普遍有人投訴遭冒簽/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜宏福苑物管作供︰法團開會授權票普遍有人投訴被冒簽　欠樣式比對簽名打交叉亦難核實](https://news.now.com/home/local/player?newsId=642129) [Original](https://news.now.com/home/local/player?newsId=642129){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會宏福苑物管作供法團開會授權票普遍有人投訴被冒簽-欠樣式比對簽名打交叉亦難核實/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會舉行第七場聽證會](https://news.now.com/home/local/player?newsId=642110) [Original](https://news.now.com/home/local/player?newsId=642110){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會舉行第七場聽證會/){.md-button .hkfd-news-button}

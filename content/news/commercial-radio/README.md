@@ -1049,3 +1049,10 @@
 - [宏福苑聽證會｜物管公司員工指法團曾質疑維修消防水缸必要性](https://www.881903.com/news/local/2625604/) [Original](https://www.881903.com/news/local/2625604/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會物管公司員工指法團曾質疑維修消防水缸必要性/){.md-button .hkfd-news-button}
 - [孫玉菡：推動良政善治　需非政府機構支援](https://www.881903.com/news/local/2625672/) [Original](https://www.881903.com/news/local/2625672/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡推動良政善治-需非政府機構支援/){.md-button .hkfd-news-button}
 - [東華三院就宏福苑火災累計籌3.72億　將規劃支援方案](https://www.881903.com/news/local/2625662/) [Original](https://www.881903.com/news/local/2625662/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/東華三院就宏福苑火災累計籌372億-將規劃支援方案/){.md-button .hkfd-news-button}
+
+
+### 2026-04-02
+- [宏福苑租戶和業主就上樓現分歧　政府：彈性處理](https://www.881903.com/news/local/2625864/) [Original](https://www.881903.com/news/local/2625864/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑租戶和業主就上樓現分歧-政府彈性處理/){.md-button .hkfd-news-button}
+- [流傳宏福苑單位現燈光　警：沒發現可疑者或異狀](https://www.881903.com/news/local/2625863/) [Original](https://www.881903.com/news/local/2625863/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/流傳宏福苑單位現燈光-警沒發現可疑者或異狀/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會第三輪聽證會　下周三起登記旁聽](https://www.881903.com/news/local/2625851/) [Original](https://www.881903.com/news/local/2625851/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會第三輪聽證會-下周三起登記旁聽/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜物管主任指事後才知消防系統被關閉](https://www.881903.com/news/local/2625765/) [Original](https://www.881903.com/news/local/2625765/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會物管主任指事後才知消防系統被關閉/){.md-button .hkfd-news-button}

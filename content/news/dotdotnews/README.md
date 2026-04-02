@@ -516,3 +516,8 @@
 
 ### 2026-03-30
 - [Wang Fuk Court Aftermath | Cheuk Wing-hing: Flexible on-site handling, residents may be allowed upstairs more than once](https://english.dotdotnews.com/a/202603/30/AP69ca17c1e4b09ea23310e6ad.html) [Original](https://english.dotdotnews.com/a/202603/30/AP69ca17c1e4b09ea23310e6ad.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-cheuk-wing-hing-flexible-on-site-handling-residents/){.md-button .hkfd-news-button}
+
+
+### 2026-04-02
+- [（有片）宏福苑調查｜業主大會曾20分鐘增280票？物管：或因「儲票」供電腦點算](https://www.dotdotnews.com/a/202604/02/AP69ce437fe4b09ea2331139e8.html) [Original](https://www.dotdotnews.com/a/202604/02/AP69ce437fe4b09ea2331139e8.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑調查業主大會曾20分鐘增280票物管或因儲票供電腦點算/){.md-button .hkfd-news-button}
+- [講真D｜善用「外骨骼」助宏福苑居民輕裝上樓　與家園好好告別](https://www.dotdotnews.com/a/202604/02/AP69cdf4c5e4b09ea23311306d.html) [Original](https://www.dotdotnews.com/a/202604/02/AP69cdf4c5e4b09ea23311306d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d善用外骨骼助宏福苑居民輕裝上樓-與家園好好告別/){.md-button .hkfd-news-button}

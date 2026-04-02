@@ -61866,7 +61866,336 @@
       "source_file": "content/news/hk01/README.md",
       "scraped_at": "2026-04-01T21:24:13.998076",
       "archive_path": "content\\news\\hk01\\archive\\宏福苑上樓執拾需業主登記-租客一家三口僅獲兩名額好荒謬囉"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336888/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B6%88%E9%98%B2%E7%BC%B8%E7%84%A1%E6%B0%B4%E5%85%BC%E9%97%9C%E7%B8%BD%E9%9B%BB%E6%8E%A3-%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E7%8F%BE%E7%9F%9B%E7%9B%BE": {
+      "title": "宏福苑聽證會｜消防缸無水兼關總電掣　管理公司消防承辦商現矛盾",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:25:32.408733",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會消防缸無水兼關總電掣-管理公司消防承辦商現矛盾"
+    },
+    "https://www.881903.com/news/local/2625864/": {
+      "title": "宏福苑租戶和業主就上樓現分歧　政府：彈性處理",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-02T21:25:32.483484",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑租戶和業主就上樓現分歧-政府彈性處理"
+    },
+    "https://www.881903.com/news/local/2625863/": {
+      "title": "流傳宏福苑單位現燈光　警：沒發現可疑者或異狀",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-02T21:25:38.983294",
+      "archive_path": "content\\news\\commercial-radio\\archive\\流傳宏福苑單位現燈光-警沒發現可疑者或異狀"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336864/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%9B%BE%E6%9C%89%E6%A5%AD%E4%B8%BB%E8%A2%AB%E6%8B%92%E5%85%A5%E5%A4%A7%E6%9C%83%E6%83%B9%E7%88%AD%E5%90%B5-%E5%B1%85%E6%B0%91%E8%B3%AA%E7%96%91%E7%89%A9%E7%AE%A1%E6%A0%B8%E5%AF%A6%E6%8E%88%E6%AC%8A%E7%A5%A8%E7%96%8F%E6%BC%8F": {
+      "title": "宏福苑｜曾有業主被拒入大會惹爭吵　居民質疑物管核實授權票疏漏",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:25:40.138482",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑曾有業主被拒入大會惹爭吵-居民質疑物管核實授權票疏漏"
+    },
+    "https://www.881903.com/news/local/2625851/": {
+      "title": "宏福苑火災獨立委員會第三輪聽證會　下周三起登記旁聽",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-02T21:25:44.612784",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑火災獨立委員會第三輪聽證會-下周三起登記旁聽"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336850/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%AE%8F%E6%A5%AD%E5%A4%A7%E6%9C%83%E5%89%8D%E7%A7%81%E4%B8%8B%E5%87%BD%E6%B3%95%E5%9C%98%E4%B8%BB%E5%B8%AD-%E7%89%A9%E7%AE%A1%E7%B1%B2%E5%8B%BF%E6%8B%86%E4%BF%A1%E4%BF%9D%E5%85%AC%E5%B9%B3%E6%83%9F%E6%9C%AA%E7%8D%B2%E7%90%86": {
+      "title": "宏福苑｜宏業大會前私下函法團主席　物管籲勿拆信保公平惟未獲理",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:25:46.526527",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑宏業大會前私下函法團主席-物管籲勿拆信保公平惟未獲理"
+    },
+    "https://www.881903.com/news/local/2625765/": {
+      "title": "宏福苑聽證會｜物管主任指事後才知消防系統被關閉",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-02T21:25:50.468484",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑聽證會物管主任指事後才知消防系統被關閉"
+    },
+    "https://hongkongfp.com/?p=560633": {
+      "title": "Renovation workers still smoked despite estate management’s complaints to contractor, Tai Po fire inquiry hears",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-04-02T21:25:52.611821",
+      "archive_path": "content\\news\\hkfp\\archive\\renovation-workers-still-smoked-despite-estate-managements-complaints-to"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336779/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E7%89%A9%E7%AE%A1%E7%A8%B1%E6%A5%AD%E4%B8%BB%E5%A4%A7%E6%9C%83%E8%A6%AA%E8%BA%AB%E6%8A%95%E7%A5%A8%E6%95%B8%E9%81%94%E6%B3%95%E5%AE%9A%E9%96%80%E6%AA%BB-%E6%83%9F%E6%A2%9D%E4%BE%8B%E7%95%B6%E5%B9%B4%E6%9C%AA%E7%94%9F%E6%95%88": {
+      "title": "宏福苑｜物管稱業主大會親身投票數達法定門檻　惟條例當年未生效",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:25:52.788378",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑物管稱業主大會親身投票數達法定門檻-惟條例當年未生效"
+    },
+    "https://hongkongfp.com/?p=560481": {
+      "title": "Electrician unknowingly deactivated all fire alarms months before fatal Tai Po blaze, inquiry hears",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-04-02T21:25:58.087968",
+      "archive_path": "content\\news\\hkfp\\archive\\electrician-unknowingly-deactivated-all-fire-alarms-months-before-fatal-tai-po"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336700/%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%B6%88%E9%98%B2%E6%B0%B4%E7%BC%B8%E6%9C%89%E7%84%A1%E6%B0%B4-%E7%89%A9%E7%AE%A1%E5%A4%A7%E7%81%AB%E5%89%8D%E5%90%91%E6%B6%88%E9%98%B2%E5%95%86%E5%82%B3%E6%B3%A8%E6%B0%B4%E7%9B%B8-%E5%AF%A6%E7%AB%9F%E7%82%BA%E8%88%8A%E7%9B%B8": {
+      "title": "宏福苑消防水缸有無水？物管大火前向消防商傳注水相　實竟為舊相",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:25:58.820425",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑消防水缸有無水物管大火前向消防商傳注水相-實竟為舊相"
+    },
+    "https://hongkongfp.com/?p=560483": {
+      "title": "Hong Kong businessman Jason Poon jailed for 1 month for contempt of court",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-04-02T21:26:03.820411",
+      "archive_path": "content\\news\\hkfp\\archive\\hong-kong-businessman-jason-poon-jailed-for-1-month-for-contempt-of-court"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336667/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E5%B7%A5%E4%BA%BA%E5%90%B8%E7%85%99%E6%B2%92%E8%B7%9F%E9%80%B2-%E5%BE%8C%E6%A2%AF%E6%9C%A8-%E7%94%9F%E5%8F%A3-%E5%BF%BD%E7%95%A5%E9%A2%A8%E9%9A%AA-%E7%89%A9%E7%AE%A1%E8%AA%8D%E6%AC%A0%E8%AD%A6%E8%A6%BA": {
+      "title": "宏福苑｜工人吸煙沒跟進、後梯木「生口」忽略風險　物管認欠警覺",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:26:04.866346",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑工人吸煙沒跟進後梯木生口忽略風險-物管認欠警覺"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60336866/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E7%AC%AC%E4%B8%89%E8%BC%AA%E8%81%BD%E8%AD%89%E6%9C%834%E6%9C%8820%E9%96%8B%E5%A7%8B-%E7%81%BD%E6%B0%91%E5%8F%8A%E5%85%AC%E7%9C%BE%E4%BA%BA%E5%A3%AB4-8%E8%B5%B7%E5%8F%AF%E9%A0%90%E7%B4%84%E6%97%81%E8%81%BD": {
+      "title": "宏福苑｜第三輪聽證會4月20開始　災民及公眾人士4.8起可預約旁聽",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:26:11.388647",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑第三輪聽證會4月20開始-災民及公眾人士48起可預約旁聽"
+    },
+    "https://news.now.com/home/local/player?newsId=642214": {
+      "title": "宏福苑火災｜業主要求上樓搬電器　租戶憂不夠時間執拾",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:13.225937",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災業主要求上樓搬電器-租戶憂不夠時間執拾"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4364507/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E7%AE%A1%E7%90%86%E8%99%95%E6%B3%95%E5%9C%98%E8%A2%AB%E8%B3%AA%E7%96%91%E6%89%93%E9%BE%8D%E9%80%9A+%E7%89%A9%E7%AE%A1%E8%AA%8D%E6%9C%AA%E6%A0%B8%E5%AF%A6%E6%8E%88%E6%AC%8A%E7%A5%A8": {
+      "title": "宏福苑聽證會｜管理處法團被質疑打龍通 物管認未核實授權票",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:15.715630",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會管理處法團被質疑打龍通-物管認未核實授權票"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4362550/%E6%8E%88%E6%AC%8A%E7%A5%A8%E3%80%8C%E6%89%93%E4%BA%A4%E5%8F%89%E9%83%BD%E7%95%B6%E7%B0%BD%E5%92%97%E5%90%8D%E3%80%8D": {
+      "title": "授權票「打交叉都當簽咗名」",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:16.727236",
+      "archive_path": "content\\news\\hkej\\archive\\授權票打交叉都當簽咗名"
+    },
+    "https://www.hk01.com/%E7%AA%81%E7%99%BC/60336828/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%94%BF%E5%BA%9C-%E7%9F%A5%E6%82%89%E7%A7%9F%E6%88%B6%E5%92%8C%E6%A5%AD%E4%B8%BB%E5%B0%B1%E4%B8%8A%E6%A8%93%E6%9C%89%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A6%8B-%E6%9C%83%E5%BD%88%E6%80%A7%E8%99%95%E7%90%86": {
+      "title": "宏福苑｜政府：知悉租戶和業主就上樓有不同意見　會彈性處理",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-02T21:26:18.229368",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑政府知悉租戶和業主就上樓有不同意見-會彈性處理"
+    },
+    "https://news.now.com/home/local/player?newsId=642207": {
+      "title": "即日焦點｜本台實測大帽山頂無網絡　的士電子支付跪低／特朗普稱正認真考慮退出北約",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:19.588026",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點本台實測大帽山頂無網絡-的士電子支付跪低特朗普稱正認真考慮退出北約"
+    },
+    "https://www.dotdotnews.com/a/202604/02/AP69ce437fe4b09ea2331139e8.html": {
+      "title": "（有片）宏福苑調查｜業主大會曾20分鐘增280票？物管：或因「儲票」供電腦點算",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-04-02T21:26:22.530287",
+      "archive_path": "content\\news\\dotdotnews\\archive\\有片宏福苑調查業主大會曾20分鐘增280票物管或因儲票供電腦點算"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4364420/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E7%AC%AC%E4%B8%89%E8%BC%AA%E8%81%BD%E8%AD%89%E6%9C%834%E6%9C%888%E6%97%A5%E8%B5%B7%E7%99%BB%E8%A8%98": {
+      "title": "宏福苑火災獨立委員會第三輪聽證會4月8日起登記",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:22.921560",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑火災獨立委員會第三輪聽證會4月8日起登記"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4362551/%E6%B0%B4%E6%8E%A3%E5%B7%A5%E7%A8%8B%E6%8B%96%E5%BB%B67%E5%80%8B%E6%9C%88+%E4%B8%BB%E4%BB%BB%E5%8D%81%E5%95%8F%E4%B9%9D%E4%B8%8D%E7%9F%A5": {
+      "title": "水掣工程拖延7個月 主任十問九不知",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:23.893341",
+      "archive_path": "content\\news\\hkej\\archive\\水掣工程拖延7個月-主任十問九不知"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1849760-20260402.htm?archive_date=2026-04-02": {
+      "title": "'Officer quit over safety fears at Wang Fuk Court'",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-02T21:26:24.311528",
+      "archive_path": "content\\news\\rthk\\archive\\officer-quit-over-safety-fears-at-wang-fuk-court"
+    },
+    "https://news.now.com/home/local/player?newsId=642311": {
+      "title": "宏福苑聽證會｜物管公司員作供　與消防承辦商董事供詞有出入",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:25.328542",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑聽證會物管公司員作供-與消防承辦商董事供詞有出入"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4363658/3001%E4%BA%BA%E7%8D%B2%E5%A7%94%E4%BB%BB%E4%B8%89%E6%9C%83%E5%A7%94%E5%93%A1+%E9%BB%83%E7%A2%A7%E5%AC%8C%E5%8F%8A%E8%8E%8A%E9%9B%85%E5%A9%B7%E7%AD%89%E9%80%A3%E4%BB%BB": {
+      "title": "3001人獲委任三會委員 黃碧嬌及莊雅婷等連任",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:29.522053",
+      "archive_path": "content\\news\\hkej\\archive\\3001人獲委任三會委員-黃碧嬌及莊雅婷等連任"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1849781-20260402.htm?archive_date=2026-04-02": {
+      "title": "公眾下周可上網選取及預約登記有意旁聽宏福苑第三輪七場聽證會",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-02T21:26:30.432862",
+      "archive_path": "content\\news\\rthk\\archive\\公眾下周可上網選取及預約登記有意旁聽宏福苑第三輪七場聽證會"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4362549/%E5%AE%8F%E7%A6%8F%E6%B6%88%E9%98%B2%E7%BC%B8%E8%AE%8A%E9%A3%9F%E6%B0%B4%E7%BC%B8+%E5%B0%88%E5%AE%B6%E8%81%9E%E6%89%80%E6%9C%AA%E8%81%9E": {
+      "title": "宏福消防缸變食水缸 專家聞所未聞 離奇工程連鎖效應 引發消防系統失靈",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:30.804859",
+      "archive_path": "content\\news\\hkej\\archive\\宏福消防缸變食水缸-專家聞所未聞-離奇工程連鎖效應-引發消防系統失靈"
+    },
+    "https://news.now.com/home/local/player?newsId=642312": {
+      "title": "宏福苑火災｜宏福苑業主與租戶就上樓安排產生糾紛　政務司副司長辦公室︰彈性處理",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:31.767636",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災宏福苑業主與租戶就上樓安排產生糾紛-政務司副司長辦公室彈性處理"
+    },
+    "https://www.dotdotnews.com/a/202604/02/AP69cdf4c5e4b09ea23311306d.html": {
+      "title": "講真D｜善用「外骨骼」助宏福苑居民輕裝上樓　與家園好好告別",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-04-02T21:26:32.092554",
+      "archive_path": "content\\news\\dotdotnews\\archive\\講真d善用外骨骼助宏福苑居民輕裝上樓-與家園好好告別"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4363625/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E7%BD%AE%E9%82%A6%E7%89%A9%E7%AE%A1%E7%B6%93%E7%90%86%E6%8B%92%E5%87%BA%E5%B8%AD+%E4%B8%BB%E4%BB%BB%3A%E9%9B%A3%E7%AE%A1%E5%B7%A5%E4%BA%BA%E5%90%B8%E7%85%99": {
+      "title": "宏福苑聽證會丨置邦物管經理拒出席 主任:難管工人吸煙",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:35.167345",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨置邦物管經理拒出席-主任難管工人吸煙"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1849780-20260402.htm?archive_date=2026-04-02": {
+      "title": "宏福苑物管公司職員稱公司想過多些抽查核實授權票但最終無做到",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-02T21:26:37.098828",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑物管公司職員稱公司想過多些抽查核實授權票但最終無做到"
+    },
+    "https://news.now.com/home/local/player?newsId=642292": {
+      "title": "宏福苑聽證會｜物管物業主任供稱無向宏泰消防提及掛牌事宜　指無收過對方通知會關消防裝置",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:38.132411",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑聽證會物管物業主任供稱無向宏泰消防提及掛牌事宜-指無收過對方通知會關消防裝置"
+    },
+    "https://www2.hkej.com/instantnews/international/article/4363363/%E5%9C%8B%E9%9A%9B%E6%97%A9%E7%8F%AD%E8%BB%8A%E4%B8%A8%E6%95%B8%E5%84%84%E7%BE%8E%E5%85%83OpenAI%E8%82%A1%E4%BB%BD%E4%BA%8C%E7%B4%9A%E5%B8%82%E5%A0%B4%E6%93%9A%E5%A0%B1%E4%B9%8F%E6%89%BF%E6%8E%A5": {
+      "title": "國際早班車丨數億美元OpenAI股份二級市場據報乏承接",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:41.451824",
+      "archive_path": "content\\news\\hkej\\archive\\國際早班車丨數億美元openai股份二級市場據報乏承接"
+    },
+    "https://news.tvb.com/tc/taipofire/69cd1886eab7a2fe0d96123b/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8%E9%9B%BB%E5%B7%A5%E6%89%BF%E8%AA%8D%E9%97%9C%E9%96%89%E6%B6%88%E9%98%B2%E6%B3%B5%E6%88%BF%E9%96%98%E6%8E%A3-%E7%A8%B1%E4%B8%8D%E7%9F%A5%E6%9C%83%E5%BD%B1%E9%9F%BF%E7%81%AB%E8%AD%A6%E9%90%98": {
+      "title": "宏福苑火災聽證會｜管理公司電工承認關閉消防泵房閘掣 稱不知會影響火警鐘 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:26:41.770723",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會管理公司電工承認關閉消防泵房閘掣-稱不知會影響火警鐘-宏福苑五級火-1天前-粵"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1849766-20260402.htm?archive_date=2026-04-02": {
+      "title": "宏福苑物管公司職員與消防裝置承辦商董事證供說法不同",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-02T21:26:43.590030",
+      "archive_path": "content\\news\\rthk\\archive\\宏福苑物管公司職員與消防裝置承辦商董事證供說法不同"
+    },
+    "https://news.now.com/home/local/player?newsId=642272": {
+      "title": "宏福苑聽證會｜物管物業主任供稱無向宏泰消防提及掛牌事宜",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:44.385282",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑聽證會物管物業主任供稱無向宏泰消防提及掛牌事宜"
+    },
+    "https://news.tvb.com/tc/taipofire/69ce49aaeab7a2fe0d9fde03/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8%E7%89%A9%E6%A5%AD%E4%B8%BB%E4%BB%BB%E4%BD%9C%E4%BE%9B-%E5%90%A6%E8%AA%8D%E6%B6%88%E9%98%B2%E6%89%BF%E8%BE%A6%E5%95%86%E6%9B%BE%E7%A8%B1%E6%B6%88%E9%98%B2%E6%B3%B5%E8%A2%AB%E9%97%9C": {
+      "title": "宏福苑火災聽證會｜管理公司物業主任作供 否認消防承辦商曾稱消防泵被關 宏福苑五級火 2小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:26:47.843259",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會管理公司物業主任作供-否認消防承辦商曾稱消防泵被關-宏福苑五級火-2小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=642255": {
+      "title": "宏福苑火災第八場聽證會　召2名物管人員作供",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:49.964461",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災第八場聽證會-召2名物管人員作供"
+    },
+    "https://news.tvb.com/tc/taipofire/69ce2980eab7a2fe0d9eb08f/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E7%BD%AE%E9%82%A6%E7%89%A9%E6%A5%AD%E4%B8%BB%E4%BB%BB%E7%9B%B8%E4%BF%A1%E9%B4%BB%E6%AF%85%E5%B0%88%E6%A5%AD-%E7%84%A1%E8%B7%9F%E9%80%B2%E6%A8%93%E6%A2%AF%E7%AA%97%E6%88%B6%E6%94%B9%E6%88%90%E7%94%9F%E5%8F%A3": {
+      "title": "宏福苑火災聽證會｜置邦物業主任相信鴻毅專業 無跟進樓梯窗戶改成「生口」 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:26:53.430542",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會置邦物業主任相信鴻毅專業-無跟進樓梯窗戶改成生口-宏福苑五級火-4小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=642240": {
+      "title": "新一屆「三會」名單出爐　黃碧嬌連任大埔南分區委員",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:26:55.912638",
+      "archive_path": "content\\news\\now-news\\archive\\新一屆三會名單出爐-黃碧嬌連任大埔南分區委員"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4362552/%E9%9B%BB%E5%B7%A5%E7%84%A1%E7%89%8C%E4%BB%8D%E6%94%BE%E6%B6%88%E9%98%B2%E7%BC%B8%E6%B0%B4+%E5%9B%A0%E6%80%95%E5%8F%97%E7%BD%B0": {
+      "title": "電工無牌仍放消防缸水 因怕受罰",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-02T21:26:57.577633",
+      "archive_path": "content\\news\\hkej\\archive\\電工無牌仍放消防缸水-因怕受罰"
+    },
+    "https://news.tvb.com/tc/taipofire/69cdf4d8eab7a2fe0d9d02e5/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E7%BD%AE%E9%82%A6%E8%88%88%E6%A5%AD%E5%B7%A5%E7%A8%8B%E4%B8%BB%E4%BB%BB%E4%BD%9C%E4%BE%9B-%E7%A8%B1%E7%84%A1%E6%8E%A5%E8%A7%B8%E9%81%8E%E6%B6%88%E9%98%B2%E8%A3%9D%E7%BD%AE%E5%81%9C%E7%94%A8%E9%80%9A%E7%9F%A5%E6%9B%B8": {
+      "title": "宏福苑火災聽證會｜置邦興業工程主任作供 稱無接觸過消防裝置停用通知書 宏福苑五級火 8小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:26:59.030227",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會置邦興業工程主任作供-稱無接觸過消防裝置停用通知書-宏福苑五級火-8小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=642225": {
+      "title": "採訪日誌｜關注兒童權利與反性暴力團體發表聯合立場書／宏福苑火災獨立委員會續開聽證會",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-02T21:27:02.266442",
+      "archive_path": "content\\news\\now-news\\archive\\採訪日誌關注兒童權利與反性暴力團體發表聯合立場書宏福苑火災獨立委員會續開聽證會"
+    },
+    "https://news.tvb.com/tc/taipofire/69cdeed9eab7a2fe0d9cd1f5/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E7%BD%AE%E9%82%A6%E7%89%A9%E6%A5%AD%E4%B8%BB%E4%BB%BB%E6%8C%87%E6%9C%AA%E6%94%B6%E9%81%8E%E5%AE%8F%E6%B3%B0%E6%B6%88%E9%98%B2%E8%A3%9D%E7%BD%AE%E5%81%9C%E7%94%A8%E9%80%9A%E7%9F%A5%E6%9B%B8": {
+      "title": "宏福苑火災聽證會｜置邦物業主任指未收過宏泰消防裝置停用通知書 宏福苑五級火 8小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:27:04.974920",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會置邦物業主任指未收過宏泰消防裝置停用通知書-宏福苑五級火-8小時前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69cdc893eab7a2fe0d9b8dc6/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E4%BB%8A%E6%97%A5%E8%88%89%E8%A1%8C%E9%A6%96%E8%BC%AA%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A0%B4-%E7%89%A9%E7%AE%A1%E5%85%AC%E5%8F%B8%E5%B7%A5%E7%A8%8B%E4%B8%BB%E4%BB%BB%E7%AD%89%E4%BD%9C%E4%BE%9B": {
+      "title": "宏福苑火災聽證會｜今日舉行首輪最後一場 物管公司工程主任等作供 宏福苑五級火 11小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:27:10.248310",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會今日舉行首輪最後一場-物管公司工程主任等作供-宏福苑五級火-11小時前-粵"
+    },
+    "https://news.tvb.com/tc/pearlnews/69cde83aeab7a2fe0d9ca88b/TVB%20News-Hearing-on-Wang-Fuk-Court-fire-continues": {
+      "title": "Hearing on Wang Fuk Court fire continues",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:27:16.324363",
+      "archive_path": "content\\news\\tvb\\archive\\hearing-on-wang-fuk-court-fire-continues"
+    },
+    "https://news.tvb.com/tc/pearlnews/69cde032eab7a2fe0d9c5d75/TVB%20News-Police-reports-of-lights-at-Wang-Fuk-Court-not-suspicious": {
+      "title": "Police: reports of lights at Wang Fuk Court not suspicious",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-02T21:27:22.373604",
+      "archive_path": "content\\news\\tvb\\archive\\police-reports-of-lights-at-wang-fuk-court-not-suspicious"
     }
   },
-  "last_updated": "2026-04-01T21:24:13.998139"
+  "last_updated": "2026-04-02T21:27:22.373682"
 }

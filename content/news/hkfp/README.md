@@ -582,3 +582,9 @@
 ### 2026-04-01
 - [Renovation consultant knew a week before gov’t inspections, proxy votes ‘very common,’ Tai Po blaze inquiry hears](https://hongkongfp.com/?p=560261) [Original](https://hongkongfp.com/?p=560261){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/renovation-consultant-knew-a-week-before-govt-inspections-proxy-votes-very/){.md-button .hkfd-news-button}
 - [Gov’t-appointed administrator for fire-hit Wang Fuk Court to hold ‘briefing session’ for residents](https://hongkongfp.com/?p=560251) [Original](https://hongkongfp.com/?p=560251){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-appointed-administrator-for-fire-hit-wang-fuk-court-to-hold-briefing/){.md-button .hkfd-news-button}
+
+
+### 2026-04-02
+- [Renovation workers still smoked despite estate management’s complaints to contractor, Tai Po fire inquiry hears](https://hongkongfp.com/?p=560633) [Original](https://hongkongfp.com/?p=560633){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/renovation-workers-still-smoked-despite-estate-managements-complaints-to/){.md-button .hkfd-news-button}
+- [Electrician unknowingly deactivated all fire alarms months before fatal Tai Po blaze, inquiry hears](https://hongkongfp.com/?p=560481) [Original](https://hongkongfp.com/?p=560481){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/electrician-unknowingly-deactivated-all-fire-alarms-months-before-fatal-tai-po/){.md-button .hkfd-news-button}
+- [Hong Kong businessman Jason Poon jailed for 1 month for contempt of court](https://hongkongfp.com/?p=560483) [Original](https://hongkongfp.com/?p=560483){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-businessman-jason-poon-jailed-for-1-month-for-contempt-of-court/){.md-button .hkfd-news-button}

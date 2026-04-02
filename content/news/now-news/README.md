@@ -1581,3 +1581,17 @@
 - [宏福苑聽證會｜房屋局ICU約一周前通知鴻毅到場視察　授權票普遍有人投訴遭冒簽](https://news.now.com/home/local/player?newsId=642138) [Original](https://news.now.com/home/local/player?newsId=642138){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會房屋局icu約一周前通知鴻毅到場視察-授權票普遍有人投訴遭冒簽/){.md-button .hkfd-news-button}
 - [宏福苑聽證會｜宏福苑物管作供︰法團開會授權票普遍有人投訴被冒簽　欠樣式比對簽名打交叉亦難核實](https://news.now.com/home/local/player?newsId=642129) [Original](https://news.now.com/home/local/player?newsId=642129){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會宏福苑物管作供法團開會授權票普遍有人投訴被冒簽-欠樣式比對簽名打交叉亦難核實/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會舉行第七場聽證會](https://news.now.com/home/local/player?newsId=642110) [Original](https://news.now.com/home/local/player?newsId=642110){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會舉行第七場聽證會/){.md-button .hkfd-news-button}
+
+
+### 2026-04-01
+- [宏福苑火災｜業主要求上樓搬電器　租戶憂不夠時間執拾](https://news.now.com/home/local/player?newsId=642214) [Original](https://news.now.com/home/local/player?newsId=642214){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災業主要求上樓搬電器-租戶憂不夠時間執拾/){.md-button .hkfd-news-button}
+- [即日焦點｜本台實測大帽山頂無網絡　的士電子支付跪低／特朗普稱正認真考慮退出北約](https://news.now.com/home/local/player?newsId=642207) [Original](https://news.now.com/home/local/player?newsId=642207){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點本台實測大帽山頂無網絡-的士電子支付跪低特朗普稱正認真考慮退出北約/){.md-button .hkfd-news-button}
+
+### 2026-04-02
+- [宏福苑聽證會｜物管公司員作供　與消防承辦商董事供詞有出入](https://news.now.com/home/local/player?newsId=642311) [Original](https://news.now.com/home/local/player?newsId=642311){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會物管公司員作供-與消防承辦商董事供詞有出入/){.md-button .hkfd-news-button}
+- [宏福苑火災｜宏福苑業主與租戶就上樓安排產生糾紛　政務司副司長辦公室︰彈性處理](https://news.now.com/home/local/player?newsId=642312) [Original](https://news.now.com/home/local/player?newsId=642312){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災宏福苑業主與租戶就上樓安排產生糾紛-政務司副司長辦公室彈性處理/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜物管物業主任供稱無向宏泰消防提及掛牌事宜　指無收過對方通知會關消防裝置](https://news.now.com/home/local/player?newsId=642292) [Original](https://news.now.com/home/local/player?newsId=642292){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會物管物業主任供稱無向宏泰消防提及掛牌事宜-指無收過對方通知會關消防裝置/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜物管物業主任供稱無向宏泰消防提及掛牌事宜](https://news.now.com/home/local/player?newsId=642272) [Original](https://news.now.com/home/local/player?newsId=642272){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會物管物業主任供稱無向宏泰消防提及掛牌事宜/){.md-button .hkfd-news-button}
+- [宏福苑火災第八場聽證會　召2名物管人員作供](https://news.now.com/home/local/player?newsId=642255) [Original](https://news.now.com/home/local/player?newsId=642255){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災第八場聽證會-召2名物管人員作供/){.md-button .hkfd-news-button}
+- [新一屆「三會」名單出爐　黃碧嬌連任大埔南分區委員](https://news.now.com/home/local/player?newsId=642240) [Original](https://news.now.com/home/local/player?newsId=642240){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新一屆三會名單出爐-黃碧嬌連任大埔南分區委員/){.md-button .hkfd-news-button}
+- [採訪日誌｜關注兒童權利與反性暴力團體發表聯合立場書／宏福苑火災獨立委員會續開聽證會](https://news.now.com/home/local/player?newsId=642225) [Original](https://news.now.com/home/local/player?newsId=642225){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌關注兒童權利與反性暴力團體發表聯合立場書宏福苑火災獨立委員會續開聽證會/){.md-button .hkfd-news-button}

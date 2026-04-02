@@ -7795,3 +7795,65 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2026-04-02 21:23:50 | INFO     | Running scraper...
 2026-04-02 21:23:50 | INFO     | Found 48 new URLs to scrape
 2026-04-02 21:23:51 | INFO     | Daemon stopped by user
+2026-04-02 21:24:01 | INFO     | ============================================================
+2026-04-02 21:24:01 | INFO     | News Scraper Daemon Starting
+2026-04-02 21:24:01 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-02 21:24:01 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-02 21:24:01 | INFO     | Sync interval: 10 minutes
+2026-04-02 21:24:01 | INFO     | PR interval: 60 minutes
+2026-04-02 21:24:01 | INFO     | ============================================================
+2026-04-02 21:24:02 | INFO     | gh CLI authenticated
+2026-04-02 21:24:02 | INFO     | Setting up git remotes...
+2026-04-02 21:24:02 | INFO     | Configured origin remote
+2026-04-02 21:24:03 | INFO     | gh CLI authenticated
+2026-04-02 21:24:03 | INFO     | ----------------------------------------
+2026-04-02 21:24:03 | INFO     | Running periodic health check...
+2026-04-02 21:24:04 | INFO     | gh CLI authenticated
+2026-04-02 21:24:04 | INFO     | Health check passed
+2026-04-02 21:24:04 | INFO     | ----------------------------------------
+2026-04-02 21:24:04 | INFO     | Starting sync cycle...
+2026-04-02 21:24:04 | INFO     | Syncing with upstream...
+2026-04-02 21:24:05 | INFO     | Already up to date with upstream
+2026-04-02 21:24:05 | INFO     | Running scraper...
+2026-04-02 21:24:05 | INFO     | Found 48 new URLs to scrape
+2026-04-02 21:27:22 | INFO     | Updated cumulative stats: 4872 success, 191 failed across 104 cycles
+2026-04-02 21:27:22 | INFO     | Scraper results: 47 success, 1 failed
+2026-04-02 21:27:23 | INFO     | Committing changes...
+2026-04-02 21:27:25 | INFO     | Committed: chore(scraper): auto-scrape 2026-04-02 21:27
+2026-04-02 21:27:30 | INFO     | Pushed to origin successfully
+2026-04-02 21:27:30 | INFO     | Sync cycle complete
+2026-04-02 21:27:30 | INFO     | ----------------------------------------
+2026-04-02 21:27:30 | INFO     | Starting PR cycle...
+2026-04-02 21:27:31 | INFO     | Pushed to origin successfully
+2026-04-02 21:27:31 | INFO     | Managing PR...
+2026-04-02 21:27:33 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-04-02 21:27:36 | INFO     | Updated PR #48 with fresh stats
+2026-04-02 21:27:36 | INFO     | PR cycle complete
+2026-04-02 21:27:36 | INFO     | Run once mode, exiting...
+2026-04-02 22:09:38 | INFO     | ============================================================
+2026-04-02 22:09:38 | INFO     | News Scraper Daemon Starting
+2026-04-02 22:09:38 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-02 22:09:38 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-02 22:09:38 | INFO     | Sync interval: 10 minutes
+2026-04-02 22:09:38 | INFO     | PR interval: 60 minutes
+2026-04-02 22:09:38 | INFO     | ============================================================
+2026-04-02 22:09:39 | INFO     | gh CLI authenticated
+2026-04-02 22:09:39 | INFO     | Setting up git remotes...
+2026-04-02 22:09:39 | INFO     | Configured origin remote
+2026-04-02 22:09:40 | INFO     | gh CLI authenticated
+2026-04-02 22:09:40 | INFO     | ----------------------------------------
+2026-04-02 22:09:40 | INFO     | Running periodic health check...
+2026-04-02 22:09:40 | INFO     | gh CLI authenticated
+2026-04-02 22:09:41 | INFO     | Health check passed
+2026-04-02 22:09:41 | INFO     | ----------------------------------------
+2026-04-02 22:09:41 | INFO     | Starting sync cycle...
+2026-04-02 22:09:41 | INFO     | Syncing with upstream...
+2026-04-02 22:09:42 | INFO     | Already up to date with upstream
+2026-04-02 22:09:42 | INFO     | Running scraper...
+2026-04-02 22:09:42 | INFO     | Found 55 new URLs to scrape
+2026-04-02 22:10:15 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-04-02 22:10:32 | INFO     | Daemon stopped by user
+2026-04-02 22:10:32 | INFO     | ensuring close
+2026-04-02 22:10:32 | INFO     | ensuring close
+2026-04-02 22:10:33 | ERROR    | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py:706> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py:810]>

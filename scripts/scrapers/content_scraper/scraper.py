@@ -438,7 +438,7 @@ def scrape_with_uc_inmedia(url: str, config: dict) -> tuple[str, bool]:
     from selenium.webdriver.support.ui import WebDriverWait
 
     try:
-        driver = uc.Chrome(headless=False, use_subprocess=False)
+        driver = uc.Chrome(headless=False, use_subprocess=False,browser_executable_path="C:\\Users\\user\\chrome-win64\\chrome.exe")
         driver.get(url)
         element = WebDriverWait(driver, 120).until(
            EC.visibility_of_element_located((By.XPATH, "/html/body/div[4]/section/section/div[2]/div[2]/article"))

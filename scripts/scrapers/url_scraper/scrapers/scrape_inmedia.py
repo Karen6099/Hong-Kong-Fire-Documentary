@@ -22,7 +22,7 @@ import sys
 
 def scrape():
 
-    driver = uc.Chrome(headless=False,use_subprocess=False)
+    driver = uc.Chrome(headless=False,use_subprocess=False,browser_executable_path="C:\\Users\\user\\chrome-win64\\chrome.exe")
     actions = ActionChains(driver)
     
     topic_url = "https://www.inmediahk.net/taxonomy/term/541575/530434"

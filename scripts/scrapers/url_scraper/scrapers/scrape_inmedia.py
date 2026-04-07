@@ -28,7 +28,7 @@ def scrape():
     topic_url = "https://www.inmediahk.net/taxonomy/term/541575/530434"
     driver.get(topic_url)
     print(f"Visiting topic page: {topic_url}")
-    time.sleep(10)
+    time.sleep(30)
     links = driver.find_elements(By.XPATH, "/html/body/div[4]/section/section/div[2]/div[2]/section/div")
     count = len(links)
     results = []

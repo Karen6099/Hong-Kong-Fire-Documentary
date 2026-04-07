@@ -588,3 +588,13 @@
 - [Renovation workers still smoked despite estate management’s complaints to contractor, Tai Po fire inquiry hears](https://hongkongfp.com/?p=560633) [Original](https://hongkongfp.com/?p=560633){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/renovation-workers-still-smoked-despite-estate-managements-complaints-to/){.md-button .hkfd-news-button}
 - [Electrician unknowingly deactivated all fire alarms months before fatal Tai Po blaze, inquiry hears](https://hongkongfp.com/?p=560481) [Original](https://hongkongfp.com/?p=560481){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/electrician-unknowingly-deactivated-all-fire-alarms-months-before-fatal-tai-po/){.md-button .hkfd-news-button}
 - [Hong Kong businessman Jason Poon jailed for 1 month for contempt of court](https://hongkongfp.com/?p=560483) [Original](https://hongkongfp.com/?p=560483){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-businessman-jason-poon-jailed-for-1-month-for-contempt-of-court/){.md-button .hkfd-news-button}
+
+
+### 2026-04-03
+- [Hong Kong Originals: Once export giant, Yuet Tung China Works looks inwards to keep hand-painted porcelain alive](https://hongkongfp.com/?p=556809) [Original](https://hongkongfp.com/?p=556809){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-originals-once-export-giant-yuet-tung-china-works-looks-inwards-to/){.md-button .hkfd-news-button}
+
+### 2026-04-05
+- [‘Business as usual’: Why some Hongkongers are staying in Middle East despite conflict](https://hongkongfp.com/?p=560120) [Original](https://hongkongfp.com/?p=560120){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/business-as-usual-why-some-hongkongers-are-staying-in-middle-east-despite/){.md-button .hkfd-news-button}
+
+### 2026-04-06
+- [Hong Kong Originals: Meet the granny behind Lamma’s half-century iconic dessert stand](https://hongkongfp.com/?p=559772) [Original](https://hongkongfp.com/?p=559772){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-originals-meet-the-granny-behind-lammas-half-century-iconic-dessert/){.md-button .hkfd-news-button}

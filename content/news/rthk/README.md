@@ -1315,3 +1315,11 @@
 - [公眾下周可上網選取及預約登記有意旁聽宏福苑第三輪七場聽證會](https://news.rthk.hk/rthk/ch/component/k2/1849781-20260402.htm?archive_date=2026-04-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1849781-20260402.htm?archive_date=2026-04-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/公眾下周可上網選取及預約登記有意旁聽宏福苑第三輪七場聽證會/){.md-button .hkfd-news-button}
 - [宏福苑物管公司職員稱公司想過多些抽查核實授權票但最終無做到](https://news.rthk.hk/rthk/ch/component/k2/1849780-20260402.htm?archive_date=2026-04-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1849780-20260402.htm?archive_date=2026-04-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑物管公司職員稱公司想過多些抽查核實授權票但最終無做到/){.md-button .hkfd-news-button}
 - [宏福苑物管公司職員與消防裝置承辦商董事證供說法不同](https://news.rthk.hk/rthk/ch/component/k2/1849766-20260402.htm?archive_date=2026-04-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1849766-20260402.htm?archive_date=2026-04-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑物管公司職員與消防裝置承辦商董事證供說法不同/){.md-button .hkfd-news-button}
+
+
+### 2026-04-05
+- [宏福苑委任管理人合安　將於5月上旬舉行業戶簡介會](https://news.rthk.hk/rthk/ch/component/k2/1850033-20260405.htm?archive_date=2026-04-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850033-20260405.htm?archive_date=2026-04-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑委任管理人合安-將於5月上旬舉行業戶簡介會/){.md-button .hkfd-news-button}
+
+### 2026-04-07
+- [Mak calls for patience with new Wang Fuk managers](https://news.rthk.hk/rthk/en/component/k2/1850183-20260407.htm?archive_date=2026-04-07) [Original](https://news.rthk.hk/rthk/en/component/k2/1850183-20260407.htm?archive_date=2026-04-07){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/mak-calls-for-patience-with-new-wang-fuk-managers/){.md-button .hkfd-news-button}
+- [麥美娟指合安管理擬5月上旬舉行簡介會　讓宏福苑業主掌握資訊](https://news.rthk.hk/rthk/ch/component/k2/1850193-20260407.htm?archive_date=2026-04-07) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850193-20260407.htm?archive_date=2026-04-07){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟指合安管理擬5月上旬舉行簡介會-讓宏福苑業主掌握資訊/){.md-button .hkfd-news-button}

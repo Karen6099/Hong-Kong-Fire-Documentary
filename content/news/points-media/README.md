@@ -118,3 +118,7 @@
 
 ### 2026年03月30日
 - [香港世紀大火｜居民質疑消防系統曾停用半年 「宏泰消防」職員：總掣被關未重啟](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%b1%85%e6%b0%91%e8%b3%aa%e7%96%91%e6%b6%88%e9%98%b2%e7%b3%bb%e7%b5%b1%e6%9b%be%e5%81%9c%e7%94%a8%e5%8d%8a%e5%b9%b4-%e3%80%8c%e5%ae%8f/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%b1%85%e6%b0%91%e8%b3%aa%e7%96%91%e6%b6%88%e9%98%b2%e7%b3%bb%e7%b5%b1%e6%9b%be%e5%81%9c%e7%94%a8%e5%8d%8a%e5%b9%b4-%e3%80%8c%e5%ae%8f/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火居民質疑消防系統曾停用半年-宏泰消防職員總掣被關未重啟/){.md-button .hkfd-news-button}
+
+
+### 2026年04月02日
+- [香港世紀大火｜宏福苑業主租戶爭上樓名額 有租戶稱業主在「附帶條件」下容許上樓取物](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%ae%8f%e7%a6%8f%e8%8b%91%e6%a5%ad%e4%b8%bb%e7%a7%9f%e6%88%b6%e7%88%ad%e4%b8%8a%e6%a8%93%e5%90%8d%e9%a1%8d-%e6%9c%89%e7%a7%9f%e6%88%b6/) [Original](https://points-media.com/%e6%9c%80%e6%96%b0/%e9%a6%99%e6%b8%af%e4%b8%96%e7%b4%80%e5%a4%a7%e7%81%ab%ef%bd%9c%e5%ae%8f%e7%a6%8f%e8%8b%91%e6%a5%ad%e4%b8%bb%e7%a7%9f%e6%88%b6%e7%88%ad%e4%b8%8a%e6%a8%93%e5%90%8d%e9%a1%8d-%e6%9c%89%e7%a7%9f%e6%88%b6/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港世紀大火宏福苑業主租戶爭上樓名額-有租戶稱業主在附帶條件下容許上樓取物/){.md-button .hkfd-news-button}

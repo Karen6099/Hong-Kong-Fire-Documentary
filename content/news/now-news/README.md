@@ -1595,3 +1595,14 @@
 - [宏福苑火災第八場聽證會　召2名物管人員作供](https://news.now.com/home/local/player?newsId=642255) [Original](https://news.now.com/home/local/player?newsId=642255){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災第八場聽證會-召2名物管人員作供/){.md-button .hkfd-news-button}
 - [新一屆「三會」名單出爐　黃碧嬌連任大埔南分區委員](https://news.now.com/home/local/player?newsId=642240) [Original](https://news.now.com/home/local/player?newsId=642240){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新一屆三會名單出爐-黃碧嬌連任大埔南分區委員/){.md-button .hkfd-news-button}
 - [採訪日誌｜關注兒童權利與反性暴力團體發表聯合立場書／宏福苑火災獨立委員會續開聽證會](https://news.now.com/home/local/player?newsId=642225) [Original](https://news.now.com/home/local/player?newsId=642225){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌關注兒童權利與反性暴力團體發表聯合立場書宏福苑火災獨立委員會續開聽證會/){.md-button .hkfd-news-button}
+
+
+### 2026-04-02
+- [即日焦點｜電子煙「牛肉乾」本月30日生效　違者罰3千元／特朗普稱伊朗戰事核心目標接近完成](https://news.now.com/home/local/player?newsId=642329) [Original](https://news.now.com/home/local/player?newsId=642329){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點電子煙牛肉乾本月30日生效-違者罰3千元特朗普稱伊朗戰事核心目標接近完成/){.md-button .hkfd-news-button}
+
+### 2026-04-05
+- [宏福苑火災｜業戶簡介會下月初舉行](https://news.now.com/home/local/player?newsId=642555) [Original](https://news.now.com/home/local/player?newsId=642555){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災業戶簡介會下月初舉行/){.md-button .hkfd-news-button}
+- [楊何蓓茵到浩園拜祭殉職消防隊目何偉豪](https://news.now.com/home/local/player?newsId=642519) [Original](https://news.now.com/home/local/player?newsId=642519){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/楊何蓓茵到浩園拜祭殉職消防隊目何偉豪/){.md-button .hkfd-news-button}
+
+### 2026-04-07
+- [宏福苑火災｜麥美娟：合安需時梳理80萬份文件　形容前管理公司管理不妥善](https://news.now.com/home/local/player?newsId=642662) [Original](https://news.now.com/home/local/player?newsId=642662){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災麥美娟合安需時梳理80萬份文件-形容前管理公司管理不妥善/){.md-button .hkfd-news-button}

@@ -1056,3 +1056,23 @@
 - [流傳宏福苑單位現燈光　警：沒發現可疑者或異狀](https://www.881903.com/news/local/2625863/) [Original](https://www.881903.com/news/local/2625863/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/流傳宏福苑單位現燈光-警沒發現可疑者或異狀/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會第三輪聽證會　下周三起登記旁聽](https://www.881903.com/news/local/2625851/) [Original](https://www.881903.com/news/local/2625851/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會第三輪聽證會-下周三起登記旁聽/){.md-button .hkfd-news-button}
 - [宏福苑聽證會｜物管主任指事後才知消防系統被關閉](https://www.881903.com/news/local/2625765/) [Original](https://www.881903.com/news/local/2625765/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會物管主任指事後才知消防系統被關閉/){.md-button .hkfd-news-button}
+
+
+### 2026-04-05
+- [宏福苑火災｜合安延至5月上旬舉行業戶簡介會](https://www.881903.com/news/local/2626114/) [Original](https://www.881903.com/news/local/2626114/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災合安延至5月上旬舉行業戶簡介會/){.md-button .hkfd-news-button}
+- [楊何蓓茵到浩園拜祭殉職消防隊目何偉豪](https://www.881903.com/news/local/2626078/) [Original](https://www.881903.com/news/local/2626078/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/楊何蓓茵到浩園拜祭殉職消防隊目何偉豪/){.md-button .hkfd-news-button}
+
+### 2026-04-07
+- [宏福苑火災第2輪聽證會明舉行　消防處代表等4人作供](https://www.881903.com/news/local/2626280/) [Original](https://www.881903.com/news/local/2626280/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災第2輪聽證會明舉行-消防處代表等4人作供/){.md-button .hkfd-news-button}
+- [麥美娟：宏福苑業主簡介會　不會與上樓執拾或聽證會撞期](https://www.881903.com/news/local/2626237/) [Original](https://www.881903.com/news/local/2626237/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟宏福苑業主簡介會-不會與上樓執拾或聽證會撞期/){.md-button .hkfd-news-button}
+
+### 2026-04-08
+- [宏福苑火災聽證會｜工人稱大火前一個月消防水缸「一滴水都無」](https://www.881903.com/news/local/2626324/) [Original](https://www.881903.com/news/local/2626324/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會工人稱大火前一個月消防水缸一滴水都無/){.md-button .hkfd-news-button}
+- [逾400宏福苑業主要求開業主大會　合安：資料未符法定要求](https://www.881903.com/news/local/2626361/) [Original](https://www.881903.com/news/local/2626361/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾400宏福苑業主要求開業主大會-合安資料未符法定要求/){.md-button .hkfd-news-button}
+- [宏福苑火災第二輪聽證會今日起舉行](https://www.881903.com/news/local/2626312/) [Original](https://www.881903.com/news/local/2626312/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災第二輪聽證會今日起舉行/){.md-button .hkfd-news-button}
+
+### 2026-04-09
+- [冒充宏福災民騙款逾2.5萬　32歲男洗黑錢罪成囚11月](https://www.881903.com/news/local/2626546/) [Original](https://www.881903.com/news/local/2626546/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/冒充宏福災民騙款逾25萬-32歲男洗黑錢罪成囚11月/){.md-button .hkfd-news-button}
+- [機構免費借出50套外骨骼機械裝備　助宏福苑居民上樓執拾](https://www.881903.com/news/local/2626505/) [Original](https://www.881903.com/news/local/2626505/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/機構免費借出50套外骨骼機械裝備-助宏福苑居民上樓執拾/){.md-button .hkfd-news-button}
+- [逾400宏福苑業戶聯署促開業主大會　當局：接獲涉冒充投訴](https://www.881903.com/news/local/2626480/) [Original](https://www.881903.com/news/local/2626480/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾400宏福苑業戶聯署促開業主大會-當局接獲涉冒充投訴/){.md-button .hkfd-news-button}
+- [紅十字會向宏福苑每戶災民派1500元作收拾搬運開支](https://www.881903.com/news/local/2626488/) [Original](https://www.881903.com/news/local/2626488/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/紅十字會向宏福苑每戶災民派1500元作收拾搬運開支/){.md-button .hkfd-news-button}

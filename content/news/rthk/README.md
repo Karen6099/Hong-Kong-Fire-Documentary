@@ -1323,3 +1323,13 @@
 ### 2026-04-07
 - [Mak calls for patience with new Wang Fuk managers](https://news.rthk.hk/rthk/en/component/k2/1850183-20260407.htm?archive_date=2026-04-07) [Original](https://news.rthk.hk/rthk/en/component/k2/1850183-20260407.htm?archive_date=2026-04-07){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/mak-calls-for-patience-with-new-wang-fuk-managers/){.md-button .hkfd-news-button}
 - [麥美娟指合安管理擬5月上旬舉行簡介會　讓宏福苑業主掌握資訊](https://news.rthk.hk/rthk/ch/component/k2/1850193-20260407.htm?archive_date=2026-04-07) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850193-20260407.htm?archive_date=2026-04-07){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟指合安管理擬5月上旬舉行簡介會-讓宏福苑業主掌握資訊/){.md-button .hkfd-news-button}
+
+
+### 2026-04-08
+- [85 extensions filed for Wang Fuk fire system shutdown](https://news.rthk.hk/rthk/en/component/k2/1850344-20260408.htm?archive_date=2026-04-08) [Original](https://news.rthk.hk/rthk/en/component/k2/1850344-20260408.htm?archive_date=2026-04-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/85-extensions-filed-for-wang-fuk-fire-system-shutdown/){.md-button .hkfd-news-button}
+- [中華發展承認遞交消防裝置關閉通知書前無派人到宏福苑視察](https://news.rthk.hk/rthk/ch/component/k2/1850331-20260408.htm?archive_date=2026-04-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850331-20260408.htm?archive_date=2026-04-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中華發展承認遞交消防裝置關閉通知書前無派人到宏福苑視察/){.md-button .hkfd-news-button}
+- [宏福苑災後設義務法律諮詢熱線　律師會至今接觸約600宗個案](https://news.rthk.hk/rthk/ch/component/k2/1850312-20260408.htm?archive_date=2026-04-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850312-20260408.htm?archive_date=2026-04-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災後設義務法律諮詢熱線-律師會至今接觸約600宗個案/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會繼續　要求提供掛牌紙說法宏泰消防與置邦存差異](https://news.rthk.hk/rthk/ch/component/k2/1850311-20260408.htm?archive_date=2026-04-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850311-20260408.htm?archive_date=2026-04-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會繼續-要求提供掛牌紙說法宏泰消防與置邦存差異/){.md-button .hkfd-news-button}
+
+### 2026-04-09
+- [民政事務總署：接投訴指宏福苑業主聯署或涉冒充　已轉交執法部門](https://news.rthk.hk/rthk/ch/component/k2/1850434-20260409.htm?archive_date=2026-04-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850434-20260409.htm?archive_date=2026-04-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民政事務總署接投訴指宏福苑業主聯署或涉冒充-已轉交執法部門/){.md-button .hkfd-news-button}

@@ -1606,3 +1606,20 @@
 
 ### 2026-04-07
 - [宏福苑火災｜麥美娟：合安需時梳理80萬份文件　形容前管理公司管理不妥善](https://news.now.com/home/local/player?newsId=642662) [Original](https://news.now.com/home/local/player?newsId=642662){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災麥美娟合安需時梳理80萬份文件-形容前管理公司管理不妥善/){.md-button .hkfd-news-button}
+
+
+### 2026-04-08
+- [區議員工作報告上網　供市民查閱](https://news.now.com/home/local/player?newsId=642836) [Original](https://news.now.com/home/local/player?newsId=642836){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/區議員工作報告上網-供市民查閱/){.md-button .hkfd-news-button}
+- [即日焦點｜美伊同意停火兩周　特朗普稱伊朗不會再有濃縮鈾／5.6萬名九龍東病人資料外洩　警拘外判系統開發員](https://news.now.com/home/local/player?newsId=642835) [Original](https://news.now.com/home/local/player?newsId=642835){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點美伊同意停火兩周-特朗普稱伊朗不會再有濃縮鈾56萬名九龍東病人資料外洩-警拘外判系統開發員/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜被質疑只依賴同事報告不盡責　宏泰董事鍾傑文認不理想　但稱已盡力跟進掛牌事宜](https://news.now.com/home/local/player?newsId=642820) [Original](https://news.now.com/home/local/player?newsId=642820){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會被質疑只依賴同事報告不盡責-宏泰董事鍾傑文認不理想-但稱已盡力跟進掛牌事宜/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜中華發展認曾因關閉另一消防裝置被處分　申請85次關閉消防裝置　承認明知違反消防要求](https://news.now.com/home/local/player?newsId=642819) [Original](https://news.now.com/home/local/player?newsId=642819){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會中華發展認曾因關閉另一消防裝置被處分-申請85次關閉消防裝置-承認明知違反消防要求/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜中華發展董事梁秉基：申請85次關閉消防裝置　承認明知違反消防要求](https://news.now.com/home/local/player?newsId=642816) [Original](https://news.now.com/home/local/player?newsId=642816){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會中華發展董事梁秉基申請85次關閉消防裝置-承認明知違反消防要求/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜被質疑只依賴同事報告不夠盡責　宏泰董事鍾傑文承認不理想](https://news.now.com/home/local/player?newsId=642797) [Original](https://news.now.com/home/local/player?newsId=642797){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會被質疑只依賴同事報告不夠盡責-宏泰董事鍾傑文承認不理想/){.md-button .hkfd-news-button}
+- [律師會為宏福苑居民提供免費法律諮詢](https://news.now.com/home/local/player?newsId=642791) [Original](https://news.now.com/home/local/player?newsId=642791){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/律師會為宏福苑居民提供免費法律諮詢/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜宏泰董事鍾傑文作供承認單靠文件及同事口述拍照　指做法不理想](https://news.now.com/home/local/player?newsId=642770) [Original](https://news.now.com/home/local/player?newsId=642770){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會宏泰董事鍾傑文作供承認單靠文件及同事口述拍照-指做法不理想/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會舉行第二輪首場聽證會](https://news.now.com/home/local/player?newsId=642756) [Original](https://news.now.com/home/local/player?newsId=642756){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會舉行第二輪首場聽證會/){.md-button .hkfd-news-button}
+
+### 2026-04-09
+- [團體免費借50套動力外骨骼設備　助宏福苑居民行樓梯上樓](https://news.now.com/home/local/player?newsId=642939) [Original](https://news.now.com/home/local/player?newsId=642939){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/團體免費借50套動力外骨骼設備-助宏福苑居民行樓梯上樓/){.md-button .hkfd-news-button}
+- [民政總署接投訴稱宏福苑聯署涉冒充　轉交執法部門跟進](https://news.now.com/home/local/player?newsId=642915) [Original](https://news.now.com/home/local/player?newsId=642915){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民政總署接投訴稱宏福苑聯署涉冒充-轉交執法部門跟進/){.md-button .hkfd-news-button}
+- [宏福苑居民月中上樓收拾　紅十字會「大埔．共建坊」提供支援](https://news.now.com/home/local/player?newsId=642870) [Original](https://news.now.com/home/local/player?newsId=642870){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民月中上樓收拾-紅十字會大埔共建坊提供支援/){.md-button .hkfd-news-button}

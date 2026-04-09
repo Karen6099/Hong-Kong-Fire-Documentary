@@ -598,3 +598,13 @@
 
 ### 2026-04-06
 - [Hong Kong Originals: Meet the granny behind Lamma’s half-century iconic dessert stand](https://hongkongfp.com/?p=559772) [Original](https://hongkongfp.com/?p=559772){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-originals-meet-the-granny-behind-lammas-half-century-iconic-dessert/){.md-button .hkfd-news-button}
+
+
+### 2026-04-07
+- [Tai Po fire: Gov’t-appointed management firm to hold briefing session for Wang Fuk Court residents in early May](https://hongkongfp.com/?p=560959) [Original](https://hongkongfp.com/?p=560959){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-govt-appointed-management-firm-to-hold-briefing-session-for-wang/){.md-button .hkfd-news-button}
+
+### 2026-04-08
+- [Contractor tells inquiry of no site visits despite notifying gov’t of Wang Fuk Court’s fire safety shutdowns](https://hongkongfp.com/?p=561084) [Original](https://hongkongfp.com/?p=561084){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/contractor-tells-inquiry-of-no-site-visits-despite-notifying-govt-of-wang-fuk/){.md-button .hkfd-news-button}
+- [Veteran Hong Kong democracy activist Koo Sze-yiu dies aged 80](https://hongkongfp.com/?p=561069) [Original](https://hongkongfp.com/?p=561069){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/veteran-hong-kong-democracy-activist-koo-sze-yiu-dies-aged-80/){.md-button .hkfd-news-button}
+- [Hong Kong independent media outlet says reporters ‘harassed’ and ‘stalked’](https://hongkongfp.com/?p=561044) [Original](https://hongkongfp.com/?p=561044){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-independent-media-outlet-says-reporters-harassed-and-stalked/){.md-button .hkfd-news-button}
+- [No plans for Wang Fuk Court homeowners’ meeting, says gov’t-appointed management firm](https://hongkongfp.com/?p=560994) [Original](https://hongkongfp.com/?p=560994){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/no-plans-for-wang-fuk-court-homeowners-meeting-says-govt-appointed-management/){.md-button .hkfd-news-button}

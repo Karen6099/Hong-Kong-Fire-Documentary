@@ -1076,3 +1076,10 @@
 - [機構免費借出50套外骨骼機械裝備　助宏福苑居民上樓執拾](https://www.881903.com/news/local/2626505/) [Original](https://www.881903.com/news/local/2626505/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/機構免費借出50套外骨骼機械裝備-助宏福苑居民上樓執拾/){.md-button .hkfd-news-button}
 - [逾400宏福苑業戶聯署促開業主大會　當局：接獲涉冒充投訴](https://www.881903.com/news/local/2626480/) [Original](https://www.881903.com/news/local/2626480/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/逾400宏福苑業戶聯署促開業主大會-當局接獲涉冒充投訴/){.md-button .hkfd-news-button}
 - [紅十字會向宏福苑每戶災民派1500元作收拾搬運開支](https://www.881903.com/news/local/2626488/) [Original](https://www.881903.com/news/local/2626488/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/紅十字會向宏福苑每戶災民派1500元作收拾搬運開支/){.md-button .hkfd-news-button}
+
+
+### 2026-04-09
+- [房屋局獨立審查組上年增兩成預算  處理宏福苑火災善後](https://www.881903.com/news/local/2626565/) [Original](https://www.881903.com/news/local/2626565/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋局獨立審查組上年增兩成預算-處理宏福苑火災善後/){.md-button .hkfd-news-button}
+
+### 2026-04-10
+- [宏福苑聽證會｜消防處承認未因大維修提升巡查力度](https://www.881903.com/news/local/2626602/) [Original](https://www.881903.com/news/local/2626602/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防處承認未因大維修提升巡查力度/){.md-button .hkfd-news-button}

@@ -1623,3 +1623,20 @@
 - [團體免費借50套動力外骨骼設備　助宏福苑居民行樓梯上樓](https://news.now.com/home/local/player?newsId=642939) [Original](https://news.now.com/home/local/player?newsId=642939){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/團體免費借50套動力外骨骼設備-助宏福苑居民行樓梯上樓/){.md-button .hkfd-news-button}
 - [民政總署接投訴稱宏福苑聯署涉冒充　轉交執法部門跟進](https://news.now.com/home/local/player?newsId=642915) [Original](https://news.now.com/home/local/player?newsId=642915){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民政總署接投訴稱宏福苑聯署涉冒充-轉交執法部門跟進/){.md-button .hkfd-news-button}
 - [宏福苑居民月中上樓收拾　紅十字會「大埔．共建坊」提供支援](https://news.now.com/home/local/player?newsId=642870) [Original](https://news.now.com/home/local/player?newsId=642870){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民月中上樓收拾-紅十字會大埔共建坊提供支援/){.md-button .hkfd-news-button}
+
+
+### 2026-04-09
+- [房屋局ICU本財年預算增逾兩成涉2.16億元　主要涉宏福苑工程開支](https://news.now.com/home/local/player?newsId=642960) [Original](https://news.now.com/home/local/player?newsId=642960){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房屋局icu本財年預算增逾兩成涉216億元-主要涉宏福苑工程開支/){.md-button .hkfd-news-button}
+
+### 2026-04-10
+- [即日焦點｜所有使用柴油工商業受惠政府柴油補貼／中共總書記習近平在北京接見國民黨主席鄭麗文](https://news.now.com/home/local/player?newsId=643097) [Original](https://news.now.com/home/local/player?newsId=643097){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點所有使用柴油工商業受惠政府柴油補貼中共總書記習近平在北京接見國民黨主席鄭麗文/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會　消防處助理處長姜世明作供](https://news.now.com/home/local/player?newsId=643093) [Original](https://news.now.com/home/local/player?newsId=643093){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會-消防處助理處長姜世明作供/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜消防處16次收延長關閉消防裝置通知書　助理處長認無主動跟進不理想](https://news.now.com/home/local/player?newsId=643072) [Original](https://news.now.com/home/local/player?newsId=643072){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防處16次收延長關閉消防裝置通知書-助理處長認無主動跟進不理想/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜消防處：無電「鐘唔響，水又無」　承辦商應通知消防處](https://news.now.com/home/local/player?newsId=643035) [Original](https://news.now.com/home/local/player?newsId=643035){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防處無電鐘唔響水又無-承辦商應通知消防處/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜消防處：無電「鐘唔響，水又無」　承辦商應通知消防處](https://news.now.com/home/local/player?newsId=643025) [Original](https://news.now.com/home/local/player?newsId=643025){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防處無電鐘唔響水又無-承辦商應通知消防處-1/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜消防處助理處長姜世明：未見過總電掣被非承辦商關掉](https://news.now.com/home/local/player?newsId=643019) [Original](https://news.now.com/home/local/player?newsId=643019){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防處助理處長姜世明未見過總電掣被非承辦商關掉/){.md-button .hkfd-news-button}
+- [採訪日誌｜財委會審議柴油補貼緊急撥款／宏福苑火災第十場聽證會](https://news.now.com/home/local/player?newsId=642989) [Original](https://news.now.com/home/local/player?newsId=642989){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌財委會審議柴油補貼緊急撥款宏福苑火災第十場聽證會/){.md-button .hkfd-news-button}
+
+### 2026-04-11
+- [建築物管理條例修訂｜麥美娟：明白業主擔心修例後要求嚴格　但不能再蹉跎](https://news.now.com/home/local/player?newsId=643141) [Original](https://news.now.com/home/local/player?newsId=643141){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/建築物管理條例修訂麥美娟明白業主擔心修例後要求嚴格-但不能再蹉跎/){.md-button .hkfd-news-button}
+- [有宏福苑居民聯署要求召開業主大會　麥美娟指接獲投訴涉冒簽已交執法部門調查](https://news.now.com/home/local/player?newsId=643132) [Original](https://news.now.com/home/local/player?newsId=643132){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有宏福苑居民聯署要求召開業主大會-麥美娟指接獲投訴涉冒簽已交執法部門調查/){.md-button .hkfd-news-button}

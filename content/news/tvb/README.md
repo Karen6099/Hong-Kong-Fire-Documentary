@@ -2012,3 +2012,10 @@
 
 ### 2026-04-09
 - [Wang Fuk Court's fire contractor admits to be "rubber stamp" of renovation contractor](https://news.tvb.com/tc/pearlnews/69d64a01cd258827b71ef78b/TVB%20News-Wang-Fuk-Courts-fire-contractor-admits-to-be-rubber-stamp-of-renovation-contractor) [Original](https://news.tvb.com/tc/pearlnews/69d64a01cd258827b71ef78b/TVB%20News-Wang-Fuk-Courts-fire-contractor-admits-to-be-rubber-stamp-of-renovation-contractor){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-courts-fire-contractor-admits-to-be-rubber-stamp-of-renovation/){.md-button .hkfd-news-button}
+
+
+### 2026-04-10
+- [Wang Fuk Court fire inquiry: fire services official admits no extra surprise inspections](https://news.tvb.com/tc/pearlnews/69d8e5e64a71c3f57afe75bc/TVB%20News-Wang-Fuk-Court-fire-inquiry-fire-services-official-admits-no-extra-surprise-inspections) [Original](https://news.tvb.com/tc/pearlnews/69d8e5e64a71c3f57afe75bc/TVB%20News-Wang-Fuk-Court-fire-inquiry-fire-services-official-admits-no-extra-surprise-inspections){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-inquiry-fire-services-official-admits-no-extra-surprise/){.md-button .hkfd-news-button}
+
+### 2026-04-11
+- [Alice Mak says there will be more than one briefing session on Wang Fuk Court](https://news.tvb.com/tc/pearlnews/69d9dd904a71c3f57a067899/TVB-News-Alice-Mak-says-there-will-be-more-than-one-briefing-session-on-Wang-Fuk-Court) [Original](https://news.tvb.com/tc/pearlnews/69d9dd904a71c3f57a067899/TVB-News-Alice-Mak-says-there-will-be-more-than-one-briefing-session-on-Wang-Fuk-Court){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/alice-mak-says-there-will-be-more-than-one-briefing-session-on-wang-fuk-court/){.md-button .hkfd-news-button}

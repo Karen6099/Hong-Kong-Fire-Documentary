@@ -1333,3 +1333,11 @@
 
 ### 2026-04-09
 - [民政事務總署：接投訴指宏福苑業主聯署或涉冒充　已轉交執法部門](https://news.rthk.hk/rthk/ch/component/k2/1850434-20260409.htm?archive_date=2026-04-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850434-20260409.htm?archive_date=2026-04-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民政事務總署接投訴指宏福苑業主聯署或涉冒充-已轉交執法部門/){.md-button .hkfd-news-button}
+
+
+### 2026-04-10
+- [消防處稱宏福苑大火後完成巡查5百座大維修大廈　跟進有問題設備](https://news.rthk.hk/rthk/ch/component/k2/1850590-20260410.htm?archive_date=2026-04-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850590-20260410.htm?archive_date=2026-04-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處稱宏福苑大火後完成巡查5百座大維修大廈-跟進有問題設備/){.md-button .hkfd-news-button}
+- [宏福苑火災聽證會　消防處稱須修例如關閉消防系統總掣要得到批准](https://news.rthk.hk/rthk/ch/component/k2/1850580-20260410.htm?archive_date=2026-04-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850580-20260410.htm?archive_date=2026-04-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災聽證會-消防處稱須修例如關閉消防系統總掣要得到批准/){.md-button .hkfd-news-button}
+
+### 2026-04-11
+- [麥美娟：彈性及人性化處理宏福苑居民上樓執拾時限](https://news.rthk.hk/rthk/ch/component/k2/1850736-20260411.htm?archive_date=2026-04-11) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850736-20260411.htm?archive_date=2026-04-11){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟彈性及人性化處理宏福苑居民上樓執拾時限/){.md-button .hkfd-news-button}

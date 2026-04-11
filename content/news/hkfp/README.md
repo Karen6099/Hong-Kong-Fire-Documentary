@@ -608,3 +608,14 @@
 - [Veteran Hong Kong democracy activist Koo Sze-yiu dies aged 80](https://hongkongfp.com/?p=561069) [Original](https://hongkongfp.com/?p=561069){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/veteran-hong-kong-democracy-activist-koo-sze-yiu-dies-aged-80/){.md-button .hkfd-news-button}
 - [Hong Kong independent media outlet says reporters ‘harassed’ and ‘stalked’](https://hongkongfp.com/?p=561044) [Original](https://hongkongfp.com/?p=561044){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-independent-media-outlet-says-reporters-harassed-and-stalked/){.md-button .hkfd-news-button}
 - [No plans for Wang Fuk Court homeowners’ meeting, says gov’t-appointed management firm](https://hongkongfp.com/?p=560994) [Original](https://hongkongfp.com/?p=560994){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/no-plans-for-wang-fuk-court-homeowners-meeting-says-govt-appointed-management/){.md-button .hkfd-news-button}
+
+
+### 2026-04-09
+- [Tai Po fire: Owners’ petition for meeting with estate administrator may contain forged signatures, gov’t says](https://hongkongfp.com/?p=561249) [Original](https://hongkongfp.com/?p=561249){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-owners-petition-for-meeting-with-estate-administrator-may-contain/){.md-button .hkfd-news-button}
+
+### 2026-04-10
+- [7-month water tank works that disabled fire safety systems acceptable, official tells Tai Po blaze probe](https://hongkongfp.com/?p=561386) [Original](https://hongkongfp.com/?p=561386){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/7-month-water-tank-works-that-disabled-fire-safety-systems-acceptable-official/){.md-button .hkfd-news-button}
+- [Hong Kong bookseller who held Spanish interest class found guilty of running unregistered school, fined HK$32K](https://hongkongfp.com/?p=561353) [Original](https://hongkongfp.com/?p=561353){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-bookseller-who-held-spanish-interest-class-found-guilty-of-running/){.md-button .hkfd-news-button}
+
+### 2026-04-11
+- [Hong Kong sees ‘sharp rise’ in illegal fuel trading amid surging oil prices](https://hongkongfp.com/?p=561425) [Original](https://hongkongfp.com/?p=561425){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-sees-sharp-rise-in-illegal-fuel-trading-amid-surging-oil-prices/){.md-button .hkfd-news-button}

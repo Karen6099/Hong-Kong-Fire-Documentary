@@ -1083,3 +1083,12 @@
 
 ### 2026-04-10
 - [宏福苑聽證會｜消防處承認未因大維修提升巡查力度](https://www.881903.com/news/local/2626602/) [Original](https://www.881903.com/news/local/2626602/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防處承認未因大維修提升巡查力度/){.md-button .hkfd-news-button}
+
+
+### 2026-04-12
+- [卓永興：98%宏福苑住戶按政府安排上樓　宏志閣下月再安排上樓](https://www.881903.com/news/local/2626835/) [Original](https://www.881903.com/news/local/2626835/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興98宏福苑住戶按政府安排上樓-宏志閣下月再安排上樓/){.md-button .hkfd-news-button}
+
+### 2026-04-13
+- [何永賢：適時公布宏福苑宏志閣安置方案](https://www.881903.com/news/local/2626996/) [Original](https://www.881903.com/news/local/2626996/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢適時公布宏福苑宏志閣安置方案/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜大埔消防局長稱大火超出既定應付範圍](https://www.881903.com/news/local/2626942/) [Original](https://www.881903.com/news/local/2626942/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會大埔消防局長稱大火超出既定應付範圍/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜今傳召四消防作供](https://www.881903.com/news/local/2626926/) [Original](https://www.881903.com/news/local/2626926/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會今傳召四消防作供/){.md-button .hkfd-news-button}

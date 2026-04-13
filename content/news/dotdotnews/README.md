@@ -521,3 +521,17 @@
 ### 2026-04-02
 - [（有片）宏福苑調查｜業主大會曾20分鐘增280票？物管：或因「儲票」供電腦點算](https://www.dotdotnews.com/a/202604/02/AP69ce437fe4b09ea2331139e8.html) [Original](https://www.dotdotnews.com/a/202604/02/AP69ce437fe4b09ea2331139e8.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑調查業主大會曾20分鐘增280票物管或因儲票供電腦點算/){.md-button .hkfd-news-button}
 - [講真D｜善用「外骨骼」助宏福苑居民輕裝上樓　與家園好好告別](https://www.dotdotnews.com/a/202604/02/AP69cdf4c5e4b09ea23311306d.html) [Original](https://www.dotdotnews.com/a/202604/02/AP69cdf4c5e4b09ea23311306d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d善用外骨骼助宏福苑居民輕裝上樓-與家園好好告別/){.md-button .hkfd-news-button}
+
+
+### 2026-04-10
+- [Fire Investigation | Non-registered contractor illegally shut down fire safety system: Fire Department admits penalties need to be raised](https://english.dotdotnews.com/a/202604/10/AP69d8a1e0e4b09ea233120ba0.html) [Original](https://english.dotdotnews.com/a/202604/10/AP69d8a1e0e4b09ea233120ba0.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-investigation-non-registered-contractor-illegally-shut-down-fire-safety/){.md-button .hkfd-news-button}
+
+### 2026-04-13
+- [Fire Investigation | More rescue details revealed: Firefighters try to activate fire alarm, but couldn't enter building](https://english.dotdotnews.com/a/202604/13/AP69dcaddbe4b09ea233125bed.html) [Original](https://english.dotdotnews.com/a/202604/13/AP69dcaddbe4b09ea233125bed.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-investigation-more-rescue-details-revealed-firefighters-try-to-activate/){.md-button .hkfd-news-button}
+
+
+### 2026-04-12
+- [點聲｜見字如見心——法律支援燃亮宏福苑居民的希望](https://www.dotdotnews.com/a/202604/12/AP69db59aee4b09ea233124302.html) [Original](https://www.dotdotnews.com/a/202604/12/AP69db59aee4b09ea233124302.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聲見字如見心法律支援燃亮宏福苑居民的希望/){.md-button .hkfd-news-button}
+
+### 2026-04-13
+- [宏福苑調查｜房屋局：部分承建商行事方法差劣　會檢視盡早識別問題](https://www.dotdotnews.com/a/202604/13/AP69dcdccbe4b09ea233126035.html) [Original](https://www.dotdotnews.com/a/202604/13/AP69dcdccbe4b09ea233126035.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑調查房屋局部分承建商行事方法差劣-會檢視盡早識別問題/){.md-button .hkfd-news-button}

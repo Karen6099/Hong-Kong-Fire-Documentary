@@ -1341,3 +1341,15 @@
 
 ### 2026-04-11
 - [麥美娟：彈性及人性化處理宏福苑居民上樓執拾時限](https://news.rthk.hk/rthk/ch/component/k2/1850736-20260411.htm?archive_date=2026-04-11) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850736-20260411.htm?archive_date=2026-04-11){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟彈性及人性化處理宏福苑居民上樓執拾時限/){.md-button .hkfd-news-button}
+
+
+### 2026-04-12
+- ['Wang Fuk residents allowed more than one return'](https://news.rthk.hk/rthk/en/component/k2/1850782-20260412.htm?archive_date=2026-04-12) [Original](https://news.rthk.hk/rthk/en/component/k2/1850782-20260412.htm?archive_date=2026-04-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-residents-allowed-more-than-one-return/){.md-button .hkfd-news-button}
+- [約98%宏福苑居民可按時上樓執拾　近400戶冀上樓多一次](https://news.rthk.hk/rthk/ch/component/k2/1850807-20260412.htm?archive_date=2026-04-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850807-20260412.htm?archive_date=2026-04-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/約98宏福苑居民可按時上樓執拾-近400戶冀上樓多一次/){.md-button .hkfd-news-button}
+- [98%宏福苑住戶按政府安排時段上樓　卓永興：380戶冀再上樓](https://news.rthk.hk/rthk/ch/component/k2/1850773-20260412.htm?archive_date=2026-04-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850773-20260412.htm?archive_date=2026-04-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/98宏福苑住戶按政府安排時段上樓-卓永興380戶冀再上樓/){.md-button .hkfd-news-button}
+
+### 2026-04-13
+- ['Firefighter wasn't supposed to be in Wang Fuk block'](https://news.rthk.hk/rthk/en/component/k2/1850891-20260413.htm?archive_date=2026-04-13) [Original](https://news.rthk.hk/rthk/en/component/k2/1850891-20260413.htm?archive_date=2026-04-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/firefighter-wasnt-supposed-to-be-in-wang-fuk-block/){.md-button .hkfd-news-button}
+- [回應宏福苑大火何不更早升五級　指揮官：四級未準備好如何升五級](https://news.rthk.hk/rthk/ch/component/k2/1850916-20260413.htm?archive_date=2026-04-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850916-20260413.htm?archive_date=2026-04-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/回應宏福苑大火何不更早升五級-指揮官四級未準備好如何升五級/){.md-button .hkfd-news-button}
+- [何偉豪進宏福苑火場無紀錄　指揮官稱搶救車受阻尚未設立入口指揮](https://news.rthk.hk/rthk/ch/component/k2/1850884-20260413.htm?archive_date=2026-04-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850884-20260413.htm?archive_date=2026-04-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何偉豪進宏福苑火場無紀錄-指揮官稱搶救車受阻尚未設立入口指揮/){.md-button .hkfd-news-button}
+- [消防隊長作供稱宏福苑火災當日到場後聽不到火警鐘聲](https://news.rthk.hk/rthk/ch/component/k2/1850876-20260413.htm?archive_date=2026-04-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1850876-20260413.htm?archive_date=2026-04-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防隊長作供稱宏福苑火災當日到場後聽不到火警鐘聲/){.md-button .hkfd-news-button}

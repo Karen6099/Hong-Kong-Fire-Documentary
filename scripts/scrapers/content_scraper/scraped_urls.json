@@ -63840,7 +63840,497 @@
       "source_file": "content/news/now-news/README.md",
       "scraped_at": "2026-04-11T20:23:18.130990",
       "archive_path": "content\\news\\now-news\\archive\\有宏福苑居民聯署要求召開業主大會-麥美娟指接獲投訴涉冒簽已交執法部門調查"
+    },
+    "https://english.dotdotnews.com/a/202604/10/AP69d8a1e0e4b09ea233120ba0.html": {
+      "title": "Fire Investigation | Non-registered contractor illegally shut down fire safety system: Fire Department admits penalties need to be raised",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-04-14T02:29:27.109506",
+      "archive_path": "content\\news\\dotdotnews\\archive\\fire-investigation-non-registered-contractor-illegally-shut-down-fire-safety"
+    },
+    "https://english.dotdotnews.com/a/202604/13/AP69dcaddbe4b09ea233125bed.html": {
+      "title": "Fire Investigation | More rescue details revealed: Firefighters try to activate fire alarm, but couldn't enter building",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-04-14T02:29:34.400626",
+      "archive_path": "content\\news\\dotdotnews\\archive\\fire-investigation-more-rescue-details-revealed-firefighters-try-to-activate"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4369671/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%A8%E5%8D%93%E6%B0%B8%E8%88%88%3A%E7%B4%84%E5%8D%83%E4%B8%83%E4%BD%8F%E6%88%B6%E5%8F%AF%E6%8C%89%E5%AE%89%E6%8E%92%E6%99%82%E6%AE%B5%E4%B8%8A%E6%A8%93%E5%9F%B7%E6%8B%BE+": {
+      "title": "宏福苑大火丨卓永興:約千七住戶可按安排時段上樓執拾",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-14T02:29:34.572526",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑大火丨卓永興約千七住戶可按安排時段上樓執拾"
+    },
+    "https://www.881903.com/news/local/2626835/": {
+      "title": "卓永興：98%宏福苑住戶按政府安排上樓　宏志閣下月再安排上樓",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-14T02:29:51.629477",
+      "archive_path": "content\\news\\commercial-radio\\archive\\卓永興98宏福苑住戶按政府安排上樓-宏志閣下月再安排上樓"
+    },
+    "https://www.881903.com/news/local/2626996/": {
+      "title": "何永賢：適時公布宏福苑宏志閣安置方案",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-14T02:30:05.451853",
+      "archive_path": "content\\news\\commercial-radio\\archive\\何永賢適時公布宏福苑宏志閣安置方案"
+    },
+    "https://www.881903.com/news/local/2626942/": {
+      "title": "宏福苑聽證會｜大埔消防局長稱大火超出既定應付範圍",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-14T02:30:20.285759",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑聽證會大埔消防局長稱大火超出既定應付範圍"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4370028/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E6%B6%88%E9%98%B2%E5%B1%80%E9%95%B7%3A%E7%9B%B4%E5%8D%87%E6%A9%9F%E6%93%B2%E6%B0%B4%E5%BD%88%E6%88%96%E5%8A%A0%E9%80%9F%E7%81%AB%E5%8B%A2%E8%94%93%E5%BB%B6": {
+      "title": "宏福苑聽證會丨消防局長:直升機擲水彈或加速火勢蔓延",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-14T02:30:26.589192",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨消防局長直升機擲水彈或加速火勢蔓延"
+    },
+    "https://www.881903.com/news/local/2626926/": {
+      "title": "宏福苑聽證會｜今傳召四消防作供",
+      "source": "commercial-radio",
+      "source_file": "content/news/commercial-radio/README.md",
+      "scraped_at": "2026-04-14T02:30:34.997317",
+      "archive_path": "content\\news\\commercial-radio\\archive\\宏福苑聽證會今傳召四消防作供"
+    },
+    "https://hongkongfp.com/?p=561227": {
+      "title": "HKFP Lens: World Press Photo announces 2026 regional winners for Asia",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-04-14T02:33:50.422573",
+      "archive_path": "content\\news\\hkfp\\archive\\hkfp-lens-world-press-photo-announces-2026-regional-winners-for-asia"
+    },
+    "https://hongkongfp.com/?p=561178": {
+      "title": "Tai Po fire inquiry: Key findings from first 10 days of Wang Fuk Court hearings",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-04-14T02:33:57.290405",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-fire-inquiry-key-findings-from-first-10-days-of-wang-fuk-court-hearings"
+    },
+    "https://hongkongfp.com/?p=561557": {
+      "title": "Tai Po blaze probe: No standard operation protocols for failed alarms during fire, senior firefighter says",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-04-14T02:34:23.118218",
+      "archive_path": "content\\news\\hkfp\\archive\\tai-po-blaze-probe-no-standard-operation-protocols-for-failed-alarms-during"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4369960/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E6%AE%89%E8%81%B7%E6%B6%88%E9%98%B2%E5%93%A1%E4%BD%95%E5%81%89%E8%B1%AA%E9%80%B2%E5%AE%8F%E6%B3%B0%E9%96%A3%E7%84%A1%E8%A8%98%E9%8C%84": {
+      "title": "宏福苑聽證會丨殉職消防員何偉豪進宏泰閣無記錄",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-14T02:34:42.073209",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨殉職消防員何偉豪進宏泰閣無記錄"
+    },
+    "https://hongkongfp.com/?p=561558": {
+      "title": "No record of fallen firefighter entering building, Tai Po fire probe told",
+      "source": "hkfp",
+      "source_file": "content/news/hkfp/README.md",
+      "scraped_at": "2026-04-14T02:34:48.218780",
+      "archive_path": "content\\news\\hkfp\\archive\\no-record-of-fallen-firefighter-entering-building-tai-po-fire-probe-told"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E5%A4%A7%E7%8B%80%E8%B3%AA%E7%96%91%E7%81%AB%E8%AD%A6%E7%B4%9A%E5%88%A5%E4%B8%8D%E8%B6%81%E6%97%A9%E6%8F%90%E5%8D%87-%E6%99%82%E4%BB%BB%E6%8C%87%E6%8F%AE%E5%AE%98%EF%BC%9A%E4%BA%BA%E8%BB%8A%E5%A4%AA%E6%97%A9%E6%B9%A7%E8%87%B3%E3%80%8C%E9%83%BD%E5%94%94%E7%9F%A5%E4%BD%A0%E6%83%B3%E5%81%9A%E5%92%A9%E3%80%8D": {
+      "title": "【宏福苑五級火】大狀質疑火警級別不趁早提升 時任指揮官：人車太早湧至「都唔知你想做咩」",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-04-14T02:50:03.865486",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火大狀質疑火警級別不趁早提升-時任指揮官人車太早湧至都唔知你想做咩"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338819/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-10%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E4%BB%A3%E8%A1%A8%E9%A6%96%E4%BD%9C%E8%AD%89": {
+      "title": "宏福苑4.10聽證會重點｜消防處訪26次0巡查　允停裝置逾年不檢控",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:50:04.227989",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑410聽證會重點消防處訪26次0巡查-允停裝置逾年不檢控"
+    },
+    "https://www.dotdotnews.com/a/202604/12/AP69db59aee4b09ea233124302.html": {
+      "title": "點聲｜見字如見心——法律支援燃亮宏福苑居民的希望",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-04-14T02:50:04.376853",
+      "archive_path": "content\\news\\dotdotnews\\archive\\點聲見字如見心法律支援燃亮宏福苑居民的希望"
+    },
+    "https://www1.hkej.com/dailynews/politics/article/4369796/%E5%AE%8F%E7%A6%8F380%E6%88%B6%E7%9B%BC%E5%86%8D%E8%BF%94%E5%AE%B6+%E6%94%BF%E5%BA%9C%E5%85%81%E7%A9%8D%E6%A5%B5%E5%AE%89%E6%8E%92": {
+      "title": "宏福380戶盼再返家 政府允積極安排 近1700戶下周一上樓執拾 佔總數98%",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-14T02:50:04.579259",
+      "archive_path": "content\\news\\hkej\\archive\\宏福380戶盼再返家-政府允積極安排-近1700戶下周一上樓執拾-佔總數98"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%B6%88%E9%98%B2%E5%9B%9E%E6%87%89%E5%9D%8A%E9%96%93%E6%95%91%E7%81%AB%E6%96%B9%E6%A1%88%EF%BC%9A%E6%8A%95%E6%B0%B4%E5%BD%88%E6%88%96%E6%9C%89%E5%8F%8D%E6%95%88%E6%9E%9C%E3%80%81%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%B0%B4%E5%A3%93%E4%B8%8D%E8%B6%B3%E5%83%85%E3%80%8C%E7%A4%BA%E7%AF%84%E3%80%8D": {
+      "title": "【宏福苑五級火】消防回應坊間救火方案：投水彈或有反效果、無人機水壓不足僅「示範」",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-04-14T02:50:46.948058",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火消防回應坊間救火方案投水彈或有反效果無人機水壓不足僅示範"
+    },
+    "https://www2.hkej.com/instantnews/current/article/4369919/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E4%B8%A8%E4%BB%8A%E5%82%B3%E5%8F%AC4%E6%B6%88%E9%98%B2%E4%BD%9C%E4%BE%9B": {
+      "title": "宏福苑聽證會丨今傳召4消防作供",
+      "source": "hkej",
+      "source_file": "content/news/hkej/README.md",
+      "scraped_at": "2026-04-14T02:50:49.772588",
+      "archive_path": "content\\news\\hkej\\archive\\宏福苑聽證會丨今傳召4消防作供"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%B6%88%E9%98%B2%E8%BB%8A%E4%B8%8D%E9%B3%B4%E7%AC%9B%E5%9B%A0%E3%80%8C%E5%85%8D%E6%81%90%E6%85%8C%E3%80%8D%E3%80%81%E3%80%8C%E9%81%B7%E5%B0%B1%E8%AD%A6%E8%BB%8A%E3%80%8D-%E5%B1%85%E6%B0%91%E4%B8%8D%E8%B2%B7%E5%B8%B3%EF%BC%9A%E4%BD%A0%E9%9F%BF%E5%A5%BD%E5%A4%9A%E4%BA%BA%E6%9C%83%E5%85%AB%E5%8D%A6%E4%81%93%E5%90%93": {
+      "title": "【宏福苑五級火】消防車不鳴笛因「免恐慌」、「遷就警車」 居民不買帳：你響好多人會八卦䁓吓",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-04-14T02:51:36.482980",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火消防車不鳴笛因免恐慌遷就警車-居民不買帳你響好多人會八卦䁓吓"
+    },
+    "https://news.now.com/home/local/player?newsId=643252": {
+      "title": "即日焦點｜警方舉行全民國家安全教育日暨警民同樂日／國泰、快運下月減航班　保險業指大部分旅遊保不涵蓋",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:51:36.909762",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點警方舉行全民國家安全教育日暨警民同樂日國泰快運下月減航班-保險業指大部分旅遊保不涵蓋"
+    },
+    "https://www.hk01.com/%E6%94%BF%E6%83%85/60339801/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E4%BD%95%E6%B0%B8%E8%B3%A2-%E6%89%BF%E5%BB%BA%E5%95%86-%E5%8E%9F%E4%BE%86%E5%8F%AF%E4%BB%A5%E5%92%81%E5%B7%AE%E5%8A%A3-%E7%A0%94%E9%9B%BB%E8%85%A6%E9%9A%A8%E6%A9%9F%E6%8A%BD%E6%AA%A2%E6%A8%93%E5%AE%87": {
+      "title": "宏福苑｜何永賢：承建商「原來可以咁差劣」　研電腦隨機抽檢樓宇",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:51:38.310424",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑何永賢承建商原來可以咁差劣-研電腦隨機抽檢樓宇"
+    },
+    "https://www.dotdotnews.com/a/202604/13/AP69dcdccbe4b09ea233126035.html": {
+      "title": "宏福苑調查｜房屋局：部分承建商行事方法差劣　會檢視盡早識別問題",
+      "source": "dotdotnews",
+      "source_file": "content/news/dotdotnews/README.md",
+      "scraped_at": "2026-04-14T02:51:38.427858",
+      "archive_path": "content\\news\\dotdotnews\\archive\\宏福苑調查房屋局部分承建商行事方法差劣-會檢視盡早識別問題"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1850782-20260412.htm?archive_date=2026-04-12": {
+      "title": "'Wang Fuk residents allowed more than one return'",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-14T02:51:38.523748",
+      "archive_path": "content\\news\\rthk\\archive\\wang-fuk-residents-allowed-more-than-one-return"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E6%B1%82%E6%95%91%E5%8D%8A%E5%B0%8F%E6%99%82-%E4%BD%95%E5%81%89%E8%B1%AA%E8%A2%AB%E7%99%BC%E7%8F%BE%E3%80%8C%E7%9E%93%E5%96%BA%E7%87%92%E8%91%97%E7%AB%B9%E6%A3%9A%E3%80%81%E4%B8%8D%E7%9C%81%E4%BA%BA%E4%BA%8B%E3%80%8D-%E6%8C%87%E6%8F%AE%E5%AE%98%E5%A7%8B%E6%82%89%E5%90%8C%E8%A2%8D%E8%BA%AB%E4%BB%BD": {
+      "title": "【宏福苑五級火】求救半小時 何偉豪被發現「瞓喺燒著竹棚、不省人事」 指揮官始悉同袍身份",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-04-14T02:52:11.651474",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火求救半小時-何偉豪被發現瞓喺燒著竹棚不省人事-指揮官始悉同袍身份"
+    },
+    "https://news.now.com/home/local/player?newsId=643215": {
+      "title": "宏福苑火災｜卓永興：98%宏福苑住戶能按安排時段上樓執拾　約380戶冀上樓多於一次",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:52:13.378869",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災卓永興98宏福苑住戶能按安排時段上樓執拾-約380戶冀上樓多於一次"
+    },
+    "https://news.tvb.com/tc/taipofire/69db23982ae12ced8b98c01e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E8%BF%911700%E6%88%B6%E5%8F%AF%E6%8C%89%E6%99%82%E4%B8%8A%E6%A8%93%E5%9F%B7%E6%8B%BE-%E5%8D%93%E6%B0%B8%E8%88%88%E6%96%99%E4%BA%94%E6%9C%88%E5%86%8D%E5%AE%89%E6%8E%92%E5%AE%8F%E5%BF%97%E9%96%A3%E5%B1%85%E6%B0%91%E8%BF%94%E5%AE%B6": {
+      "title": "宏福苑五級火｜近1700戶可按時上樓執拾 卓永興料五月再安排宏志閣居民返家 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:52:13.468489",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火近1700戶可按時上樓執拾-卓永興料五月再安排宏志閣居民返家-宏福苑五級火-1天前-粵"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E9%80%BE250%E4%BD%8F%E6%88%B6%E7%B6%93%E5%8D%87%E9%99%8D%E6%A9%9F%E9%80%83%E5%87%BA-%E6%B6%88%E9%98%B2%E5%B1%80%E9%95%B7%E6%8C%87%E4%B8%8D%E5%BB%BA%E8%AD%B0-%E5%BC%B7%E8%AA%BF%E6%87%89%E7%95%99%E6%84%8F%E6%BF%83%E7%85%99%E6%83%85%E6%B3%81": {
+      "title": "【宏福苑五級火】逾250住戶經升降機逃出 消防局長指不建議 強調應留意濃煙情況",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-04-14T02:52:37.821512",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火逾250住戶經升降機逃出-消防局長指不建議-強調應留意濃煙情況"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1850807-20260412.htm?archive_date=2026-04-12": {
+      "title": "約98%宏福苑居民可按時上樓執拾　近400戶冀上樓多一次",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-14T02:52:39.547652",
+      "archive_path": "content\\news\\rthk\\archive\\約98宏福苑居民可按時上樓執拾-近400戶冀上樓多一次"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339791/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83-%E6%B6%88%E9%98%B2%E6%8E%A5%E5%A0%B1%E5%BE%8C%E9%80%BE%E4%B8%80%E5%B0%8F%E6%99%82%E7%84%A1%E6%B3%95%E9%80%B2%E5%85%A5%E5%AE%8F%E6%98%8C%E9%96%A3-%E4%B8%80%E6%96%87%E7%9C%8B%E6%B8%85%E9%83%A8%E7%BD%B2": {
+      "title": "宏福苑聽證會｜消防接報後逾一小時無法進入宏昌閣　一文看清部署",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:52:39.736250",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會消防接報後逾一小時無法進入宏昌閣-一文看清部署"
+    },
+    "https://news.tvb.com/tc/taipofire/69db124d2ae12ced8b982b24/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E5%8D%93%E6%B0%B8%E8%88%88%E8%BF%91400%E6%88%B6%E6%83%B3%E5%AE%89%E6%8E%92%E5%A4%9A%E4%B8%80%E6%AC%A1%E4%B8%8A%E6%A8%93%E5%9F%B7%E6%8B%BE-%E5%B0%87%E7%A9%8D%E6%A5%B5%E9%85%8D%E5%90%88": {
+      "title": "宏福苑五級火｜卓永興：近400戶想安排多一次上樓執拾 將積極配合 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:52:40.908604",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火卓永興近400戶想安排多一次上樓執拾-將積極配合-宏福苑五級火-1天前-粵"
+    },
+    "https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E3%80%90%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E3%80%91%E9%99%B3%E5%81%A5%E6%B3%A2%E9%97%9C%E6%B3%A8%E6%B6%88%E9%98%B2%E6%B0%A7%E6%B0%A3%E6%A8%BD%E4%B8%8D%E6%89%93%E5%AD%96%E6%98%AF%E5%90%A6%E5%9B%A0%E5%A4%AA%E9%87%8D%E3%80%81%E5%9C%8B%E5%85%A7%E6%A8%99%E6%BA%96%E7%82%BA%E4%BD%95%EF%BC%9F%E9%AB%98%E7%B4%9A%E9%9A%8A%E9%95%B7%EF%BC%9A%E6%88%91%E7%AD%94%E5%94%94%E5%88%B0": {
+      "title": "【宏福苑五級火】陳健波關注消防氧氣樽不打孖是否因太重、國內標準為何？高級隊長：我答唔到",
+      "source": "inmedia",
+      "source_file": "content/news/inmedia/README.md",
+      "scraped_at": "2026-04-14T02:53:01.869287",
+      "archive_path": "content\\news\\inmedia\\archive\\宏福苑五級火陳健波關注消防氧氣樽不打孖是否因太重國內標準為何高級隊長我答唔到"
+    },
+    "https://news.now.com/home/local/player?newsId=643209": {
+      "title": "宏福苑火災｜卓永興：約98%的住戶能按獲安排的時段上樓　約380戶希望可以上樓多於一次",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:02.159313",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災卓永興約98的住戶能按獲安排的時段上樓-約380戶希望可以上樓多於一次"
+    },
+    "https://news.tvb.com/tc/taipofire/69db0a8b2ae12ced8b97e9b0/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%E7%8F%BE%E5%A0%B4%EF%BD%9C%E5%8D%93%E6%B0%B8%E8%88%88%E5%B7%B2%E8%81%AF%E7%B5%A1%E9%80%BE1730%E6%88%B6-%E5%A4%A7%E9%83%A8%E5%88%86%E5%8F%AF%E6%8C%89%E5%AE%89%E6%8E%92%E4%B8%8A%E6%A8%93%E5%9F%B7%E6%8B%BE": {
+      "title": "宏福苑五級火．現場｜卓永興：已聯絡逾1730戶 大部分可按安排上樓執拾 宏福苑五級火 1天前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:04.681181",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火現場卓永興已聯絡逾1730戶-大部分可按安排上樓執拾-宏福苑五級火-1天前-粵"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339763/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%81%B2%E5%8D%87%E4%BA%94%E7%B4%9A%E7%81%AB-%E6%B6%88%E9%98%B2-%E9%9C%80%E9%81%8E%E6%B8%A1%E5%8F%8A%E6%8E%A7%E5%88%B6%E4%BA%BA%E6%89%8B%E5%90%A6%E5%89%87-%E5%94%94%E7%9F%A5%E5%81%9A%E5%92%A9": {
+      "title": "宏福苑｜遲升五級火？　消防：需過渡及控制人手否則「唔知做咩」",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:53:04.829601",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑遲升五級火-消防需過渡及控制人手否則唔知做咩"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1850773-20260412.htm?archive_date=2026-04-12": {
+      "title": "98%宏福苑住戶按政府安排時段上樓　卓永興：380戶冀再上樓",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-14T02:53:06.453503",
+      "archive_path": "content\\news\\rthk\\archive\\98宏福苑住戶按政府安排時段上樓-卓永興380戶冀再上樓"
+    },
+    "https://news.now.com/home/local/player?newsId=643378": {
+      "title": "即日焦點｜特朗普宣布封鎖霍爾木茲海峽／日月星旅行社及導遊威迫購物被釘牌",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:08.643549",
+      "archive_path": "content\\news\\now-news\\archive\\即日焦點特朗普宣布封鎖霍爾木茲海峽日月星旅行社及導遊威迫購物被釘牌"
+    },
+    "https://news.tvb.com/tc/taipofire/69dcfe5a35eab337bbfb1f54/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E7%8D%A8%E7%AB%8B%E5%AF%A9%E6%9F%A5%E7%B5%84%E8%A2%AB%E6%8C%87%E8%A6%96%E5%AF%9F%E5%89%8D%E9%80%9A%E7%9F%A5%E5%B7%A5%E7%A8%8B%E9%A1%A7%E5%95%8F-%E4%BD%95%E6%B0%B8%E8%B3%A2%E7%A8%B1%E5%B0%87%E5%8A%A0%E5%BC%B7%E4%BA%BA%E5%93%A1%E8%AD%A6%E8%A6%BA%E6%80%A7": {
+      "title": "宏福苑五級火｜獨立審查組被指視察前通知工程顧問 何永賢稱將加強人員警覺性 宏福苑五級火 3小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:10.622720",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火獨立審查組被指視察前通知工程顧問-何永賢稱將加強人員警覺性-宏福苑五級火-3小時前-粵"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339705/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E6%8C%87%E6%8F%AE%E5%AE%98%E7%A8%B1%E4%B8%8D%E7%9F%A5%E4%BD%95%E5%81%89%E8%B1%AA%E6%B1%82%E6%95%91%E4%BD%8D%E7%BD%AE-%E8%A2%AB%E7%99%BC%E7%8F%BE%E6%99%82-%E7%9E%93%E5%9C%A8%E7%87%92%E8%91%97%E7%AB%B9%E6%A3%9A": {
+      "title": "宏福苑｜指揮官稱不知何偉豪求救位置　被發現時「瞓在燒著竹棚」",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:53:11.107948",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑指揮官稱不知何偉豪求救位置-被發現時瞓在燒著竹棚"
+    },
+    "https://news.rthk.hk/rthk/en/component/k2/1850891-20260413.htm?archive_date=2026-04-13": {
+      "title": "'Firefighter wasn't supposed to be in Wang Fuk block'",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-14T02:53:13.384646",
+      "archive_path": "content\\news\\rthk\\archive\\firefighter-wasnt-supposed-to-be-in-wang-fuk-block"
+    },
+    "https://news.now.com/home/local/player?newsId=643370": {
+      "title": "宏福苑火災｜獨立審查組加強警覺性　房屋局研究電腦系統隨機抽樣",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:14.152445",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑火災獨立審查組加強警覺性-房屋局研究電腦系統隨機抽樣"
+    },
+    "https://news.tvb.com/tc/taipofire/69dce60535eab337bbfa34a9/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E6%9C%89%E6%97%85%E8%A1%8C%E7%A4%BE%E6%B6%89%E5%BC%B7%E8%BF%AB%E8%B3%BC%E7%89%A9%E8%A2%AB%E9%87%98%E7%89%8C%E6%B6%88%E9%98%B2%E7%A8%B1%E6%9B%BE%E5%98%97%E8%A9%A6%E7%87%9F%E6%95%91%E4%BD%95%E5%81%89%E8%B1%AA": {
+      "title": "八分鐘本地新聞重點｜有旅行社涉強迫購物被釘牌／消防稱曾嘗試營救何偉豪 宏福苑五級火 4小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:16.805513",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點有旅行社涉強迫購物被釘牌消防稱曾嘗試營救何偉豪-宏福苑五級火-4小時前-粵"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339686/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E7%81%AB%E5%8B%A2%E8%BC%83%E5%BC%B1%E5%A4%A7%E5%BB%88%E5%B1%85%E6%B0%91%E6%87%89%E7%95%99%E5%9C%A8%E5%96%AE%E4%BD%8D-%E6%8C%87%E6%8F%AE%E5%AE%98-%E5%8F%AF%E6%97%A9%E5%B0%91%E5%B0%91%E9%80%83%E7%94%9F": {
+      "title": "宏福苑｜火勢較弱大廈居民應留在單位？　指揮官：可早少少逃生",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:53:16.937296",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火勢較弱大廈居民應留在單位-指揮官可早少少逃生"
+    },
+    "https://news.now.com/home/local/player?newsId=643361": {
+      "title": "宏福苑聽證會｜消防指揮官：事發時警鐘無響　無指引如何處理疏散",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:19.694425",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑聽證會消防指揮官事發時警鐘無響-無指引如何處理疏散"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1850916-20260413.htm?archive_date=2026-04-13": {
+      "title": "回應宏福苑大火何不更早升五級　指揮官：四級未準備好如何升五級",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-14T02:53:20.037049",
+      "archive_path": "content\\news\\rthk\\archive\\回應宏福苑大火何不更早升五級-指揮官四級未準備好如何升五級"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339612/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E8%B6%85%E6%90%9C%E6%95%91%E7%AD%96%E7%95%A5%E6%87%89%E4%BB%98%E7%AF%84%E5%9C%8D-%E5%A4%A7%E5%9F%94%E6%B6%88%E9%98%B2%E5%B1%80%E9%95%B7-%E7%B8%B1%E6%A9%AB%E5%90%91%E4%B9%9F%E8%94%93%E5%BB%B6%E5%BF%AB%E5%B0%91%E8%A6%8B": {
+      "title": "宏福苑火超搜救策略應付範圍　大埔消防局長：縱橫向也蔓延快少見",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:53:23.413192",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑火超搜救策略應付範圍-大埔消防局長縱橫向也蔓延快少見"
+    },
+    "https://news.tvb.com/tc/taipofire/69dcca1a35eab337bbf937ad/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E7%A8%B1%E5%88%B0%E5%A0%B4%E5%BE%8C%E7%9F%A5%E9%81%93%E7%81%AB%E8%AD%A6%E9%90%98%E6%9C%89%E5%95%8F%E9%A1%8C-%E6%9B%BE%E5%98%97%E8%A9%A6%E7%87%9F%E6%95%91%E4%BD%95%E5%81%89%E8%B1%AA%E6%83%9F%E4%B8%8D%E6%88%90%E5%8A%9F": {
+      "title": "宏福苑火災聽證會｜消防稱到場後知道火警鐘有問題 曾嘗試營救何偉豪惟不成功 宏福苑五級火 7小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:23.916770",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防稱到場後知道火警鐘有問題-曾嘗試營救何偉豪惟不成功-宏福苑五級火-7小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=643338": {
+      "title": "宏福苑聽證會｜現場消防指揮官：消防水缸無水影響撲救　嘗試派人拯救何偉豪但不成功",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:27.059622",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑聽證會現場消防指揮官消防水缸無水影響撲救-嘗試派人拯救何偉豪但不成功"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1850884-20260413.htm?archive_date=2026-04-13": {
+      "title": "何偉豪進宏福苑火場無紀錄　指揮官稱搶救車受阻尚未設立入口指揮",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-14T02:53:28.672569",
+      "archive_path": "content\\news\\rthk\\archive\\何偉豪進宏福苑火場無紀錄-指揮官稱搶救車受阻尚未設立入口指揮"
+    },
+    "https://news.tvb.com/tc/taipofire/69dcaa3235eab337bbf7edb2/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E7%A8%B1%E6%9B%BE%E6%8E%A5%E7%8D%B2%E4%BD%95%E5%81%89%E8%B1%AAMayday%E6%B1%82%E5%8A%A9-%E6%83%9F%E4%B8%8D%E4%BA%86%E8%A7%A3%E5%85%B6%E8%BA%AB%E4%BB%BD%E5%8F%8A%E6%89%80%E5%9C%A8%E5%A4%A7%E5%BB%88": {
+      "title": "宏福苑火災聽證會｜消防稱曾接獲何偉豪Mayday求助 惟不了解其身份及所在大廈 宏福苑五級火 9小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:29.813696",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防稱曾接獲何偉豪mayday求助-惟不了解其身份及所在大廈-宏福苑五級火-9小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=643312": {
+      "title": "宏福苑聽證會｜現場消防指揮官：不知何偉豪遇險位置　嘗試派人拯救不成功",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:37.747999",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑聽證會現場消防指揮官不知何偉豪遇險位置-嘗試派人拯救不成功"
+    },
+    "https://news.tvb.com/tc/taipofire/69dc74b535eab337bbf6134d/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E6%8C%87%E7%B5%82%E7%AB%AF%E6%A9%9F%E6%9B%BE%E9%A1%AF%E7%A4%BA%E6%B6%88%E9%98%B2%E8%A3%9D%E7%BD%AE%E5%A4%B1%E6%95%88-%E4%BA%8B%E7%99%BC%E6%99%82%E5%AE%8F%E6%98%8C%E9%96%A3%E7%84%A1%E8%AD%A6%E9%90%98%E8%81%B2": {
+      "title": "宏福苑火災聽證會｜消防指終端機曾顯示消防裝置失效 事發時宏昌閣無警鐘聲 宏福苑五級火 13小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:38.994316",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防指終端機曾顯示消防裝置失效-事發時宏昌閣無警鐘聲-宏福苑五級火-13小時前-粵"
+    },
+    "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60339519/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-13%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E5%A4%9A%E5%90%8D%E4%BB%A3%E8%A1%A8%E4%BD%9C%E8%AD%89": {
+      "title": "宏福苑聽證會4.13｜沒警報失效下逃生預案　何偉豪入了火場無人知",
+      "source": "hk01",
+      "source_file": "content/news/hk01/README.md",
+      "scraped_at": "2026-04-14T02:53:40.363410",
+      "archive_path": "content\\news\\hk01\\archive\\宏福苑聽證會413沒警報失效下逃生預案-何偉豪入了火場無人知"
+    },
+    "https://news.rthk.hk/rthk/ch/component/k2/1850876-20260413.htm?archive_date=2026-04-13": {
+      "title": "消防隊長作供稱宏福苑火災當日到場後聽不到火警鐘聲",
+      "source": "rthk",
+      "source_file": "content/news/rthk/README.md",
+      "scraped_at": "2026-04-14T02:53:42.295658",
+      "archive_path": "content\\news\\rthk\\archive\\消防隊長作供稱宏福苑火災當日到場後聽不到火警鐘聲"
+    },
+    "https://news.now.com/home/local/player?newsId=643294": {
+      "title": "宏福苑聽證會｜火災現場消防指揮官：宏昌閣警鐘無響",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:44.234023",
+      "archive_path": "content\\news\\now-news\\archive\\宏福苑聽證會火災現場消防指揮官宏昌閣警鐘無響"
+    },
+    "https://news.tvb.com/tc/taipofire/69dc6a8435eab337bbf5b868/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E7%A8%B1%E5%AE%8F%E6%98%8C%E9%96%A3%E7%84%A1%E8%AD%A6%E9%90%98%E8%81%B2-%E6%9B%BE%E8%80%83%E6%85%AE%E6%B4%BE%E5%93%A1%E9%80%B2%E5%85%A5%E6%9F%A5%E7%9C%8B%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1": {
+      "title": "宏福苑火災聽證會｜消防稱宏昌閣無警鐘聲 曾考慮派員進入查看消防系統 宏福苑五級火 14小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:46.369725",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防稱宏昌閣無警鐘聲-曾考慮派員進入查看消防系統-宏福苑五級火-14小時前-粵"
+    },
+    "https://news.now.com/home/local/player?newsId=643257": {
+      "title": "晨早新聞重點｜特朗普指示美軍今晚10時封鎖霍爾木茲海峽／宏福苑有近400戶希望多一次上樓執拾",
+      "source": "now-news",
+      "source_file": "content/news/now-news/README.md",
+      "scraped_at": "2026-04-14T02:53:50.276417",
+      "archive_path": "content\\news\\now-news\\archive\\晨早新聞重點特朗普指示美軍今晚10時封鎖霍爾木茲海峽宏福苑有近400戶希望多一次上樓執拾"
+    },
+    "https://news.tvb.com/tc/taipofire/69dc5d5835eab337bbf5426e/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E8%99%95%E4%BA%BA%E5%93%A1%E7%A8%B1%E4%BA%8B%E7%99%BC%E7%95%B6%E6%97%A5%E6%9C%89%E7%B4%80%E9%8C%84%E9%A1%AF%E7%A4%BA-%E7%8F%BE%E5%A0%B4%E6%9C%89%E6%B6%88%E9%98%B2%E8%A3%9D%E7%BD%AE%E5%A4%B1%E6%95%88": {
+      "title": "宏福苑火災聽證會｜消防處人員稱事發當日有紀錄顯示 現場有消防裝置失效 宏福苑五級火 15小時前 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:52.690330",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防處人員稱事發當日有紀錄顯示-現場有消防裝置失效-宏福苑五級火-15小時前-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d9c6ea4a71c3f57a05bbd3/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%BA%A5%E7%BE%8E%E5%A8%9F%E6%8C%87%E6%9C%89%E5%B1%85%E6%B0%91%E6%8A%95%E8%A8%B4%E8%81%AF%E7%BD%B2%E6%B6%89%E5%86%92%E7%B0%BD-%E5%B7%B2%E4%BA%A4%E5%9F%B7%E6%B3%95%E9%83%A8%E9%96%80%E8%B7%9F%E9%80%B2": {
+      "title": "宏福苑五級火｜麥美娟指有居民投訴聯署涉冒簽 已交執法部門跟進 宏福苑五級火 2026-4-11 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:53:58.635933",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火麥美娟指有居民投訴聯署涉冒簽-已交執法部門跟進-宏福苑五級火-2026-4-11-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d9a41b4a71c3f57a04b0f1/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E9%83%A8%E5%88%86%E5%B1%85%E6%B0%91%E6%9C%AC%E6%9C%8820%E6%97%A5%E8%B5%B7%E4%B8%8A%E6%A8%93%E5%9F%B7%E6%8B%BE-%E9%BA%A5%E7%BE%8E%E5%A8%9F%E6%8F%90%E9%86%92%E8%A6%81%E9%87%8F%E5%8A%9B%E8%80%8C%E7%82%BA": {
+      "title": "宏福苑五級火｜部分居民本月20日起上樓執拾 麥美娟提醒要量力而為 宏福苑五級火 2026-4-11 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:04.217717",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火部分居民本月20日起上樓執拾-麥美娟提醒要量力而為-宏福苑五級火-2026-4-11-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d8fbdb4a71c3f57aff4682/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%85%AB%E5%88%86%E9%90%98%E6%9C%AC%E5%9C%B0%E6%96%B0%E8%81%9E%E9%87%8D%E9%BB%9E%EF%BD%9C%E6%9F%B4%E6%B2%B9%E8%A3%9C%E8%B2%BC%E6%92%A5%E6%AC%BE%E9%80%9A%E9%81%8E%E7%81%A3%E4%BB%94%E9%8A%80%E8%A1%8C%E9%81%87%E5%8A%AB%E5%AE%98%E5%93%A1%E5%87%BA%E5%B8%AD%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83": {
+      "title": "八分鐘本地新聞重點｜柴油補貼撥款通過／灣仔銀行遇劫／官員出席宏福苑聽證會 宏福苑五級火 2026-4-10 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:09.943678",
+      "archive_path": "content\\news\\tvb\\archive\\八分鐘本地新聞重點柴油補貼撥款通過灣仔銀行遇劫官員出席宏福苑聽證會-宏福苑五級火-2026-4-10-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d8d5ce4a71c3f57afde493/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E5%A7%9C%E4%B8%96%E6%98%8E%E6%8C%87%E9%99%A4%E9%9D%9E%E6%B6%88%E9%98%B2%E8%99%95%E6%8A%BD%E6%9F%A5-%E5%90%A6%E5%89%87%E9%9B%A3%E7%99%BC%E7%8F%BE%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1%E6%98%AF%E5%90%A6%E6%9C%89%E6%95%88%E9%81%8B%E4%BD%9C": {
+      "title": "宏福苑火災聽證會｜姜世明指除非消防處抽查 否則難發現消防系統是否有效運作 宏福苑五級火 2026-4-10 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:15.627987",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會姜世明指除非消防處抽查-否則難發現消防系統是否有效運作-宏福苑五級火-2026-4-10-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d8a74f4a71c3f57afc4c03/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E8%99%95%E5%8A%A9%E7%90%86%E8%99%95%E9%95%B7%E7%A8%B1%E6%9C%AA%E6%9C%89%E5%9B%A0%E6%87%89%E5%A4%A7%E7%B6%AD%E4%BF%AE%E5%A2%9E%E7%AA%81%E6%93%8A%E6%AA%A2%E6%9F%A5-%E6%9C%89%E5%88%B6%E5%AE%9A%E9%A0%90%E6%A1%88": {
+      "title": "宏福苑火災聽證會｜消防處助理處長稱未有因應大維修增突擊檢查 有制定預案 宏福苑五級火 2026-4-10 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:21.401555",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防處助理處長稱未有因應大維修增突擊檢查-有制定預案-宏福苑五級火-2026-4-10-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d884034a71c3f57afb284f/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E8%99%95%E5%8A%A9%E7%90%86%E8%99%95%E9%95%B7%E5%A7%9C%E4%B8%96%E6%98%8E%E6%8C%87%E7%89%A9%E7%AE%A1%E5%85%AC%E5%8F%B8%E8%87%AA%E8%A1%8C%E9%97%9C%E9%96%89%E6%B6%88%E9%98%B2%E6%B3%B5%E7%B8%BD%E9%9B%BB%E6%8E%A3%E5%B1%AC%E9%81%95%E6%B3%95": {
+      "title": "宏福苑火災聽證會｜消防處助理處長姜世明指物管公司自行關閉消防泵總電掣屬違法 宏福苑五級火 2026-4-10 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:26.702762",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防處助理處長姜世明指物管公司自行關閉消防泵總電掣屬違法-宏福苑五級火-2026-4-10-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d872144a71c3f57afaa9c1/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E8%99%95%E5%8A%A9%E7%90%86%E8%99%95%E9%95%B7%E6%8C%87%E7%94%B1%E9%9D%9E%E8%A8%BB%E5%86%8A%E4%BA%BA%E5%A3%AB%E8%99%95%E7%90%86%E6%B6%88%E9%98%B2%E7%B3%BB%E7%B5%B1%E5%B1%AC%E7%BD%95%E8%A6%8B": {
+      "title": "宏福苑火災聽證會｜消防處助理處長指由非註冊人士處理消防系統屬罕見 宏福苑五級火 2026-4-10 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:32.760836",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防處助理處長指由非註冊人士處理消防系統屬罕見-宏福苑五級火-2026-4-10-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d8528e4a71c3f57af9a665/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E8%81%BD%E8%AD%89%E6%9C%83%EF%BD%9C%E6%B6%88%E9%98%B2%E8%99%95%E5%8A%A9%E7%90%86%E8%99%95%E9%95%B7%E5%A7%9C%E4%B8%96%E6%98%8E%E4%BD%9C%E4%BE%9B-%E7%82%BA%E9%A6%96%E4%BD%8D%E4%BD%9C%E4%BE%9B%E6%94%BF%E5%BA%9C%E5%AE%98%E5%93%A1": {
+      "title": "宏福苑火災聽證會｜消防處助理處長姜世明作供 為首位作供政府官員 宏福苑五級火 2026-4-10 粵",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:40.004065",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑火災聽證會消防處助理處長姜世明作供-為首位作供政府官員-宏福苑五級火-2026-4-10-粵"
+    },
+    "https://news.tvb.com/tc/taipofire/69d7a6b9cd258827b72a8006/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB-%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%BA%94%E7%B4%9A%E7%81%AB%EF%BD%9C%E6%9C%89%E4%BA%BA%E5%86%92%E5%85%85%E7%81%BD%E6%B0%91%E9%A8%99%E5%96%84%E6%AC%BE-%E7%94%B7%E5%BB%9A%E5%B8%AB%E5%87%BA%E5%94%AE%E6%88%B6%E5%8F%A3%E8%99%95%E7%90%86%E8%B4%93%E6%AC%BE%E5%88%A4%E7%9B%A311%E5%80%8B%E6%9C%88": {
+      "title": "宏福苑五級火｜有人冒充災民騙善款 男廚師出售戶口處理贓款判監11個月 宏福苑五級火 2026-4-09",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:52.547038",
+      "archive_path": "content\\news\\tvb\\archive\\宏福苑五級火有人冒充災民騙善款-男廚師出售戶口處理贓款判監11個月-宏福苑五級火-2026-4-09"
+    },
+    "https://news.tvb.com/tc/pearlnews/69da36454a71c3f57a09702e/TVB%20News-Wang-Fuk-Court-residents-demand-Hop-On-Management-to-convene-homeowners-meeting": {
+      "title": "Wang Fuk Court residents demand Hop On Management to convene homeowners' meeting",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:54:58.215707",
+      "archive_path": "content\\news\\tvb\\archive\\wang-fuk-court-residents-demand-hop-on-management-to-convene-homeowners-meeting"
+    },
+    "https://news.tvb.com/tc/pearlnews/69d9dd904a71c3f57a067899/TVB%20News-Alice-Mak-says-there-will-be-more-than-one-briefing-session-on-Wang-Fuk-Court": {
+      "title": "Alice Mak says there will be more than one briefing session on Wang Fuk Court",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:55:04.081219",
+      "archive_path": "content\\news\\tvb\\archive\\alice-mak-says-there-will-be-more-than-one-briefing-session-on-wang-fuk-court-1"
+    },
+    "https://news.tvb.com/tc/pearlnews/69db93df2ae12ced8b9c69aa/TVB%20News-Wang-Fuk-Court-residents-assigned-time-slot-to-collect-belongings": {
+      "title": "Wang Fuk Court residents assigned time slot to collect belongings",
+      "source": "tvb",
+      "source_file": "content/news/tvb/README.md",
+      "scraped_at": "2026-04-14T02:55:10.070141",
+      "archive_path": "content\\news\\tvb\\archive\\wang-fuk-court-residents-assigned-time-slot-to-collect-belongings"
     }
   },
-  "last_updated": "2026-04-11T20:23:18.131098"
+  "last_updated": "2026-04-14T02:55:10.070246"
 }

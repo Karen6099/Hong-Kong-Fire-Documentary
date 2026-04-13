@@ -1640,3 +1640,18 @@
 ### 2026-04-11
 - [建築物管理條例修訂｜麥美娟：明白業主擔心修例後要求嚴格　但不能再蹉跎](https://news.now.com/home/local/player?newsId=643141) [Original](https://news.now.com/home/local/player?newsId=643141){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/建築物管理條例修訂麥美娟明白業主擔心修例後要求嚴格-但不能再蹉跎/){.md-button .hkfd-news-button}
 - [有宏福苑居民聯署要求召開業主大會　麥美娟指接獲投訴涉冒簽已交執法部門調查](https://news.now.com/home/local/player?newsId=643132) [Original](https://news.now.com/home/local/player?newsId=643132){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有宏福苑居民聯署要求召開業主大會-麥美娟指接獲投訴涉冒簽已交執法部門調查/){.md-button .hkfd-news-button}
+
+
+### 2026-04-12
+- [即日焦點｜警方舉行全民國家安全教育日暨警民同樂日／國泰、快運下月減航班　保險業指大部分旅遊保不涵蓋](https://news.now.com/home/local/player?newsId=643252) [Original](https://news.now.com/home/local/player?newsId=643252){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點警方舉行全民國家安全教育日暨警民同樂日國泰快運下月減航班-保險業指大部分旅遊保不涵蓋/){.md-button .hkfd-news-button}
+- [宏福苑火災｜卓永興：98%宏福苑住戶能按安排時段上樓執拾　約380戶冀上樓多於一次](https://news.now.com/home/local/player?newsId=643215) [Original](https://news.now.com/home/local/player?newsId=643215){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災卓永興98宏福苑住戶能按安排時段上樓執拾-約380戶冀上樓多於一次/){.md-button .hkfd-news-button}
+- [宏福苑火災｜卓永興：約98%的住戶能按獲安排的時段上樓　約380戶希望可以上樓多於一次](https://news.now.com/home/local/player?newsId=643209) [Original](https://news.now.com/home/local/player?newsId=643209){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災卓永興約98的住戶能按獲安排的時段上樓-約380戶希望可以上樓多於一次/){.md-button .hkfd-news-button}
+
+### 2026-04-13
+- [即日焦點｜特朗普宣布封鎖霍爾木茲海峽／日月星旅行社及導遊威迫購物被釘牌](https://news.now.com/home/local/player?newsId=643378) [Original](https://news.now.com/home/local/player?newsId=643378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點特朗普宣布封鎖霍爾木茲海峽日月星旅行社及導遊威迫購物被釘牌/){.md-button .hkfd-news-button}
+- [宏福苑火災｜獨立審查組加強警覺性　房屋局研究電腦系統隨機抽樣](https://news.now.com/home/local/player?newsId=643370) [Original](https://news.now.com/home/local/player?newsId=643370){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立審查組加強警覺性-房屋局研究電腦系統隨機抽樣/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜消防指揮官：事發時警鐘無響　無指引如何處理疏散](https://news.now.com/home/local/player?newsId=643361) [Original](https://news.now.com/home/local/player?newsId=643361){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會消防指揮官事發時警鐘無響-無指引如何處理疏散/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜現場消防指揮官：消防水缸無水影響撲救　嘗試派人拯救何偉豪但不成功](https://news.now.com/home/local/player?newsId=643338) [Original](https://news.now.com/home/local/player?newsId=643338){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會現場消防指揮官消防水缸無水影響撲救-嘗試派人拯救何偉豪但不成功/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜現場消防指揮官：不知何偉豪遇險位置　嘗試派人拯救不成功](https://news.now.com/home/local/player?newsId=643312) [Original](https://news.now.com/home/local/player?newsId=643312){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會現場消防指揮官不知何偉豪遇險位置-嘗試派人拯救不成功/){.md-button .hkfd-news-button}
+- [宏福苑聽證會｜火災現場消防指揮官：宏昌閣警鐘無響](https://news.now.com/home/local/player?newsId=643294) [Original](https://news.now.com/home/local/player?newsId=643294){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑聽證會火災現場消防指揮官宏昌閣警鐘無響/){.md-button .hkfd-news-button}
+- [晨早新聞重點｜特朗普指示美軍今晚10時封鎖霍爾木茲海峽／宏福苑有近400戶希望多一次上樓執拾](https://news.now.com/home/local/player?newsId=643257) [Original](https://news.now.com/home/local/player?newsId=643257){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點特朗普指示美軍今晚10時封鎖霍爾木茲海峽宏福苑有近400戶希望多一次上樓執拾/){.md-button .hkfd-news-button}

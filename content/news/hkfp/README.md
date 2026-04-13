@@ -619,3 +619,12 @@
 
 ### 2026-04-11
 - [Hong Kong sees ‘sharp rise’ in illegal fuel trading amid surging oil prices](https://hongkongfp.com/?p=561425) [Original](https://hongkongfp.com/?p=561425){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-sees-sharp-rise-in-illegal-fuel-trading-amid-surging-oil-prices/){.md-button .hkfd-news-button}
+
+
+### 2026-04-12
+- [HKFP Lens: World Press Photo announces 2026 regional winners for Asia](https://hongkongfp.com/?p=561227) [Original](https://hongkongfp.com/?p=561227){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-lens-world-press-photo-announces-2026-regional-winners-for-asia/){.md-button .hkfd-news-button}
+- [Tai Po fire inquiry: Key findings from first 10 days of Wang Fuk Court hearings](https://hongkongfp.com/?p=561178) [Original](https://hongkongfp.com/?p=561178){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-inquiry-key-findings-from-first-10-days-of-wang-fuk-court-hearings/){.md-button .hkfd-news-button}
+
+### 2026-04-13
+- [Tai Po blaze probe: No standard operation protocols for failed alarms during fire, senior firefighter says](https://hongkongfp.com/?p=561557) [Original](https://hongkongfp.com/?p=561557){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-blaze-probe-no-standard-operation-protocols-for-failed-alarms-during/){.md-button .hkfd-news-button}
+- [No record of fallen firefighter entering building, Tai Po fire probe told](https://hongkongfp.com/?p=561558) [Original](https://hongkongfp.com/?p=561558){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/no-record-of-fallen-firefighter-entering-building-tai-po-fire-probe-told/){.md-button .hkfd-news-button}

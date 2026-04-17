@@ -86,3 +86,7 @@
 
 ### 2026-03-20
 - [<![CDATA[香港宏福苑聽證會：承建商堅持用非阻燃發泡膠封窗，大火前消防系統停運逾半年]]>](https://www.bbc.com/zhongwen/articles/cqj8l24lyrvo/trad)
+
+
+### 2026-04-09
+- [<![CDATA[宏福苑火災首輪聽證會復盤：重要證據浮出水面，倖存災民為何開始有所期望]]>](https://www.bbc.com/zhongwen/articles/cvglde51r78o/trad)

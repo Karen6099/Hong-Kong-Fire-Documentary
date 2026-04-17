@@ -547,3 +547,84 @@
 - [Hong Kong proposes blanket smoking ban on construction sites, seeking to penalise workers, contractors](https://hongkongfp.com/?p=559357) [Original](https://hongkongfp.com/?p=559357){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-proposes-blanket-smoking-ban-on-construction-sites-seeking-to/){.md-button .hkfd-news-button}
 - [Tai Po fire inquiry: Gov’t lawyer rejects claims officer ‘tipped off’ consultant over safety checks](https://hongkongfp.com/?p=559315) [Original](https://hongkongfp.com/?p=559315){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-inquiry-govt-lawyer-rejects-claims-officer-tipped-off-consultant/){.md-button .hkfd-news-button}
 - [Hong Kong upgrades Iran, Israel travel alerts to ‘black’ amid Middle East war](https://hongkongfp.com/?p=559270) [Original](https://hongkongfp.com/?p=559270){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-upgrades-iran-israel-travel-alerts-to-black-amid-middle-east-war/){.md-button .hkfd-news-button}
+
+
+### 2026-03-25
+- [Hong Kong competition watchdog sues ‘building maintenance cartel’ over HK$700 million bid-rigging](https://hongkongfp.com/?p=559495) [Original](https://hongkongfp.com/?p=559495){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-competition-watchdog-sues-building-maintenance-cartel-over-hk700/){.md-button .hkfd-news-button}
+
+### 2026-03-26
+- [Tai Po fire survivor ‘proud’ of firefighters who retrieved victim’s body during rescue](https://hongkongfp.com/?p=559604) [Original](https://hongkongfp.com/?p=559604){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-survivor-proud-of-firefighters-who-retrieved-victims-body-during/){.md-button .hkfd-news-button}
+
+### 2026-03-27
+- [Wang Fuk Court residents to get 3-hour slots to retrieve belongings at fire-hit estate from mid-April](https://hongkongfp.com/?p=559704) [Original](https://hongkongfp.com/?p=559704){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-to-get-3-hour-slots-to-retrieve-belongings-at-fire-hit/){.md-button .hkfd-news-button}
+- [Hong Kong politician faces fresh scrutiny as resident of fire-hit Tai Po estate slams ‘shady’ renovation tendering process](https://hongkongfp.com/?p=559671) [Original](https://hongkongfp.com/?p=559671){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-politician-faces-fresh-scrutiny-as-resident-of-fire-hit-tai-po-estate/){.md-button .hkfd-news-button}
+
+
+### 2026-03-28
+- [Lawyer’s paradoxical logic: Advance notice was ‘groundless’ and necessary](https://hongkongfp.com/?p=559697) [Original](https://hongkongfp.com/?p=559697){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/lawyers-paradoxical-logic-advance-notice-was-groundless-and-necessary/){.md-button .hkfd-news-button}
+
+### 2026-03-30
+- [Wang Fuk Court residents allowed repeat trips to retrieve belongings after petition calls 3-hour limit insufficient](https://hongkongfp.com/?p=559885) [Original](https://hongkongfp.com/?p=559885){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-allowed-repeat-trips-to-retrieve-belongings-after/){.md-button .hkfd-news-button}
+
+
+### 2026-03-30
+- [Fire safety contractor knew Wang Fuk Court alarms were off before fatal blaze, inquiry hears](https://hongkongfp.com/?p=560012) [Original](https://hongkongfp.com/?p=560012){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-safety-contractor-knew-wang-fuk-court-alarms-were-off-before-fatal-blaze/){.md-button .hkfd-news-button}
+- [Widower in deadly Tai Po fire slams Hong Kong gov’t for ‘evading responsibility’](https://hongkongfp.com/?p=559999) [Original](https://hongkongfp.com/?p=559999){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/widower-in-deadly-tai-po-fire-slams-hong-kong-govt-for-evading-responsibility/){.md-button .hkfd-news-button}
+
+### 2026-03-31
+- [Fire safety contractor defends inaction despite knowing alarms were disabled before fatal Tai Po blaze](https://hongkongfp.com/?p=560187) [Original](https://hongkongfp.com/?p=560187){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-safety-contractor-defends-inaction-despite-knowing-alarms-were-disabled/){.md-button .hkfd-news-button}
+- [Knife-wielding man shot by Hong Kong police dies after 10 days in hospital](https://hongkongfp.com/?p=560116) [Original](https://hongkongfp.com/?p=560116){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/knife-wielding-man-shot-by-hong-kong-police-dies-after-10-days-in-hospital/){.md-button .hkfd-news-button}
+- [Tai Po fire: Inquiry committee urges public to report suspected graft in building maintenance projects](https://hongkongfp.com/?p=560068) [Original](https://hongkongfp.com/?p=560068){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-inquiry-committee-urges-public-to-report-suspected-graft-in/){.md-button .hkfd-news-button}
+- [All airline passengers limited to 2 power banks](https://hongkongfp.com/?p=560049) [Original](https://hongkongfp.com/?p=560049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/all-airline-passengers-limited-to-2-power-banks/){.md-button .hkfd-news-button}
+- [Hong Kong anti-graft watchdog, police arrest 42 in crackdown on triad-linked building maintenance syndicate](https://hongkongfp.com/?p=560050) [Original](https://hongkongfp.com/?p=560050){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-anti-graft-watchdog-police-arrest-42-in-crackdown-on-triad-linked/){.md-button .hkfd-news-button}
+
+
+### 2026-04-01
+- [Renovation consultant knew a week before gov’t inspections, proxy votes ‘very common,’ Tai Po blaze inquiry hears](https://hongkongfp.com/?p=560261) [Original](https://hongkongfp.com/?p=560261){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/renovation-consultant-knew-a-week-before-govt-inspections-proxy-votes-very/){.md-button .hkfd-news-button}
+- [Gov’t-appointed administrator for fire-hit Wang Fuk Court to hold ‘briefing session’ for residents](https://hongkongfp.com/?p=560251) [Original](https://hongkongfp.com/?p=560251){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-appointed-administrator-for-fire-hit-wang-fuk-court-to-hold-briefing/){.md-button .hkfd-news-button}
+
+
+### 2026-04-02
+- [Renovation workers still smoked despite estate management’s complaints to contractor, Tai Po fire inquiry hears](https://hongkongfp.com/?p=560633) [Original](https://hongkongfp.com/?p=560633){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/renovation-workers-still-smoked-despite-estate-managements-complaints-to/){.md-button .hkfd-news-button}
+- [Electrician unknowingly deactivated all fire alarms months before fatal Tai Po blaze, inquiry hears](https://hongkongfp.com/?p=560481) [Original](https://hongkongfp.com/?p=560481){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/electrician-unknowingly-deactivated-all-fire-alarms-months-before-fatal-tai-po/){.md-button .hkfd-news-button}
+- [Hong Kong businessman Jason Poon jailed for 1 month for contempt of court](https://hongkongfp.com/?p=560483) [Original](https://hongkongfp.com/?p=560483){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-businessman-jason-poon-jailed-for-1-month-for-contempt-of-court/){.md-button .hkfd-news-button}
+
+
+### 2026-04-03
+- [Hong Kong Originals: Once export giant, Yuet Tung China Works looks inwards to keep hand-painted porcelain alive](https://hongkongfp.com/?p=556809) [Original](https://hongkongfp.com/?p=556809){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-originals-once-export-giant-yuet-tung-china-works-looks-inwards-to/){.md-button .hkfd-news-button}
+
+### 2026-04-05
+- [‘Business as usual’: Why some Hongkongers are staying in Middle East despite conflict](https://hongkongfp.com/?p=560120) [Original](https://hongkongfp.com/?p=560120){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/business-as-usual-why-some-hongkongers-are-staying-in-middle-east-despite/){.md-button .hkfd-news-button}
+
+### 2026-04-06
+- [Hong Kong Originals: Meet the granny behind Lamma’s half-century iconic dessert stand](https://hongkongfp.com/?p=559772) [Original](https://hongkongfp.com/?p=559772){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-originals-meet-the-granny-behind-lammas-half-century-iconic-dessert/){.md-button .hkfd-news-button}
+
+
+### 2026-04-07
+- [Tai Po fire: Gov’t-appointed management firm to hold briefing session for Wang Fuk Court residents in early May](https://hongkongfp.com/?p=560959) [Original](https://hongkongfp.com/?p=560959){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-govt-appointed-management-firm-to-hold-briefing-session-for-wang/){.md-button .hkfd-news-button}
+
+### 2026-04-08
+- [Contractor tells inquiry of no site visits despite notifying gov’t of Wang Fuk Court’s fire safety shutdowns](https://hongkongfp.com/?p=561084) [Original](https://hongkongfp.com/?p=561084){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/contractor-tells-inquiry-of-no-site-visits-despite-notifying-govt-of-wang-fuk/){.md-button .hkfd-news-button}
+- [Veteran Hong Kong democracy activist Koo Sze-yiu dies aged 80](https://hongkongfp.com/?p=561069) [Original](https://hongkongfp.com/?p=561069){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/veteran-hong-kong-democracy-activist-koo-sze-yiu-dies-aged-80/){.md-button .hkfd-news-button}
+- [Hong Kong independent media outlet says reporters ‘harassed’ and ‘stalked’](https://hongkongfp.com/?p=561044) [Original](https://hongkongfp.com/?p=561044){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-independent-media-outlet-says-reporters-harassed-and-stalked/){.md-button .hkfd-news-button}
+- [No plans for Wang Fuk Court homeowners’ meeting, says gov’t-appointed management firm](https://hongkongfp.com/?p=560994) [Original](https://hongkongfp.com/?p=560994){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/no-plans-for-wang-fuk-court-homeowners-meeting-says-govt-appointed-management/){.md-button .hkfd-news-button}
+
+
+### 2026-04-09
+- [Tai Po fire: Owners’ petition for meeting with estate administrator may contain forged signatures, gov’t says](https://hongkongfp.com/?p=561249) [Original](https://hongkongfp.com/?p=561249){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-owners-petition-for-meeting-with-estate-administrator-may-contain/){.md-button .hkfd-news-button}
+
+### 2026-04-10
+- [7-month water tank works that disabled fire safety systems acceptable, official tells Tai Po blaze probe](https://hongkongfp.com/?p=561386) [Original](https://hongkongfp.com/?p=561386){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/7-month-water-tank-works-that-disabled-fire-safety-systems-acceptable-official/){.md-button .hkfd-news-button}
+- [Hong Kong bookseller who held Spanish interest class found guilty of running unregistered school, fined HK$32K](https://hongkongfp.com/?p=561353) [Original](https://hongkongfp.com/?p=561353){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-bookseller-who-held-spanish-interest-class-found-guilty-of-running/){.md-button .hkfd-news-button}
+
+### 2026-04-11
+- [Hong Kong sees ‘sharp rise’ in illegal fuel trading amid surging oil prices](https://hongkongfp.com/?p=561425) [Original](https://hongkongfp.com/?p=561425){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-sees-sharp-rise-in-illegal-fuel-trading-amid-surging-oil-prices/){.md-button .hkfd-news-button}
+
+
+### 2026-04-12
+- [HKFP Lens: World Press Photo announces 2026 regional winners for Asia](https://hongkongfp.com/?p=561227) [Original](https://hongkongfp.com/?p=561227){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-lens-world-press-photo-announces-2026-regional-winners-for-asia/){.md-button .hkfd-news-button}
+- [Tai Po fire inquiry: Key findings from first 10 days of Wang Fuk Court hearings](https://hongkongfp.com/?p=561178) [Original](https://hongkongfp.com/?p=561178){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-inquiry-key-findings-from-first-10-days-of-wang-fuk-court-hearings/){.md-button .hkfd-news-button}
+
+### 2026-04-13
+- [Tai Po blaze probe: No standard operation protocols for failed alarms during fire, senior firefighter says](https://hongkongfp.com/?p=561557) [Original](https://hongkongfp.com/?p=561557){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-blaze-probe-no-standard-operation-protocols-for-failed-alarms-during/){.md-button .hkfd-news-button}
+- [No record of fallen firefighter entering building, Tai Po fire probe told](https://hongkongfp.com/?p=561558) [Original](https://hongkongfp.com/?p=561558){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/no-record-of-fallen-firefighter-entering-building-tai-po-fire-probe-told/){.md-button .hkfd-news-button}

@@ -7560,3 +7560,1356 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2026-03-24 00:44:25 | INFO     | Run once mode, exiting...
 2026-03-24 00:44:25 | INFO     | ensuring close
 2026-03-24 00:44:25 | INFO     | ensuring close
+2026-03-25 19:38:12 | INFO     | ============================================================
+2026-03-25 19:38:12 | INFO     | News Scraper Daemon Starting
+2026-03-25 19:38:12 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-03-25 19:38:12 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-03-25 19:38:12 | INFO     | Sync interval: 10 minutes
+2026-03-25 19:38:12 | INFO     | PR interval: 60 minutes
+2026-03-25 19:38:12 | INFO     | ============================================================
+2026-03-25 19:38:13 | INFO     | gh CLI authenticated
+2026-03-25 19:38:13 | INFO     | Setting up git remotes...
+2026-03-25 19:38:13 | INFO     | Configured origin remote
+2026-03-25 19:38:13 | INFO     | gh CLI authenticated
+2026-03-25 19:38:14 | INFO     | ----------------------------------------
+2026-03-25 19:38:14 | INFO     | Running periodic health check...
+2026-03-25 19:38:15 | INFO     | gh CLI authenticated
+2026-03-25 19:38:15 | INFO     | Health check passed
+2026-03-25 19:38:15 | INFO     | ----------------------------------------
+2026-03-25 19:38:15 | INFO     | Starting sync cycle...
+2026-03-25 19:38:15 | INFO     | Syncing with upstream...
+2026-03-25 19:38:16 | INFO     | Already up to date with upstream
+2026-03-25 19:38:16 | INFO     | Running scraper...
+2026-03-25 19:38:16 | INFO     | Found 85 new URLs to scrape
+2026-03-25 19:40:27 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-03-25 19:43:09 | INFO     | Updated cumulative stats: 4508 success, 185 failed across 98 cycles
+2026-03-25 19:43:09 | INFO     | Scraper results: 84 success, 1 failed
+2026-03-25 19:43:10 | INFO     | Committing changes...
+2026-03-25 19:43:12 | INFO     | Committed: chore(scraper): auto-scrape 2026-03-25 19:43
+2026-03-25 19:43:18 | INFO     | Pushed to origin successfully
+2026-03-25 19:43:18 | INFO     | Sync cycle complete
+2026-03-25 19:43:18 | INFO     | ----------------------------------------
+2026-03-25 19:43:18 | INFO     | Starting PR cycle...
+2026-03-25 19:43:19 | INFO     | Pushed to origin successfully
+2026-03-25 19:43:19 | INFO     | Managing PR...
+2026-03-25 19:43:20 | INFO     | PR #47 exists, updating description with fresh stats...
+2026-03-25 19:43:23 | INFO     | Updated PR #47 with fresh stats
+2026-03-25 19:43:23 | INFO     | PR cycle complete
+2026-03-25 19:43:23 | INFO     | Run once mode, exiting...
+2026-03-25 19:43:23 | INFO     | ensuring close
+2026-03-25 19:43:23 | INFO     | ensuring close
+2026-03-28 05:25:08 | INFO     | ============================================================
+2026-03-28 05:25:08 | INFO     | News Scraper Daemon Starting
+2026-03-28 05:25:08 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-03-28 05:25:08 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-03-28 05:25:08 | INFO     | Sync interval: 10 minutes
+2026-03-28 05:25:08 | INFO     | PR interval: 60 minutes
+2026-03-28 05:25:08 | INFO     | ============================================================
+2026-03-28 05:25:09 | INFO     | gh CLI authenticated
+2026-03-28 05:25:09 | INFO     | Setting up git remotes...
+2026-03-28 05:25:09 | INFO     | Configured origin remote
+2026-03-28 05:25:09 | INFO     | gh CLI authenticated
+2026-03-28 05:25:10 | INFO     | ----------------------------------------
+2026-03-28 05:25:10 | INFO     | Running periodic health check...
+2026-03-28 05:25:10 | INFO     | gh CLI authenticated
+2026-03-28 05:25:11 | INFO     | Health check passed
+2026-03-28 05:25:11 | INFO     | ----------------------------------------
+2026-03-28 05:25:11 | INFO     | Starting sync cycle...
+2026-03-28 05:25:11 | INFO     | Syncing with upstream...
+2026-03-28 05:25:12 | INFO     | Already up to date with upstream
+2026-03-28 05:25:12 | INFO     | Running scraper...
+2026-03-28 05:25:12 | INFO     | Found 118 new URLs to scrape
+2026-03-28 05:29:56 | INFO     | Updated cumulative stats: 4625 success, 186 failed across 99 cycles
+2026-03-28 05:29:56 | INFO     | Scraper results: 117 success, 1 failed
+2026-03-28 05:29:57 | INFO     | Committing changes...
+2026-03-28 05:30:00 | INFO     | Committed: chore(scraper): auto-scrape 2026-03-28 05:29
+2026-03-28 05:30:06 | INFO     | Pushed to origin successfully
+2026-03-28 05:30:06 | INFO     | Sync cycle complete
+2026-03-28 05:30:06 | INFO     | ----------------------------------------
+2026-03-28 05:30:06 | INFO     | Starting PR cycle...
+2026-03-28 05:30:07 | INFO     | Pushed to origin successfully
+2026-03-28 05:30:07 | INFO     | Managing PR...
+2026-03-28 05:30:11 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2026-03-28 05:30:11 | INFO     | PR cycle complete
+2026-03-28 05:30:11 | INFO     | Run once mode, exiting...
+2026-03-30 21:34:31 | INFO     | ============================================================
+2026-03-30 21:34:31 | INFO     | News Scraper Daemon Starting
+2026-03-30 21:34:31 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-03-30 21:34:31 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-03-30 21:34:31 | INFO     | Sync interval: 10 minutes
+2026-03-30 21:34:31 | INFO     | PR interval: 60 minutes
+2026-03-30 21:34:31 | INFO     | ============================================================
+2026-03-30 21:34:31 | INFO     | gh CLI authenticated
+2026-03-30 21:34:31 | INFO     | Setting up git remotes...
+2026-03-30 21:34:31 | INFO     | Configured origin remote
+2026-03-30 21:34:32 | INFO     | gh CLI authenticated
+2026-03-30 21:34:32 | INFO     | ----------------------------------------
+2026-03-30 21:34:32 | INFO     | Running periodic health check...
+2026-03-30 21:34:33 | INFO     | gh CLI authenticated
+2026-03-30 21:34:33 | INFO     | Health check passed
+2026-03-30 21:34:33 | INFO     | ----------------------------------------
+2026-03-30 21:34:33 | INFO     | Starting sync cycle...
+2026-03-30 21:34:33 | INFO     | Syncing with upstream...
+2026-03-30 21:34:34 | INFO     | Already up to date with upstream
+2026-03-30 21:34:34 | INFO     | Running scraper...
+2026-03-30 21:34:35 | INFO     | Found 90 new URLs to scrape
+2026-03-30 21:37:19 | INFO     | Updated cumulative stats: 4714 success, 187 failed across 100 cycles
+2026-03-30 21:37:19 | INFO     | Scraper results: 89 success, 1 failed
+2026-03-30 21:37:20 | INFO     | Committing changes...
+2026-03-30 21:37:22 | INFO     | Committed: chore(scraper): auto-scrape 2026-03-30 21:37
+2026-03-30 21:37:28 | INFO     | Pushed to origin successfully
+2026-03-30 21:37:28 | INFO     | Sync cycle complete
+2026-03-30 21:37:28 | INFO     | ----------------------------------------
+2026-03-30 21:37:28 | INFO     | Starting PR cycle...
+2026-03-30 21:37:29 | INFO     | Pushed to origin successfully
+2026-03-30 21:37:29 | INFO     | Managing PR...
+2026-03-30 21:37:30 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-03-30 21:37:33 | INFO     | Updated PR #48 with fresh stats
+2026-03-30 21:37:33 | INFO     | PR cycle complete
+2026-03-30 21:37:33 | INFO     | Run once mode, exiting...
+2026-03-31 21:46:47 | INFO     | ============================================================
+2026-03-31 21:46:47 | INFO     | News Scraper Daemon Starting
+2026-03-31 21:46:47 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-03-31 21:46:47 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-03-31 21:46:47 | INFO     | Sync interval: 10 minutes
+2026-03-31 21:46:47 | INFO     | PR interval: 60 minutes
+2026-03-31 21:46:47 | INFO     | ============================================================
+2026-03-31 21:46:47 | INFO     | gh CLI authenticated
+2026-03-31 21:46:47 | INFO     | Setting up git remotes...
+2026-03-31 21:46:47 | INFO     | Configured origin remote
+2026-03-31 21:46:48 | INFO     | gh CLI authenticated
+2026-03-31 21:46:48 | INFO     | ----------------------------------------
+2026-03-31 21:46:48 | INFO     | Running periodic health check...
+2026-03-31 21:46:49 | INFO     | gh CLI authenticated
+2026-03-31 21:46:49 | INFO     | Health check passed
+2026-03-31 21:46:49 | INFO     | ----------------------------------------
+2026-03-31 21:46:49 | INFO     | Starting sync cycle...
+2026-03-31 21:46:49 | INFO     | Syncing with upstream...
+2026-03-31 21:46:50 | INFO     | Already up to date with upstream
+2026-03-31 21:46:50 | INFO     | Running scraper...
+2026-03-31 21:46:51 | INFO     | Found 19 new URLs to scrape
+2026-03-31 21:48:46 | INFO     | Updated cumulative stats: 4732 success, 188 failed across 101 cycles
+2026-03-31 21:48:46 | INFO     | Scraper results: 18 success, 1 failed
+2026-03-31 21:48:46 | INFO     | Committing changes...
+2026-03-31 21:48:47 | INFO     | Committed: chore(scraper): auto-scrape 2026-03-31 21:48
+2026-03-31 21:48:53 | INFO     | Pushed to origin successfully
+2026-03-31 21:48:53 | INFO     | Sync cycle complete
+2026-03-31 21:48:53 | INFO     | ----------------------------------------
+2026-03-31 21:48:53 | INFO     | Starting PR cycle...
+2026-03-31 21:48:54 | INFO     | Pushed to origin successfully
+2026-03-31 21:48:54 | INFO     | Managing PR...
+2026-03-31 21:48:56 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-03-31 21:48:59 | INFO     | Updated PR #48 with fresh stats
+2026-03-31 21:48:59 | INFO     | PR cycle complete
+2026-03-31 21:48:59 | INFO     | Run once mode, exiting...
+2026-03-31 22:04:33 | INFO     | ============================================================
+2026-03-31 22:04:33 | INFO     | News Scraper Daemon Starting
+2026-03-31 22:04:33 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-03-31 22:04:33 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-03-31 22:04:33 | INFO     | Sync interval: 10 minutes
+2026-03-31 22:04:33 | INFO     | PR interval: 60 minutes
+2026-03-31 22:04:33 | INFO     | ============================================================
+2026-03-31 22:04:34 | INFO     | gh CLI authenticated
+2026-03-31 22:04:34 | INFO     | Setting up git remotes...
+2026-03-31 22:04:34 | INFO     | Configured origin remote
+2026-03-31 22:04:34 | INFO     | gh CLI authenticated
+2026-03-31 22:04:34 | INFO     | ----------------------------------------
+2026-03-31 22:04:34 | INFO     | Running periodic health check...
+2026-03-31 22:04:35 | INFO     | gh CLI authenticated
+2026-03-31 22:04:35 | INFO     | Health check passed
+2026-03-31 22:04:35 | INFO     | ----------------------------------------
+2026-03-31 22:04:35 | INFO     | Starting sync cycle...
+2026-03-31 22:04:35 | INFO     | Syncing with upstream...
+2026-03-31 22:04:36 | INFO     | Already up to date with upstream
+2026-03-31 22:04:36 | INFO     | Running scraper...
+2026-03-31 22:04:36 | INFO     | Found 61 new URLs to scrape
+2026-03-31 22:06:30 | INFO     | Updated cumulative stats: 4792 success, 189 failed across 102 cycles
+2026-03-31 22:06:30 | INFO     | Scraper results: 60 success, 1 failed
+2026-03-31 22:06:30 | INFO     | Committing changes...
+2026-03-31 22:06:33 | INFO     | Committed: chore(scraper): auto-scrape 2026-03-31 22:06
+2026-03-31 22:06:37 | INFO     | Pushed to origin successfully
+2026-03-31 22:06:37 | INFO     | Sync cycle complete
+2026-03-31 22:06:37 | INFO     | ----------------------------------------
+2026-03-31 22:06:37 | INFO     | Starting PR cycle...
+2026-03-31 22:06:38 | INFO     | Pushed to origin successfully
+2026-03-31 22:06:38 | INFO     | Managing PR...
+2026-03-31 22:06:39 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-03-31 22:06:43 | INFO     | Updated PR #48 with fresh stats
+2026-03-31 22:06:43 | INFO     | PR cycle complete
+2026-03-31 22:06:43 | INFO     | Run once mode, exiting...
+2026-04-01 21:23:22 | INFO     | ============================================================
+2026-04-01 21:23:22 | INFO     | News Scraper Daemon Starting
+2026-04-01 21:23:22 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-01 21:23:22 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-01 21:23:22 | INFO     | Sync interval: 10 minutes
+2026-04-01 21:23:22 | INFO     | PR interval: 60 minutes
+2026-04-01 21:23:22 | INFO     | ============================================================
+2026-04-01 21:23:23 | INFO     | gh CLI authenticated
+2026-04-01 21:23:23 | INFO     | Setting up git remotes...
+2026-04-01 21:23:23 | INFO     | Configured origin remote
+2026-04-01 21:23:24 | INFO     | gh CLI authenticated
+2026-04-01 21:23:24 | INFO     | ----------------------------------------
+2026-04-01 21:23:24 | INFO     | Running periodic health check...
+2026-04-01 21:23:25 | INFO     | gh CLI authenticated
+2026-04-01 21:23:25 | INFO     | Health check passed
+2026-04-01 21:23:25 | INFO     | ----------------------------------------
+2026-04-01 21:23:25 | INFO     | Starting sync cycle...
+2026-04-01 21:23:25 | INFO     | Syncing with upstream...
+2026-04-01 21:23:26 | INFO     | Already up to date with upstream
+2026-04-01 21:23:26 | INFO     | Running scraper...
+2026-04-01 21:23:26 | INFO     | Found 34 new URLs to scrape
+2026-04-01 21:24:14 | INFO     | Updated cumulative stats: 4825 success, 190 failed across 103 cycles
+2026-04-01 21:24:14 | INFO     | Scraper results: 33 success, 1 failed
+2026-04-01 21:24:14 | INFO     | Committing changes...
+2026-04-01 21:24:16 | INFO     | Committed: chore(scraper): auto-scrape 2026-04-01 21:24
+2026-04-01 21:24:21 | INFO     | Pushed to origin successfully
+2026-04-01 21:24:21 | INFO     | Sync cycle complete
+2026-04-01 21:24:21 | INFO     | ----------------------------------------
+2026-04-01 21:24:21 | INFO     | Starting PR cycle...
+2026-04-01 21:24:22 | INFO     | Pushed to origin successfully
+2026-04-01 21:24:22 | INFO     | Managing PR...
+2026-04-01 21:24:23 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-04-01 21:24:26 | INFO     | Updated PR #48 with fresh stats
+2026-04-01 21:24:26 | INFO     | PR cycle complete
+2026-04-01 21:24:26 | INFO     | Run once mode, exiting...
+2026-04-02 21:23:47 | INFO     | ============================================================
+2026-04-02 21:23:47 | INFO     | News Scraper Daemon Starting
+2026-04-02 21:23:47 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-02 21:23:47 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-02 21:23:47 | INFO     | Sync interval: 10 minutes
+2026-04-02 21:23:47 | INFO     | PR interval: 60 minutes
+2026-04-02 21:23:47 | INFO     | ============================================================
+2026-04-02 21:23:47 | INFO     | gh CLI authenticated
+2026-04-02 21:23:47 | INFO     | Setting up git remotes...
+2026-04-02 21:23:47 | INFO     | Configured origin remote
+2026-04-02 21:23:48 | INFO     | gh CLI authenticated
+2026-04-02 21:23:48 | INFO     | ----------------------------------------
+2026-04-02 21:23:48 | INFO     | Running periodic health check...
+2026-04-02 21:23:49 | INFO     | gh CLI authenticated
+2026-04-02 21:23:49 | INFO     | Health check passed
+2026-04-02 21:23:49 | INFO     | ----------------------------------------
+2026-04-02 21:23:49 | INFO     | Starting sync cycle...
+2026-04-02 21:23:49 | INFO     | Syncing with upstream...
+2026-04-02 21:23:50 | INFO     | Already up to date with upstream
+2026-04-02 21:23:50 | INFO     | Running scraper...
+2026-04-02 21:23:50 | INFO     | Found 48 new URLs to scrape
+2026-04-02 21:23:51 | INFO     | Daemon stopped by user
+2026-04-02 21:24:01 | INFO     | ============================================================
+2026-04-02 21:24:01 | INFO     | News Scraper Daemon Starting
+2026-04-02 21:24:01 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-02 21:24:01 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-02 21:24:01 | INFO     | Sync interval: 10 minutes
+2026-04-02 21:24:01 | INFO     | PR interval: 60 minutes
+2026-04-02 21:24:01 | INFO     | ============================================================
+2026-04-02 21:24:02 | INFO     | gh CLI authenticated
+2026-04-02 21:24:02 | INFO     | Setting up git remotes...
+2026-04-02 21:24:02 | INFO     | Configured origin remote
+2026-04-02 21:24:03 | INFO     | gh CLI authenticated
+2026-04-02 21:24:03 | INFO     | ----------------------------------------
+2026-04-02 21:24:03 | INFO     | Running periodic health check...
+2026-04-02 21:24:04 | INFO     | gh CLI authenticated
+2026-04-02 21:24:04 | INFO     | Health check passed
+2026-04-02 21:24:04 | INFO     | ----------------------------------------
+2026-04-02 21:24:04 | INFO     | Starting sync cycle...
+2026-04-02 21:24:04 | INFO     | Syncing with upstream...
+2026-04-02 21:24:05 | INFO     | Already up to date with upstream
+2026-04-02 21:24:05 | INFO     | Running scraper...
+2026-04-02 21:24:05 | INFO     | Found 48 new URLs to scrape
+2026-04-02 21:27:22 | INFO     | Updated cumulative stats: 4872 success, 191 failed across 104 cycles
+2026-04-02 21:27:22 | INFO     | Scraper results: 47 success, 1 failed
+2026-04-02 21:27:23 | INFO     | Committing changes...
+2026-04-02 21:27:25 | INFO     | Committed: chore(scraper): auto-scrape 2026-04-02 21:27
+2026-04-02 21:27:30 | INFO     | Pushed to origin successfully
+2026-04-02 21:27:30 | INFO     | Sync cycle complete
+2026-04-02 21:27:30 | INFO     | ----------------------------------------
+2026-04-02 21:27:30 | INFO     | Starting PR cycle...
+2026-04-02 21:27:31 | INFO     | Pushed to origin successfully
+2026-04-02 21:27:31 | INFO     | Managing PR...
+2026-04-02 21:27:33 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-04-02 21:27:36 | INFO     | Updated PR #48 with fresh stats
+2026-04-02 21:27:36 | INFO     | PR cycle complete
+2026-04-02 21:27:36 | INFO     | Run once mode, exiting...
+2026-04-02 22:09:38 | INFO     | ============================================================
+2026-04-02 22:09:38 | INFO     | News Scraper Daemon Starting
+2026-04-02 22:09:38 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-02 22:09:38 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-02 22:09:38 | INFO     | Sync interval: 10 minutes
+2026-04-02 22:09:38 | INFO     | PR interval: 60 minutes
+2026-04-02 22:09:38 | INFO     | ============================================================
+2026-04-02 22:09:39 | INFO     | gh CLI authenticated
+2026-04-02 22:09:39 | INFO     | Setting up git remotes...
+2026-04-02 22:09:39 | INFO     | Configured origin remote
+2026-04-02 22:09:40 | INFO     | gh CLI authenticated
+2026-04-02 22:09:40 | INFO     | ----------------------------------------
+2026-04-02 22:09:40 | INFO     | Running periodic health check...
+2026-04-02 22:09:40 | INFO     | gh CLI authenticated
+2026-04-02 22:09:41 | INFO     | Health check passed
+2026-04-02 22:09:41 | INFO     | ----------------------------------------
+2026-04-02 22:09:41 | INFO     | Starting sync cycle...
+2026-04-02 22:09:41 | INFO     | Syncing with upstream...
+2026-04-02 22:09:42 | INFO     | Already up to date with upstream
+2026-04-02 22:09:42 | INFO     | Running scraper...
+2026-04-02 22:09:42 | INFO     | Found 55 new URLs to scrape
+2026-04-02 22:10:15 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-04-02 22:10:32 | INFO     | Daemon stopped by user
+2026-04-02 22:10:32 | INFO     | ensuring close
+2026-04-02 22:10:32 | INFO     | ensuring close
+2026-04-02 22:10:33 | ERROR    | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py:706> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py:810]>
+2026-04-02 22:11:24 | INFO     | ============================================================
+2026-04-02 22:11:24 | INFO     | News Scraper Daemon Starting
+2026-04-02 22:11:24 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-02 22:11:24 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-02 22:11:24 | INFO     | Sync interval: 10 minutes
+2026-04-02 22:11:24 | INFO     | PR interval: 60 minutes
+2026-04-02 22:11:24 | INFO     | ============================================================
+2026-04-02 22:11:25 | INFO     | gh CLI authenticated
+2026-04-02 22:11:25 | INFO     | Setting up git remotes...
+2026-04-02 22:11:25 | INFO     | Configured origin remote
+2026-04-02 22:11:25 | INFO     | gh CLI authenticated
+2026-04-02 22:11:26 | INFO     | ----------------------------------------
+2026-04-02 22:11:26 | INFO     | Running periodic health check...
+2026-04-02 22:11:26 | INFO     | gh CLI authenticated
+2026-04-02 22:11:26 | INFO     | Health check passed
+2026-04-02 22:11:26 | INFO     | ----------------------------------------
+2026-04-02 22:11:26 | INFO     | Starting sync cycle...
+2026-04-02 22:11:27 | INFO     | Syncing with upstream...
+2026-04-02 22:11:27 | INFO     | Already up to date with upstream
+2026-04-02 22:11:27 | INFO     | Running scraper...
+2026-04-02 22:11:28 | INFO     | Found 55 new URLs to scrape
+2026-04-02 22:11:54 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-04-02 22:24:49 | INFO     | Updated cumulative stats: 4925 success, 193 failed across 105 cycles
+2026-04-02 22:24:49 | INFO     | Scraper results: 53 success, 2 failed
+2026-04-02 22:24:49 | INFO     | Committing changes...
+2026-04-02 22:24:51 | INFO     | Committed: chore(scraper): auto-scrape 2026-04-02 22:24
+2026-04-02 22:24:54 | INFO     | Pushed to origin successfully
+2026-04-02 22:24:54 | INFO     | Sync cycle complete
+2026-04-02 22:24:54 | INFO     | ----------------------------------------
+2026-04-02 22:24:54 | INFO     | Starting PR cycle...
+2026-04-02 22:24:56 | INFO     | Pushed to origin successfully
+2026-04-02 22:24:56 | INFO     | Managing PR...
+2026-04-02 22:24:56 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-04-02 22:25:00 | INFO     | Updated PR #48 with fresh stats
+2026-04-02 22:25:00 | INFO     | PR cycle complete
+2026-04-02 22:25:00 | INFO     | Run once mode, exiting...
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-02 22:25:00 | INFO     | ensuring close
+2026-04-07 20:04:03 | INFO     | ============================================================
+2026-04-07 20:04:03 | INFO     | News Scraper Daemon Starting
+2026-04-07 20:04:03 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-07 20:04:03 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-07 20:04:03 | INFO     | Sync interval: 10 minutes
+2026-04-07 20:04:03 | INFO     | PR interval: 60 minutes
+2026-04-07 20:04:03 | INFO     | ============================================================
+2026-04-07 20:04:06 | INFO     | gh CLI authenticated
+2026-04-07 20:04:06 | INFO     | Setting up git remotes...
+2026-04-07 20:04:06 | INFO     | Configured origin remote
+2026-04-07 20:04:08 | INFO     | gh CLI authenticated
+2026-04-07 20:04:08 | INFO     | ----------------------------------------
+2026-04-07 20:04:08 | INFO     | Running periodic health check...
+2026-04-07 20:04:09 | INFO     | gh CLI authenticated
+2026-04-07 20:04:09 | INFO     | Health check passed
+2026-04-07 20:04:09 | INFO     | ----------------------------------------
+2026-04-07 20:04:09 | INFO     | Starting sync cycle...
+2026-04-07 20:04:09 | INFO     | Syncing with upstream...
+2026-04-07 20:04:12 | INFO     | Already up to date with upstream
+2026-04-07 20:04:12 | INFO     | Running scraper...
+2026-04-07 20:04:13 | INFO     | Found 56 new URLs to scrape
+2026-04-07 20:05:19 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-04-07 20:07:54 | INFO     | Updated cumulative stats: 4980 success, 194 failed across 106 cycles
+2026-04-07 20:07:54 | INFO     | Scraper results: 55 success, 1 failed
+2026-04-07 20:07:54 | INFO     | Committing changes...
+2026-04-07 20:07:56 | INFO     | Committed: chore(scraper): auto-scrape 2026-04-07 20:07
+2026-04-07 20:08:02 | INFO     | Pushed to origin successfully
+2026-04-07 20:08:02 | INFO     | Sync cycle complete
+2026-04-07 20:08:02 | INFO     | ----------------------------------------
+2026-04-07 20:08:02 | INFO     | Starting PR cycle...
+2026-04-07 20:08:03 | INFO     | Pushed to origin successfully
+2026-04-07 20:08:03 | INFO     | Managing PR...
+2026-04-07 20:08:05 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-04-07 20:08:08 | INFO     | Updated PR #48 with fresh stats
+2026-04-07 20:08:08 | INFO     | PR cycle complete
+2026-04-07 20:08:08 | INFO     | Run once mode, exiting...
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-07 20:08:08 | INFO     | ensuring close
+2026-04-09 20:27:40 | INFO     | ============================================================
+2026-04-09 20:27:40 | INFO     | News Scraper Daemon Starting
+2026-04-09 20:27:40 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-09 20:27:40 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-09 20:27:40 | INFO     | Sync interval: 10 minutes
+2026-04-09 20:27:40 | INFO     | PR interval: 60 minutes
+2026-04-09 20:27:40 | INFO     | ============================================================
+2026-04-09 20:27:41 | INFO     | gh CLI authenticated
+2026-04-09 20:27:41 | INFO     | Setting up git remotes...
+2026-04-09 20:27:42 | INFO     | Configured origin remote
+2026-04-09 20:27:43 | INFO     | gh CLI authenticated
+2026-04-09 20:27:43 | INFO     | ----------------------------------------
+2026-04-09 20:27:43 | INFO     | Running periodic health check...
+2026-04-09 20:27:44 | INFO     | gh CLI authenticated
+2026-04-09 20:27:44 | INFO     | Health check passed
+2026-04-09 20:27:44 | INFO     | ----------------------------------------
+2026-04-09 20:27:44 | INFO     | Starting sync cycle...
+2026-04-09 20:27:44 | INFO     | Syncing with upstream...
+2026-04-09 20:27:45 | INFO     | Already up to date with upstream
+2026-04-09 20:27:45 | INFO     | Running scraper...
+2026-04-09 20:27:46 | INFO     | Found 80 new URLs to scrape
+2026-04-09 20:28:34 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-04-09 20:31:49 | INFO     | Updated cumulative stats: 5059 success, 195 failed across 107 cycles
+2026-04-09 20:31:49 | INFO     | Scraper results: 79 success, 1 failed
+2026-04-09 20:31:49 | INFO     | Committing changes...
+2026-04-09 20:32:07 | INFO     | Committed: chore(scraper): auto-scrape 2026-04-09 20:31
+2026-04-09 20:32:13 | INFO     | Pushed to origin successfully
+2026-04-09 20:32:13 | INFO     | Sync cycle complete
+2026-04-09 20:32:13 | INFO     | ----------------------------------------
+2026-04-09 20:32:13 | INFO     | Starting PR cycle...
+2026-04-09 20:32:14 | INFO     | Pushed to origin successfully
+2026-04-09 20:32:14 | INFO     | Managing PR...
+2026-04-09 20:32:16 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-04-09 20:32:19 | INFO     | Updated PR #48 with fresh stats
+2026-04-09 20:32:19 | INFO     | PR cycle complete
+2026-04-09 20:32:19 | INFO     | Run once mode, exiting...
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-09 20:32:19 | INFO     | ensuring close
+2026-04-11 20:21:29 | INFO     | ============================================================
+2026-04-11 20:21:29 | INFO     | News Scraper Daemon Starting
+2026-04-11 20:21:29 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-11 20:21:29 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-11 20:21:29 | INFO     | Sync interval: 10 minutes
+2026-04-11 20:21:29 | INFO     | PR interval: 60 minutes
+2026-04-11 20:21:29 | INFO     | ============================================================
+2026-04-11 20:21:30 | INFO     | gh CLI authenticated
+2026-04-11 20:21:30 | INFO     | Setting up git remotes...
+2026-04-11 20:21:30 | INFO     | Configured origin remote
+2026-04-11 20:21:30 | INFO     | gh CLI authenticated
+2026-04-11 20:21:31 | INFO     | ----------------------------------------
+2026-04-11 20:21:31 | INFO     | Running periodic health check...
+2026-04-11 20:21:31 | INFO     | gh CLI authenticated
+2026-04-11 20:21:31 | INFO     | Health check passed
+2026-04-11 20:21:31 | INFO     | ----------------------------------------
+2026-04-11 20:21:31 | INFO     | Starting sync cycle...
+2026-04-11 20:21:32 | INFO     | Syncing with upstream...
+2026-04-11 20:21:32 | INFO     | Already up to date with upstream
+2026-04-11 20:21:32 | INFO     | Running scraper...
+2026-04-11 20:21:33 | INFO     | Found 49 new URLs to scrape
+2026-04-11 20:21:49 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-04-11 20:23:18 | INFO     | Updated cumulative stats: 5107 success, 196 failed across 108 cycles
+2026-04-11 20:23:18 | INFO     | Scraper results: 48 success, 1 failed
+2026-04-11 20:23:18 | INFO     | Committing changes...
+2026-04-11 20:23:20 | INFO     | Committed: chore(scraper): auto-scrape 2026-04-11 20:23
+2026-04-11 20:23:25 | INFO     | Pushed to origin successfully
+2026-04-11 20:23:25 | INFO     | Sync cycle complete
+2026-04-11 20:23:25 | INFO     | ----------------------------------------
+2026-04-11 20:23:25 | INFO     | Starting PR cycle...
+2026-04-11 20:23:26 | INFO     | Pushed to origin successfully
+2026-04-11 20:23:26 | INFO     | Managing PR...
+2026-04-11 20:23:28 | INFO     | PR #48 exists, updating description with fresh stats...
+2026-04-11 20:23:31 | INFO     | Updated PR #48 with fresh stats
+2026-04-11 20:23:31 | INFO     | PR cycle complete
+2026-04-11 20:23:31 | INFO     | Run once mode, exiting...
+2026-04-11 20:23:31 | INFO     | ensuring close
+2026-04-11 20:23:31 | INFO     | ensuring close
+2026-04-11 20:23:31 | INFO     | ensuring close
+2026-04-11 20:23:31 | INFO     | ensuring close
+2026-04-11 20:23:31 | INFO     | ensuring close
+2026-04-11 20:23:31 | INFO     | ensuring close
+2026-04-14 02:28:49 | INFO     | ============================================================
+2026-04-14 02:28:49 | INFO     | News Scraper Daemon Starting
+2026-04-14 02:28:49 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2026-04-14 02:28:49 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2026-04-14 02:28:49 | INFO     | Sync interval: 10 minutes
+2026-04-14 02:28:49 | INFO     | PR interval: 60 minutes
+2026-04-14 02:28:49 | INFO     | ============================================================
+2026-04-14 02:28:50 | INFO     | gh CLI authenticated
+2026-04-14 02:28:50 | INFO     | Setting up git remotes...
+2026-04-14 02:28:50 | INFO     | Configured origin remote
+2026-04-14 02:28:51 | INFO     | gh CLI authenticated
+2026-04-14 02:28:51 | INFO     | ----------------------------------------
+2026-04-14 02:28:51 | INFO     | Running periodic health check...
+2026-04-14 02:28:53 | INFO     | gh CLI authenticated
+2026-04-14 02:28:53 | INFO     | Health check passed
+2026-04-14 02:28:53 | INFO     | ----------------------------------------
+2026-04-14 02:28:53 | INFO     | Starting sync cycle...
+2026-04-14 02:28:53 | INFO     | Syncing with upstream...
+2026-04-14 02:28:56 | INFO     | Already up to date with upstream
+2026-04-14 02:28:56 | INFO     | Running scraper...
+2026-04-14 02:28:57 | INFO     | Found 74 new URLs to scrape
+2026-04-14 02:31:42 | INFO     | Daemon stopped by user
+2026-04-14 02:31:42 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 537, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338819/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-10%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E4%BB%A3%E8%A1%A8%E9%A6%96%E4%BD%9C%E8%AD%89", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 714, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress, update_markdown)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 602, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 551, in scrape_url_async
+    return await scrape_url_async(url_info, context, config, retries + 1, browser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 569, in scrape_url_async
+    await page.close()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 9794, in close
+    await self._impl_obj.close(runBeforeUnload=run_before_unload, reason=reason)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 833, in close
+    await self._channel.send("close", None, locals_to_params(locals()))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-04-14 02:31:42 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 537, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338819/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-10%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E4%BB%A3%E8%A1%A8%E9%A6%96%E4%BD%9C%E8%AD%89", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 714, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress, update_markdown)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 602, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 551, in scrape_url_async
+    return await scrape_url_async(url_info, context, config, retries + 1, browser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 569, in scrape_url_async
+    await page.close()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 9794, in close
+    await self._impl_obj.close(runBeforeUnload=run_before_unload, reason=reason)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 833, in close
+    await self._channel.send("close", None, locals_to_params(locals()))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-04-14 02:31:42 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 537, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338819/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-10%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E4%BB%A3%E8%A1%A8%E9%A6%96%E4%BD%9C%E8%AD%89", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 714, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress, update_markdown)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 602, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 551, in scrape_url_async
+    return await scrape_url_async(url_info, context, config, retries + 1, browser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 569, in scrape_url_async
+    await page.close()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 9794, in close
+    await self._impl_obj.close(runBeforeUnload=run_before_unload, reason=reason)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 833, in close
+    await self._channel.send("close", None, locals_to_params(locals()))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-04-14 02:31:42 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 537, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338819/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-10%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E4%BB%A3%E8%A1%A8%E9%A6%96%E4%BD%9C%E8%AD%89", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 714, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress, update_markdown)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 602, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 551, in scrape_url_async
+    return await scrape_url_async(url_info, context, config, retries + 1, browser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 569, in scrape_url_async
+    await page.close()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 9794, in close
+    await self._impl_obj.close(runBeforeUnload=run_before_unload, reason=reason)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 833, in close
+    await self._channel.send("close", None, locals_to_params(locals()))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-04-14 02:31:42 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 537, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338819/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-10%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E4%BB%A3%E8%A1%A8%E9%A6%96%E4%BD%9C%E8%AD%89", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 714, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress, update_markdown)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 602, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 551, in scrape_url_async
+    return await scrape_url_async(url_info, context, config, retries + 1, browser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 569, in scrape_url_async
+    await page.close()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 9794, in close
+    await self._impl_obj.close(runBeforeUnload=run_before_unload, reason=reason)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 833, in close
+    await self._channel.send("close", None, locals_to_params(locals()))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-04-14 02:31:42 | ERROR    | Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 537, in scrape_url_async
+    await page.goto(url, timeout=timeout, wait_until=strategy["wait_until"])
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 8992, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 555, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60338819/%E5%AE%8F%E7%A6%8F%E8%8B%91%E8%81%BD%E8%AD%89%E6%9C%83%E6%96%87%E5%AD%97%E7%9B%B4%E6%92%AD-4-10%E6%9C%80%E6%96%B0%E9%87%8D%E9%BB%9E-%E6%B6%88%E9%98%B2%E8%99%95%E4%BB%A3%E8%A1%A8%E9%A6%96%E4%BD%9C%E8%AD%89", waiting until "domcontentloaded"
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 714, in bounded_scrape
+    await scrape_domain_queue(domain, urls, browser, config, registry, results, progress, update_markdown)
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 602, in scrape_domain_queue
+    html, success = await scrape_url_async(url_info, context, config, browser=browser)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 551, in scrape_url_async
+    return await scrape_url_async(url_info, context, config, retries + 1, browser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py", line 569, in scrape_url_async
+    await page.close()
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\async_api\_generated.py", line 9794, in close
+    await self._impl_obj.close(runBeforeUnload=run_before_unload, reason=reason)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_page.py", line 833, in close
+    await self._channel.send("close", None, locals_to_params(locals()))
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 432, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py", line 521, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 120, in _inner_send
+    callback = self._connection._send_message_to_server(
+        self._object, method, _augment_params(params, timeout_calculator)
+    )
+  File "C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\site-packages\playwright\_impl\_connection.py", line 358, in _send_message_to_server
+    raise self._closed_error
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed

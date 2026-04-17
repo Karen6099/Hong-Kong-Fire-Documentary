@@ -22,13 +22,13 @@ import sys
 
 def scrape():
 
-    driver = uc.Chrome(headless=False,use_subprocess=False)
+    driver = uc.Chrome(headless=False,use_subprocess=False,browser_executable_path="C:\\Users\\user\\chrome-win64\\chrome.exe")
     actions = ActionChains(driver)
     
     topic_url = "https://www.inmediahk.net/taxonomy/term/541575/530434"
     driver.get(topic_url)
     print(f"Visiting topic page: {topic_url}")
-    time.sleep(10)
+    time.sleep(30)
     links = driver.find_elements(By.XPATH, "/html/body/div[4]/section/section/div[2]/div[2]/section/div")
     count = len(links)
     results = []
